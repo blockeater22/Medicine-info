@@ -1,0 +1,80 @@
+{
+  "slug": "levonorgestrel-and-ethinyl-estradiol",
+  "genericName": "Levonorgestrel and ethinyl estradiol",
+  "brandNames": [
+    "Iclevia"
+  ],
+  "composition": "levonorgestrel and ethinyl estradiol — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE Iclevia TM (levonorgestrel and ethinyl estradiol tablets) is indicated for use by females of reproductive potential to prevent pregnancy.",
+    "Medical teams consider this option for patients needing support with iclevia is a combination of levonorgestrel, a progestin, and ethinyl estradiol, an estrogen..."
+  ],
+  "howItWorks": "Levonorgestrel And Ethinyl Estradiol belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration take one tablet daily by mouth at the same time every day for 91 days. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an efficacy is expected to be the same for postpubertal adolescents under the age of 18 as for users 18 years and older. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes the clinical trial that evaluated the safety and efficacy of levonorgestrel and ethinyl estradiol tablets was a 12-month, randomized, multicenter...",
+    "Monitoring is advised because leading to Study Discontinuation : 14.9% of the women discontinued from the clinical trial due to an adverse reaction may occur.",
+    "Some patients report the most common adverse reactions (≥ 1% of women) leading to discontinuation in the levonorgestrel and ethinyl estradiol tablets group were menorrhagia (5.7%.. while taking this medicine.",
+    "Monitoring is advised because common Adverse Reactions (≥ 2% of women) : headache (20.6%), menorrhagia (11.6%), nausea (7.5%), dysmenorrhea (5.7%), acne (4.6%), migraine (4.4%).. may occur.",
+    "A possible treatment-related effect includes serious Adverse Reactions: pulmonary embolus, cholecystitis.",
+    "Some patients report three studies compared breast cancer risk between current or recent COC users (<6 months since last use) and never users of COCs (Figure 2) while taking this medicine.",
+    "A possible treatment-related effect includes one of these studies reported no association between breast cancer risk and COC use.",
+    "Monitoring is advised because the other two studies found an increased relative risk of 1.19 to 1.33 with current or recent use may occur."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when serious Adverse Reactions: pulmonary embolus, cholecystitis."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary There is no use for contraception in pregnancy.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS The sections below provide information on substances for which data on drug interactions with COCs are available.",
+      "Extra caution is needed because there is little information available about the clinical effect of most drug interactions that may affect COCs.",
+      "Patients should discuss safety when however, based on the known pharmacokinetic effects of these drugs...",
+      "Patients should discuss safety when consult the approved product labeling of all concurrently used drugs to obtain further information about interactions with COCs or the potential for metaboli...",
+      "Extra caution is needed because no drug-drug interaction studies were conducted with levonorgestrel and ethinyl estradiol tablets.",
+      "Extra caution is needed because enzyme inducers (e.g.CYP3A4): May decrease the effectiveness of Iclevia or increase breakthrough bleeding."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Levonorgestrel and ethinyl estradiol information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Levonorgestrel and ethinyl estradiol on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-07-02T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22levonorgestrel%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:57.160Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=levonorgestrel%20and%20ethinyl%20estradiol",
+      "accessedAt": "2026-07-12T06:31:57.160Z"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "digoxin",
+  "genericName": "Digoxin",
+  "brandNames": [
+    "Digoxin"
+  ],
+  "composition": "DIGOXIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Cardiac Glycoside [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing digoxin increases left ventricular ejection fraction and improves heart failure symptoms as evidenced by improved exercise capacity and decreased heart failu..."
+  ],
+  "howItWorks": "Digoxin belongs to the cardiac glycoside [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage & administration digoxin dose is based on patient-specific factors (age, lean body weight, renal function, etc. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes 6 ADVERSE REACTIONS The following adverse reactions are included in more detail in the Warnings and Precautions section of the label: Cardiac arrhythmias [se...",
+    "A possible treatment-related effect includes in general, the adverse reactions of digoxin are dose-dependent and occur at doses higher than those needed to achieve a therapeutic effect.",
+    "A possible treatment-related effect includes hence, adverse reactions are less common when digoxin is used within the recommended dose range...",
+    "A possible treatment-related effect includes in the DIG trial (a trial investigating the effect of digoxin on mortality and morbidity in patients with heart failure)...",
+    "Monitoring is advised because the overall incidence of adverse reactions with digoxin has been reported as 5-20%, with 15-20% of adverse events considered serious may occur.",
+    "Some patients report cardiac toxicity accounts for about one-half, gastrointestinal disturbances for about one-fourth.. while taking this medicine.",
+    "Some patients report gastrointestinal: In addition to nausea and vomiting, the use of digoxin has been associated with abdominal pain, intestinal ischemia.. while taking this medicine.",
+    "Monitoring is advised because cNS: Digoxin can cause headache, weakness, dizziness, apathy, confusion, and mental disturbances (such as anxiety, depression, delirium, and hallucination) may occur."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 6 ADVERSE REACTIONS The following adverse reactions are included in more detail in the Warnings and Precautions section of the label: Cardiac arrhythmias [se...",
+    "Healthcare providers evaluate risk when in the DIG trial (a trial investigating the effect of digoxin on mortality and morbidity in patients with heart failure)...",
+    "Patients should discuss safety when the overall incidence of adverse reactions with digoxin has been reported as 5-20%, with 15-20% of adverse events considered serious."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Digoxin has a narrow therapeutic index...",
+      "Extra caution is needed because prescribers should consult the prescribing information of any drug which is co-prescribed with digoxin for potential drug interaction information.",
+      "Extra caution is needed because pGP Inducers/Inhibitors: Drugs that induce or inhibit PGP have the potential to alter digoxin pharmacokinetics.",
+      "Patients should discuss safety when full prescribing information.",
+      "Healthcare providers evaluate risk when therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter digoxin pharmacokinetics.",
+      "Healthcare providers evaluate risk when reduce digoxin concentrations by decreasing dose by approximately 30-50% or by modifying the dosing frequency and continue monitoring."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Digoxin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Digoxin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-09-04T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22digoxin%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:08.370Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=digoxin",
+      "accessedAt": "2026-07-12T06:32:08.370Z"
+    }
+  ]
+}

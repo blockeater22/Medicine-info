@@ -1,0 +1,78 @@
+{
+  "slug": "nitroglycerin",
+  "genericName": "Nitroglycerin",
+  "brandNames": [
+    "NITROGLYCERIN"
+  ],
+  "composition": "NITROGLYCERIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Nitrate Vasodilator [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE Nitroglycerin sublingual tablets are indicated for the acute relief of an attack or acute prophylaxis of angina pectoris due to coron...",
+    "Medical teams consider this option for patients needing support with nitroglycerin sublingual tablets are a nitrate vasodilator indicated for relief of an attack or prophylaxis of angina pectoris due to coronary artery disease."
+  ],
+  "howItWorks": "Nitroglycerin belongs to the nitrate vasodilator [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an allow tablet to dissolve without swallowing. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use the safety and effectiveness of nitroglycerin in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report marked sensitivity to the hypotensive effects of nitrates (manifested by nausea, vomiting, weakness, diaphoresis, pallor.. while taking this medicine.",
+    "Monitoring is advised because syncope due to nitrate vasodilatation has been reported may occur.",
+    "Monitoring is advised because flushing, drug rash, and exfoliative dermatitis have been reported in patients receiving nitrate therapy may occur.",
+    "Monitoring is advised because most common adverse reactions occurring at a frequency greater than 2% are headache, dizziness and paresthesia may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS • Tolerance: Excessive use may lead to tolerance.",
+    "Patients should discuss safety when only the smallest dose required for effective relief of the acute angina attack should be used.",
+    "Healthcare providers evaluate risk when a decrease in therapeutic effect of sublingual nitroglycerin may result from use of long-acting nitrates."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Limited published data on the use of nitroglycerin are insufficient to determine a drug associated risk of major birth defects or ...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Ergotamine: increased bioavailability of ergotamine.",
+      "Extra caution is needed because avoid concomitant use.",
+      "Extra caution is needed because pDE-5-Inhibitors such as avanafil, sildenafil, vardenafil, and tadalafil have been shown to potentiate the hypotensive effects of organic nitrates.",
+      "Healthcare providers evaluate risk when nitroglycerin sublingual tablets are contraindicated in patients who are taking soluble guanylate cyclase (sGC) stimulators.",
+      "Extra caution is needed because concomitant use can cause hypotension.",
+      "Extra caution is needed because the time course and dose dependence of these interactions have not been studied, and use within a few days of one another is not recommended."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Nitroglycerin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Nitroglycerin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-10-15T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22nitroglycerin%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:08.018Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=nitroglycerin",
+      "accessedAt": "2026-07-12T06:32:08.018Z"
+    }
+  ]
+}

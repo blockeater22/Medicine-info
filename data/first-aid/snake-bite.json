@@ -1,0 +1,72 @@
+{
+  "slug": "snake-bite",
+  "name": "Snake Bite First Aid",
+  "overview": "Snake Bite Emergency Care is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include immediate action can prevent complications; call emergency services for severe presentations. This summary is educational and should be paired with professional medical evaluation.",
+  "steps": [
+    {
+      "title": "Move to safety",
+      "description": "Keep victim calm and still to slow venom spread."
+    },
+    {
+      "title": "Immobilize limb",
+      "description": "Keep bitten area at or below heart level with splint if possible."
+    },
+    {
+      "title": "Call emergency services",
+      "description": "Transport to hospital with antivenom capability immediately."
+    },
+    {
+      "title": "Monitor vital signs",
+      "description": "Watch for swelling, breathing difficulty, or altered consciousness."
+    }
+  ],
+  "dos": [
+    "Remove tight clothing/jewelry",
+    "Note snake appearance if safe",
+    "Seek hospital care urgently"
+  ],
+  "donts": [
+    "Do not cut wound or suck venom",
+    "Do not apply tourniquet routinely",
+    "Do not use unproven herbal remedies"
+  ],
+  "emergencyNumbers": [
+    {
+      "label": "National Emergency",
+      "number": "112"
+    },
+    {
+      "label": "Ambulance",
+      "number": "102"
+    },
+    {
+      "label": "Police",
+      "number": "100"
+    },
+    {
+      "label": "Fire",
+      "number": "101"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this snake-bite information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    }
+  ],
+  "severity": "severe",
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T06:22:43.681Z",
+  "sources": [
+    {
+      "name": "WHO Emergency Care Guidance",
+      "url": "https://www.who.int/",
+      "accessedAt": "2026-07-12T06:22:43.681Z"
+    },
+    {
+      "name": "CDC Injury Prevention",
+      "url": "https://www.cdc.gov/",
+      "accessedAt": "2026-07-12T06:22:43.681Z"
+    }
+  ]
+}

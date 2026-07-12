@@ -1,0 +1,89 @@
+{
+  "slug": "valproic-acid",
+  "genericName": "Valproic acid",
+  "brandNames": [
+    "Valproic Acid"
+  ],
+  "composition": "VALPROIC ACID — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Anti-epileptic Agent [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Valproic acid oral solution is indicated for: Monotherapy and adjunctive therapy of complex partial seizures.",
+    "This agent is commonly used in care plans involving sole and adjunctive therapy of simple and complex absence seizures.",
+    "Medical teams consider this option for patients needing support with adjunctive therapy in patients with multiple seizure types that include absence seizures ( 1 ) 1.1 Epilepsy Valproic acid oral solution is indicated as monot...",
+    "Clinicians may prescribe this medicine when managing valproic acid oral solution is indicated for use as sole and adjunctive therapy in the treatment of simple and complex absence seizures...",
+    "Clinicians may prescribe this medicine when managing simple absence is defined as very brief clouding of the sensorium or loss of consciousness accompanied by certain generalized epileptic discharges without ot...",
+    "Medical teams consider this option for patients needing support with complex absence is the term used when other signs are also present."
+  ],
+  "howItWorks": "Valproic Acid belongs to the anti-epileptic agent [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration valproic acid oral solution is intended for oral administration. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an when valproic acid is used in this patient group, it should be used with extreme caution and as a sole agent. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an in a case review study of 583 patients, 72 patients (12%) were greater than 65 years of age. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report to report SUSPECTED ADVERSE REACTIONS, contact NorthStar Rx LLC at 1-800-206-7821 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch while taking this medicine.",
+    "A possible treatment-related effect includes based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures...",
+    "A possible treatment-related effect includes intolerance was the primary reason for discontinuation in the divalproex sodium-treated patients (6%), compared to 1% of placebo-treated patients.",
+    "Monitoring is advised because table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5% of divalproex sodium-treated patients and for which the incidence was greater .. may occur.",
+    "Monitoring is advised because since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases.. may occur.",
+    "Some patients report since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases.. while taking this medicine.",
+    "Some patients report the following additional adverse reactions were reported by greater than 1% but less than 5% of the 358 patients treated with divalproex sodium in the contro.. while taking this medicine.",
+    "A possible treatment-related effect includes cardiovascular System : Tachycardia, hypertension, palpitation."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because 5 WARNINGS AND PRECAUTIONS Hepatotoxicity.",
+    "Extra caution is needed because evaluate high risk populations and monitor serum liver tests ( 5.1) Birth defects, decreased IQ, and neurodevelopmental disorders following in utero exposure.",
+    "Extra caution is needed because should not be used to treat women with epilepsy or bipolar disorder who are pregnant or who plan to become pregnant or to treat a woman of childbearing poten..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AE...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Hepatic enzyme-inducing drugs (e.g., phenytoin, carbamazepine, phenobarbital, primidone, rifampin) can increase valproate clearance...",
+      "Patients should discuss safety when for example, phenytoin, carbamazepine, and phenobarbital (or primidone) can double the clearance of valproate.",
+      "Extra caution is needed because thus, patients on monotherapy will generally have longer half-lives and higher concentrations than patients receiving polytherapy with antiepilepsy drugs.",
+      "Patients should discuss safety when in contrast, drugs that are inhibitors of cytochrome P450 isozymes, e.g., antidepressants...",
+      "Extra caution is needed because because of these changes in valproate clearance...",
+      "Patients should discuss safety when the following list provides information about the potential for an influence of several commonly prescribed medications on valproate pharmacokinetics."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Valproic acid information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Valproic acid on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "uti"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-05-27T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22valproic%20acid%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:00.099Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=valproic%20acid",
+      "accessedAt": "2026-07-12T06:32:00.099Z"
+    }
+  ]
+}

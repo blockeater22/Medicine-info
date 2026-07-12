@@ -1,0 +1,37 @@
+{
+  "slug": "pregnancy-due-date",
+  "name": "Pregnancy Due Date Calculator",
+  "description": "Estimate delivery date from last menstrual period using Naegele's rule.",
+  "category": "Pregnancy",
+  "formulaReference": "EDD = LMP + 280 days",
+  "inputs": [
+    {
+      "id": "lmp",
+      "label": "Last Menstrual Period",
+      "type": "date",
+      "required": true
+    }
+  ],
+  "interpretationNotes": [
+    "Ultrasound dating may adjust estimated due date."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this pregnancy due date information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    }
+  ],
+  "lastUpdated": "2026-07-12T06:22:44.258Z",
+  "sources": [
+    {
+      "name": "WHO BMI Classification",
+      "url": "https://www.who.int/",
+      "accessedAt": "2026-07-12T06:22:44.258Z"
+    },
+    {
+      "name": "CDC Clinical Calculators",
+      "url": "https://www.cdc.gov/",
+      "accessedAt": "2026-07-12T06:22:44.258Z"
+    }
+  ]
+}

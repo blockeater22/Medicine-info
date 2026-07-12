@@ -1,0 +1,84 @@
+{
+  "slug": "glimepiride",
+  "genericName": "Glimepiride",
+  "brandNames": [
+    "Glimepiride"
+  ],
+  "composition": "GLIMEPIRIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Sulfonylurea [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Glimepiride tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes melli...",
+    "Medical teams consider this option for patients needing support with limitations of Use Glimepiride tablets should not be used for the treatment of type 1 diabetes mellitus or diabetic ketoacidosis...",
+    "Medical teams consider this option for patients needing support with glimepiride tablets are a sulfonylurea indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus ( 1 ).",
+    "Medical teams consider this option for patients needing support with limitations of Use: Not for treating type 1 diabetes mellitus or diabetic ketoacidosis ( 1 )."
+  ],
+  "howItWorks": "Glimepiride belongs to the sulfonylurea [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration recommended starting dose is 1 or 2 mg once daily. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an the mean (± sd) auc (0-last) (339±203 ng•hr/ml), c max (102±48 ng/ml) and t 1/2 (3. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use in clinical trials of glimepiride, 1053 of 3491 patients (30%) were >65 years of age. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because 6 ADVERSE REACTIONS The following serious adverse reactions are discussed in more detail below and elsewhere in the labeling: Hypoglycemia [see Warnings and .. may occur.",
+    "Some patients report common adverse reactions in clinical trials (≥5% and more common than with placebo) include hypoglycemia, headache, nausea, and dizziness ( 6.1 ) while taking this medicine.",
+    "A possible treatment-related effect includes to report SUSPECTED ADVERSE REACTIONS, contact Dr.",
+    "Monitoring is advised because reddy’s Laboratories, Inc may occur.",
+    "A possible treatment-related effect includes approximately 2,800 patients with type 2 diabetes have been treated with glimepiride in the controlled clinical trials.",
+    "Monitoring is advised because in these trials, approximately 1,700 patients were treated with glimepiride for at least 1 year may occur.",
+    "Some patients report table 1 summarizes adverse events, other than hypoglycemia, that were reported in 11 pooled placebo-controlled trials.. while taking this medicine.",
+    "Some patients report treatment duration ranged from 13 weeks to 12 months while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 6 ADVERSE REACTIONS The following serious adverse reactions are discussed in more detail below and elsewhere in the labeling: Hypoglycemia [see Warnings and ..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Available data from a small number of published studies and postmarketing experience with glimepiride use in pregnancy over decade...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Certain medications may affect glucose metabolism...",
+      "Extra caution is needed because miconazole: Severe hypoglycemia can occur when glimepiride and oral miconazole are used concomitantly.",
+      "Healthcare providers evaluate risk when cytochrome P450 2C9 interactions: Inhibitors and inducers of cytochrome P450 2C9 may affect glycemic control by altering glimepiride plasma concentrations ( ...",
+      "Patients should discuss safety when colesevelam: Coadministration may reduce glimepiride absorption.",
+      "Extra caution is needed because glimepiride should be administered at least 4 hours prior to colesevelam ( 2.1 , 7.4 ).",
+      "Healthcare providers evaluate risk when when these medications are administered to a patient receiving glimepiride, monitor the patient closely for hypoglycemia."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Glimepiride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Glimepiride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "diabetes"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-11-13T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22glimepiride%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:33.644Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=glimepiride",
+      "accessedAt": "2026-07-12T06:31:33.644Z"
+    }
+  ]
+}

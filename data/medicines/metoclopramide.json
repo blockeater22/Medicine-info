@@ -1,0 +1,89 @@
+{
+  "slug": "metoclopramide",
+  "genericName": "Metoclopramide",
+  "brandNames": [
+    "Metoclopramide"
+  ],
+  "composition": "METOCLOPRAMIDE HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing the use of Metoclopramide Oral Solution is recommended for adults only.",
+    "Medical teams consider this option for patients needing support with therapy should not exceed 12 weeks in duration.",
+    "This agent is commonly used in care plans involving symptomatic Gastroesophageal Reflux Metoclopramide Oral Solution is indicated as short-term (4 to 12 weeks) therapy for adults with symptomatic...",
+    "Clinicians may prescribe this medicine when managing the principal effect of metoclopramide is on symptoms of post-prandial and daytime heartburn with less observed effect on nocturnal symptoms.",
+    "Medical teams consider this option for patients needing support with if symptoms are confined to particular situations, such as following the evening meal...",
+    "Medical teams consider this option for patients needing support with healing of esophageal ulcers and erosions has been endoscopically demonstrated at the end of 12-week trial using doses of 15 mg 4 times daily."
+  ],
+  "howItWorks": "Metoclopramide belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration therapy with metoclopramide oral solution should not exceed 12 weeks in duration. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness in pediatric patients have not been established (see overdosage ). Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an the risk of developing parkinsonian-like side effects increases with ascending dose. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because in general, the incidence of adverse reactions correlates with the dose and duration of metoclopramide administration may occur.",
+    "Some patients report the following reactions have been reported, although in most instances, data do not permit an estimate of frequency: CNS Effects Restlessness, drowsiness.. while taking this medicine.",
+    "Some patients report insomnia, headache, confusion, dizziness or mental depression with suicidal ideation (see WARNINGS ) occur less frequently while taking this medicine.",
+    "Monitoring is advised because the incidence of drowsiness is greater at higher doses may occur.",
+    "Monitoring is advised because there are isolated reports of convulsive seizures without clearcut relationship to metoclopramide may occur.",
+    "Some patients report rarely, hallucinations have been reported while taking this medicine.",
+    "Some patients report extrapyramidal Reactions (EPS) Acute dystonic reactions, the most common type of EPS associated with metoclopramide.. while taking this medicine.",
+    "Monitoring is advised because symptoms include involuntary movements of limbs, facial grimacing, torticollis, oculogyric crisis, rhythmic protrusion of tongue, bulbar type of speech.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because mental depression has occurred in patients with and without prior history of depression.",
+    "Healthcare providers evaluate risk when symptoms have ranged from mild to severe and have included suicidal ideation and suicide.",
+    "Healthcare providers evaluate risk when metoclopramide should be given to patients with a prior history of depression only if the expected benefits outweigh the potential risks."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers Metoclopramide is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when drug Interactions The effects of metoclopramide on gastrointestinal motility are antagonized by anticholinergic drugs and narcotic analgesics.",
+      "Extra caution is needed because additive sedative effects can occur when metoclopramide is given with alcohol, sedatives, hypnotics, narcotics, or tranquilizers.",
+      "Extra caution is needed because the finding that metoclopramide releases catecholamines in patients with essential hypertension suggests that it should be used cautiously, if at all...",
+      "Extra caution is needed because absorption of drugs from the stomach may be diminished (e.g.",
+      "Patients should discuss safety when gastroparesis (gastric stasis) may be responsible for poor diabetic control in some patients.",
+      "Patients should discuss safety when exogenously administered insulin may begin to act before food has left the stomach and lead to hypoglycemia."
+    ]
+  },
+  "storage": "In routine practice, rECOMMENDED STORAGE Store at controlled room temperature, between 20°C and 25°C (68° to 77°F) (see USP).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Metoclopramide information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Metoclopramide on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "uti"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-04-11T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22metoclopramide%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:53.570Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=metoclopramide",
+      "accessedAt": "2026-07-12T06:31:53.570Z"
+    }
+  ]
+}

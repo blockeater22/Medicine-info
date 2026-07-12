@@ -1,0 +1,58 @@
+{
+  "slug": "bmr",
+  "name": "BMR Calculator",
+  "description": "Estimate basal metabolic rate using the Mifflin-St Jeor equation.",
+  "category": "Body Metrics",
+  "formulaReference": "Mifflin-St Jeor BMR equation",
+  "inputs": [
+    {
+      "id": "weight",
+      "label": "Weight",
+      "type": "number",
+      "unit": "kg",
+      "required": true
+    },
+    {
+      "id": "height",
+      "label": "Height",
+      "type": "number",
+      "unit": "cm",
+      "required": true
+    },
+    {
+      "id": "age",
+      "label": "Age",
+      "type": "number",
+      "unit": "years",
+      "required": true
+    },
+    {
+      "id": "gender",
+      "label": "Gender",
+      "type": "select",
+      "required": true
+    }
+  ],
+  "interpretationNotes": [
+    "Multiply BMR by activity factor for daily calorie needs."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this BMR information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    }
+  ],
+  "lastUpdated": "2026-07-12T06:22:44.257Z",
+  "sources": [
+    {
+      "name": "WHO BMI Classification",
+      "url": "https://www.who.int/",
+      "accessedAt": "2026-07-12T06:22:44.257Z"
+    },
+    {
+      "name": "CDC Clinical Calculators",
+      "url": "https://www.cdc.gov/",
+      "accessedAt": "2026-07-12T06:22:44.257Z"
+    }
+  ]
+}

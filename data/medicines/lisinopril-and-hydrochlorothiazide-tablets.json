@@ -1,0 +1,90 @@
+{
+  "slug": "lisinopril-and-hydrochlorothiazide-tablets",
+  "genericName": "Lisinopril and hydrochlorothiazide tablets",
+  "brandNames": [
+    "Lisinopril and Hydrochlorothiazide"
+  ],
+  "composition": "HYDROCHLOROTHIAZIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Thiazide Diuretic [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with lisinopril and hydrochlorothiazide tablets are indicated for the treatment of hypertension, to lower blood pressure.",
+    "This agent is commonly used in care plans involving lowering blood pressure lowers the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions.",
+    "Medical teams consider this option for patients needing support with these benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including lisinopril and hydrochlor...",
+    "Medical teams consider this option for patients needing support with control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management...",
+    "Clinicians may prescribe this medicine when managing many patients will require more than 1 drug to achieve blood pressure goals.",
+    "Clinicians may prescribe this medicine when managing for specific advice on goals and management, see published guidelines..."
+  ],
+  "howItWorks": "Lisinopril And Hydrochlorothiazide Tablets belongs to the thiazide diuretic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 5 mg to 50 mg per day. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes lisinopril and hydrochlorothiazide tablets have been evaluated for safety in 930 patients, including 100 patients treated for 50 weeks or more.",
+    "Monitoring is advised because in clinical trials with lisinopril and hydrochlorothiazide tablets no adverse experiences peculiar to this combination drug have been observed may occur.",
+    "A possible treatment-related effect includes adverse experiences that have occurred have been limited to those that have been previously reported with lisinopril or hydrochlorothiazide.",
+    "A possible treatment-related effect includes the most frequent clinical adverse experiences in controlled trials (including open label extensions) with any combination of lisinopril and hydrochlorothiaz...",
+    "Monitoring is advised because generally, adverse experiences were mild and transient in nature may occur.",
+    "A possible treatment-related effect includes but see WARNINGS regarding angioedema and excessive hypotension or syncope.",
+    "Monitoring is advised because discontinuation of therapy due to adverse effects was required in 4.4% of patients, principally because of dizziness, cough, fatigue and muscle cramps may occur.",
+    "A possible treatment-related effect includes adverse experiences occurring in greater than one percent of patients treated with lisinopril plus hydrochlorothiazide in controlled clinical trials are show..."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because general Lisinopril Anaphylactoid and Possibly Related Reactions: Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosan...",
+    "Extra caution is needed because head and Neck Angioedema: Angioedema of the face, extremities, lips, tongue...",
+    "Extra caution is needed because this may occur at any time during treatment."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers It is not known whether lisinopril is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interactions Lisinopril Hypotension - Patients on Diuretic Therapy: Patients on diuretics...",
+      "Patients should discuss safety when the possibility of hypotensive effects with lisinopril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiatio...",
+      "Healthcare providers evaluate risk when these effects are usually reversible.",
+      "Extra caution is needed because monitor renal function periodically in patients receiving lisinopril and NSAID therapy.",
+      "Healthcare providers evaluate risk when the antihypertensive effect of ACE inhibitors, including lisinopril, may be attenuated by NSAIDs.",
+      "Patients should discuss safety when dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Lisinopril and hydrochlorothiazide tablets information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Lisinopril and hydrochlorothiazide tablets on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "diabetes",
+    "hypertension"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-06-02T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22hydrochlorothiazide%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:39.935Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=lisinopril%20and%20hydrochlorothiazide%20tablets",
+      "accessedAt": "2026-07-12T06:31:39.935Z"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "oseltamivir-phosphate",
+  "genericName": "Oseltamivir phosphate",
+  "brandNames": [
+    "Oseltamivir Phosphate"
+  ],
+  "composition": "OSELTAMIVIR PHOSPHATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with influenza viruses change over time.",
+    "This agent is commonly used in care plans involving emergence of resistance substitutions could decrease drug effectiveness.",
+    "This agent is commonly used in care plans involving other factors (for example, changes in viral virulence) might also diminish clinical benefit of antiviral drugs.",
+    "Medical teams consider this option for patients needing support with prescribers should consider available information on influenza drug susceptibility patterns and treatment effects when deciding whether to use oseltamivir ph...",
+    "Medical teams consider this option for patients needing support with oseltamivir phosphate for oral suspension is not recommended for patients with end-stage renal disease not undergoing dialysis [see Dosage and Administration..."
+  ],
+  "howItWorks": "Oseltamivir Phosphate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 ) pediatric patients 1 to 12 years of age: based on weight twice daily for 5 days ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 2) , clinical pharmacology (12. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes the most common adverse reactions in the pooled treatment and pooled prophylaxis trials in adults and adolescents are displayed in Table 5.",
+    "Monitoring is advised because the majority of these adverse reactions were reported on a single occasion.. may occur.",
+    "A possible treatment-related effect includes this summary includes otherwise healthy adults/adolescents and subjects \"at risk\" (subjects at higher risk of developing complications associated with influe...",
+    "Some patients report in general, the safety profile in the subjects \"at risk\" was qualitatively similar to that in otherwise healthy adults/adolescents while taking this medicine.",
+    "A possible treatment-related effect includes table 5 Adverse Reactions Occurring in ≥1% of Adults and Adolescents (13 years of age and older) in Treatment and Prophylaxis Trials Adverse reactions that o...",
+    "Some patients report a total of 859 pediatric subjects received treatment with oseltamivir phosphate for oral suspension either at a 2 mg per kg twice daily for 5 days or weight-.. while taking this medicine.",
+    "Some patients report vomiting was the only adverse reaction reported at a frequency of > 1% in subjects receiving oseltamivir phosphate (16%) compared to placebo (8%) while taking this medicine.",
+    "Some patients report the safety profile of oseltamivir phosphate was similar across the age range studied, with vomiting (9%).. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when monitor for signs of abnormal behavior.",
+    "Patients should discuss safety when stop oseltamivir phosphate for oral suspension and institute appropriate treatment if an allergic-like reaction occurs or is suspected.",
+    "Healthcare providers evaluate risk when because these events were reported voluntarily during clinical practice..."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary There are no adequate and well-controlled studies with oseltamivir phosphate for oral suspension in pregnant women to inform a dru...",
+    "breastfeeding": "Patients should discuss safety when 8.2 Lactation Risk Summary Based on limited published data...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when however, because of the potential for oseltamivir phosphate to inhibit replication of live vaccine virus and possibly reduce the efficacy of LAIV..."
+    ]
+  },
+  "storage": "In routine practice, store dry powder at 20º to 25ºC (68º to 77ºF).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Oseltamivir phosphate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Oseltamivir phosphate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "uti"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-05-15T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22oseltamivir%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:49.535Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=oseltamivir%20phosphate",
+      "accessedAt": "2026-07-12T06:31:49.535Z"
+    }
+  ]
+}

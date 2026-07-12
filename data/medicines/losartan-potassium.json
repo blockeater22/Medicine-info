@@ -1,0 +1,90 @@
+{
+  "slug": "losartan-potassium",
+  "genericName": "Losartan potassium",
+  "brandNames": [
+    "Losartan Potassium"
+  ],
+  "composition": "LOSARTAN POTASSIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Losartan potassium tablets are an angiotensin II receptor blocker (ARB) indicated for: • Treatment of hypertension...",
+    "This agent is commonly used in care plans involving lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.",
+    "This agent is commonly used in care plans involving lowering blood pressure lowers the risk of fatal and nonfatal cardiovascular (CV) events, primarily strokes and myocardial infarction.",
+    "This agent is commonly used in care plans involving these benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including losartan.",
+    "Medical teams consider this option for patients needing support with control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management...",
+    "Clinicians may prescribe this medicine when managing many patients will require more than 1 drug to achieve blood pressure goals."
+  ],
+  "howItWorks": "Losartan Potassium belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration hypertension • usual adult dose: 50 mg once daily. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 73 m 2 [see dosage and administration (2. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because hypertension Losartan potassium has been evaluated for safety in more than 3300 adult patients treated for essential hypertension and 4058 patients/subjects .. may occur.",
+    "A possible treatment-related effect includes over 1200 patients were treated for over 6 months and more than 800 for over one year.",
+    "Monitoring is advised because treatment with losartan potassium was well-tolerated with an overall incidence of adverse events similar to that of placebo may occur.",
+    "Monitoring is advised because in controlled clinical trials.. may occur.",
+    "A possible treatment-related effect includes in 4 clinical trials involving over 1000 patients on various doses (10 to 150 mg) of losartan potassium and over 300 patients given placebo...",
+    "Monitoring is advised because the following less common adverse reactions have been reported: Blood and lymphatic system disorders: Anemia may occur.",
+    "Monitoring is advised because psychiatric disorders: Depression may occur.",
+    "A possible treatment-related effect includes nervous system disorders: Somnolence, headache, sleep disorders, paresthesia, migraine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS • Hypotension: Correct volume or salt depletion prior to administration of losartan potassium.",
+    "Patients should discuss safety when use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal an...",
+    "Extra caution is needed because resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary Losartan potassium can cause fetal harm when administered to a pregnant woman.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when monitor serum potassium in such patients.",
+      "Healthcare providers evaluate risk when these effects are usually reversible.",
+      "Patients should discuss safety when monitor renal function periodically in patients receiving losartan and NSAID therapy.",
+      "Patients should discuss safety when the Veterans Affairs Nephropathy in Diabetes (VA NEPHRON-D) trial enrolled 1448 patients with type 2 diabetes, elevated urinary-albumin-to-creatinine ratio...",
+      "Healthcare providers evaluate risk when patients receiving the combination of losartan and lisinopril did not obtain any additional benefit compared to monotherapy for the combined endpoint of decl...",
+      "Extra caution is needed because in most patients no benefit has been associated with using two RAS inhibitors concomitantly."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Losartan potassium information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Losartan potassium on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "diabetes",
+    "hypertension"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-10-22T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22losartan%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:34.863Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=losartan%20potassium",
+      "accessedAt": "2026-07-12T06:31:34.863Z"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "adalimumab-aacf",
+  "genericName": "Adalimumab-aacf",
+  "brandNames": [
+    "IDACIO"
+  ],
+  "composition": "adalimumab-aacf — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with iDACIO can be used alone or in combination with methotrexate or other non-biologic disease-modifying anti-rheumatic drugs (DMARDs).",
+    "Clinicians may prescribe this medicine when managing iDACIO can be used alone or in combination with methotrexate."
+  ],
+  "howItWorks": "Adalimumab-Aacf belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 1 ): • adults: 40 mg every other week. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an no overall difference in effectiveness was observed between these patients and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because the most common adverse reaction with adalimumab was injection site reactions may occur.",
+    "Monitoring is advised because in placebo- controlled trials, 20% of patients treated with adalimumab developed injection site reactions (erythema and/or itching, hemorrhage.. may occur.",
+    "A possible treatment-related effect includes most injection site reactions were described as mild and generally did not necessitate drug discontinuation.",
+    "A possible treatment-related effect includes the proportion of patients who discontinued treatment due to adverse reactions during the double-blind...",
+    "Some patients report the most common adverse reactions leading to discontinuation of adalimumab in these RA studies were clinical flare reaction (0.7%).. while taking this medicine.",
+    "Some patients report infections In the controlled portions of the 39 global adalimumab clinical trials in adult patients with RA, PsA, AS, CD, UC, Ps, HS and UV.. while taking this medicine.",
+    "Some patients report serious infections observed included pneumonia, septic arthritis, prosthetic and post- surgical infections, erysipelas, cellulitis, diverticulitis.. while taking this medicine.",
+    "Monitoring is advised because tuberculosis and Opportunistic Infections In 52 global controlled and uncontrolled clinical trials in RA, PsA, AS, CD, UC, Ps, HS, and UV that included 24.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because infections In the controlled portions of the 39 global adalimumab clinical trials in adult patients with RA, PsA, AS, CD, UC, Ps, HS and UV...",
+    "Extra caution is needed because serious infections observed included pneumonia, septic arthritis, prosthetic and post- surgical infections, erysipelas, cellulitis, diverticulitis..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary Available studies with use of adalimumab during pregnancy do not reliably establish an association between adalimumab and major bi...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS • Abatacept: Increased risk of serious infection.",
+      "Healthcare providers evaluate risk when although MTX reduced the apparent adalimumab clearance...",
+      "Patients should discuss safety when therefore, use of IDACIO with abatacept or anakinra is not recommended in patients with RA [see Warnings and Precautions ( 5.7 , 5.11 )].",
+      "Patients should discuss safety when a higher rate of serious infections has also been observed in patients with RA treated with rituximab who received subsequent treatment with a TNF blocker.",
+      "Healthcare providers evaluate risk when there is insufficient information regarding the concomitant use of IDACIO and other biologic products for the treatment of RA, PsA, AS, CD, UC, Ps, HS and UV.",
+      "Patients should discuss safety when it is possible for products that antagonize cytokine activity, such as adalimumab products, to influence the formation of CYP450 enzymes."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Adalimumab-aacf information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Adalimumab-aacf on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-10-15T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22adalimumab%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:04.679Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=adalimumab-aacf",
+      "accessedAt": "2026-07-12T06:32:04.679Z"
+    }
+  ]
+}

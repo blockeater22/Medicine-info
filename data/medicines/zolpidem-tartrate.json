@@ -1,0 +1,86 @@
+{
+  "slug": "zolpidem-tartrate",
+  "genericName": "Zolpidem tartrate",
+  "brandNames": [
+    "Zolpidem"
+  ],
+  "composition": "ZOLPIDEM TARTRATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Zolpidem Tartrate Tablets is indicated for the short-term treatment of insomnia characterized by difficulties with sleep initiation.",
+    "This agent is commonly used in care plans involving zolpidem Tartrate Tablets has been shown to decrease sleep latency for up to 35 days in controlled clinical studies [see Clinical Studies ( 14 )].",
+    "Medical teams consider this option for patients needing support with the clinical trials performed in support of efficacy were 4–5 weeks in duration with the final formal assessments of sleep latency performed at the end of tr...",
+    "This agent is commonly used in care plans involving zolpidem Tartrate Tablets, a gamma-aminobutyric acid (GABA) A receptor positive modulator..."
+  ],
+  "howItWorks": "Zolpidem Tartrate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 1 ) treatment should be as short as possible ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use zolpidem tartrate tablets is not recommended for use in children. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use a total of 154 patients in u. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because reactions most commonly associated with discontinuation from U.S may occur.",
+    "A possible treatment-related effect includes approximately 4% of 1...",
+    "A possible treatment-related effect includes reactions most commonly associated with discontinuation from these trials were daytime drowsiness (1.1%), dizziness/vertigo (0.8%), amnesia (0.5%)...",
+    "A possible treatment-related effect includes data from a clinical study in which selective serotonin reuptake inhibitor (SSRI)-treated patients were given Zolpidem revealed that four of the seven discon...",
+    "Some patients report one patient treated with placebo (n=97) was discontinued after an attempted suicide while taking this medicine.",
+    "Monitoring is advised because during longer-term treatment (28 to 35 nights) with Zolpidem at doses up to 10 mg.. may occur.",
+    "Some patients report observed at an Incidence of ≥1% in Controlled Trials The following tables enumerate treatment-emergent adverse reactions frequencies that were observed at an.. while taking this medicine.",
+    "Some patients report events reported by investigators were classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms for the purpose of establ.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because 5 WARNINGS AND PRECAUTIONS CNS-Depressant Effects: Impairs alertness and motor coordination including risk of morning impairment.",
+    "Extra caution is needed because risk increases with dose and use with other CNS depressants and alcohol.",
+    "Healthcare providers evaluate risk when caution patients against driving and other activities requiring mental alertness the morning after use."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Neonates born to mothers using Zolpidem late in the third trimester of pregnancy have been reported to experience symptoms of resp...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS CNS depressants, including alcohol: Possible adverse additive CNS- depressant effects ( 5.1 ...",
+      "Patients should discuss safety when john's wort): Combination use may decrease effect ( 7.2 ) Ketoconazole: Combination use may increase effect ( 7.2 ) 7.1 CNS-Active Drugs CNS Depressants Coad...",
+      "Patients should discuss safety when concomitant use of Zolpidem with these drugs may increase drowsiness and psychomotor impairment...",
+      "Healthcare providers evaluate risk when zolpidem Tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.",
+      "Patients should discuss safety when alcohol An additive adverse effect on psychomotor performance between alcohol and oral Zolpidem was demonstrated [see Warnings and Precautions ( 5.1 ...",
+      "Patients should discuss safety when limit dosage and duration of concomitant use of Zolpidem Tartrate Tablets and opioids [ see Dosage and Administration ( 2.3 )..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Zolpidem tartrate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Zolpidem tartrate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-11-16T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22zolpidem%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:02.827Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=zolpidem%20tartrate",
+      "accessedAt": "2026-07-12T06:32:02.827Z"
+    }
+  ]
+}

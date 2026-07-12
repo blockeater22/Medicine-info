@@ -1,0 +1,79 @@
+{
+  "slug": "enoxaparin-sodium",
+  "genericName": "Enoxaparin sodium",
+  "brandNames": [
+    "Enoxaparin Sodium"
+  ],
+  "composition": "ENOXAPARIN SODIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving management of conditions associated with enoxaparin sodium."
+  ],
+  "howItWorks": "Enoxaparin Sodium belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration see full prescribing information for dosing and administration information. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness of enoxaparin sodium in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an the efficacy of enoxaparin sodium in the geriatric (≥65 years) was similar to that seen in younger patients (<65 years). Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report during clinical development for the approved indications, 15,918 patients were exposed to enoxaparin sodium while taking this medicine.",
+    "Some patients report enoxaparin sodium doses in the clinical trials for prophylaxis of deep vein thrombosis following abdominal or hip or knee replacement surgery or in medical p.. while taking this medicine.",
+    "A possible treatment-related effect includes in the clinical studies for prophylaxis of ischemic complications of unstable angina and non – Q-wave myocardial infarction doses were 1 mg/kg every 12 hours...",
+    "A possible treatment-related effect includes hemorrhage The following rates of major bleeding events have been reported during clinical trials with enoxaparin sodium (see Tables 2 to 7).",
+    "Monitoring is advised because retroperitoneal, intraocular, and intracranial hemorrhages were always considered major may occur.",
+    "Monitoring is advised because retroperitoneal and intracranial hemorrhages were always considered major may occur.",
+    "Some patients report injection site hematomas during the extended prophylaxis period after hip replacement surgery occurred in 9% of the enoxaparin sodium patients versus 1.8% of.. while taking this medicine.",
+    "A possible treatment-related effect includes retroperitoneal and intracranial hemorrhages were always considered major although none were reported during the trial."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because enoxaparin sodium doses in the clinical trials for prophylaxis of deep vein thrombosis following abdominal or hip or knee replacement surgery or in medical p..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary Placental transfer of enoxaparin was observed in the animal studies.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Whenever possible, agents which may enhance the risk of hemorrhage should be discontinued prior to initiation of enoxaparin sodium therapy.",
+      "Patients should discuss safety when these agents include medications such as: anticoagulants, platelet inhibitors including acetylsalicylic acid, salicylates...",
+      "Patients should discuss safety when if coadministration is essential, conduct close clinical and laboratory monitoring [see Warnings and Precautions (5.1) ].",
+      "Extra caution is needed because discontinue agents which may enhance hemorrhage risk prior to initiation of enoxaparin sodium or conduct close clinical and laboratory monitoring ( 2.6 , 7 )."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Enoxaparin sodium information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Enoxaparin sodium on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-06-21T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22enoxaparin%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:09.434Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=enoxaparin%20sodium",
+      "accessedAt": "2026-07-12T06:32:09.434Z"
+    }
+  ]
+}

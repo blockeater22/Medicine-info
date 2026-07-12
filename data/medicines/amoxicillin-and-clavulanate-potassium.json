@@ -1,0 +1,87 @@
+{
+  "slug": "amoxicillin-and-clavulanate-potassium",
+  "genericName": "Amoxicillin and clavulanate potassium",
+  "brandNames": [
+    "AMOXICILLIN AND CLAVULANATE POTASSIUM"
+  ],
+  "composition": "AMOXICILLIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE Amoxicillin and Clavulanate Potassium is indicated for the treatment of infections in adults and pediatric patients...",
+    "This agent is commonly used in care plans involving acute Bacterial Otitis Media - caused by beta‑lactamase–producing isolates of H.",
+    "Clinicians may prescribe this medicine when managing sinusitis - caused by beta‑lactamase–producing isolates of H.",
+    "Clinicians may prescribe this medicine when managing skin and Skin Structure Infections - caused by beta‑lactamase–producing isolates of Staphylococcus aureus , Escherichia coli , and Klebsiella species.",
+    "Clinicians may prescribe this medicine when managing urinary Tract Infections - caused by beta‑lactamase–producing isolates of E.",
+    "Clinicians may prescribe this medicine when managing usage To reduce the development of drug‑resistant bacteria and maintain the effectiveness of Amoxicillin and Clavulanate Potassium and other antibacterial dr..."
+  ],
+  "howItWorks": "Amoxicillin And Clavulanate Potassium belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an use of the 125 mg/5 ml oral suspension is recommended. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes the most frequently reported adverse reactions were diarrhea/loose stools (9%), nausea (3%), skin rashes and urticaria (3%), vomiting (1%) and vaginitis (1%).",
+    "A possible treatment-related effect includes less than 3% of patients discontinued therapy because of drug‑related adverse reactions.",
+    "Monitoring is advised because the overall incidence of adverse reactions, and in particular diarrhea, increased with the higher recommended dose may occur.",
+    "Monitoring is advised because other less frequently reported adverse reactions (less than 1%) include: Abdominal discomfort, flatulence, and headache may occur.",
+    "Monitoring is advised because in pediatric patients (aged 2 months to 12 years).. may occur.",
+    "Some patients report a total of 575 patients were enrolled, and only the suspension formulations were used in this trial while taking this medicine.",
+    "Monitoring is advised because overall, the adverse reactions seen were comparable to that noted above may occur.",
+    "Monitoring is advised because however, there were differences in the rates of diarrhea, skin rashes/urticaria, and diaper area rashes may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because these events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Teratogenic Effects : Pregnancy Category B.",
+    "breastfeeding": "Patients should discuss safety when 8.3 Nursing Mothers Amoxicillin has been shown to be excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because concurrent use with Amoxicillin and Clavulanate Potassium may result in increased and prolonged blood concentrations of amoxicillin.",
+      "Patients should discuss safety when co-administration of probenecid is not recommended.",
+      "Extra caution is needed because appropriate monitoring should be undertaken when anticoagulants are prescribed concurrently with Amoxicillin and Clavulanate Potassium.",
+      "Extra caution is needed because adjustments in the dose of oral anticoagulants may be necessary to maintain the desired level of anticoagulation.",
+      "Extra caution is needed because since this effect may also occur with Amoxicillin and Clavulanate Potassium...",
+      "Healthcare providers evaluate risk when following administration of amoxicillin to pregnant women, a transient decrease in plasma concentration of total conjugated estriol, estriol-glucuronide..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Amoxicillin and clavulanate potassium information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Amoxicillin and clavulanate potassium on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "uti"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-04-30T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22amoxicillin%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:31.923Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=amoxicillin%20and%20clavulanate%20potassium",
+      "accessedAt": "2026-07-12T06:31:31.923Z"
+    }
+  ]
+}

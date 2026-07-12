@@ -1,0 +1,50 @@
+{
+  "slug": "chest-pain",
+  "name": "Chest Pain",
+  "category": "Cardiovascular",
+  "description": "Chest Pain — possible causes, home remedies, and when to see a doctor.",
+  "seo": {
+    "title": "Chest Pain: Causes, Remedies, When to See Doctor | Doctors Hub",
+    "description": "Understand Chest Pain: common causes, emergency signs, home remedies, and when to consult a doctor.",
+    "keywords": [
+      "Chest Pain"
+    ]
+  },
+  "possibleCauses": [
+    "Infection",
+    "Chronic disease",
+    "Stress and lifestyle",
+    "Medication side effects",
+    "Injury or trauma"
+  ],
+  "emergencySymptoms": [
+    "Sudden severe onset",
+    "Associated chest pain or breathing difficulty",
+    "Loss of consciousness",
+    "High fever with confusion"
+  ],
+  "homeRemedies": [
+    "Adequate rest",
+    "Hydration",
+    "Over-the-counter remedies only if previously advised by doctor",
+    "Monitor and document symptoms"
+  ],
+  "whenToVisitDoctor": [
+    "Symptoms persist beyond 3-5 days",
+    "Worsening severity",
+    "New associated symptoms",
+    "High-risk individuals (elderly, pregnant, chronic illness)"
+  ],
+  "relatedDiseases": [
+    "heart-disease",
+    "asthma"
+  ],
+  "faqs": [
+    {
+      "question": "When should I worry about chest pain?",
+      "answer": "Seek immediate care for severe, sudden, or worsening symptoms."
+    }
+  ],
+  "popular": true,
+  "updatedAt": "2026-07-01"
+}

@@ -1,0 +1,101 @@
+diabetes
+hypertension
+asthma
+pneumonia
+tuberculosis
+malaria
+dengue
+typhoid
+hepatitis
+cirrhosis
+kidney disease
+urinary tract infection
+anemia
+thyroid disease
+hypothyroidism
+hyperthyroidism
+obesity
+heart disease
+coronary artery disease
+stroke
+epilepsy
+migraine
+depression
+anxiety
+arthritis
+osteoporosis
+gout
+psoriasis
+eczema
+allergies
+sinusitis
+bronchitis
+copd
+gerd
+gastritis
+peptic ulcer
+irritable bowel syndrome
+diarrhea
+constipation
+celiac disease
+pancreatitis
+gallstones
+fatty liver
+hiv
+hepatitis b
+hepatitis c
+influenza
+covid-19
+measles
+mumps
+chickenpox
+scabies
+ringworm
+vitamin d deficiency
+iron deficiency anemia
+pcos
+endometriosis
+fibroids
+prostate enlargement
+erectile dysfunction
+cataract
+glaucoma
+macular degeneration
+otitis media
+tonsillitis
+sinus infection
+sleep apnea
+insomnia
+adhd
+autism
+cystic fibrosis
+sickle cell disease
+thalassemia
+leukemia
+breast cancer
+lung cancer
+colorectal cancer
+cervical cancer
+prostate cancer
+melanoma
+lupus
+rheumatoid arthritis
+multiple sclerosis
+parkinson disease
+alzheimer disease
+neuropathy
+diabetic foot
+varicose veins
+deep vein thrombosis
+pulmonary embolism
+appendicitis
+hernia
+kidney stones
+uti
+meningitis
+sepsis
+shingles
+herpes
+warts
+acne
+alopecia

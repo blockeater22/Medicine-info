@@ -1,0 +1,81 @@
+{
+  "slug": "apixaban",
+  "genericName": "Apixaban",
+  "brandNames": [
+    "apixaban"
+  ],
+  "composition": "APIXABAN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Factor Xa Inhibitor [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving management of conditions associated with apixaban."
+  ],
+  "howItWorks": "Apixaban belongs to the factor xa inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 5 mg/dl, the recommended dose is 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes reduction of Risk of Stroke and Systemic Embolism in Patients with Nonvalvular Atrial Fibrillation The safety of apixaban tablets was evaluated in the ARISTO...",
+    "Some patients report the duration of apixaban tablets exposure was ≥12 months for 9375 patients and ≥24 months for 3369 patients in the two studies while taking this medicine.",
+    "Some patients report in ARISTOTLE, the mean duration of exposure was 89 weeks (>15,000 patient-years) while taking this medicine.",
+    "Some patients report in AVERROES, the mean duration of exposure was approximately 59 weeks (>3000 patient-years) while taking this medicine.",
+    "Some patients report the most common reason for treatment discontinuation in both studies was for bleeding-related adverse reactions while taking this medicine.",
+    "Some patients report in ARISTOTLE this occurred in 1.7% and 2.5% of patients treated with apixaban tablets and warfarin, respectively, and in AVERROES.. while taking this medicine.",
+    "Some patients report bleeding in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE and AVERROES Tables 1 and 2 show the number of patients experiencing major bleeding du.. while taking this medicine.",
+    "Monitoring is advised because any type of hemorrhagic stroke was adjudicated and counted as an intracranial major bleed may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when fatal bleeding is an adjudicated death with the primary cause of death as intracranial bleeding or non-intracranial bleeding during the on-treatment period."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary The limited available data on apixaban tablets use in pregnant women are insufficient to inform drug-associated risks of major bir...",
+    "breastfeeding": "Extra caution is needed because 8.3 Females and Males of Reproductive Potential Females of reproductive potential requiring anticoagulation should discuss pregnancy planning with their phys...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Apixaban is a substrate of both CYP3A4 and P-gp.",
+      "Healthcare providers evaluate risk when inhibitors of CYP3A4 and P-gp increase exposure to apixaban and increase the risk of bleeding.",
+      "Patients should discuss safety when inducers of CYP3A4 and P-gp decrease exposure to apixaban and increase the risk of stroke and other thromboembolic events.",
+      "Extra caution is needed because combined P-gp and strong CYP3A4 inhibitors increase blood levels of apixaban.",
+      "Patients should discuss safety when for patients receiving apixaban at a dose of 2.5 mg twice daily...",
+      "Patients should discuss safety when john’s wort) because such drugs will decrease exposure to apixaban [see Clinical Pharmacology ( 12.3 )]."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Apixaban information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Apixaban on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2021-06-15T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22apixaban%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:10.186Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=apixaban",
+      "accessedAt": "2026-07-12T06:32:10.186Z"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "sitagliptin-and-metformin-hydrochloride",
+  "genericName": "Sitagliptin and metformin hydrochloride",
+  "brandNames": [
+    "ZITUVIMET"
+  ],
+  "composition": "METFORMIN HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Dipeptidyl Peptidase 4 Inhibitor [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving limitations of Use ZITUVIMET is not recommended in patients with type 1 diabetes mellitus.",
+    "This agent is commonly used in care plans involving zITUVIMET has not been studied in patients with a history of pancreatitis.",
+    "Medical teams consider this option for patients needing support with it is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using ZITUVIMET."
+  ],
+  "howItWorks": "Sitagliptin And Metformin Hydrochloride belongs to the dipeptidyl peptidase 4 inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration take zituvimet orally twice daily with meals. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use the safety and effectiveness of zituvimet have not been established in pediatric patients. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an renal function should be assessed more frequently in elderly patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes table 1: Sitagliptin and Metformin Coadministered to Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Diet and Exercise: Adverse Reactions R...",
+    "A possible treatment-related effect includes number of Patients (%) Placebo Sitagliptin 100 mg once daily Metformin HCl 500 mg/ Metformin HCl 1...",
+    "A possible treatment-related effect includes discontinuation of therapy due to clinical adverse reactions was similar to the placebo treatment group (sitagliptin and metformin, 1.9%.",
+    "A possible treatment-related effect includes placebo and metformin, 2.5%).",
+    "Monitoring is advised because gastrointestinal Adverse Reactions The incidences of pre-selected gastrointestinal adverse experiences in patients treated with sitagliptin and metformin wer.. may occur.",
+    "Some patients report table 2 while taking this medicine.",
+    "Monitoring is advised because placebo, N=113).. may occur.",
+    "Some patients report sitagliptin in Combination with Metformin and Rosiglitazone In a placebo-controlled trial of sitagliptin 100 mg as add-on therapy in patients with type 2 dia.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS Lactic Acidosis: See boxed warning.",
+    "Healthcare providers evaluate risk when if pancreatitis is suspected, promptly discontinue ZITUVIMET.",
+    "Extra caution is needed because consider risks and benefits of ZITUVIMET in patients who have known risk factors for heart failure."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Available data with ZITUVIMET and sitagliptin use in pregnant women are not sufficient to inform a ZITUVIMET-associated or sitagli...",
+    "breastfeeding": "Patients should discuss safety when 8.2 Lactation Risk Summary There is no information regarding the presence of ZITUVIMET in human milk, the effects on the breastfed infant...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Table 4 presents clinically significant drug interactions with ZITUVIMET: Table 4: Clinically Significant Drug Interactions with ZITUVIME...",
+      "Extra caution is needed because concomitant use of these drugs with ZITUVIMET may increase the risk for lactic acidosis.",
+      "Patients should discuss safety when intervention: Consider more frequent monitoring of these patients.",
+      "Healthcare providers evaluate risk when examples: Topiramate, zonisamide, acetazolamide or dichlorphenamide.",
+      "Patients should discuss safety when intervention: Consider the benefits and risks of concomitant use with ZITUVIMET.",
+      "Patients should discuss safety when examples: Ranolazine, vandetanib, dolutegravir, and cimetidine."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Sitagliptin and metformin hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Sitagliptin and metformin hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "diabetes"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-06-09T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22sitagliptin%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:42.114Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=sitagliptin%20and%20metformin%20hydrochloride",
+      "accessedAt": "2026-07-12T06:31:42.114Z"
+    }
+  ]
+}

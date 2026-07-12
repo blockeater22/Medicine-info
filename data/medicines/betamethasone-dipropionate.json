@@ -1,0 +1,76 @@
+{
+  "slug": "betamethasone-dipropionate",
+  "genericName": "Betamethasone dipropionate",
+  "brandNames": [
+    "Betamethasone Dipropionate"
+  ],
+  "composition": "BETAMETHASONE DIPROPIONATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Betamethasone dipropionate cream (augmented) is a corticosteroid indicated for the relief of the inflammatory and pruritic manifestat...",
+    "Clinicians may prescribe this medicine when managing betamethasone dipropionate cream (augmented)..."
+  ],
+  "howItWorks": "Betamethasone Dipropionate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an therapy should be discontinued when control is achieved. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 05% was applied twice daily for 2 to 3 weeks over a mean body surface area of 58% (range 35% to 95%). Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an however, greater sensitivity of some older individuals cannot be ruled out. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes in controlled clinical trials, involving 242 adult subjects...",
+    "Some patients report it occurred in 1 subject while taking this medicine.",
+    "Some patients report in a controlled clinical trial involving 67 pediatric subjects from 3 months to 12 years of age.. while taking this medicine.",
+    "A possible treatment-related effect includes reported reactions included signs of skin atrophy (telangiectasia, bruising, shininess).",
+    "A possible treatment-related effect includes postmarketing reports for local adverse reactions to topical corticosteroids may also include: burning, itching, irritation, dryness, folliculitis...",
+    "Monitoring is advised because hypersensitivity reactions, consisting of predominantly skin signs and symptoms, e.g., contact dermatitis, pruritus, bullous dermatitis.. may occur.",
+    "A possible treatment-related effect includes ophthalmic adverse reactions of cataracts, glaucoma, increased intraocular pressure..."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS Effects on endocrine system: Betamethasone dipropionate cream (augmented) can cause reversible HPA axis suppression with the poten...",
+    "Extra caution is needed because risk factor(s) include the use of high-potency topical corticosteroids, use over a large surface area or to areas under occlusion, prolonged use...",
+    "Patients should discuss safety when modify use should HPA axis suppression develop."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary There are no available data on betamethasone dipropionate cream (augmented) use in pregnant women to identify a drug-associated ri...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "In routine practice, store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].",
+  "faqs": [
+    {
+      "question": "Can I rely on this Betamethasone dipropionate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Betamethasone dipropionate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-09-26T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22betamethasone%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:54.990Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=betamethasone%20dipropionate",
+      "accessedAt": "2026-07-12T06:31:54.990Z"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "atorvastatin-calcium",
+  "genericName": "Atorvastatin calcium",
+  "brandNames": [
+    "Atorvastatin calcium"
+  ],
+  "composition": "ATORVASTATIN CALCIUM TRIHYDRATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with adults and pediatric patients aged 10 years and older with heterozygous familial hypercholesterolemia (HeFH).",
+    "This agent is commonly used in care plans involving as an adjunct to other LDL-C-lowering therapies, or alone if such treatments are unavailable...",
+    "Clinicians may prescribe this medicine when managing mI and stroke in adults with type 2 diabetes mellitus with multiple risk factors for CHD but without clinically evident CHD.",
+    "Clinicians may prescribe this medicine when managing non-fatal MI, fatal and non-fatal stroke, revascularization procedures, hospitalization for congestive heart failure...",
+    "This agent is commonly used in care plans involving as an adjunct to diet to reduce low-density lipoprotein (LDL-C) in: Adults with primary hyperlipidemia.",
+    "This agent is commonly used in care plans involving as an adjunct to other LDL-C-lowering therapies to reduce LDL-C in adults and pediatric patients aged 10 years and older with homozygous familial hypercholes..."
+  ],
+  "howItWorks": "Atorvastatin Calcium belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration take orally once daily with or without food ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an no overall differences in safety or effectiveness were observed between these patients and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes in the atorvastatin calcium placebo-controlled clinical trial database of 16,066 patients (8755 atorvastatin calcium vs.",
+    "A possible treatment-related effect includes table 1 summarizes adverse reactions reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8755)...",
+    "Some patients report the incidence of these abnormalities was 0.2%, 0.2%, 0.6%, and 2.3% for 10, 20, 40, and 80 mg, respectively while taking this medicine.",
+    "Monitoring is advised because one patient in clinical trials developed jaundice may occur.",
+    "Some patients report increases in liver enzyme tests in other patients were not associated with jaundice or other clinical signs or symptoms while taking this medicine.",
+    "Some patients report upon dose reduction, drug interruption, or discontinuation, transaminase levels returned to or near pretreatment levels without sequelae while taking this medicine.",
+    "A possible treatment-related effect includes eighteen of 30 patients with persistent liver enzyme elevations continued treatment with a reduced dose of atorvastatin calcium.",
+    "A possible treatment-related effect includes treating to New Targets Study (TNT) In TNT, [see Clinical Studies (14.1)] 10,001 patients (age range 29 to 78 years, 19% women."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because in the high-dose atorvastatin calcium group..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Discontinue atorvastatin when pregnancy is recognized.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS See full prescribing information for details regarding concomitant use of atorvastatin calcium with other drugs or grapefruit juice that ...",
+      "Healthcare providers evaluate risk when rifampin: May reduce atorvastatin plasma concentrations.",
+      "Healthcare providers evaluate risk when administer simultaneously with atorvastatin calcium ( 7.2 ).",
+      "Patients should discuss safety when oral Contraceptives: May increase plasma levels of norethindrone and ethinyl estradiol.",
+      "Extra caution is needed because consider this effect when selecting an oral contraceptive (7.3 ).",
+      "Extra caution is needed because digoxin: May increase digoxin plasma levels."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Atorvastatin calcium information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Atorvastatin calcium on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "diabetes",
+    "heart-disease"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-08-28T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22atorvastatin%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:34.021Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=atorvastatin%20calcium",
+      "accessedAt": "2026-07-12T06:31:34.021Z"
+    }
+  ]
+}

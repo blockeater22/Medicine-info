@@ -1,0 +1,79 @@
+{
+  "slug": "potassium-chloride",
+  "genericName": "Potassium chloride",
+  "brandNames": [
+    "Potassium Chloride"
+  ],
+  "composition": "POTASSIUM CHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Potassium Chloride Extended-Release Tablets are indicated for the treatment and prophylaxis of hypokalemia with or without metabolic ...",
+    "This agent is commonly used in care plans involving potassium Chloride Extended-Release Tablets are a potassium salt..."
+  ],
+  "howItWorks": "Potassium Chloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration monitor serum potassium and adjust dosages accordingly (2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness in the pediatric population have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes 6 ADVERSE REACTIONS The most common adverse reactions are nausea, vomiting, flatulence, abdominal pain/discomfort and diarrhea.",
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine.",
+    "Some patients report the most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea while taking this medicine.",
+    "Some patients report there have been reports hyperkalemia and of upper and lower gastrointestinal condition including obstruction, bleeding, ulceration, perforation while taking this medicine.",
+    "Monitoring is advised because skin rash has been reported rarely may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS Gastrointestinal Irritation: Take with meals (5.1) 5.1 Gastrointestinal Adverse Reactions Solid oral dosage forms of potassium chl...",
+    "Healthcare providers evaluate risk when consider the use of liquid potassium in patients with dysphagia, swallowing disorders, or severe gastrointestinal motility disorders.",
+    "Patients should discuss safety when if severe vomiting, abdominal pain, distention, or gastrointestinal bleeding occurs..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary There are no human data related to use of potassium chloride extended-release tablets during pregnancy...",
+    "breastfeeding": "Extra caution is needed because 8.2 Lactation Risk Summary The normal potassium ion content of human milk is about 13 mEq per liter.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Triamterene and amiloride: Concomitant use is contraindicated (7.1) Renin-angiotensin-aldosterone inhibitors: Monitor for hyperkalemia (7...",
+      "Healthcare providers evaluate risk when concomitant use is contraindicated [see Contraindications (4) ].",
+      "Healthcare providers evaluate risk when closely monitor potassium in patients on concomitant RAAS inhibitors.",
+      "Extra caution is needed because closely monitor potassium in patients on concomitant NSAIDs."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Potassium chloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Potassium chloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-09-23T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22potassium%20chloride%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:51.755Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=potassium%20chloride",
+      "accessedAt": "2026-07-12T06:31:51.755Z"
+    }
+  ]
+}

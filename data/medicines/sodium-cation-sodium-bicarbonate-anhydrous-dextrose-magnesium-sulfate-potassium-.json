@@ -1,0 +1,71 @@
+{
+  "slug": "sodium-cation-sodium-bicarbonate-anhydrous-dextrose-magnesium-sulfate-potassium-",
+  "genericName": "Sodium cation, sodium bicarbonate, anhydrous dextrose, magnesium sulfate, potassium chloride, calcium chloride, sodium phosphate",
+  "brandNames": [
+    "Elliotts B"
+  ],
+  "composition": "ANHYDROUS DEXTROSE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing elliotts B Solution is indicated as a diluent for the intrathecal administration of methotrexate sodium and cytarabine for the prevention or treatment of men..."
+  ],
+  "howItWorks": "Sodium Cation, Sodium Bicarbonate, Anhydrous Dextrose, Magnesium Sulfate, Potassium Chloride, Calcium Chloride, Sodium Phosphate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration see product labeling for methotrexate sodium and cytarabine. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes adverse reactions may occur with any given intrathecal injection due to the chemotherapy or the technique of intrathecal administration.",
+    "A possible treatment-related effect includes if an adverse reaction does occur, discontinue the administration, evaluate the patient, institute appropriate therapeutic countermeasures and, if possible..."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when intrathecal administration of drugs such as methotrexate sodium and cytarabine should be performed by personnel skilled in the technique of lumbar puncture u...",
+    "Healthcare providers evaluate risk when the labeling for methotrexate sodium and cytarabine should be consulted."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when usage in Pregnancy All components of Elliotts B Solution are normal body constituents.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Sodium cation, sodium bicarbonate, anhydrous dextrose, magnesium sulfate, potassium chloride, calcium chloride, sodium phosphate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Sodium cation, sodium bicarbonate, anhydrous dextrose, magnesium sulfate, potassium chloride, calcium chloride, sodium phosphate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "uti"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-10-16T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22sodium%20bicarbonate%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:52.114Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=sodium%20cation%2C%20sodium%20bicarbonate%2C%20anhydrous%20dextrose%2C%20magnesium%20sulfate%2C%20potassium%20chloride%2C%20calcium%20chloride%2C%20sodium%20phosphate",
+      "accessedAt": "2026-07-12T06:31:52.114Z"
+    }
+  ]
+}

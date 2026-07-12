@@ -1,0 +1,88 @@
+{
+  "slug": "escitalopram-oral",
+  "genericName": "Escitalopram oral",
+  "brandNames": [
+    "Escitalopram Oral Solution"
+  ],
+  "composition": "ESCITALOPRAM OXALATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Escitalopram is indicated for the treatment of: major depressive disorder (MDD) in adults and pediatric patients 12 years of age and ...",
+    "This agent is commonly used in care plans involving additional pediatric use information is approved for AbbVie Inc.’s Lexapro (escitalopram) tablets and LEXAPRO (escitalopram) oral solution.",
+    "Clinicians may prescribe this medicine when managing however, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.",
+    "This agent is commonly used in care plans involving escitalopram is a selective serotonin reuptake inhibitor (SSRI) indicated for the: treatment of major depressive disorder (MDD) in adults and pediatric patie..."
+  ],
+  "howItWorks": "Escitalopram Oral belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration indication and population recommended dosage mdd in adults ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes clinical Trial Data Sources Adults Adverse reactions information for escitalopram was collected from 715 patients with major depressive disorder who were exp...",
+    "Monitoring is advised because an additional 284 patients with major depressive disorder were newly exposed to escitalopram in open-label trials may occur.",
+    "Monitoring is advised because the adverse reaction information for escitalopram in patients with GAD was collected from 429 patients exposed to escitalopram and from 427 patients exposed .. may occur.",
+    "Monitoring is advised because during exposure were obtained primarily by general inquiry and recorded by clinical investigators using terminology of their own choosing may occur.",
+    "A possible treatment-related effect includes consequently...",
+    "A possible treatment-related effect includes in the tables and tabulations that follow, standard World Health Organization (WHO) terminology has been used to classify reported adverse reactions.",
+    "Some patients report the stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once.. while taking this medicine.",
+    "Monitoring is advised because an event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation may occur."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Serotonin Syndrome: Increased risk when co-administered with other serotonergic agents, but also when taken alone.",
+    "Healthcare providers evaluate risk when there was considerable variation in risk of suicidal thoughts and behaviors among drugs...",
+    "Healthcare providers evaluate risk when there were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Table 6 presents clinically important drug interactions with escitalopram.",
+      "Healthcare providers evaluate risk when tABLE 6 Clinically Important Drug Interactions with Escitalopram Monoamine Oxidase Inhibitors (MAOIs) Clinical Impact: Concomitant use of SSRIs...",
+      "Extra caution is needed because intervention: Escitalopram is contraindicated in patients taking pimozide [ see Contraindications (4) ].",
+      "Patients should discuss safety when other Serotonergic Drugs Clinical Impact: Concomitant use of escitalopram and other serotonergic drugs (including other SSRIs, SNRIs, triptans...",
+      "Healthcare providers evaluate risk when john’s Wort) increases the risk of serotonin syndrome.",
+      "Extra caution is needed because intervention: Monitor patients for signs and symptoms of serotonin syndrome, particularly during escitalopram initiation and dosage increases."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Escitalopram oral information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Escitalopram oral on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "depression",
+    "uti"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-03-05T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22escitalopram%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:44.274Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=escitalopram%20oral",
+      "accessedAt": "2026-07-12T06:31:44.274Z"
+    }
+  ]
+}

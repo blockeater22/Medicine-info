@@ -1,0 +1,58 @@
+{
+  "slug": "hypertension",
+  "name": "Hypertension",
+  "overview": "Hypertension is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include hypertension, also known as high blood pressure, is a long-term medical condition in which the blood pressure in the arteries is persistently elevated; high blood pressure usually does not cause symptoms itself; it is, however, a major risk factor for stroke, coronary artery disease, heart failure, atrial fibrillation, peripheral arterial disease, vision loss, chronic kidney disease, and dementia. This summary is educational and should be paired with professional medical evaluation.",
+  "symptoms": [
+    "Health professionals note that hypertension, also known as high blood pressure, is a long-term medical condition in which the blood pressure in the arteries is persistently elevated.",
+    "From a clinical perspective, high blood pressure usually does not cause symptoms itself.",
+    "In routine practice, it is, however, a major risk factor for stroke, coronary artery disease, heart failure, atrial fibrillation, peripheral arterial disease, vision loss, chronic kidney disease, and dementia.",
+    "In routine practice, hypertension is a major cause of premature death worldwide."
+  ],
+  "causes": [
+    "From a clinical perspective, multiple genetic, lifestyle, and environmental factors may contribute."
+  ],
+  "riskFactors": [],
+  "diagnosis": [
+    "Health professionals note that clinical evaluation.",
+    "In routine practice, relevant laboratory or imaging tests as indicated."
+  ],
+  "treatment": [
+    "Health professionals note that treatment plans are individualized based on severity and patient profile."
+  ],
+  "prevention": [
+    "From a clinical perspective, regular checkups.",
+    "From a clinical perspective, healthy lifestyle habits.",
+    "Health professionals note that vaccination when applicable."
+  ],
+  "complications": [
+    "Healthcare providers evaluate risk when progression if untreated.",
+    "Patients should discuss safety when reduced quality of life without proper follow-up."
+  ],
+  "emergencySigns": [
+    "Patients should discuss safety when sudden severe symptoms.",
+    "Extra caution is needed because difficulty breathing.",
+    "Extra caution is needed because chest pain.",
+    "Healthcare providers evaluate risk when confusion or loss of consciousness."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Hypertension information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "What should I do if Hypertension symptoms worsen suddenly?",
+      "answer": "Seek urgent medical care, especially if severe pain, breathing difficulty, confusion, or high fever develops."
+    }
+  ],
+  "relatedDiseases": [],
+  "relatedMedicines": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T06:22:51.121Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hypertension",
+      "accessedAt": "2026-07-12T06:22:51.121Z"
+    }
+  ]
+}

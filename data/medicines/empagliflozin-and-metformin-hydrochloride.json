@@ -1,0 +1,89 @@
+{
+  "slug": "empagliflozin-and-metformin-hydrochloride",
+  "genericName": "Empagliflozin and metformin hydrochloride",
+  "brandNames": [
+    "Synjardy"
+  ],
+  "composition": "EMPAGLIFLOZIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Sodium-Glucose Cotransporter 2 Inhibitor [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE SYNJARDY SYNJARDY is a combination of empagliflozin...",
+    "Medical teams consider this option for patients needing support with sYNJARDY XR SYNJARDY XR is a combination of empagliflozin, a SGLT2 inhibitor and metformin HCl extended-release, a biguanide...",
+    "Medical teams consider this option for patients needing support with empagliflozin is not expected to be effective in these populations.",
+    "Clinicians may prescribe this medicine when managing sYNJARDY XR SYNJARDY XR is a combination of empagliflozin and metformin HCl extended-release indicated as an adjunct to diet and exercise to improve glycemic...",
+    "This agent is commonly used in care plans involving empagliflozin Empagliflozin, when used as a component of SYNJARDY or SYNJARDY XR...",
+    "Medical teams consider this option for patients needing support with cV death and hospitalization for heart failure in adults with heart failure."
+  ],
+  "howItWorks": "Empagliflozin And Metformin Hydrochloride belongs to the sodium-glucose cotransporter 2 inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration assess renal function before initiating and as clinically indicated. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 3) and clinical studies (14. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 4) and warnings and precautions (5. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes discontinuation of therapy due to adverse events across treatment groups was 3.0%, 2.8%, and 2.9% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg...",
+    "Some patients report empagliflozin was used as monotherapy in one trial and as add-on therapy in four trials [see Clinical Studies (14.1) ] while taking this medicine.",
+    "Monitoring is advised because these data reflect exposure of 1,976 adult patients to empagliflozin with a mean exposure duration of approximately 23 weeks may occur.",
+    "Some patients report patients received placebo (N=995), empagliflozin 10 mg (N=999), or empagliflozin 25 mg (N=977) once daily while taking this medicine.",
+    "Monitoring is advised because the mean age of the population was 56 years and 3% were older than 75 years of age may occur.",
+    "Some patients report more than half (55%) of the population was male while taking this medicine.",
+    "Monitoring is advised because 46% were White, 50% were Asian, and 3% were Black or African American may occur.",
+    "Monitoring is advised because at baseline, 57% of the population had diabetes mellitus more than 5 years and had a mean hemoglobin A1c (HbA1c) of 8% may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis: Consider ketone monitoring in patients at ...",
+    "Extra caution is needed because assess for ketoacidosis regardless of presenting blood glucose levels and discontinue SYNJARDY or SYNJARDY XR if ketoacidosis is suspected.",
+    "Extra caution is needed because monitor patients for resolution of ketoacidosis before restarting."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Based on animal data showing adverse renal effects from empagliflozin...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS See Table 4 for clinically relevant interactions with SYNJARDY or SYNJARDY XR.",
+      "Extra caution is needed because table 4 Clinically Relevant Interactions with SYNJARDY or SYNJARDY XR Carbonic Anhydrase Inhibitors Clinical Impact Topiramate or other carbonic anhydrase in...",
+      "Patients should discuss safety when concomitant use of these drugs with SYNJARDY or SYNJARDY XR may increase the risk of lactic acidosis.",
+      "Healthcare providers evaluate risk when intervention Consider more frequent monitoring of these patients.",
+      "Patients should discuss safety when intervention Consider the benefits and risks of concomitant use.",
+      "Extra caution is needed because alcohol Clinical Impact Alcohol is known to potentiate the effect of metformin on lactate metabolism."
+    ]
+  },
+  "storage": "From a clinical perspective, store at 20°C to 25°C (68°F to 77°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Empagliflozin and metformin hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Empagliflozin and metformin hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "heart-disease"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-01-30T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22empagliflozin%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:42.480Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=empagliflozin%20and%20metformin%20hydrochloride",
+      "accessedAt": "2026-07-12T06:31:42.480Z"
+    }
+  ]
+}

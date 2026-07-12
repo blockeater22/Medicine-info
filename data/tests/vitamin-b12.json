@@ -1,0 +1,62 @@
+{
+  "slug": "vitamin-b12",
+  "name": "Vitamin B12 Test",
+  "category": "Nutrition",
+  "description": "Vitamin B12 Test — purpose, preparation, procedure, normal range, and result interpretation.",
+  "seo": {
+    "title": "Vitamin B12 Test: Purpose, Normal Range, Preparation | Doctors Hub",
+    "description": "Complete guide to Vitamin B12 Test test in India. Learn preparation, procedure, normal values, and what results mean.",
+    "keywords": [
+      "Vitamin B12 Test",
+      "lab test India"
+    ]
+  },
+  "overview": "Vitamin B12 Test is a commonly ordered diagnostic test used to evaluate specific aspects of your health.",
+  "purpose": [
+    "Screening for disease",
+    "Monitoring existing conditions",
+    "Evaluating treatment response",
+    "Pre-operative assessment"
+  ],
+  "preparation": [
+    "Follow fasting instructions if required (typically 8-12 hours)",
+    "Inform lab about current medications",
+    "Stay hydrated unless told otherwise",
+    "Bring previous reports if available"
+  ],
+  "procedure": [
+    "Blood/urine sample collection at certified lab",
+    "Non-invasive for imaging tests",
+    "Results typically available within 24-48 hours"
+  ],
+  "normalRange": "Reference ranges vary by lab, age, and gender. Always interpret with your doctor.",
+  "highMeans": [
+    "Possible infection or inflammation",
+    "Organ dysfunction",
+    "Nutritional deficiency or excess",
+    "Requires clinical correlation"
+  ],
+  "lowMeans": [
+    "Possible deficiency state",
+    "Bone marrow issues (for blood tests)",
+    "Malabsorption",
+    "Requires clinical correlation"
+  ],
+  "interpretation": [
+    "Compare with previous results for trends",
+    "Single abnormal value may not indicate disease",
+    "Doctor will correlate with symptoms and examination"
+  ],
+  "faqs": [
+    {
+      "question": "Do I need to fast for Vitamin B12 Test?",
+      "answer": "Check specific test requirements. Fasting tests typically need 8-12 hours."
+    },
+    {
+      "question": "How long for Vitamin B12 Test results?",
+      "answer": "Most results available within 24-48 hours at standard labs."
+    }
+  ],
+  "popular": false,
+  "updatedAt": "2026-07-01"
+}

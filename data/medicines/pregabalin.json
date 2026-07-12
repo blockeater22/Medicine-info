@@ -1,0 +1,81 @@
+{
+  "slug": "pregabalin",
+  "genericName": "Pregabalin",
+  "brandNames": [
+    "PREGABALIN"
+  ],
+  "composition": "PREGABALIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with management of conditions associated with pregabalin."
+  ],
+  "howItWorks": "Pregabalin belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration for adult indications, begin dosing at 150 mg/day. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because in all controlled and uncontrolled trials across various patient populations during the premarketing development of pregabalin, more than 10.. may occur.",
+    "Monitoring is advised because approximately 5,000 patients were treated for 6 months or more, over 3,100 patients were treated for 1 year or longer, and over 1.. may occur.",
+    "Monitoring is advised because most Commonly Leading to Discontinuation in All Premarketing Controlled Clinical Studies In premarketing controlled trials of all adult populations combined.. may occur.",
+    "A possible treatment-related effect includes in the pregabalin treatment group, the adverse reactions most frequently leading to discontinuation were dizziness (4%) and somnolence (4%).",
+    "Monitoring is advised because in the placebo group, 1% of patients withdrew due to dizziness and less than 1% withdrew due to somnolence may occur.",
+    "A possible treatment-related effect includes other adverse reactions that led to discontinuation from controlled trials more frequently in the pregabalin group compared to the placebo group were ataxia...",
+    "A possible treatment-related effect includes controlled Studies with Neuropathic Pain Associated with Diabetic Peripheral Neuropathy Adverse Reactions Leading to Discontinuation In clinical trials in ad...",
+    "A possible treatment-related effect includes in the pregabalin treatment group, the most common reasons for discontinuation due to adverse reactions were dizziness (3%) and somnolence (2%)."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Angioedema (e.g., swelling of the throat, head and neck) can occur...",
+    "Extra caution is needed because discontinue pregabalin immediately in these cases.",
+    "Extra caution is needed because discontinue pregabalin immediately in these patients."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Since pregabalin is predominantly excreted unchanged in the urine...",
+      "Extra caution is needed because in vitro and in vivo studies showed that pregabalin is unlikely to be involved in significant pharmacokinetic drug interactions.",
+      "Healthcare providers evaluate risk when specifically, there are no pharmacokinetic interactions between pregabalin and the following antiepileptic drugs: carbamazepine, valproic acid, lamotrigine...",
+      "Patients should discuss safety when important pharmacokinetic interactions would also not be expected to occur between pregabalin and commonly used antiepileptic drugs [see Clinical Pharmacolog...",
+      "Extra caution is needed because pharmacodynamics Multiple oral doses of pregabalin were co-administered with oxycodone, lorazepam, or ethanol.",
+      "Healthcare providers evaluate risk when although no pharmacokinetic interactions were seen..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Pregabalin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Pregabalin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-09-23T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22pregabalin%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:45.712Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=pregabalin",
+      "accessedAt": "2026-07-12T06:31:45.712Z"
+    }
+  ]
+}

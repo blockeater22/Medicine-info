@@ -1,0 +1,82 @@
+{
+  "slug": "haloperidol",
+  "genericName": "Haloperidol",
+  "brandNames": [
+    "Haloperidol"
+  ],
+  "composition": "HALOPERIDOL — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Typical Antipsychotic [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing haloperidol tablets are indicated for use in the management of manifestations of psychotic disorders.",
+    "Medical teams consider this option for patients needing support with haloperidol tablets are indicated for the control of tics and vocal utterances of Tourette's Disorder in children and adults.",
+    "Clinicians may prescribe this medicine when managing haloperidol tablets are effective for the treatment of severe behavior problems in children of combative...",
+    "Medical teams consider this option for patients needing support with haloperidol tablets are also effective in the short-term treatment of hyperactive children who show excessive motor activity with accompanying conduct disord...",
+    "This agent is commonly used in care plans involving haloperidol tablets should be reserved for these two groups of children only after failure to respond to psychotherapy or medications other than antipsychotics."
+  ],
+  "howItWorks": "Haloperidol belongs to the typical antipsychotic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an as with all antipsychotic drugs, dosage should be individualized according to the needs and response of each patient. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because cardiovascular Effects Tachycardia, hypotension, and hypertension have been reported may occur.",
+    "Monitoring is advised because qT prolongation and/or ventricular arrhythmias have also been reported.. may occur.",
+    "Some patients report cases of sudden and unexpected death have been reported in association with the administration of haloperidol while taking this medicine.",
+    "Monitoring is advised because the nature of the evidence makes it impossible to determine definitively what role, if any, haloperidol played in the outcome of the reported cases may occur.",
+    "Some patients report the possibility that haloperidol caused death cannot, of course, be excluded.. while taking this medicine.",
+    "A possible treatment-related effect includes cNS Effects Extrapyramidal Symptoms (EPS) EPS during the administration of haloperidol have been reported frequently...",
+    "Some patients report ePS can be categorized generally as Parkinson-like symptoms, akathisia, or dystonia (including opisthotonos and oculogyric crisis) while taking this medicine.",
+    "Monitoring is advised because while all can occur at relatively low doses, they occur more frequently and with greater severity at higher doses may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when increased Mortality in Elderly Patients with Dementia-Related Psychosis Elderly patients with dementia-related psychosis treated with antipsychotic drugs are...",
+    "Healthcare providers evaluate risk when haloperidol is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).",
+    "Extra caution is needed because cardiovascular Effects Cases of sudden death, QT-prolongation, and Torsades de pointes have been reported in patients receiving haloperidol."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Haloperidol information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Haloperidol on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-11-15T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22haloperidol%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:01.180Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=haloperidol",
+      "accessedAt": "2026-07-12T06:32:01.180Z"
+    }
+  ]
+}

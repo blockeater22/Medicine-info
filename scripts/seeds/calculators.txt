@@ -1,0 +1,15 @@
+bmi
+bmr
+calorie
+water-intake
+pregnancy-due-date
+ovulation
+body-fat
+ideal-weight
+heart-rate
+blood-pressure-guide
+diabetes-risk
+child-growth
+drug-dose
+age
+pregnancy-week

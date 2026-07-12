@@ -1,0 +1,46 @@
+{
+  "slug": "bmi",
+  "name": "BMI Calculator",
+  "description": "Estimate body mass index from height and weight to screen weight status categories.",
+  "category": "Body Metrics",
+  "formulaReference": "BMI = weight(kg) / height(m)^2 (WHO classification)",
+  "inputs": [
+    {
+      "id": "weight",
+      "label": "Weight",
+      "type": "number",
+      "unit": "kg",
+      "required": true
+    },
+    {
+      "id": "height",
+      "label": "Height",
+      "type": "number",
+      "unit": "cm",
+      "required": true
+    }
+  ],
+  "interpretationNotes": [
+    "BMI is a screening tool, not a diagnostic test.",
+    "Athletes and elderly may need alternate assessments."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this BMI information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    }
+  ],
+  "lastUpdated": "2026-07-12T06:22:44.254Z",
+  "sources": [
+    {
+      "name": "WHO BMI Classification",
+      "url": "https://www.who.int/",
+      "accessedAt": "2026-07-12T06:22:44.255Z"
+    },
+    {
+      "name": "CDC Clinical Calculators",
+      "url": "https://www.cdc.gov/",
+      "accessedAt": "2026-07-12T06:22:44.255Z"
+    }
+  ]
+}

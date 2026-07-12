@@ -1,0 +1,86 @@
+{
+  "slug": "metronidazole",
+  "genericName": "Metronidazole",
+  "brandNames": [
+    "Metronidazole"
+  ],
+  "composition": "METRONIDAZOLE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Nitroimidazole Antimicrobial [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving symptomatic Trichomoniasis.",
+    "Medical teams consider this option for patients needing support with metronidazole tablets are indicated for the treatment of T.",
+    "This agent is commonly used in care plans involving asymptomatic Trichomoniasis.",
+    "Clinicians may prescribe this medicine when managing metronidazole tablets are indicated in the treatment of asymptomatic T.",
+    "Medical teams consider this option for patients needing support with since there is evidence that presence of the trichomonad can interfere with accurate assessment of abnormal cytological smears...",
+    "Clinicians may prescribe this medicine when managing treatment of Asymptomatic Sexual Partners."
+  ],
+  "howItWorks": "Metronidazole belongs to the nitroimidazole antimicrobial [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an seven-day course of treatment − 250 mg three times daily for seven consecutive days. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes the following reactions have been reported during treatment with metronidazole: Central Nervous System: The most serious adverse reactions reported in patien...",
+    "Some patients report since persistent peripheral neuropathy has been reported in some patients receiving prolonged administration of metronidazole.. while taking this medicine.",
+    "Some patients report in addition, patients have reported headache, syncope, dizziness, vertigo, incoordination, ataxia, tinnitus, hearing impairment, hearing loss, confusion.. while taking this medicine.",
+    "Some patients report gastrointestinal: The most common adverse reactions reported have been referable to the gastrointestinal tract, particularly nausea.. while taking this medicine.",
+    "Monitoring is advised because epigastric distress may occur.",
+    "Monitoring is advised because and abdominal cramping and constipation may occur.",
+    "Some patients report mouth : A sharp, unpleasant metallic taste is not unusual while taking this medicine.",
+    "Some patients report furry tongue, glossitis, and stomatitis have occurred while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when the following reactions have been reported during treatment with metronidazole: Central Nervous System: The most serious adverse reactions reported in patien..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pregnancy: Teratogenic Effects There are no adequate and well controlled studies of metronidazole in pregnant women.",
+    "breastfeeding": "Extra caution is needed because nursing Mothers Metronidazole is present in human milk at concentrations similar to maternal serum levels...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interactions Disulfiram Psychotic reactions have been reported in alcoholic patients who are using metronidazole and disulfiram concurrently.",
+      "Extra caution is needed because metronidazole should not be given to patients who have taken disulfiram within the last two weeks (see CONTRAINDICATIONS ).",
+      "Healthcare providers evaluate risk when alcoholic Beverages Abdominal cramps, nausea, vomiting, headaches...",
+      "Healthcare providers evaluate risk when warfarin and other Oral Anticoagulants Metronidazole has been reported to potentiate the anticoagulant effect of warfarin and other oral coumarin anticoagula...",
+      "Extra caution is needed because when metronidazole is prescribed for patients on this type of anticoagulant therapy, prothrombin time and INR should be carefully monitored.",
+      "Patients should discuss safety when lithium In patients stabilized on relatively high doses of lithium, short-term metronidazole therapy has been associated with elevation of serum lithium and..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Metronidazole information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Metronidazole on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-03-18T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22metronidazole%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:37.443Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=metronidazole",
+      "accessedAt": "2026-07-12T06:31:37.443Z"
+    }
+  ]
+}

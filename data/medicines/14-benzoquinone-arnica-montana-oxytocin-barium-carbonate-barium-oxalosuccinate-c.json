@@ -1,0 +1,69 @@
+{
+  "slug": "14-benzoquinone-arnica-montana-oxytocin-barium-carbonate-barium-oxalosuccinate-c",
+  "genericName": "1,4-benzoquinone - arnica montana - oxytocin - barium carbonate - barium oxalosuccinate - corticotropin - lead - levothyroxine - lutrelin - malic acid - melatonin - neurotrophin-3 - neurotrophin-4 - phenylalanine - pork liver - pyruvic acid - rinfabate - sus scrofa adrenal gland - sus scrofa frontal lobe - sus scrofa hypothalamus - thyrotropin alfa - brain-derived neurotrophic factor human -",
+  "brandNames": [
+    "GUNA-GERIATRICS"
+  ],
+  "composition": "ARNICA MONTANA — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Adrenocorticotropic Hormone [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving uSES TAKE 15 MINUTES BEFORE MEALS."
+  ],
+  "howItWorks": "1,4-Benzoquinone - Arnica Montana - Oxytocin - Barium Carbonate - Barium Oxalosuccinate - Corticotropin - Lead - Levothyroxine - Lutrelin - Malic Acid - Melatonin - Neurotrophin-3 - Neurotrophin-4 - Phenylalanine - Pork Liver - Pyruvic Acid - Rinfabate - Sus Scrofa Adrenal Gland - Sus Scrofa Frontal Lobe - Sus Scrofa Hypothalamus - Thyrotropin Alfa - Brain-Derived Neurotrophic Factor Human - belongs to the adrenocorticotropic hormone [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an take 15 minutes before meals adults : 20 drops in a little water, 2 times per day. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [],
+  "seriousSideEffects": [
+    "Patients should discuss safety when stop use and ask doctor if symptoms persist more than 5 days.",
+    "Extra caution is needed because if pregnant or breast-feeding ask a health professional before use.",
+    "Extra caution is needed because ."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this 1,4-benzoquinone - arnica montana - oxytocin - barium carbonate - barium oxalosuccinate - corticotropin - lead - levothyroxine - lutrelin - malic acid - melatonin - neurotrophin-3 - neurotrophin-4 - phenylalanine - pork liver - pyruvic acid - rinfabate - sus scrofa adrenal gland - sus scrofa frontal lobe - sus scrofa hypothalamus - thyrotropin alfa - brain-derived neurotrophic factor human - information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of 1,4-benzoquinone - arnica montana - oxytocin - barium carbonate - barium oxalosuccinate - corticotropin - lead - levothyroxine - lutrelin - malic acid - melatonin - neurotrophin-3 - neurotrophin-4 - phenylalanine - pork liver - pyruvic acid - rinfabate - sus scrofa adrenal gland - sus scrofa frontal lobe - sus scrofa hypothalamus - thyrotropin alfa - brain-derived neurotrophic factor human - on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2018-12-22T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22melatonin%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:03.174Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=1%2C4-benzoquinone%20-%20arnica%20montana%20-%20oxytocin%20-%20barium%20carbonate%20-%20barium%20oxalosuccinate%20-%20corticotropin%20-%20lead%20-%20levothyroxine%20-%20lutrelin%20-%20malic%20acid%20-%20melatonin%20-%20neurotrophin-3%20-%20neurotrophin-4%20-%20phenylalanine%20-%20pork%20liver%20-%20pyruvic%20acid%20-%20rinfabate%20-%20sus%20scrofa%20adrenal%20gland%20-%20sus%20scrofa%20frontal%20lobe%20-%20sus%20scrofa%20hypothalamus%20-%20thyrotropin%20alfa%20-%20brain-derived%20neurotrophic%20factor%20human%20-",
+      "accessedAt": "2026-07-12T06:32:03.174Z"
+    }
+  ]
+}

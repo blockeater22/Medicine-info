@@ -1,0 +1,66 @@
+{
+  "slug": "fracture",
+  "name": "Fracture First Aid",
+  "severity": "moderate",
+  "description": "Step-by-step fracture first aid guide with do's, don'ts, and emergency numbers for India.",
+  "seo": {
+    "title": "Fracture First Aid Guide | Doctors Hub",
+    "description": "Learn fracture first aid steps, precautions, and when to call emergency services in India.",
+    "keywords": [
+      "Fracture First Aid",
+      "first aid India"
+    ]
+  },
+  "steps": [
+    {
+      "title": "Assess the situation",
+      "description": "Ensure scene safety. Check responsiveness and breathing."
+    },
+    {
+      "title": "Call for help",
+      "description": "Dial 112 or 102 for ambulance. Provide clear location details."
+    },
+    {
+      "title": "Provide immediate care",
+      "description": "Follow specific first aid steps for this emergency while waiting for professionals."
+    },
+    {
+      "title": "Monitor continuously",
+      "description": "Keep monitoring vital signs until emergency services arrive."
+    }
+  ],
+  "dos": [
+    "Stay calm",
+    "Call emergency services immediately for severe cases",
+    "Follow standard first aid protocols",
+    "Keep victim comfortable and warm"
+  ],
+  "donts": [
+    "Do not give food or water if unconscious",
+    "Do not move victim if spinal injury suspected",
+    "Do not apply home remedies on open wounds",
+    "Do not delay calling ambulance"
+  ],
+  "emergencyNumbers": [
+    {
+      "label": "National Emergency",
+      "number": "112"
+    },
+    {
+      "label": "Ambulance",
+      "number": "102"
+    },
+    {
+      "label": "Police",
+      "number": "100"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "When should I call ambulance for fracture first aid?",
+      "answer": "Call immediately for severe cases, unconsciousness, or difficulty breathing."
+    }
+  ],
+  "popular": true,
+  "updatedAt": "2026-07-01"
+}

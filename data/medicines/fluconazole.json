@@ -1,0 +1,86 @@
+{
+  "slug": "fluconazole",
+  "genericName": "Fluconazole",
+  "brandNames": [
+    "Fluconazole"
+  ],
+  "composition": "FLUCONAZOLE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Azole Antifungal [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with fluconazole tablets are indicated for the treatment of: Vaginal candidiasis (vaginal yeast infections due to Candida ).",
+    "This agent is commonly used in care plans involving oropharyngeal and esophageal candidiasis.",
+    "This agent is commonly used in care plans involving in open noncomparative studies of relatively small numbers of patients...",
+    "Medical teams consider this option for patients needing support with cryptococcal meningitis.",
+    "Clinicians may prescribe this medicine when managing before prescribing fluconazole tablets for AIDS patients with cryptococcal meningitis , please see CLINICAL STUDIES section.",
+    "Clinicians may prescribe this medicine when managing studies comparing fluconazole tablets to amphotericin B in non-HIV infected patients have not been conducted."
+  ],
+  "howItWorks": "Fluconazole belongs to the azole antifungal [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an an inadequate period of treatment may lead to recurrence of active infection. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an (see clinical studies. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an similar proportions of older patients (2. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because fluconazole is generally well tolerated may occur.",
+    "Monitoring is advised because in some patients, particularly those with serious underlying diseases such as AIDS and cancer.. may occur.",
+    "A possible treatment-related effect includes in Patients Receiving a Single Dose for Vaginal Candidiasis: During comparative clinical studies conducted in the United States...",
+    "A possible treatment-related effect includes the overall incidence of side effects possibly related to fluconazole was 26%.",
+    "Some patients report in 422 patients receiving active comparative agents, the incidence was 16% while taking this medicine.",
+    "A possible treatment-related effect includes the most common treatment-related adverse events reported in the patients who received 150 mg single dose fluconazole for vaginitis were headache (13%)...",
+    "A possible treatment-related effect includes other side effects reported with an incidence equal to or greater than 1% included diarrhea (3%), dyspepsia (1%), dizziness (1%), and taste perversion (1%).",
+    "Some patients report most of the reported side effects were mild to moderate in severity while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when in some patients, particularly those with serious underlying diseases such as AIDS and cancer..."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because pregnancy Teratogenic Effects Potential for Fetal Harm: Use in pregnancy should be avoided except in patients with severe or potentially life-threatening fun...",
+    "breastfeeding": "Extra caution is needed because nursing Mothers Fluconazole was present in low levels in breast milk following administration of a single 150 mg dose...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interaction Studies (See PRECAUTIONS...",
+      "Healthcare providers evaluate risk when there was no significant difference in ethinyl estradiol or levonorgestrel AUC after the administration of 50 mg of fluconazole.",
+      "Patients should discuss safety when the mean increase in ethinyl estradiol AUC was 6% (range: –47 to 108%) and levonorgestrel AUC increased 17% (range: –33 to 141%).",
+      "Healthcare providers evaluate risk when in a second study, twenty-five normal females received daily doses of both 200 mg fluconazole tablets or placebo for two, ten-day periods.",
+      "Patients should discuss safety when the treatment cycles were one month apart with all subjects receiving fluconazole during one cycle and placebo during the other.",
+      "Extra caution is needed because the order of study treatment was random."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Fluconazole information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Fluconazole on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-11-17T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22fluconazole%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:48.820Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=fluconazole",
+      "accessedAt": "2026-07-12T06:31:48.820Z"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "naproxen",
+  "genericName": "Naproxen",
+  "brandNames": [
+    "Naproxen"
+  ],
+  "composition": "NAPROXEN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Nonsteroidal Anti-inflammatory Drug [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing management of conditions associated with naproxen."
+  ],
+  "howItWorks": "Naproxen belongs to the nonsteroidal anti-inflammatory drug [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an in patients who tolerate lower doses well, the dose may be increased to naproxen 1500 mg/ day for up to 6 months. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness in pediatric patients below the age of 2 years have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an of the patients studied, 98 patients were age 65 and older and 10 of the 98 patients were age 75 and older. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because reported in controlled clinical trials in 960 patients treated for rheumatoid arthritis or osteoarthritis are listed below may occur.",
+    "Monitoring is advised because in general.. may occur.",
+    "Some patients report the most frequent complaints reported related to the gastrointestinal tract while taking this medicine.",
+    "Some patients report a clinical study found gastrointestinal reactions to be more frequent and more severe in rheumatoid arthritis patients taking daily doses of 1500 mg naproxen.. while taking this medicine.",
+    "Monitoring is advised because those reactions occurring in less than 3% of the patients are unmarked may occur.",
+    "A possible treatment-related effect includes in patients taking NSAIDs, the following adverse experiences have also been reported in approximately 1% to 10% of patients.",
+    "Monitoring is advised because gastrointestinal (GI) Experiences, including: flatulence, gross bleeding/perforation, GI ulcers (gastric/duodenal).. may occur.",
+    "Monitoring is advised because gastrointestinal: pancreatitis, vomiting Hepatobiliary: jaundice Hemic and Lymphatic: melena, thrombocytopenia.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because a clinical study found gastrointestinal reactions to be more frequent and more severe in rheumatoid arthritis patients taking daily doses of 1500 mg naproxen..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary Use of NSAIDs, including naproxen tablets and naproxen sodium tablets...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS See Table 1 for clinically significant drug interactions with naproxen.",
+      "Extra caution is needed because table 1: Clinically Significant Drug Interactions with naproxen Drugs That Interfere with Hemostasis Clinical Impact: • Naproxen and anticoagulants such as w...",
+      "Healthcare providers evaluate risk when the concomitant use of naproxen and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone.",
+      "Extra caution is needed because case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the r...",
+      "Extra caution is needed because intervention: Monitor patients with concomitant use of naproxen tablets or naproxen sodium tablets with anticoagulants (e.g., warfarin)...",
+      "Extra caution is needed because aspirin Clinical Impact: A pharmacodynamic (PD) study has demonstrated an interaction in which lower dose naproxen (220mg/day or 220mg twice daily) interfere..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Naproxen information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Naproxen on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-01-29T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22naproxen%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:38.500Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=naproxen",
+      "accessedAt": "2026-07-12T06:31:38.500Z"
+    }
+  ]
+}

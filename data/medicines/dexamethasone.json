@@ -1,0 +1,89 @@
+{
+  "slug": "dexamethasone",
+  "genericName": "Dexamethasone",
+  "brandNames": [
+    "Dexamethasone"
+  ],
+  "composition": "DEXAMETHASONE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Corticosteroid [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing a l l ergic States: Control of severe or incapacitating a llergic conditions intractable to adequate trials of conventional treatment in asthma...",
+    "Clinicians may prescribe this medicine when managing dermatologic Diseases: Bul l ous dermatitis herpetiformis, exfoliative erythroderma, mycosis fungoides, pemphigus...",
+    "This agent is commonly used in care plans involving endocrine Disorders: Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice.",
+    "Clinicians may prescribe this medicine when managing may be used in conjunction with synthetic mineralocorticoid analogs where applicable.",
+    "This agent is commonly used in care plans involving in infancy mineralocorticoid supplementation is of particular importance), congenital adrenal hyperplasia, hypercalcemia associated with cancer...",
+    "Medical teams consider this option for patients needing support with gastrointestinal Diseases: To tide the patient over a critical period of the disease in regional enteritis and ulcerative colitis."
+  ],
+  "howItWorks": "Dexamethasone belongs to the corticosteroid [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration for oral administration the initial dosage varies from 0. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an other indications for pediatric use of corticosteroids, e. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because (listed alphabetica ll y.. may occur.",
+    "A possible treatment-related effect includes cardiovascular: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory co l apse, congestive heart failure, fat embolism...",
+    "Monitoring is advised because dermatologic: Acne, allergic dermatitis, dry scaly skin, ecchymoses and petechiae, erythema, impaired wound healing, increased sweating, rash, striae.. may occur.",
+    "Monitoring is advised because fluid and Electrolyte Disturbances: Congestive heart failure in susceptible patients, fluid retention, hypokalemic alkalosis, potassium loss.. may occur.",
+    "Some patients report gastrointestinal: Abdominal distention, elevation in serum liver enzyme levels (usually reversible upon discontinuation), hepatomegaly, increased appetite.. while taking this medicine.",
+    "Monitoring is advised because metabolic: Negative nitrogen balance due to protein catabolism may occur.",
+    "Some patients report musculoskeletal: Aseptic necrosis of femoral and humeral heads, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones.. while taking this medicine.",
+    "A possible treatment-related effect includes neurological/Psychiatric: Convulsions, depression, emotional instability, euphoria, headache..."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when general Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS ).",
+    "Extra caution is needed because increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual stress before, during...",
+    "Healthcare providers evaluate risk when cardio-Renal Average and large doses of corticosteroids can cause elevation of blood pressure, sodium and water retention, and increased excretion of potassium."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because pregnancy Teratogenic Effects: Pregnancy Category C.",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers Systemically administered corticosteroids appear in human milk and could suppress growth...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because drug Interactio ns Aminoglutethimide: Aminoglutethimide may diminish adrenal suppression by corticosteroids.",
+      "Healthcare providers evaluate risk when amphotericin B injection and potassium-depleting agents: When corticosteroids are administered concomitantly with potassium-depleting agents (e.g....",
+      "Healthcare providers evaluate risk when in addition...",
+      "Patients should discuss safety when antibiotics: Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see Drug Interactions: Hepatic Enzyme Indu...",
+      "Patients should discuss safety when anticholinesterases: Concomitant use of anticholinesterase agents and corticosteroids may produce severe weakness in patients with myasthenia gravis.",
+      "Extra caution is needed because if possible, anticholinesterase agents should be withdrawn at least 24 hours before initiating corticosteroid therapy."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Dexamethasone information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Dexamethasone on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "asthma",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-10-29T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22dexamethasone%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:39.212Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=dexamethasone",
+      "accessedAt": "2026-07-12T06:31:39.212Z"
+    }
+  ]
+}

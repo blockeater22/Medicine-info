@@ -1,0 +1,89 @@
+{
+  "slug": "sertraline-hydrochloride",
+  "genericName": "Sertraline hydrochloride",
+  "brandNames": [
+    "Sertraline Hydrochloride"
+  ],
+  "composition": "SERTRALINE HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with major Depressive Disorder – Sertraline hydrochloride is indicated for the treatment of major depressive disorder in adults.",
+    "Clinicians may prescribe this medicine when managing the efficacy of Sertraline hydrochloride in the treatment of a major depressive episode was established in six to eight week controlled trials of adult outpa...",
+    "Medical teams consider this option for patients needing support with a major depressive episode implies a prominent and relatively persistent depressed or dysphoric mood that usually interferes with daily functioning (nearly e...",
+    "This agent is commonly used in care plans involving it should include at least 4 of the following 8 symptoms: change in appetite, change in sleep, psychomotor agitation or retardation...",
+    "Medical teams consider this option for patients needing support with the antidepressant action of sertraline hydrochloride in hospitalized depressed patients has not been adequately studied.",
+    "This agent is commonly used in care plans involving the efficacy of sertraline hydrochloride in maintaining an antidepressant response for up to 44 weeks following 8 weeks of open-label acute treatment (52 wee..."
+  ],
+  "howItWorks": "Sertraline Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an consequently, a dose of 50 mg, administered once daily, is recommended as the initial therapeutic dose. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because during its premarketing assessment, multiple doses of sertraline hydrochloride were administered to over 4000 adult subjects as of February 18, 2000 may occur.",
+    "Monitoring is advised because the conditions and duration of exposure to sertraline hydrochloride varied greatly, and included (in overlapping categories) clinical pharmacology studies.. may occur.",
+    "Monitoring is advised because untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing may occur.",
+    "A possible treatment-related effect includes consequently...",
+    "Monitoring is advised because in the tabulations that follow, a World Health Organization dictionary of terminology has been used to classify reported adverse events may occur.",
+    "A possible treatment-related effect includes the frequencies presented, therefore...",
+    "Monitoring is advised because an event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation may occur.",
+    "A possible treatment-related effect includes it is important to emphasize that events reported during therapy were not necessarily caused by it."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when clinical Worsening and Suicide Risk Patients with major depressive disorder (MDD), both adult and pediatric...",
+    "Extra caution is needed because suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.",
+    "Patients should discuss safety when there has been a long-standing concern, however..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because drug Interactions Potential Effects of Coadministration of Drugs Highly Bound to Plasma Proteins –Because sertraline is tightly bound to plasma protein...",
+      "Healthcare providers evaluate risk when conversely, adverse effects may result from displacement of protein bound sertraline hydrochloride by other tightly bound drugs.",
+      "Patients should discuss safety when in a study comparing prothrombin time AUC (0-120 hr) following dosing with warfarin (0.75 mg/kg) before and after 21 days of dosing with either sertraline hy...",
+      "Extra caution is needed because the normalization of prothrombin time for the sertraline hydrochloride group was delayed compared to the placebo group.",
+      "Healthcare providers evaluate risk when the clinical significance of this change is unknown.",
+      "Patients should discuss safety when accordingly, prothrombin time should be carefully monitored when sertraline hydrochloride therapy is initiated or stopped."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Sertraline hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Sertraline hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "depression"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2019-11-01T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22sertraline%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:43.912Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=sertraline%20hydrochloride",
+      "accessedAt": "2026-07-12T06:31:43.912Z"
+    }
+  ]
+}

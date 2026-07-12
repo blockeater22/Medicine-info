@@ -1,0 +1,86 @@
+{
+  "slug": "pantoprazole-sodium",
+  "genericName": "Pantoprazole sodium",
+  "brandNames": [
+    "Pantoprazole Sodium"
+  ],
+  "composition": "PANTOPRAZOLE SODIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Pantoprazole Sodium for Injection is indicated for treatment of: gastroesophageal reflux disease (GERD) and a history of erosive esop...",
+    "Medical teams consider this option for patients needing support with limitations of Use The safety and effectiveness of Pantoprazole Sodium for Injection for the treatment of upper gastrointestinal bleeding have not been estab...",
+    "Clinicians may prescribe this medicine when managing pediatric use information is approved for Pfizer Inc.'s PROTONIX® I.V.",
+    "Medical teams consider this option for patients needing support with however, due to Pfizer Inc.'s marketing exclusivity rights, this drug product is not labeled with that information."
+  ],
+  "howItWorks": "Pantoprazole Sodium belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 1 ) discontinue as soon as the patient is able to receive oral treatment. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an full to partial recovery of these effects were noted in animals of both age groups following a recovery period. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report gastroesophageal Reflux Disease (GERD) Adults Safety in nine randomized comparative US clinical trials in patients with GERD included 1.. while taking this medicine.",
+    "A possible treatment-related effect includes the most frequently occurring adverse reactions are listed in Table 2.",
+    "A possible treatment-related effect includes the number of patients treated in comparative studies with pantoprazole sodium for injection is limited.",
+    "Some patients report however, the adverse reactions seen were similar to those seen in the oral studies while taking this medicine.",
+    "Monitoring is advised because thrombophlebitis was the only new adverse reaction identified with pantoprazole sodium for injection may occur.",
+    "Some patients report pediatric use information is approved for Pfizer Inc.'s PROTONIX® I.V while taking this medicine.",
+    "Monitoring is advised because however, due to Pfizer Inc.'s marketing exclusivity rights, this drug product is not labeled with that information may occur.",
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because 5 WARNINGS AND PRECAUTIONS Gastric Malignancy : In adults...",
+    "Patients should discuss safety when consider additional follow-up and diagnostic testing.",
+    "Healthcare providers evaluate risk when assess the patient and remove the catheter if clinically indicated."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Available data from published observational studies did not demonstrate an association of major malformations or other adverse pre...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS See the full prescribing information for a list of clinically important drug interactions.",
+      "Healthcare providers evaluate risk when consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.",
+      "Extra caution is needed because table 3: Clinically Relevant Interactions Affecting Drugs Co-Administered with Pantoprazole Sodium and Interaction with Diagnostics Antiretrovirals Clinical ...",
+      "Patients should discuss safety when the clinical importance and the mechanisms behind these interactions are not always known.",
+      "Healthcare providers evaluate risk when decreased exposure of some antiretroviral drugs (e.g., rilpivirine atazanavir...",
+      "Healthcare providers evaluate risk when increased exposure of other antiretroviral drugs (e.g...."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Pantoprazole sodium information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Pantoprazole sodium on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "gerd"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-06-27T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22pantoprazole%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:35.584Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=pantoprazole%20sodium",
+      "accessedAt": "2026-07-12T06:31:35.584Z"
+    }
+  ]
+}

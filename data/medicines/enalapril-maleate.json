@@ -1,0 +1,90 @@
+{
+  "slug": "enalapril-maleate",
+  "genericName": "Enalapril maleate",
+  "brandNames": [
+    "Enalapril Maleate"
+  ],
+  "composition": "ENALAPRIL MALEATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with hypertension Enalapril maleate is indicated for the treatment of hypertension.",
+    "Clinicians may prescribe this medicine when managing enalapril maleate is effective alone or in combination with other antihypertensive agents, especially thiazide-type diuretics.",
+    "Clinicians may prescribe this medicine when managing the blood pressure lowering effects of enalapril maleate and thiazides are approximately additive.",
+    "Medical teams consider this option for patients needing support with heart Failure Enalapril maleate is indicated for the treatment of symptomatic congestive heart failure, usually in combination with diuretics and digitalis.",
+    "Medical teams consider this option for patients needing support with in these patients enalapril maleate improves symptoms, increases survival, and decreases the frequency of hospitalization (see CLINICAL PHARMACOLOGY...",
+    "This agent is commonly used in care plans involving asymptomatic Left Ventricular Dysfunction In clinically stable asymptomatic patients with left ventricular dysfunction (ejection fraction ≤35 percent)..."
+  ],
+  "howItWorks": "Enalapril Maleate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an if the patient's blood pressure is not controlled with enalapril maleate alone, diuretic therapy may be resumed. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an enalapril maleate is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 ml/min/1. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report enalapril maleate has been evaluated for safety in more than 10,000 patients, including over 1000 patients treated for one year or more while taking this medicine.",
+    "A possible treatment-related effect includes enalapril maleate has been found to be generally well tolerated in controlled clinical trials involving 2987 patients.",
+    "Monitoring is advised because for the most part, adverse experiences were mild and transient in nature may occur.",
+    "A possible treatment-related effect includes in clinical trials...",
+    "Some patients report the frequency of adverse experiences was not related to total daily dosage within the usual dosage ranges while taking this medicine.",
+    "Monitoring is advised because in patients with hypertension the overall percentage of patients treated with enalapril maleate reporting adverse experiences was comparable to placebo may occur.",
+    "A possible treatment-related effect includes hypertension Adverse experiences occurring in greater than one percent of patients with hypertension treated with enalapril maleate in controlled clinical tr...",
+    "Monitoring is advised because in patients treated with enalapril maleate, the maximum duration of therapy was three years may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when anaphylactoid and Possibly Related Reactions Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptide...",
+    "Healthcare providers evaluate risk when head and Neck Angioedema Angioedema of the face, extremities, lips, tongue...",
+    "Extra caution is needed because this may occur at any time during treatment."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pregnancy Nursing Mothers Enalapril and enalaprilat have been detected in human breast milk.",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers Enalapril and enalaprilat have been detected in human breast milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when drug Interactions Neprilysin Inhibitors Patients taking concomitant neprilysin inhibitors may be at increased risk for angioedema (see WARNINGS ).",
+      "Patients should discuss safety when dual Blockade of the Renin-Angiotensin System (RAS) Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors...",
+      "Healthcare providers evaluate risk when most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.",
+      "Healthcare providers evaluate risk when in general, avoid combined use of RAS inhibitors.",
+      "Extra caution is needed because closely monitor blood pressure, renal function, and electrolytes in patients on enalapril maleate and other agents that affect the RAS.",
+      "Patients should discuss safety when coadminister aliskiren with enalapril maleate in patients with diabetes."
+    ]
+  },
+  "storage": "In routine practice, store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].",
+  "faqs": [
+    {
+      "question": "Can I rely on this Enalapril maleate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Enalapril maleate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "heart-disease",
+    "hypertension"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-10-09T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22enalapril%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:05.076Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=enalapril%20maleate",
+      "accessedAt": "2026-07-12T06:32:05.076Z"
+    }
+  ]
+}

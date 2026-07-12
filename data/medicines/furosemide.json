@@ -1,0 +1,83 @@
+{
+  "slug": "furosemide",
+  "genericName": "Furosemide",
+  "brandNames": [
+    "Furosemide"
+  ],
+  "composition": "FUROSEMIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Loop Diuretic [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with edema Furosemide tablets are indicated in adults and pediatric patients for the treatment of edema associated with congestive heart failure...",
+    "Medical teams consider this option for patients needing support with furosemide tablets are particularly useful when an agent with greater diuretic potential is desired.",
+    "Medical teams consider this option for patients needing support with hypertension Oral furosemide may be used in adults for the treatment of hypertension alone or in combination with other antihypertensive agents.",
+    "Clinicians may prescribe this medicine when managing hypertensive patients who cannot be adequately controlled with thiazides will probably also not be adequately controlled with furosemide alone.",
+    "This agent is commonly used in care plans involving hypertensive patients who cannot be adequately controlled with thiazides will probably also not be adequately controlled with furosemide alone."
+  ],
+  "howItWorks": "Furosemide belongs to the loop diuretic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an adults: the usual initial dose of furosemide tablets is 20 to 80 mg given as a single dose. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use in premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an geriatric population furosemide binding to albumin may be reduced in elderly patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because adverse reactions are categorized below by organ system and listed by decreasing severity may occur.",
+    "Monitoring is advised because stevens-Johnson Syndrome 3 may occur.",
+    "Some patients report orthostatic hypotension may occur and be aggravated by alcohol, barbiturates or narcotics while taking this medicine.",
+    "Monitoring is advised because increase in cholesterol and triglyceride serum levels Other Reactions 1 may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when increase in cholesterol and triglyceride serum levels Other Reactions 1."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when pregnancy Pregnancy Category C: Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2...",
+    "breastfeeding": "Patients should discuss safety when nursing Mothers Because it appears in breast milk, caution should be exercised when furosemide is administered to a nursing mother.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because drug Interactions Furosemide may increase the ototoxic potential of aminoglycoside antibiotics, especially in the presence of impaired renal function.",
+      "Patients should discuss safety when except in life-threatening situations, avoid this combination.",
+      "Extra caution is needed because furosemide should not be used concomitantly with ethacrynic acid because of the possibility of ototoxicity.",
+      "Healthcare providers evaluate risk when patients receiving high doses of salicylates concomitantly with furosemide, as in rheumatic disease...",
+      "Extra caution is needed because there is a risk of ototoxic effects if cisplatin and furosemide are given concomitantly.",
+      "Healthcare providers evaluate risk when in addition..."
+    ]
+  },
+  "storage": "In routine practice, store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].",
+  "faqs": [
+    {
+      "question": "Can I rely on this Furosemide information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Furosemide on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "heart-disease",
+    "hypertension"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-03-01T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22furosemide%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:39.564Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=furosemide",
+      "accessedAt": "2026-07-12T06:31:39.564Z"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "finasteride",
+  "genericName": "Finasteride",
+  "brandNames": [
+    "Finasteride"
+  ],
+  "composition": "FINASTERIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "5-alpha Reductase Inhibitor [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS & USAGE Finasteride tablets USP are indicated for the treatment of male pattern hair loss (androgenetic alopecia) in MEN ONLY.",
+    "Medical teams consider this option for patients needing support with efficacy in bitemporal recession has not been established.",
+    "Clinicians may prescribe this medicine when managing finasteride tablets USP are not indicated for use in women."
+  ],
+  "howItWorks": "Finasteride belongs to the 5-alpha reductase inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage & administration finasteride tablets usp may be administered with or without meals. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use finasteride tablets usp are not indicated for use in pediatric patients. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use clinical efficacy studies with finasteride tablets usp did not include subjects aged 65 and over. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because 6 ADVERSE REACTIONS The most common adverse reactions.. may occur.",
+    "Some patients report to report SUSPECTED ADVERSE REACTIONS, contact Hetero Labs Limited at 866-495-1995 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch while taking this medicine.",
+    "Monitoring is advised because 17 for PATIENT COUNSELING INFORMATION and FDA-approved patient labeling may occur.",
+    "A possible treatment-related effect includes clinical Studies for Finasteride Tablets USP 1 mg in the Treatment of Male Pattern Hair Loss In three controlled clinical trials for finasteride tablets USP ...",
+    "A possible treatment-related effect includes clinical adverse experiences that were reported as possibly...",
+    "Monitoring is advised because resolution occurred in men who discontinued therapy with finasteride tablets USP due to these side effects and in most of those who continued therapy may occur.",
+    "Monitoring is advised because the incidence of each of the above adverse experiences decreased to ≤0.3% by the fifth year of treatment with finasteride tablets USP may occur.",
+    "Some patients report in a study of finasteride 1 mg daily in healthy men.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because 5 WARNINGS AND PRECAUTIONS Finasteride tablets USP are not indicated for use in women or pediatric patients ( 5.1 , 5.4 ).",
+    "Extra caution is needed because women should not handle crushed or broken finasteride tablets USP...",
+    "Patients should discuss safety when further, in clinical studies with finasteride tablets USP 5 mg when used in older men who have benign prostatic hyperplasia (BPH)..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Teratogenic Effects : Pregnancy Category X [ see Contraindications (4) ].",
+    "breastfeeding": "Patients should discuss safety when 8.3 Nursing Mothers Finasteride tablets USP are not indicated for use in women.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS 7.1 Cytochrome P450-Linked Drug Metabolizing Enzyme System No drug interactions of clinical importance have been identified.",
+      "Healthcare providers evaluate risk when finasteride does not appear to affect the cytochrome P450-linked drug-metabolizing enzyme system."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Finasteride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Finasteride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2017-07-28T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22finasteride%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:55.714Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=finasteride",
+      "accessedAt": "2026-07-12T06:31:55.715Z"
+    }
+  ]
+}

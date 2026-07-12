@@ -1,0 +1,105 @@
+# Generic names (INN/USAN) — OpenFDA searchable
+acetaminophen
+ibuprofen
+aspirin
+amoxicillin
+azithromycin
+ciprofloxacin
+metformin
+glimepiride
+atorvastatin
+amlodipine
+losartan
+omeprazole
+pantoprazole
+cetirizine
+montelukast
+albuterol
+levothyroxine
+metronidazole
+paracetamol
+diclofenac
+naproxen
+prednisone
+dexamethasone
+furosemide
+hydrochlorothiazide
+spironolactone
+warfarin
+clopidogrel
+insulin glargine
+sitagliptin
+empagliflozin
+salbutamol
+budesonide
+fluticasone
+sertraline
+escitalopram
+fluoxetine
+amitriptyline
+gabapentin
+pregabalin
+tramadol
+morphine
+codeine
+doxycycline
+cephalexin
+clarithromycin
+fluconazole
+acyclovir
+oseltamivir
+vitamin d
+cyanocobalamin
+ferrous sulfate
+folic acid
+calcium carbonate
+potassium chloride
+sodium bicarbonate
+ranitidine
+domperidone
+ondansetron
+metoclopramide
+loratadine
+levocetirizine
+hydrocortisone
+betamethasone
+tamsulosin
+finasteride
+sildenafil
+tadalafil
+ethinylestradiol
+levonorgestrel
+misoprostol
+mefenamic acid
+nimesulide
+phenobarbitone
+phenytoin
+carbamazepine
+valproic acid
+risperidone
+olanzapine
+haloperidol
+alprazolam
+diazepam
+clonazepam
+zolpidem
+melatonin
+allopurinol
+colchicine
+methotrexate
+adalimumab
+enalapril
+ramipril
+propranolol
+atenolol
+bisoprolol
+diltiazem
+verapamil
+isosorbide dinitrate
+nitroglycerin
+digoxin
+amiodarone
+heparin
+enoxaparin
+rivaroxaban
+apixaban

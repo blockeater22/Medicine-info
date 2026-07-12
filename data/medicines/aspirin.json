@@ -1,0 +1,70 @@
+{
+  "slug": "aspirin",
+  "genericName": "Aspirin",
+  "brandNames": [
+    "Low Dose Aspirin"
+  ],
+  "composition": "ASPIRIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Nonsteroidal Anti-inflammatory Drug [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing uses for the temporary relief of minor aches and pains or as recommended by your doctor.",
+    "Clinicians may prescribe this medicine when managing because of its delayed action, this product will not provide fast relief of headaches or other symptoms needing immediate relief."
+  ],
+  "howItWorks": "Aspirin belongs to the nonsteroidal anti-inflammatory drug [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [],
+  "seriousSideEffects": [
+    "Patients should discuss safety when reye's syndrome : Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product.",
+    "Patients should discuss safety when when using this product, if changes in behavior with nausea and vomiting occur...",
+    "Extra caution is needed because allergy alert : Aspirin may cause a severe allergic reaction..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "In routine practice, store between 15-30ºC (59-86ºF).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Aspirin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Aspirin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "headache"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-04-16T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22aspirin%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:31.294Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=aspirin",
+      "accessedAt": "2026-07-12T06:31:31.294Z"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "spironolactone",
+  "genericName": "Spironolactone",
+  "brandNames": [
+    "Spironolactone"
+  ],
+  "composition": "SPIRONOLACTONE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Aldosterone Antagonist [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Spironolactone is an aldosterone antagonist indicated for: The treatment of NYHA Class III-IV heart failure and reduced ejection frac...",
+    "This agent is commonly used in care plans involving use as an add-on therapy for the treatment of hypertension, to lower blood pressure.",
+    "This agent is commonly used in care plans involving lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions ( 1.2 ).",
+    "Medical teams consider this option for patients needing support with the management of edema in adult patients who are cirrhotic when edema is not responsive to fluid and sodium restrictions and in the setting of nephrotic syn...",
+    "Medical teams consider this option for patients needing support with spironolactone is usually administered in conjunction with other heart failure therapies.",
+    "This agent is commonly used in care plans involving lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions."
+  ],
+  "howItWorks": "Spironolactone belongs to the aldosterone antagonist [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration heart failure: initiate treatment at 25 mg once daily ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an because elderly patients are more likely to have decreased renal function, monitor renal function. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency, reliably.. may occur.",
+    "A possible treatment-related effect includes digestive: Gastric bleeding, ulceration, gastritis, diarrhea and cramping, nausea, vomiting.",
+    "Monitoring is advised because reproductive: Decreased libido, inability to achieve or maintain erection, irregular menses or amenorrhea, postmenopausal bleeding, breast and nipple pain may occur.",
+    "A possible treatment-related effect includes hematologic: Leukopenia (including agranulocytosis), thrombocytopenia.",
+    "A possible treatment-related effect includes hypersensitivity: Fever, urticaria, maculopapular or erythematous cutaneous eruptions, anaphylactic reactions, vasculitis.",
+    "Some patients report metabolism: Hyperkalemia, electrolyte disturbances [see Warnings and Precautions (5.1 , 5.3) ] , hyponatremia, hypovolemia while taking this medicine.",
+    "A possible treatment-related effect includes musculoskeletal : Leg cramps.",
+    "Monitoring is advised because nervous system/psychiatric: Lethargy, mental confusion, ataxia, dizziness, headache, drowsiness may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because liver/biliary: A very few cases of mixed cholestatic/hepatocellular toxicity, with one reported fatality, have been reported with spironolactone administration."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary Based on mechanism of action and findings in animal studies...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Agents increasing serum potassium: Concomitant administration can lead to hyperkalemia ( 5.1 , 7.1 ).",
+      "Healthcare providers evaluate risk when lithium: Increased risk of lithium toxicity ( 7.2 ).",
+      "Extra caution is needed because nSAIDs: May reduce the diuretic, natriuretic and antihypertensive effect of spironolactone ( 7.3 ).",
+      "Patients should discuss safety when digoxin: spironolactone can interfere with radioimmunologic assays of digoxin exposure ( 7.4).",
+      "Extra caution is needed because cholestyramine: Hyperkalemic metabolic acidosis has been reported with concomitant use ( 7.5 ).",
+      "Healthcare providers evaluate risk when acetylsalicylic Acid (ASA): ASA may reduce the efficacy of spironolactone ( 7.6 ) Abiraterone: May increase prostate-specific antigen (PSA) levels ( 7.7 )."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Spironolactone information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Spironolactone on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "heart-disease",
+    "hypertension"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-11-19T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22spironolactone%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:40.591Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=spironolactone",
+      "accessedAt": "2026-07-12T06:31:40.591Z"
+    }
+  ]
+}

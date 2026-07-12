@@ -1,0 +1,71 @@
+{
+  "slug": "bleeding",
+  "name": "Bleeding First Aid",
+  "overview": "Bleeding Emergency Care is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include immediate action can prevent complications; call emergency services for severe presentations. This summary is educational and should be paired with professional medical evaluation.",
+  "steps": [
+    {
+      "title": "Apply direct pressure",
+      "description": "Use clean cloth and firm pressure on wound for several minutes."
+    },
+    {
+      "title": "Elevate if possible",
+      "description": "Raise injured limb above heart level when no fracture suspected."
+    },
+    {
+      "title": "Add layers if soaked",
+      "description": "Do not remove initial dressing; add more material on top."
+    },
+    {
+      "title": "Emergency care for severe bleeding",
+      "description": "Call ambulance if bleeding spurts or does not slow."
+    }
+  ],
+  "dos": [
+    "Wear gloves if available",
+    "Keep victim lying down",
+    "Monitor for shock"
+  ],
+  "donts": [
+    "Do not remove embedded objects",
+    "Do not delay pressure"
+  ],
+  "emergencyNumbers": [
+    {
+      "label": "National Emergency",
+      "number": "112"
+    },
+    {
+      "label": "Ambulance",
+      "number": "102"
+    },
+    {
+      "label": "Police",
+      "number": "100"
+    },
+    {
+      "label": "Fire",
+      "number": "101"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this bleeding information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    }
+  ],
+  "severity": "severe",
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T06:22:43.682Z",
+  "sources": [
+    {
+      "name": "WHO Emergency Care Guidance",
+      "url": "https://www.who.int/",
+      "accessedAt": "2026-07-12T06:22:43.682Z"
+    },
+    {
+      "name": "CDC Injury Prevention",
+      "url": "https://www.cdc.gov/",
+      "accessedAt": "2026-07-12T06:22:43.682Z"
+    }
+  ]
+}

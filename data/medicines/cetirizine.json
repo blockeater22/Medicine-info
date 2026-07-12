@@ -1,0 +1,79 @@
+{
+  "slug": "cetirizine",
+  "name": "Cetirizine",
+  "genericName": "Cetirizine",
+  "brandNames": [
+    "Zyrtec",
+    "Alerid"
+  ],
+  "category": "Antihistamine",
+  "description": "Cetirizine (Cetirizine) uses, dosage, side effects and safety information for patients in India.",
+  "seo": {
+    "title": "Cetirizine: Uses, Dosage, Side Effects | Doctors Hub",
+    "description": "Complete guide to Cetirizine (Cetirizine). Learn uses, dosage, side effects, warnings, and drug interactions.",
+    "keywords": [
+      "Cetirizine",
+      "Cetirizine",
+      "Zyrtec",
+      "Alerid",
+      "medicine India"
+    ]
+  },
+  "composition": "Cetirizine — consult product label for exact strength and excipients.",
+  "uses": [
+    "Pain and fever relief",
+    "Inflammation reduction where applicable",
+    "As prescribed by physician for indicated conditions"
+  ],
+  "howItWorks": "Cetirizine works through established pharmacological pathways to relieve symptoms or treat the underlying condition. Always follow your doctor's prescription.",
+  "dosage": {
+    "adults": "As directed by physician. Typical adult dose varies by condition and formulation.",
+    "children": "Pediatric dosing must be weight-based. Consult pediatrician.",
+    "elderly": "May require dose adjustment in elderly patients.",
+    "notes": "Take with food if stomach upset occurs unless otherwise directed."
+  },
+  "missedDose": "Take as soon as remembered unless near next dose. Do not double dose.",
+  "overdose": "Seek immediate medical attention. Contact nearest hospital or poison control.",
+  "sideEffects": [
+    "Nausea",
+    "Dizziness",
+    "Skin rash (rare)",
+    "Gastrointestinal discomfort"
+  ],
+  "warnings": [
+    "Do not exceed prescribed dose",
+    "Inform doctor of all medications",
+    "Not for self-medication without consultation"
+  ],
+  "pregnancy": "Consult doctor before use during pregnancy. Risk-benefit assessment required.",
+  "breastfeeding": "Consult doctor. Some medicines pass into breast milk.",
+  "kidneyDisease": "Dose adjustment may be needed. Inform your nephrologist.",
+  "liverDisease": "Use with caution. Liver function monitoring may be required.",
+  "driving": "Avoid driving if dizziness or drowsiness occurs.",
+  "alcohol": "Avoid alcohol unless approved by doctor. May increase side effects.",
+  "foodInteraction": "Take as directed with or without food per physician advice.",
+  "drugInteractions": [
+    "Other NSAIDs",
+    "Blood thinners",
+    "Certain antibiotics — inform your doctor of all medicines"
+  ],
+  "storage": "Store in cool, dry place below 25°C. Keep away from children.",
+  "alternatives": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "faqs": [
+    {
+      "question": "What is Cetirizine used for?",
+      "answer": "Cetirizine is commonly used for conditions as prescribed by your doctor."
+    },
+    {
+      "question": "Can I take Cetirizine without prescription?",
+      "answer": "Always consult a qualified doctor before starting any medication."
+    }
+  ],
+  "popular": false,
+  "updatedAt": "2026-07-01"
+}

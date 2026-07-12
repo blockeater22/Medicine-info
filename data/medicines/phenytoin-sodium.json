@@ -1,0 +1,87 @@
+{
+  "slug": "phenytoin-sodium",
+  "genericName": "Phenytoin sodium",
+  "brandNames": [
+    "Phenytoin Sodium"
+  ],
+  "composition": "PHENYTOIN SODIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE Parenteral Phenytoin Sodium Injection is indicated for the treatment of generalized tonic-clonic status epilepticus...",
+    "Clinicians may prescribe this medicine when managing intravenous phenytoin can also be substituted, as short-term use, for oral phenytoin.",
+    "Medical teams consider this option for patients needing support with parenteral phenytoin should be used only when oral phenytoin administration is not possible [see Dosage and Administration (2.1...",
+    "Medical teams consider this option for patients needing support with parenteral Phenytoin Sodium Injection is indicated for the treatment of generalized tonic clonic status epilepticus and prevention and treatment of seizures ...",
+    "This agent is commonly used in care plans involving parenteral phenytoin should be used only when oral phenytoin administration is not possible."
+  ],
+  "howItWorks": "Phenytoin Sodium belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 ) pediatric loading dose is 15 to 20 mg/kg at a rate not exceeding 1 to 3 mg/kg/min or 50 mg/min, whichever is slower. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 8) and warnings and precautions (5. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use phenytoin clearance tends to decrease with increasing age [see clinical pharmacology (12. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine.",
+    "A possible treatment-related effect includes the most notable signs of toxicity associated with the intravenous use of this drug are cardiovascular collapse and/or CNS depression.",
+    "Monitoring is advised because hypotension does occur when the drug is administered rapidly by the intravenous route may occur.",
+    "A possible treatment-related effect includes the rate of administration is very important.",
+    "A possible treatment-related effect includes it should not exceed 50 mg per minute in adults, and 1 to 3 mg/kg/min (or 50 mg per minute, whichever is slower) in pediatric patients [see Boxed Warning ...",
+    "Monitoring is advised because body As a Whole: Allergic reactions in the form of rash and rarely more serious forms (see Skin and Appendages paragraph below) and DRESS [see Warnings and P.. may occur.",
+    "Some patients report anaphylaxis has also been reported while taking this medicine.",
+    "A possible treatment-related effect includes there have also been reports of coarsening of facial features, systemic lupus erythematosus, periarteritis nodosa, and immunoglobulin abnormalities."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when body As a Whole: Allergic reactions in the form of rash and rarely more serious forms (see Skin and Appendages paragraph below) and DRESS [see Warnings and P...",
+    "Extra caution is needed because cardiovascular: Severe cardiovascular events and fatalities have been reported with atrial and ventricular conduction depression and ventricular fibrillation.",
+    "Healthcare providers evaluate risk when severe complications are most commonly encountered in elderly or critically ill patients [see Boxed Warning and Wa rnings and Precautions (5.1 )]."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy P regnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (A...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Phenytoin is extensively bound to plasma proteins and is prone to competitive displacement.",
+      "Healthcare providers evaluate risk when phenytoin is primarily metabolized by hepatic cytochrome P450 enzymes CYP2C9 and to a lesser extent by CYP2C19 and is particularly susceptible to inhibitory ...",
+      "Patients should discuss safety when inhibition of metabolism may produce significant increases in circulating phenytoin concentrations and enhance the risk of drug toxicity.",
+      "Patients should discuss safety when monitoring of phenytoin serum levels is recommended when a drug interaction is suspected.",
+      "Healthcare providers evaluate risk when phenytoin is a potent inducer of hepatic drug-metabolizing enzymes.",
+      "Extra caution is needed because multiple drug interactions because of extensive plasma protein binding, saturable metabolism and potent induction of hepatic enzymes."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Phenytoin sodium information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Phenytoin sodium on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-04-09T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22phenytoin%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:59.336Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=phenytoin%20sodium",
+      "accessedAt": "2026-07-12T06:31:59.336Z"
+    }
+  ]
+}

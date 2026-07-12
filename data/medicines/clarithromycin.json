@@ -1,0 +1,86 @@
+{
+  "slug": "clarithromycin",
+  "genericName": "Clarithromycin",
+  "brandNames": [
+    "Clarithromycin"
+  ],
+  "composition": "CLARITHROMYCIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Macrolide Antimicrobial [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing the eradication of H.",
+    "Medical teams consider this option for patients needing support with clarithromycin tablets in combination with amoxicillin and PREVACID (lansoprazole) or PRILOSEC (omeprazole) delayed-release capsules, as triple therapy...",
+    "This agent is commonly used in care plans involving clarithromycin tablets in combination with PRILOSEC (omeprazole) capsules are indicated for the treatment of patients with an active duodenal ulcer associate...",
+    "Clinicians may prescribe this medicine when managing regimens which contain clarithromycin tablets as the single antibacterial agent are more likely to be associated with the development of clarithromycin resis...",
+    "Clinicians may prescribe this medicine when managing clarithromycin-containing regimens should not be used in patients with known or suspected clarithromycin resistant isolates because the efficacy of treatment...",
+    "Clinicians may prescribe this medicine when managing susceptibility testing should be performed when clinically indicated."
+  ],
+  "howItWorks": "Clarithromycin belongs to the macrolide antimicrobial [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration adults : clarithromycin tablets 250 mg or 500 mg every 12 hours for 7 to 14 days ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an safety and effectiveness of clarithromycin in pediatric patients under 6 months of age have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an these changes in pharmacokinetics parallel known age-related decreases in renal function. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because based on pooled data across all indications.. may occur.",
+    "Some patients report also reported were dyspepsia, liver function test abnormal, anaphylactic reaction, candidiasis, headache, insomnia, and rash while taking this medicine.",
+    "Some patients report the subsequent subsections list the most common adverse reactions for prophylaxis and treatment of mycobacterial infections and duodenal ulcer associated with H while taking this medicine.",
+    "Monitoring is advised because in general, these profiles are consistent with the pooled data described above may occur.",
+    "Monitoring is advised because prophylaxis of Mycobacterial Infections In AIDS patients treated with clarithromycin over long periods of time for prophylaxis against M may occur.",
+    "Some patients report median duration of treatment was 10.6 months for the clarithromycin group and 8.2 months for the placebo group while taking this medicine.",
+    "A possible treatment-related effect includes primary reasons for discontinuation in clarithromycin tablets treated patients include headache, nausea, vomiting, depression, and taste perversion.",
+    "Some patients report changes in Laboratory Values Selected laboratory adverse experiences that were reported during therapy in greater than 2 % of adult patients treated with cla.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because in immunocompromised patients receiving prophylaxis against M."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Based on findings from animal studies...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Co-administration of clarithromycin tablets is known to inhibit CYP3A...",
+      "Extra caution is needed because clarithromycin tablets should be used with caution in patients receiving treatment with other drugs known to be CYP3A enzyme substrates...",
+      "Patients should discuss safety when adjust dosage when appropriate and monitor serum concentrations of drugs primarily metabolized by CYP3A closely in patients concurrently receiving clarithrom...",
+      "Patients should discuss safety when electrocardiograms should be monitored for QTc prolongation during coadministration of clarithromycin with these drugs [see Warnings and Precautions ( 5.2 )].",
+      "Extra caution is needed because serum concentrations of these medications should also be monitored.",
+      "Extra caution is needed because there have been spontaneous or published reports of CYP3A based interactions of clarithromycin with disopyramide and quinidine."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Clarithromycin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Clarithromycin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-10-15T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22clarithromycin%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:48.432Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=clarithromycin",
+      "accessedAt": "2026-07-12T06:31:48.432Z"
+    }
+  ]
+}

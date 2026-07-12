@@ -1,0 +1,69 @@
+headache
+fever
+cough
+chest pain
+fatigue
+nausea
+vomiting
+diarrhea
+constipation
+abdominal pain
+back pain
+joint pain
+muscle pain
+dizziness
+shortness of breath
+palpitations
+swelling
+weight loss
+weight gain
+loss of appetite
+heartburn
+bloating
+blood in stool
+blood in urine
+frequent urination
+painful urination
+skin rash
+itching
+hair loss
+blurred vision
+double vision
+hearing loss
+ear pain
+sore throat
+runny nose
+nasal congestion
+sneezing
+night sweats
+chills
+confusion
+memory loss
+numbness
+tingling
+weakness
+tremor
+seizure
+fainting
+insomnia
+snoring
+anxiety symptoms
+low mood
+panic attacks
+heavy periods
+irregular periods
+pelvic pain
+erectile difficulty
+breast lump
+neck swelling
+lymph node swelling
+yellow skin
+pale skin
+easy bruising
+nosebleed
+leg pain
+foot pain
+tooth pain
+jaw pain
+hoarseness
+difficulty swallowing

@@ -1,0 +1,71 @@
+complete blood count
+fasting blood sugar
+hba1c
+lipid profile
+liver function test
+kidney function test
+thyroid profile
+urine routine examination
+electrocardiogram
+chest x-ray
+vitamin d test
+vitamin b12 test
+c-reactive protein
+erythrocyte sedimentation rate
+covid-19 rt-pcr
+blood culture
+stool routine
+pap smear
+mammography
+psa test
+hiv test
+hepatitis b surface antigen
+hepatitis c antibody
+dengue ns1 antigen
+malaria smear
+widal test
+typhidot test
+serum electrolytes
+serum calcium
+serum iron
+ferritin
+tsh test
+free t4
+uric acid
+creatinine
+blood urea nitrogen
+alt test
+ast test
+bilirubin total
+prothrombin time
+inr test
+d-dimer
+troponin
+bnp test
+pulmonary function test
+abdominal ultrasound
+thyroid ultrasound
+echocardiography
+ct scan chest
+mri brain
+bone density scan
+ogtt test
+random blood sugar
+urine microalbumin
+semen analysis
+hbsag
+hcv rna
+rheumatoid factor
+ana test
+anti-ccp
+stool occult blood
+h pylori test
+celiac antibody panel
+allergy panel ige
+vitamin b1
+folate level
+amylase
+lipase
+ldh test
+cpk test
+arterial blood gas

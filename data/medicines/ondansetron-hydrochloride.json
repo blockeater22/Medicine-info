@@ -1,0 +1,81 @@
+{
+  "slug": "ondansetron-hydrochloride",
+  "genericName": "Ondansetron hydrochloride",
+  "brandNames": [
+    "ondansetron hydrochloride"
+  ],
+  "composition": "ONDANSETRON HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with management of conditions associated with ondansetron hydrochloride."
+  ],
+  "howItWorks": "Ondansetron Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an corresponding doses of ondansetron tablets may be used interchangeably. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 2) , clinical studies (14. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an no dosage adjustment is needed in elderly patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes reddy's Laboratories Inc., at 1-888-375-3784 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.",
+    "A possible treatment-related effect includes the following adverse reactions have been reported in clinical trials of patients treated with ondansetron, the active ingredient of ondansetron.",
+    "A possible treatment-related effect includes a causal relationship to therapy with ondansetron was unclear in many cases.",
+    "Some patients report prevention of Chemotherapy-Induced Nausea and Vomiting The most common adverse reactions reported in greater than or equal to 4% of 300 adults receiving a si.. while taking this medicine.",
+    "Some patients report the most common adverse reactions reported in 4 trials in adults for the prevention of nausea and vomiting associated with moderately emetogenic chemotherapy.. while taking this medicine.",
+    "A possible treatment-related effect includes less Common Adverse Reactions Central Nervous System: Extrapyramidal reactions (less than 1% of patients).",
+    "Some patients report hepatic: Aspartate transaminase (AST) and/or alanine transaminase (ALT) values exceeded twice the upper limit of normal in approximately 1% to 2% of 723 pati.. while taking this medicine.",
+    "A possible treatment-related effect includes the increases were transient and did not appear to be related to dose or duration of therapy."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Hypersensitivity Reactions, Including Anaphylaxis and Bronchospasm : Discontinue ondansetron if suspected.",
+    "Healthcare providers evaluate risk when monitor and treat promptly per standard of care until signs and symptoms resolve ( 5.1 ) QT Interval Prolongation and Torsade de Pointes : Avoid ondansetron ...",
+    "Healthcare providers evaluate risk when monitor with electrocardiograms (ECGs) if concomitant electrolyte abnormalities, cardiac failure or arrhythmias, or use of other QT prolonging drugs."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Published epidemiological studies on the association between ondansetron use and major birth defects have reported inconsistent fi...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS 7.1 Serotonergic Drugs Serotonin syndrome (including altered mental status, autonomic instability...",
+      "Patients should discuss safety when monitor for the emergence of serotonin syndrome.",
+      "Extra caution is needed because if symptoms occur, discontinue ondansetron and initiate supportive treatment [see Warnings and Precautions ( 5.3) ].",
+      "Healthcare providers evaluate risk when because ondansetron is metabolized by hepatic cytochrome P-450 drug-metabolizing enzymes (CYP3A4, CYP2D6, CYP1A2)...",
+      "Healthcare providers evaluate risk when in patients treated with potent inducers of CYP3A4 (i.e., phenytoin, carbamazepine, and rifampin)...",
+      "Healthcare providers evaluate risk when however, on the basis of available data, no dosage adjustment for ondansetron is recommended for patients on these drugs [see Clinical Pharmacology ( 12.3 )]."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Ondansetron hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Ondansetron hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-04-24T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22ondansetron%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:53.205Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ondansetron%20hydrochloride",
+      "accessedAt": "2026-07-12T06:31:53.205Z"
+    }
+  ]
+}

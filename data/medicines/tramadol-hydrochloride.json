@@ -1,0 +1,82 @@
+{
+  "slug": "tramadol-hydrochloride",
+  "genericName": "Tramadol hydrochloride",
+  "brandNames": [
+    "TRAMADOL HYDROCHLORIDE"
+  ],
+  "composition": "TRAMADOL HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Tramadol hydrochloride extended-release tablets are indicated for the management of severe and persistent pain that requires an opioi..."
+  ],
+  "howItWorks": "Tramadol Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 1) use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an , multiple copies of the gene for cytochrome p450 isoenzyme 2d6). Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an of those subjects, 156 were 75 years of age and older. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report tramadol hydrochloride extended-release tablets were administered to a total of 3108 patients during studies conducted in the U.S while taking this medicine.",
+    "A possible treatment-related effect includes these included four double-blind studies in patients with osteoarthritis and/or chronic low back pain and one open-label study in patients with chronic non-m...",
+    "A possible treatment-related effect includes a total of 901 patients were 65 years or older.",
+    "Monitoring is advised because the frequency of adverse reactions generally increased with doses from 100 mg to 400 mg in the two pooled, twelve-week, randomized, double-blind.. may occur.",
+    "Some patients report the most common adverse reactions from Table 1 occurring in ≥10% and ≥2 x placebo rate of the patients treated with tramadol hydrochloride extended-release t.. while taking this medicine.",
+    "Monitoring is advised because table 1: Incidence (%) of patients with adverse reaction rates ≥ 5% from two 12-week placebo-controlled studies in patients with moderate to moderately sever.. may occur.",
+    "A possible treatment-related effect includes the lists below include adverse reactions not otherwise noted in Table 1.",
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when table 1: Incidence (%) of patients with adverse reaction rates ≥ 5% from two 12-week placebo-controlled studies in patients with moderate to moderately sever...",
+    "Patients should discuss safety when serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnin...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Table 2 includes clinically significant drug interactions with tramadol hydrochloride extended-release tablets.",
+      "Healthcare providers evaluate risk when since M1 is a more potent µ-opioid agonist, decreased M1 exposure could result in decreased therapeutic effects...",
+      "Extra caution is needed because increased tramadol exposure can result in increased or prolonged therapeutic effects and increased risk for serious adverse events including seizures and ser...",
+      "Patients should discuss safety when after stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline...",
+      "Healthcare providers evaluate risk when intervention: If concomitant use of a CYP2D6 inhibitor is necessary...",
+      "Healthcare providers evaluate risk when if a CYP2D6 inhibitor is discontinued, consider lowering tramadol hydrochloride extended-release tablets dosage until stable drug effects are achieved."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Tramadol hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Tramadol hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-11-20T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22tramadol%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:46.086Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=tramadol%20hydrochloride",
+      "accessedAt": "2026-07-12T06:31:46.086Z"
+    }
+  ]
+}

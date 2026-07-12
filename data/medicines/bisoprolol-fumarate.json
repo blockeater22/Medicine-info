@@ -1,0 +1,79 @@
+{
+  "slug": "bisoprolol-fumarate",
+  "genericName": "Bisoprolol fumarate",
+  "brandNames": [
+    "Bisoprolol fumarate"
+  ],
+  "composition": "BISOPROLOL FUMARATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with bisoprolol fumarate tablets are indicated in the management of hypertension.",
+    "Clinicians may prescribe this medicine when managing it may be used alone or in combination with other antihypertensive agents."
+  ],
+  "howItWorks": "Bisoprolol Fumarate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration the dose of bisoprolol fumarate tablets must be individualized to the needs of the patient. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an geriatric use bisoprolol fumarate tablets have been used in elderly patients with hypertension. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes safety data are available in more than 30,000 patients or volunteers.",
+    "A possible treatment-related effect includes frequency estimates and rates of withdrawal of therapy for adverse events were derived from two U.S.",
+    "Some patients report in Study A, doses of 5, 10, and 20 mg bisoprolol fumarate were administered for 4 weeks while taking this medicine.",
+    "A possible treatment-related effect includes in Study B, doses of 2.5, 10, and 40 mg of bisoprolol fumarate were administered for 12 weeks.",
+    "A possible treatment-related effect includes a total of 273 patients were treated with 5-20 mg of bisoprolol fumarate.",
+    "Monitoring is advised because 132 received placebo may occur.",
+    "A possible treatment-related effect includes withdrawal of therapy for adverse events was 3.3% for patients receiving bisoprolol fumarate and 6.8% for patients on placebo.",
+    "Some patients report withdrawals were less than 1% for either bradycardia or fatigue/lack of energy while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because click here to enter Warnings Cardiac Failure Sympathetic stimulation is a vital component supporting circulatory function in the setting of congestive heart ...",
+    "Extra caution is needed because in general, beta-blocking agents should be avoided in patients with overt congestive failure.",
+    "Healthcare providers evaluate risk when however, in some patients with compensated cardiac failure it may be necessary to utilize them."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when pregnancy In rats...",
+    "breastfeeding": "Patients should discuss safety when nursing Mothers Small amounts of bisoprolol fumarate (< 2% of the dose) have been detected in the milk of lactating rats.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Bisoprolol fumarate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Bisoprolol fumarate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "hypertension"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-06-26T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22bisoprolol%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:06.572Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=bisoprolol%20fumarate",
+      "accessedAt": "2026-07-12T06:32:06.572Z"
+    }
+  ]
+}

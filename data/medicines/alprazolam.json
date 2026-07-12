@@ -1,0 +1,81 @@
+{
+  "slug": "alprazolam",
+  "genericName": "Alprazolam",
+  "brandNames": [
+    "Alprazolam"
+  ],
+  "composition": "ALPRAZOLAM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Benzodiazepine [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE Alprazolam tablets are indicated for the: acute treatment of generalized anxiety disorder (GAD) in adults.",
+    "Clinicians may prescribe this medicine when managing alprazolam is a benzodiazepine indicated for the: Acute treatment of generalized anxiety disorder in adults."
+  ],
+  "howItWorks": "Alprazolam belongs to the benzodiazepine [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration generalized anxiety disorder : ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness of alprazolam have not been established in pediatric patients. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an therefore, dosage reduction of alprazolam is recommended in geriatric patients [see dosage and administration (2. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because table 3: Discontinuation-Emergent Symptom Incidence Reported in ≥5% of Alprazolam-treated Patients and > Placebo-treated Patients n=number of patients may occur.",
+    "Some patients report paradoxical reactions such as stimulation, increased muscle spasticity, sleep disturbances, hallucinations.. while taking this medicine.",
+    "Some patients report in many of the spontaneous case reports of adverse behavioral effects.. while taking this medicine.",
+    "A possible treatment-related effect includes should any of the above events occur, alprazolam should be discontinued.",
+    "A possible treatment-related effect includes isolated published reports involving small numbers of patients have suggested that patients who have borderline personality disorder...",
+    "Some patients report instances of irritability, hostility.. while taking this medicine.",
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Effects on Driving and Operating Machinery: Patients receiving alprazolam should be cautioned against operating machinery or drivi...",
+    "Patients should discuss safety when because of these risks, reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.",
+    "Extra caution is needed because observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared t..."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to psychiatric medications...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when table 4: Clinically Significant Drug Interactions with Alprazolam Opioids Clinical implication The concomitant use of benzodiazepines and opioids increases t...",
+      "Patients should discuss safety when benzodiazepines interact at gamma-aminobutyric acid(GABA A ) sites and opioids interact primarily at mu receptors.",
+      "Patients should discuss safety when when benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.",
+      "Patients should discuss safety when prevention or management Limit dosage and duration of concomitant use of alprazolam and opioids...",
+      "Extra caution is needed because examples Morphine, buprenorphine, hydromorphone, oxymorphone, oxycodone, fentanyl, methadone, alfentanil, butorpenol, codeine, dihydrocodeine, meperidine...",
+      "Extra caution is needed because cNS Depressants Clinical implication The benzodiazepines, including alprazolam..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Alprazolam information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Alprazolam on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-01-03T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22alprazolam%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:01.589Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=alprazolam",
+      "accessedAt": "2026-07-12T06:32:01.589Z"
+    }
+  ]
+}

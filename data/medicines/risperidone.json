@@ -1,0 +1,87 @@
+{
+  "slug": "risperidone",
+  "genericName": "Risperidone",
+  "brandNames": [
+    "RISPERIDONE"
+  ],
+  "composition": "RISPERIDONE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Atypical Antipsychotic [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving efficacy was established in 4 short-term trials in adults, 2 short-term trials in adolescents (ages 13 to 17 years)...",
+    "Medical teams consider this option for patients needing support with efficacy was established in 2 short-term trials in adults and one short-term trial in children and adolescents (ages 10 to 17 years) [see Clinical Studies (1...",
+    "This agent is commonly used in care plans involving adjunctive Therapy Risperidone tablets adjunctive therapy with lithium or valproate is indicated for the treatment of acute manic or mixed episodes associate...",
+    "This agent is commonly used in care plans involving efficacy was established in one short-term trial in adults [see Clinical Studies (14.3) ].",
+    "Medical teams consider this option for patients needing support with efficacy was established in 3 short-term trials in children and adolescents (ages 5 to 17 years) [see Clinical Studies (14.4) ]."
+  ],
+  "howItWorks": "Risperidone belongs to the atypical antipsychotic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration table 1. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 1) , adverse reactions (6. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report the most common adverse reactions that were associated with discontinuation from clinical trials (causing discontinuation in >1% of adults and/or >2% of pedi.. while taking this medicine.",
+    "Some patients report the data described in this section are derived from a clinical trial database consisting of 9803 adult and pediatric patients exposed to one or more doses of.. while taking this medicine.",
+    "A possible treatment-related effect includes of these 9803 patients, 2687 were patients who received risperidone tablets while participating in double-blind, placebo-controlled trials.",
+    "Monitoring is advised because the conditions and duration of treatment with risperidone tablets varied greatly and included (in overlapping categories) double-blind.. may occur.",
+    "Some patients report safety was assessed by collecting adverse events and performing physical examinations, vital signs, body weights, laboratory analyses, and ECGs while taking this medicine.",
+    "A possible treatment-related effect includes commonly-Observed Adverse Reactions in Double-Blind...",
+    "Some patients report in ≥2% of Risperidone Tablets-Treated Adult Patients (and greater than placebo) with Schizophrenia in Double-Blind.. while taking this medicine.",
+    "Some patients report akathisia includes akathisia and restlessness while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when these metabolic changes include hyperglycemia, dyslipidemia, and weight gain.",
+    "Extra caution is needed because monitor glucose regularly in patients with diabetes or at risk for diabetes.",
+    "Extra caution is needed because monitor weight gain."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics...",
+    "breastfeeding": "Extra caution is needed because 8.3 Females and Males of Reproductive Potential Infertility Females Based on the pharmacologic action of risperidone (D 2 receptor antagonism)...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Carbamazepine and other enzyme inducers decrease plasma concentrations of risperidone.",
+      "Extra caution is needed because increase the risperidone tablets dose up to double the patient’s usual dose.",
+      "Extra caution is needed because titrate slowly.",
+      "Extra caution is needed because reduce the initial dose.",
+      "Patients should discuss safety when exceed a final dose of 8 mg per day of risperidone tablets.",
+      "Healthcare providers evaluate risk when dose adjustment is not recommended for risperidone tablets when co-administered with ranitidine, cimetidine, amitriptyline, or erythromycin [see Table 18 ]."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Risperidone information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Risperidone on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-06-25T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22risperidone%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:00.468Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=risperidone",
+      "accessedAt": "2026-07-12T06:32:00.468Z"
+    }
+  ]
+}

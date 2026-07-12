@@ -1,0 +1,88 @@
+{
+  "slug": "diazepam",
+  "genericName": "Diazepam",
+  "brandNames": [
+    "Diazepam"
+  ],
+  "composition": "DIAZEPAM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Benzodiazepine [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with diazepam tablets are indicated for the management of anxiety disorders or for the short-term relief of the symptoms of anxiety.",
+    "Clinicians may prescribe this medicine when managing anxiety or tension associated with the stress of everyday life usually does not require treatment with an anxiolytic.",
+    "Clinicians may prescribe this medicine when managing in acute alcohol withdrawal, diazepam tablets may be useful in the symptomatic relief of acute agitation, tremor...",
+    "Clinicians may prescribe this medicine when managing diazepam tablets are a useful adjunct for the relief of skeletal muscle spasm due to reflex spasm to local pathology (such as inflammation of the muscles or ...",
+    "Clinicians may prescribe this medicine when managing oral diazepam tablets may be used adjunctively in convulsive disorders, although it has not proved useful as the sole therapy.",
+    "This agent is commonly used in care plans involving the effectiveness of diazepam tablets in long-term use, that is, more than 4 months, has not been assessed by systematic clinical studies."
+  ],
+  "howItWorks": "Diazepam belongs to the benzodiazepine [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration dosage should be individualized for maximum beneficial effect. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness in pediatric patients below the age of 6 months have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 mg once or twice daily, initially to be increased gradually as needed and tolerated). Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes side effects most commonly reported were drowsiness, fatigue, muscle weakness, and ataxia.",
+    "Monitoring is advised because inappropriate behavior and other adverse behavioral effects have been reported when using benzodiazepines may occur.",
+    "Monitoring is advised because should these occur, use of the drug should be discontinued may occur.",
+    "Monitoring is advised because they are more likely to occur in children and in the elderly may occur.",
+    "Monitoring is advised because urogenital System: incontinence, changes in libido.. may occur.",
+    "Some patients report amnestic effects may be associated with inappropriate behavior while taking this medicine.",
+    "Monitoring is advised because minor changes in EEG patterns, usually low-voltage fast activity.. may occur.",
+    "Monitoring is advised because because of isolated reports of neutropenia and jaundice, periodic blood counts and liver function tests are advisable during long-term therapy may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when risks from Concomitant Use with Opioids Concomitant use of benzodiazepiones, including diazepam tablets, and opioids may result in profound sedation...",
+    "Patients should discuss safety when because of these risks, reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.",
+    "Extra caution is needed because observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared t..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when neonatal Sedation and Withdrawal Syndrome Use of diazepam tablets late in pregnancy can result in sedation (respiratory depression, lethargy...",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers Diazepam is present in breastmilk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when drug Interactions Opioids The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different rec...",
+      "Healthcare providers evaluate risk when benzodiazepines interact at GABA A sites and opioids interact primarily at mu receptors.",
+      "Patients should discuss safety when when benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.",
+      "Patients should discuss safety when limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.",
+      "Patients should discuss safety when alcohol Concomitant use with alcohol is not recommended due to enhancement of the sedative effect.",
+      "Patients should discuss safety when antacids Diazepam peak concentrations are 30% lower when antacids are administered concurrently."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Diazepam information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Diazepam on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-10-27T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22diazepam%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:02.060Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=diazepam",
+      "accessedAt": "2026-07-12T06:32:02.060Z"
+    }
+  ]
+}

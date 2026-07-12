@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#2563eb"/>
+  <circle cx="600" cy="280" r="80" stroke="white" stroke-width="12" fill="none"/>
+  <path d="M600 220v120M540 280h120" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <text x="600" y="420" text-anchor="middle" fill="white" font-family="system-ui,sans-serif" font-size="48" font-weight="700">Doctors Hub</text>
+  <text x="600" y="470" text-anchor="middle" fill="white" font-family="system-ui,sans-serif" font-size="24" opacity="0.9">India's Trusted Medical Information</text>
+</svg>

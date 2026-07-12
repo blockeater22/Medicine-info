@@ -1,0 +1,89 @@
+{
+  "slug": "olanzapine",
+  "genericName": "Olanzapine",
+  "brandNames": [
+    "Olanzapine"
+  ],
+  "composition": "OLANZAPINE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Atypical Antipsychotic [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE Olanzapine is an atypical antipsychotic indicated: As oral formulation for the: Treatment of schizophrenia.",
+    "This agent is commonly used in care plans involving maintenance efficacy has not been systematically evaluated.",
+    "Clinicians may prescribe this medicine when managing as Olanzapine and Fluoxetine in Combination for the: Treatment of depressive episodes associated with bipolar I disorder.",
+    "Medical teams consider this option for patients needing support with the product label for Symbyax.",
+    "Clinicians may prescribe this medicine when managing treatment of treatment resistant depression.",
+    "Clinicians may prescribe this medicine when managing efficacy was established in three clinical trials in adult patients with schizophrenia: two 6-week trials and one maintenance trial."
+  ],
+  "howItWorks": "Olanzapine belongs to the atypical antipsychotic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration schizophrenia in adults ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 5 mg/day to 20 mg/day [see clinical studies ( 14. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an , stroke, transient ischemic attack) in patients treated with olanzapine compared to patients treated with placebo. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes 6 ADVERSE REACTIONS When using olanzapine and fluoxetine in combination, also refer to the Adverse Reactions section of the package insert for Symbyax.",
+    "Monitoring is advised because clinical Trials in Adults The information below for olanzapine is derived from a clinical trial database for olanzapine consisting of 10.. may occur.",
+    "A possible treatment-related effect includes this database includes: (1) 2500 patients who participated in multiple-dose oral olanzapine premarketing trials in schizophrenia and Alzheimer's disease repr...",
+    "Monitoring is advised because (2) 182 patients who participated in oral olanzapine premarketing bipolar I disorder (manic or mixed episodes) trials representing approximately 66 patient-y.. may occur.",
+    "Some patients report (3) 191 patients who participated in an oral olanzapine trial of patients having various psychiatric symptoms in association with Alzheimer's disease represe.. while taking this medicine.",
+    "A possible treatment-related effect includes (4)5788 additional patients from 88 oral olanzapine clinical trials as of December 31, 2001.",
+    "A possible treatment-related effect includes (5) 1843 additional patients from 41 olanzapine clinical trials as of October 31, 2011.",
+    "Some patients report and (6) 722 patients who participated in intramuscular olanzapine for injection premarketing trials in agitated patients with schizophrenia.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS When using olanzapine and fluoxetine in combination...",
+    "Patients should discuss safety when elderly Patients with Dementia-Related Psychosis: Increased risk of death and increased incidence of cerebrovascular adverse events (e.g., stroke...",
+    "Patients should discuss safety when patients taking olanzapine should be monitored for symptoms of hyperglycemia and undergo fasting blood glucose testing at the beginning of..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics...",
+    "breastfeeding": "Extra caution is needed because 8.3 Females and Males of Reproductive Potential Infertility Females Based on the pharmacologic action of olanzapine (D 2 receptor antagonism)...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS The risks of using olanzapine in combination with other drugs have not been extensively evaluated in systematic studies.",
+      "Extra caution is needed because cimetidine and Antacids — Single doses of cimetidine (800 mg) or aluminum- and magnesium-containing antacids did not affect the oral bioavailability of olanz...",
+      "Healthcare providers evaluate risk when inducers of CYP1A2 — Carbamazepine therapy (200 mg bid) causes an approximately 50% increase in the clearance of olanzapine.",
+      "Healthcare providers evaluate risk when this increase is likely due to the fact that carbamazepine is a potent inducer of CYP1A2 activity.",
+      "Extra caution is needed because higher daily doses of carbamazepine may cause an even greater increase in olanzapine clearance.",
+      "Patients should discuss safety when alcohol — Ethanol (45 mg/70 kg single dose) did not have an effect on olanzapine pharmacokinetics."
+    ]
+  },
+  "storage": "In routine practice, 16.2 Storage and Handling Store olanzapine orally disintegrating tablets, USP at 20° to 25°C (68° to 77°F) [ see USP Controlled Room Temperature].",
+  "faqs": [
+    {
+      "question": "Can I rely on this Olanzapine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Olanzapine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "depression"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-07-10T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22olanzapine%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:00.826Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=olanzapine",
+      "accessedAt": "2026-07-12T06:32:00.826Z"
+    }
+  ]
+}

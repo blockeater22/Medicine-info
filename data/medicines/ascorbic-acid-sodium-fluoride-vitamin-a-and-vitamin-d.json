@@ -1,0 +1,73 @@
+{
+  "slug": "ascorbic-acid-sodium-fluoride-vitamin-a-and-vitamin-d",
+  "genericName": "Ascorbic acid, sodium fluoride, vitamin a and vitamin d",
+  "brandNames": [
+    "Tri-Vite Drops with Fluoride"
+  ],
+  "composition": "ASCORBIC ACID — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Vitamin C [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving supplementation of the diet with vitamins A, C and D.",
+    "Clinicians may prescribe this medicine when managing tri-Vite Drops with Fluoride 0.25 mg also provides fluoride for caries prophylaxis.",
+    "Clinicians may prescribe this medicine when managing the American Academy of Pediatrics recommends that children up to age 16, in areas where drinking water contains less than optimal levels of fluoride...",
+    "This agent is commonly used in care plans involving tri-Vite Drops with Fluoride 0.25 mg supply significant amounts of vitamins A, C and D to supplement the diet...",
+    "Clinicians may prescribe this medicine when managing thus, in a single easy-to-use preparation, children obtain essential vitamins and fluoride."
+  ],
+  "howItWorks": "Ascorbic Acid, Sodium Fluoride, Vitamin A And Vitamin D belongs to the vitamin c [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration 1. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report allergic rash and other idiosyncrasies have been rarely reported while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because as in the case of all medications,."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Ascorbic acid, sodium fluoride, vitamin a and vitamin d information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Ascorbic acid, sodium fluoride, vitamin a and vitamin d on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-10-21T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22vitamin%20d%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:49.916Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ascorbic%20acid%2C%20sodium%20fluoride%2C%20vitamin%20a%20and%20vitamin%20d",
+      "accessedAt": "2026-07-12T06:31:49.916Z"
+    }
+  ]
+}

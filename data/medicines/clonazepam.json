@@ -1,0 +1,89 @@
+{
+  "slug": "clonazepam",
+  "genericName": "Clonazepam",
+  "brandNames": [
+    "Clonazepam"
+  ],
+  "composition": "CLONAZEPAM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Benzodiazepine [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with seizure Disorders: Clonazepam tablets are useful alone or as an adjunct in the treatment of the Lennox-Gastaut syndrome (petit mal variant), akinetic...",
+    "Medical teams consider this option for patients needing support with in patients with absence seizures (petit mal) who have failed to respond to succinimides, clonazepam tablets may be useful.",
+    "This agent is commonly used in care plans involving some loss of effect may occur during the course of clonazepam treatment (see PRECAUTIONS : Loss of Effect ).",
+    "Medical teams consider this option for patients needing support with panic Disorder: Clonazepam tablets are indicated for the treatment of panic disorder, with or without agoraphobia, as defined in DSM-V.",
+    "This agent is commonly used in care plans involving panic disorder is characterized by the occurrence of unexpected panic attacks and associated concern about having additional attacks...",
+    "This agent is commonly used in care plans involving the efficacy of clonazepam tablets was established in two 6- to 9-week trials in panic disorder patients whose diagnoses corresponded to the DSM-IIIR categor..."
+  ],
+  "howItWorks": "Clonazepam belongs to the benzodiazepine [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration clonazepam is available as a tablet. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an safety and effectiveness in pediatric patients with panic disorder below the age of 18 have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes the adverse experiences for clonazepam tablets are provided separately for patients with seizure disorders and with panic disorder.",
+    "A possible treatment-related effect includes seizure Disorders: The most frequently occurring side effects of clonazepam tablets are referable to CNS depression.",
+    "Monitoring is advised because experience in treatment of seizures has shown that drowsiness has occurred in approximately 50% of patients and ataxia in approximately 30% may occur.",
+    "Monitoring is advised because in some cases, these may diminish with time may occur.",
+    "A possible treatment-related effect includes behavior problems have been noted in approximately 25% of patients.",
+    "Some patients report the following paradoxical reactions have been observed: irritability, aggression, agitation, nervousness, hostility, anxiety, sleep disturbances, nightmares.. while taking this medicine.",
+    "A possible treatment-related effect includes respiratory: Chest congestion, rhinorrhea, shortness of breath...",
+    "A possible treatment-related effect includes consequently..."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when risks from Concomitant Use with Opioids: Concomitant use of benzodiazepines, including clonazepam tablets, and opioids may result in profound sedation...",
+    "Patients should discuss safety when because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for patients for whom alternative treatment options are inadequate.",
+    "Extra caution is needed because observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared t..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pregnancy: Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs...",
+    "breastfeeding": "Extra caution is needed because nursing Mothers: Risk Summary Clonazepam is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when drug Interactions: Effect of Concomitant Use of Benzodiazepines and Opioids: The concomitant use of benzodiazepines and opioids increases the risk of respira...",
+      "Patients should discuss safety when benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors.",
+      "Patients should discuss safety when when benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.",
+      "Healthcare providers evaluate risk when limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation.",
+      "Patients should discuss safety when effect of Clonazepam on the Pharmacokinetics of Other Drugs: Clonazepam does not appear to alter the pharmacokinetics of carbamazepine or phenobarbital.",
+      "Patients should discuss safety when clonazepam has the potential to influence concentrations of phenytoin."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Clonazepam information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Clonazepam on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "uti"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-03-16T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22clonazepam%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:02.424Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=clonazepam",
+      "accessedAt": "2026-07-12T06:32:02.424Z"
+    }
+  ]
+}

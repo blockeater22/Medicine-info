@@ -1,0 +1,79 @@
+{
+  "slug": "ferrous-fumarate-and-polysacchride-iron-complex-and-folic-acid",
+  "genericName": "Ferrous fumarate and polysacchride iron complex and folic acid",
+  "brandNames": [
+    "Integra F"
+  ],
+  "composition": "ASCORBIC ACID — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Vitamin C [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with iNDICATIONS: Integra FTM is indicated for the treatment of iron deficiency anemia, and folate deficiency anemia.",
+    "Clinicians may prescribe this medicine when managing integra FTM is indicated in pregnancy for the prevention and treatment of iron deficiency and to supply a maintenance dosage of folic acid."
+  ],
+  "howItWorks": "Ferrous Fumarate And Polysacchride Iron Complex And Folic Acid belongs to the vitamin c [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an do not exceed recommended dosage. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use: safety and effectiveness of this product have not been established in pediatric patients. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report folic Acid: Allergic sensitizations have been reported following both oral and parenteral administration of folic acid while taking this medicine.",
+    "Some patients report ferrous Fumarate: Gastrointestinal disturbances (anorexia, nausea, diarrhea, constipation, heartburn and vomiting) occur occasionally.. while taking this medicine.",
+    "Some patients report reducing the dose and administering it with meals will minimize these effects in the sensitive patient while taking this medicine.",
+    "Monitoring is advised because increasing fiber in the diet can relieve constipation may occur.",
+    "Monitoring is advised because iron may turn stools black may occur.",
+    "A possible treatment-related effect includes this is a harmless effect that is a result of unabsorbed iron.",
+    "A possible treatment-related effect includes although the absorption of iron is best when taken between meals, giving Integra FTM after meals may control occasional G.I.",
+    "A possible treatment-related effect includes integra FTM is best absorbed when taken at bedtime."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because wARNING: Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6.",
+    "Healthcare providers evaluate risk when keep this product out of reach of children.",
+    "Healthcare providers evaluate risk when in case of accidental overdose, call a doctor or poison control center immediately."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because uSAGE IN PREGNANCY: Before Integra FTM is prescribed for megaloblastic anemia in pregnancy, appropriate diagnostic exclusion of Addisonian pernicious anemia...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Ferrous fumarate and polysacchride iron complex and folic acid information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Ferrous fumarate and polysacchride iron complex and folic acid on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "anemia"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2022-11-08T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22folic%20acid%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:51.045Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ferrous%20fumarate%20and%20polysacchride%20iron%20complex%20and%20folic%20acid",
+      "accessedAt": "2026-07-12T06:31:51.045Z"
+    }
+  ]
+}

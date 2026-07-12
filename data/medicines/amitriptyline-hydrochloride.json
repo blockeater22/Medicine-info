@@ -1,0 +1,84 @@
+{
+  "slug": "amitriptyline-hydrochloride",
+  "genericName": "Amitriptyline hydrochloride",
+  "brandNames": [
+    "Amitriptyline Hydrochloride"
+  ],
+  "composition": "AMITRIPTYLINE HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with for the relief of symptoms of depression.",
+    "Medical teams consider this option for patients needing support with endogenous depression is more likely to be alleviated than are other depressive states."
+  ],
+  "howItWorks": "Amitriptyline Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an if necessary, this may be increased to a total of 150 mg per day. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an geriatric use clinical experience has not identified differences in responses between elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report within each category the following adverse reactions are listed in order of decreasing severity while taking this medicine.",
+    "Some patients report included in the listing are a few adverse reactions which have not been reported with this specific drug while taking this medicine.",
+    "Monitoring is advised because however.. may occur.",
+    "Some patients report cardiovascular: Myocardial infarction while taking this medicine.",
+    "A possible treatment-related effect includes nonspecific ECG changes and changes in AV conduction.",
+    "A possible treatment-related effect includes heart block.",
+    "Some patients report arrhythmias while taking this medicine.",
+    "Monitoring is advised because hypotension, particularly orthostatic hypotension may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when clinical Worsening and Suicide Risk Patients with major depressive disorder (MDD), both adult and pediatric...",
+    "Extra caution is needed because suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.",
+    "Patients should discuss safety when there has been a long-standing concern, however..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Patients should discuss safety when nursing Mothers Amitriptyline is excreted into breast milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because drug Interactions Topiramate Some patients may experience a large increase in amitriptyline concentration in the presence of topiramate and any adjustments i...",
+      "Patients should discuss safety when drugs Metabolized by P450 2D6 The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset ...",
+      "Patients should discuss safety when reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.",
+      "Extra caution is needed because poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.",
+      "Extra caution is needed because depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small...",
+      "Extra caution is needed because in addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Amitriptyline hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Amitriptyline hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "depression"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-06-12T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22amitriptyline%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:44.987Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=amitriptyline%20hydrochloride",
+      "accessedAt": "2026-07-12T06:31:44.987Z"
+    }
+  ]
+}

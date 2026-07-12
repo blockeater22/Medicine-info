@@ -1,0 +1,88 @@
+{
+  "slug": "carbamazepine",
+  "genericName": "Carbamazepine",
+  "brandNames": [
+    "Carbamazepine"
+  ],
+  "composition": "CARBAMAZEPINE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Mood Stabilizer [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with epilepsy Carbamazepine is indicated for use as an anticonvulsant drug.",
+    "Clinicians may prescribe this medicine when managing evidence supporting efficacy of carbamazepine as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with the following ...",
+    "Medical teams consider this option for patients needing support with partial seizures with complex symptomatology (psychomotor, temporal lobe).",
+    "This agent is commonly used in care plans involving patients with these seizures appear to show greater improvement than those with other types.",
+    "This agent is commonly used in care plans involving generalized tonic-clonic seizures (grand mal).",
+    "This agent is commonly used in care plans involving mixed seizure patterns which include the above, or other partial or generalized seizures."
+  ],
+  "howItWorks": "Carbamazepine belongs to the mood stabilizer [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an monitoring of blood levels has increased the efficacy and safety of anticonvulsants (see precautions, laboratory tests). Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes if adverse reactions are of such severity that the drug must be discontinued...",
+    "A possible treatment-related effect includes the most severe adverse reactions have been observed in the hemopoietic system and skin (see BOXED WARNING), the liver, and the cardiovascular system.",
+    "A possible treatment-related effect includes the most frequently observed adverse reactions, particularly during the initial phases of therapy, are dizziness, drowsiness, unsteadiness, nausea, and vomiting.",
+    "A possible treatment-related effect includes to minimize the possibility of such reactions, therapy should be initiated at the lowest dosage recommended.",
+    "A possible treatment-related effect includes the following additional adverse reactions have been reported: Hemopoietic System : Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression...",
+    "Monitoring is advised because in certain cases, discontinuation of therapy may be necessary may occur.",
+    "Some patients report cardiovascular System : Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse.. while taking this medicine.",
+    "Some patients report some of these cardiovascular complications have resulted in fatalities while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when if adverse reactions are of such severity that the drug must be discontinued...",
+    "Healthcare providers evaluate risk when the most severe adverse reactions have been observed in the hemopoietic system and skin (see BOXED WARNING), the liver, and the cardiovascular system.",
+    "Extra caution is needed because some of these cardiovascular complications have resulted in fatalities."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interactions There has been a report of a patient who passed an orange rubbery precipitate in his stool the day after ingesting carbamazepine suspension...",
+      "Healthcare providers evaluate risk when subsequent testing has shown that mixing carbamazepine suspension and chlorpromazine solution (both generic and brand name) as well as carbamazepine suspensi...",
+      "Extra caution is needed because because the extent to which this occurs with other liquid medications is not known...",
+      "Extra caution is needed because clinically meaningful drug interactions have occurred with concomitant medications and include (but are not limited to) the following: Agents That May Affect...",
+      "Extra caution is needed because agents That Increase Carbamazepine Levels CYP3A4 inhibitors inhibit carbamazepine metabolism and can thus increase plasma carbamazepine levels.",
+      "Patients should discuss safety when human microsomal epoxide hydrolase has been identified as the enzyme responsible for the formation of the 10, 11-transdiol derivative from carbamazepine-10..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Carbamazepine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Carbamazepine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-02-18T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22carbamazepine%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:59.691Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=carbamazepine",
+      "accessedAt": "2026-07-12T06:31:59.691Z"
+    }
+  ]
+}

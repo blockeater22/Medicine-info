@@ -1,0 +1,87 @@
+{
+  "slug": "verapamil-hydrochloride",
+  "genericName": "Verapamil hydrochloride",
+  "brandNames": [
+    "Verapamil Hydrochloride"
+  ],
+  "composition": "VERAPAMIL HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving verapamil Hydrochloride Tablets are indicated for the treatment of the following: Angina 1.",
+    "Medical teams consider this option for patients needing support with angina at rest including: – Vasospastic (Prinzmetal’s variant) angina – Unstable (crescendo, pre-infarction) angina 2.",
+    "This agent is commonly used in care plans involving chronic stable angina (classic effort-associated angina) Arrhythmias 1.",
+    "This agent is commonly used in care plans involving in association with digitalis for the control of ventricular rate at rest and during stress in patients with chronic atrial flutter and/or atrial fibrillatio...",
+    "Medical teams consider this option for patients needing support with accessory bypass tract ) 2.",
+    "Clinicians may prescribe this medicine when managing prophylaxis of repetitive paroxysmal supraventricular tachycardia Essential hypertension: Verapamil is indicated for the treatment of hypertension..."
+  ],
+  "howItWorks": "Verapamil Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration the dose of verapamil must be individualized by titration. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use: safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report serious adverse reactions are uncommon when verapamil hydrochloride therapy is initiated with upward dose titration within the recommended single and total d.. while taking this medicine.",
+    "A possible treatment-related effect includes wARNINGS for discussion of heart failure, hypotension, elevated liver enzymes, AV block, and rapid ventricular response.",
+    "Some patients report reversible (upon discontinuation of verapamil) non-obstructive, paralytic ileus has been infrequently reported in association with the use of verapamil while taking this medicine.",
+    "Monitoring is advised because the following reactions, reported in 1% or less of patients, occurred under conditions (open trials.. may occur.",
+    "Some patients report they are listed to alert the physician to a possible relationship: Cardiovascular: angina pectoris, atrioventricular dissociation, chest pain, claudication.. while taking this medicine.",
+    "Monitoring is advised because digestive system: diarrhea, dry mouth, gastrointestinal distress, gingival hyperplasia may occur.",
+    "A possible treatment-related effect includes hemic and lymphatic: ecchymosis or bruising.",
+    "A possible treatment-related effect includes nervous system: cerebrovascular accident, confusion, equilibrium disorders, insomnia, muscle cramps, paresthesia, psychotic symptoms, shakiness, somnolence..."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because serious adverse reactions are uncommon when verapamil hydrochloride therapy is initiated with upward dose titration within the recommended single and total d..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when pregnancy: Pregnancy Category C.",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing mothers: Verapamil is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug interactions Cytochrome inducers/inhibitors: In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450 CYP3A4, CYP1A2...",
+      "Extra caution is needed because clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin...",
+      "Healthcare providers evaluate risk when hMG-CoA reductase inhibitors: The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with repor...",
+      "Patients should discuss safety when coadministration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone.",
+      "Extra caution is needed because limit the dose of simvastatin in patients on verapamil to 10 mg daily.",
+      "Healthcare providers evaluate risk when limit the daily dose of lovastatin to 40 mg."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Verapamil hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Verapamil hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "hypertension"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-05-22T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22verapamil%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:07.294Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=verapamil%20hydrochloride",
+      "accessedAt": "2026-07-12T06:32:07.294Z"
+    }
+  ]
+}

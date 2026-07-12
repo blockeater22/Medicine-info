@@ -1,0 +1,86 @@
+{
+  "slug": "diclofenac-sodiummisoprostol",
+  "genericName": "Diclofenac sodium/misoprostol",
+  "brandNames": [
+    "Diclofenac Sodium/Misoprostol DICLOFENAC-SODIUM-MISOPROSTOL"
+  ],
+  "composition": "DICLOFENAC SODIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Prostaglandin E1 Analog [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE Diclofenac sodium and misoprostol delayed-release tablets are indicated for treatment of the signs and symptoms of osteoarthritis or ...",
+    "This agent is commonly used in care plans involving for a list of factors that may increase the risk of NSAID-induced gastric and duodenal ulcers and their complications [see Warnings and Precautions ( 5.3 )].",
+    "Medical teams consider this option for patients needing support with diclofenac sodium and misoprostol delayed-release tablets are a combination of diclofenac sodium, a non-steroidal anti-inflammatory drug, and misoprostol..."
+  ],
+  "howItWorks": "Diclofenac Sodium/Misoprostol belongs to the prostaglandin e1 analog [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an a dosage of diclofenac higher than 150 mg/day is not recommended. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an of the 2,184 patients in clinical studies with diclofenac sodium and misoprostol delayed-release tablets, 557 (25. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report gastrointestinal GI disorders had the highest reported incidence of adverse reactions for patients receiving diclofenac sodium and misoprostol delayed-releas.. while taking this medicine.",
+    "Some patients report these events were generally minor.. while taking this medicine.",
+    "Monitoring is advised because for GI ulcer rates, [see Clinical Studies ( 14 )] may occur.",
+    "Some patients report gI disorder Diclofenac Sodium and Misoprostol Delayed-Release Tablets Diclofenac Sodium Abdominal pain 21% 15% Diarrhea 19% 11% Dyspepsia 14% 11% Nausea 11% .. while taking this medicine.",
+    "Some patients report diarrhea and abdominal pain developed early in the course of therapy, and were usually self-limited (resolved after 2 to 7 days) while taking this medicine.",
+    "Some patients report rare instances of profound diarrhea leading to severe dehydration have been reported in patients receiving misoprostol while taking this medicine.",
+    "Some patients report patients with an underlying condition such as inflammatory bowel disease, or those in whom dehydration, were it to occur, would be dangerous.. while taking this medicine.",
+    "A possible treatment-related effect includes the incidence of diarrhea can be minimized by administering diclofenac sodium and misoprostol delayed-release tablets with food and by avoiding co-administra..."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because rare instances of profound diarrhea leading to severe dehydration have been reported in patients receiving misoprostol."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Diclofenac sodium and misoprostol delayed-release tablets are contraindicated in pregnant women [see Contraindications ( 4 )].",
+    "breastfeeding": "Patients should discuss safety when 8.3 Females and Males of Reproductive Potential Diclofenac sodium and misoprostol delayed-release tablets are not recommended in women of childbearing potent...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS See Table 1 for clinically significant drug interactions with diclofenac and misoprostol.",
+      "Patients should discuss safety when table 1: Clinically Significant Drug Interactions with Diclofenac and Misoprostol Drugs That Interfere with Hemostasis Clinical Impact: Diclofenac and antico...",
+      "Patients should discuss safety when the concomitant use of diclofenac and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone.",
+      "Patients should discuss safety when serotonin release by platelets plays an important role in hemostasis.",
+      "Extra caution is needed because case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the r...",
+      "Extra caution is needed because intervention: Monitor patients with concomitant use of diclofenac sodium and misoprostol delayed-release tablets with anticoagulants (e.g., warfarin)..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Diclofenac sodium/misoprostol information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Diclofenac sodium/misoprostol on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "arthritis",
+    "common-cold",
+    "gastritis",
+    "uti"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-03-24T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22misoprostol%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:57.527Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=diclofenac%20sodium%2Fmisoprostol",
+      "accessedAt": "2026-07-12T06:31:57.527Z"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "diltiazem-hydrochloride",
+  "genericName": "Diltiazem hydrochloride",
+  "brandNames": [
+    "diltiazem hydrochloride"
+  ],
+  "composition": "DILTIAZEM HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with diltiazem hydrochloride extended-release capsules are indicated for the treatment of hypertension.",
+    "Medical teams consider this option for patients needing support with it may be used alone or in combination with other antihypertensive medications.",
+    "This agent is commonly used in care plans involving diltiazem hydrochloride extended-release capsules are indicated for the management of chronic stable angina and angina due to coronary artery spasm."
+  ],
+  "howItWorks": "Diltiazem Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an higher doses of diltiazem hydrochloride extended-release capsules, usp may be needed in some patients. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because serious adverse reactions have been rare in studies carried out to date.. may occur.",
+    "Some patients report the following table presents the most common adverse reactions reported in placebo-controlled angina and hypertension trials in patients receiving diltiazem .. while taking this medicine.",
+    "A possible treatment-related effect includes in addition, the following events were reported infrequently (less than 1%) in angina or hypertension trials: Cardiovascular: Congestive heart failure...",
+    "Some patients report nervous System: Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence.. while taking this medicine.",
+    "Some patients report g astrointestinal: Anorexia, constipation, diarrhea, dry mouth, dysgeusia, dyspepsia, mild elevations of SGOT, SGPT, LDH.. while taking this medicine.",
+    "Monitoring is advised because dermatological: Petechiae, photosensitivity, pruritus, urticaria may occur.",
+    "Some patients report other: Amblyopia, CPK increase, dyspnea, epistaxis, eye irritation, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, nocturia.. while taking this medicine.",
+    "A possible treatment-related effect includes in addition..."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when serious adverse reactions have been rare in studies carried out to date..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pregnancy Reproduction studies have been conducted in mice, rats, and rabbits.",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers Diltiazem is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because drug Interactions Because of the potential for additive effects...",
+      "Patients should discuss safety when pharmacologic studies indicate that there may be additive effects in prolonging AV conduction when using beta-blockers or digitalis concomitantly with diltia...",
+      "Patients should discuss safety when diltiazem is both a substrate and an inhibitor of the cytochrome P450 3A4 enzyme system.",
+      "Patients should discuss safety when other drugs that are specific substrates, inhibitors...",
+      "Extra caution is needed because patients taking other drugs that are substrates of CYP450 3A4, especially patients with renal and/or hepatic impairment...",
+      "Healthcare providers evaluate risk when anesthetics : The depression of cardiac contractility, conductivity..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Diltiazem hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Diltiazem hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "hypertension"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-08-20T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22diltiazem%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:06.922Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=diltiazem%20hydrochloride",
+      "accessedAt": "2026-07-12T06:32:06.922Z"
+    }
+  ]
+}

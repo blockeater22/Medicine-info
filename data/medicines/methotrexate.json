@@ -1,0 +1,81 @@
+{
+  "slug": "methotrexate",
+  "genericName": "Methotrexate",
+  "brandNames": [
+    "METHOTREXATE"
+  ],
+  "composition": "METHOTREXATE SODIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing management of conditions associated with methotrexate."
+  ],
+  "howItWorks": "Methotrexate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 9) • verify pregnancy status in females of reproductive potential before starting methotrexate tablets. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an no new safety signals have been observed in pediatric patients in clinical studies [see adverse reactions (6. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes common adverse reactions were: ulcerative stomatitis, leukopenia, nausea, and abdominal distress.",
+    "A possible treatment-related effect includes other clinically relevant adverse reactions were infection, malaise, fatigue, chills, fever, and dizziness.",
+    "Some patients report rheumatoid Arthritis The most common adverse reactions of methotrexate that exceeded the rate of placebo in 12- to 18-week double-blind studies in patients (.. while taking this medicine.",
+    "Some patients report patients received methotrexate 7.5 to 15 mg orally once weekly while taking this medicine.",
+    "A possible treatment-related effect includes most patients received concomitant nonsteroidal anti-inflammatory drugs (NSAIDs) and some also received corticosteroids.",
+    "Monitoring is advised because hepatic histology was not examined in these short-term studies may occur.",
+    "Some patients report polyarticular Juvenile Idiopathic Arthritis (pJIA) The most common adverse reactions reported in patients 2 to 18 years of age with pJIA treated with methotr.. while taking this medicine.",
+    "Some patients report gastrointestinal reactions (e.g., nausea, vomiting, diarrhea) 11% while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS • Serious Infections : Monitor patients for infection during and after treatment with methotrexate.",
+    "Patients should discuss safety when follow current vaccination practice guidelines.",
+    "Patients should discuss safety when methotrexate is contraindicated for use in pregnant women receiving methotrexate for the treatment of non-malignant diseases."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Methotrexate is contraindicated in pregnant women with non-neoplastic diseases [see Contraindications (4)].",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Refer to the full prescribing information for drug interactions with methotrexate.",
+      "Healthcare providers evaluate risk when in some cases, the coadministration of methotrexate with these products may also subsequently reduce active metabolite formation...",
+      "Healthcare providers evaluate risk when increased organ specific adverse reactions may also occur when methotrexate is coadministered with hepatotoxic or nephrotoxic products.",
+      "Healthcare providers evaluate risk when avoid nitrous oxide anesthesia in patients receiving methotrexate.",
+      "Healthcare providers evaluate risk when consider alternative therapies in patients who have received prior nitrous oxide anesthesia.",
+      "Patients should discuss safety when folic Acid Coadministration of methotrexate with folic acid or its derivatives decreases the clinical effectiveness of methotrexate in patients with neoplast..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Methotrexate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Methotrexate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-05-18T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22methotrexate%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:04.302Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=methotrexate",
+      "accessedAt": "2026-07-12T06:32:04.302Z"
+    }
+  ]
+}

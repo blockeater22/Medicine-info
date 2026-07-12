@@ -1,0 +1,79 @@
+{
+  "slug": "isosorbide-dinitrate",
+  "genericName": "Isosorbide dinitrate",
+  "brandNames": [
+    "Isosorbide Dinitrate"
+  ],
+  "composition": "ISOSORBIDE DINITRATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Nitrate Vasodilator [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing isosorbide dinitrate tablets are indicated for the prevention of angina pectoris due to coronary artery disease.",
+    "Medical teams consider this option for patients needing support with the onset of action of immediate-release oral isosorbide dinitrate is not sufficiently rapid for this product to be useful in aborting an acute anginal episode."
+  ],
+  "howItWorks": "Isosorbide Dinitrate belongs to the nitrate vasodilator [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an as with all titratable drugs, it is important to administer the minimum dose which produces the desired clinical effect. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes adverse reactions to isosorbide dinitrate are generally dose-related...",
+    "Monitoring is advised because headache, which may be severe, is the most commonly reported side effect may occur.",
+    "A possible treatment-related effect includes headache may be recurrent with each daily dose, especially at higher doses.",
+    "Some patients report transient episodes of lightheadedness, occasionally related to blood pressure changes, may also occur while taking this medicine.",
+    "Some patients report hypotension occurs infrequently, but in some patients it may be severe enough to warrant discontinuation of therapy while taking this medicine.",
+    "A possible treatment-related effect includes syncope, crescendo angina, and rebound hypertension have been reported but are uncommon.",
+    "Some patients report extremely rarely, ordinary doses of organic nitrates have caused methemoglobinemia in normal-seeming patients while taking this medicine.",
+    "A possible treatment-related effect includes methemoglobinemia is so infrequent at these doses that further discussion of its diagnosis and treatment is deferred (see OVERDOSAGE )."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when headache, which may be severe, is the most commonly reported side effect.",
+    "Extra caution is needed because hypotension occurs infrequently, but in some patients it may be severe enough to warrant discontinuation of therapy."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when pregnancy Category C At oral doses 35 and 150 times the maximum recommended human daily dose...",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers It is not known whether isosorbide dinitrate is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because drug Interactions The vasodilating effects of isosorbide dinitrate may be additive with those of other vasodilators.",
+      "Patients should discuss safety when alcohol, in particular, has been found to exhibit additive effects of this variety.",
+      "Extra caution is needed because concomitant use of isosorbide dinitrate with phosphodiesterase inhibitors in any form is contraindicated (see CONTRAINDICATIONS ).",
+      "Extra caution is needed because concomitant use of isosorbide dinitrate with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see CONTRAINDICATIONS )."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Isosorbide dinitrate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Isosorbide dinitrate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-02-10T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22isosorbide%20dinitrate%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:07.662Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=isosorbide%20dinitrate",
+      "accessedAt": "2026-07-12T06:32:07.662Z"
+    }
+  ]
+}

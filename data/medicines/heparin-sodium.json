@@ -1,0 +1,86 @@
+{
+  "slug": "heparin-sodium",
+  "genericName": "Heparin sodium",
+  "brandNames": [
+    "Heparin Sodium"
+  ],
+  "composition": "HEPARIN SODIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Heparin Sodium Injection is indicated for: Prophylaxis and treatment of venous thrombosis and pulmonary embolism.",
+    "Clinicians may prescribe this medicine when managing prevention of postoperative deep venous thrombosis and pulmonary embolism in patients undergoing major abdominothoracic surgery or who, for other reasons...",
+    "This agent is commonly used in care plans involving atrial fibrillation with embolization.",
+    "Medical teams consider this option for patients needing support with treatment of acute and chronic consumptive coagulopathies (disseminated intravascular coagulation).",
+    "Medical teams consider this option for patients needing support with prevention of clotting in arterial and cardiac surgery.",
+    "Clinicians may prescribe this medicine when managing prophylaxis and treatment of peripheral arterial embolism."
+  ],
+  "howItWorks": "Heparin Sodium belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration recommended adult dosages: therapeutic anticoagulant effect with full-dose heparin † ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use there are no adequate and well controlled studies on heparin use in pediatric patients. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an patients over 60 years of age may require lower doses of heparin. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine.",
+    "A possible treatment-related effect includes hemorrhage is the chief complication that may result from heparin therapy [see Warnings and Precautions ( 5.2 )].",
+    "Monitoring is advised because gastrointestinal or urinary tract bleeding during anticoagulant therapy may indicate the presence of an underlying occult lesion may occur.",
+    "A possible treatment-related effect includes bleeding can occur at any site but certain specific hemorrhagic complications may be difficult to detect: Adrenal hemorrhage...",
+    "Monitoring is advised because ovarian (corpus luteum) hemorrhage developed in a number of women of reproductive age receiving short- or long-term heparin therapy may occur.",
+    "A possible treatment-related effect includes retroperitoneal hemorrhage.",
+    "Some patients report hIT and HITT, including delayed onset cases [see Warnings and Precautions ( 5.3 )] while taking this medicine.",
+    "A possible treatment-related effect includes local Irritation – Local irritation, erythema, mild pain, hematoma or ulceration may follow deep subcutaneous (intrafat) injection of heparin sodium."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when bleeding can occur at any site but certain specific hemorrhagic complications may be difficult to detect: Adrenal hemorrhage..."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary There are no available data on Heparin Sodium Injection use in pregnant women to inform a drug-associated risk of major birth defe...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Drugs that interfere with platelet aggregation: May induce bleeding ( 7.2 ) 7.1 Oral Anticoagulants Heparin sodium may prolong the one-st...",
+      "Patients should discuss safety when to reduce the risk of bleeding, a reduction in the dose of antiplatelet agent or heparin is recommended.",
+      "Healthcare providers evaluate risk when intravenous nitroglycerin administered to heparinized patients may result in a decrease of the partial thromboplastin time with subsequent rebound effect upo...",
+      "Healthcare providers evaluate risk when careful monitoring of partial thromboplastin time and adjustment of heparin dosage are recommended during coadministration of heparin and intravenous nitrogl...",
+      "Patients should discuss safety when antithrombin III (human) – The anticoagulant effect of heparin is enhanced by concurrent treatment with antithrombin III (human) in patients with hereditary ...",
+      "Extra caution is needed because to reduce the risk of bleeding, a reduced dosage of heparin is recommended during treatment with antithrombin III (human)."
+    ]
+  },
+  "storage": "Health professionals note that store at 20° to 25°C (68° to 77°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Heparin sodium information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Heparin sodium on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-09-26T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22heparin%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:09.074Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=heparin%20sodium",
+      "accessedAt": "2026-07-12T06:32:09.074Z"
+    }
+  ]
+}

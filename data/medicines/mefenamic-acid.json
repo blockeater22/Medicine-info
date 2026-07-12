@@ -1,0 +1,78 @@
+{
+  "slug": "mefenamic-acid",
+  "genericName": "Mefenamic acid",
+  "brandNames": [
+    "Mefenamic Acid"
+  ],
+  "composition": "MEFENAMIC ACID — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Nonsteroidal Anti-inflammatory Drug [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing carefully consider the potential benefits and risks of mefenamic acid capsules and other treatment options before deciding to use mefenamic acid capsules.",
+    "Clinicians may prescribe this medicine when managing use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS.",
+    "Clinicians may prescribe this medicine when managing gastrointestinal Bleeding, Ulceration, and Perforation ).",
+    "Medical teams consider this option for patients needing support with mefenamic acid capsules are indicated: For relief of mild to moderate pain in patients ≥14 years of age, when therapy will not exceed one week (7 days).",
+    "Medical teams consider this option for patients needing support with for treatment of primary dysmenorrhea."
+  ],
+  "howItWorks": "Mefenamic Acid belongs to the nonsteroidal anti-inflammatory drug [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness in pediatric patients below the age of 14 have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an as with any nsaid, caution should be exercised in treating the elderly (65 years and older). Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because respiratory Respiratory depression, pneumonia Skin and appendages Angioedema, toxic epidermal necrosis, erythema multiforme, exfoliative dermatitis.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because cardiovascular Thrombotic Events Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased ris...",
+    "Healthcare providers evaluate risk when based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.",
+    "Patients should discuss safety when the relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease o..."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because pregnancy Risk Summary Use of NSAIDs, including mefenamic acid...",
+    "breastfeeding": "Patients should discuss safety when nursing Mothers Trace amounts of mefenamic acid may be present in breast milk and transmitted to the nursing infant.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interactions See Table 2 for clinically significant drug interactions with mefenamic acid.",
+      "Patients should discuss safety when the concomitant use of mefenamic acid and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone.",
+      "Patients should discuss safety when serotonin release by platelets plays an important role in hemostasis.",
+      "Extra caution is needed because case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the r...",
+      "Extra caution is needed because intervention: Monitor patients with concomitant use of mefenamic acid with anticoagulants (e.g.,warfarin), antiplatelet agents (e.g., aspirin)...",
+      "Extra caution is needed because hematologic Toxicity )."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Mefenamic acid information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Mefenamic acid on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-07-19T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22mefenamic%20acid%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:57.900Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=mefenamic%20acid",
+      "accessedAt": "2026-07-12T06:31:57.900Z"
+    }
+  ]
+}

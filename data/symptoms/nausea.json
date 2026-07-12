@@ -1,0 +1,50 @@
+{
+  "slug": "nausea",
+  "name": "Nausea",
+  "category": "Gastrointestinal",
+  "description": "Nausea — possible causes, home remedies, and when to see a doctor.",
+  "seo": {
+    "title": "Nausea: Causes, Remedies, When to See Doctor | Doctors Hub",
+    "description": "Understand Nausea: common causes, emergency signs, home remedies, and when to consult a doctor.",
+    "keywords": [
+      "Nausea"
+    ]
+  },
+  "possibleCauses": [
+    "Infection",
+    "Chronic disease",
+    "Stress and lifestyle",
+    "Medication side effects",
+    "Injury or trauma"
+  ],
+  "emergencySymptoms": [
+    "Sudden severe onset",
+    "Associated chest pain or breathing difficulty",
+    "Loss of consciousness",
+    "High fever with confusion"
+  ],
+  "homeRemedies": [
+    "Adequate rest",
+    "Hydration",
+    "Over-the-counter remedies only if previously advised by doctor",
+    "Monitor and document symptoms"
+  ],
+  "whenToVisitDoctor": [
+    "Symptoms persist beyond 3-5 days",
+    "Worsening severity",
+    "New associated symptoms",
+    "High-risk individuals (elderly, pregnant, chronic illness)"
+  ],
+  "relatedDiseases": [
+    "gerd",
+    "gastritis"
+  ],
+  "faqs": [
+    {
+      "question": "When should I worry about nausea?",
+      "answer": "Seek immediate care for severe, sudden, or worsening symptoms."
+    }
+  ],
+  "popular": true,
+  "updatedAt": "2026-07-01"
+}

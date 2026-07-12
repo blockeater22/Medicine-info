@@ -1,0 +1,83 @@
+{
+  "slug": "allopurinol",
+  "genericName": "Allopurinol",
+  "brandNames": [
+    "Allopurinol"
+  ],
+  "composition": "ALLOPURINOL — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Xanthine Oxidase Inhibitor [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving management of conditions associated with allopurinol."
+  ],
+  "howItWorks": "Allopurinol belongs to the xanthine oxidase inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an prophylactic treatment for gout flares is recommended. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an the efficacy and safety profile observed in this patient population were similar to that observed in adults. Always confirm exact dose with your prescriber.",
+    "elderly": "Older adults may need lower starting doses and closer follow-up for side effects."
+  },
+  "sideEffects": [
+    "Monitoring is advised because because some of these reactions were reported voluntarily from a population of uncertain size.. may occur.",
+    "Some patients report the most frequent adverse reaction to allopurinol tablets is skin rash while taking this medicine.",
+    "A possible treatment-related effect includes most Common Adverse Reactions (≥ 1%) Gastrointestinal : Diarrhea, nausea, alkaline phosphatase increase, AST/ALT increase.",
+    "Some patients report metabolic and Nutritional : Acute attacks of gout while taking this medicine.",
+    "A possible treatment-related effect includes skin and Appendages : Rash, maculopapular rash.",
+    "Monitoring is advised because less Common Adverse Reactions (< 1%) Body As a Whole : Ecchymosis, fever, headache, malaise may occur.",
+    "Monitoring is advised because cardiovascular : Necrotizing angiitis, vasculitis, pericarditis, peripheral vascular disease, thrombophlebitis, bradycardia, vasodilation may occur.",
+    "Some patients report gastrointestinal : Hepatic necrosis, granulomatous hepatitis, hepatomegaly, hyperbilirubinemia, cholestatic jaundice, vomiting, intermittent abdominal pain.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS Skin Rash and Hypersensitivity: Allopurinol has been associated with serious and sometimes fatal dermatological reactions.",
+    "Patients should discuss safety when discontinue allopurinol tablets at the first appearance of skin rash or other signs of hypersensitivity reaction.",
+    "Extra caution is needed because concurrent prophylactic treatment with colchicine or anti-inflammatory agents is recommended."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Based on findings in animals, allopurinol tablets may cause fetal harm when administered to a pregnant woman.",
+    "breastfeeding": "8.3 Nursing Mothers",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because renal impairment may further increase risk with concomitant use of thiazide diuretics [see Warnings and Precautions ( 5.1 ...",
+      "Patients should discuss safety when monitor kidney function and reduce the dose of allopurinol tablets in patients with concomitant thiazide diuretic use and impaired renal function [see Dosage...",
+      "Healthcare providers evaluate risk when intervention Avoid the use of allopurinol tablets during treatment with capecitabine.",
+      "Patients should discuss safety when chlorpropamide Clinical Impact Allopurinol tablets prolong the half-life of chlorpropamide as both compete for renal tubular excretion.",
+      "Healthcare providers evaluate risk when in patients with renal insufficiency, the risk of hypoglycemia may be increased due to this mechanism.",
+      "Healthcare providers evaluate risk when intervention Monitor patients with renal insufficiency for hypoglycemia when administering chlorpropamide and allopurinol tablets concomitantly."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Allopurinol information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Allopurinol on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-07-08T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22allopurinol%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:03.535Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=allopurinol",
+      "accessedAt": "2026-07-12T06:32:03.535Z"
+    }
+  ]
+}

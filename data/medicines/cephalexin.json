@@ -1,0 +1,82 @@
+{
+  "slug": "cephalexin",
+  "genericName": "Cephalexin",
+  "brandNames": [
+    "Cephalexin"
+  ],
+  "composition": "CEPHALEXIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with when culture and susceptibility information is available, this information should be considered in selecting or modifying antibacterial therapy.",
+    "This agent is commonly used in care plans involving in the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy."
+  ],
+  "howItWorks": "Cephalexin belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 1 ) pediatric patients (over 1 year of age) otitis media: 75 to 100 mg/kg in equally divided doses every 6 hours ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use of the 701 subjects in 3 published clinical studies of cephalexin, 433 (62%) were 65 and over. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because in clinical trials, the most frequent adverse reaction was diarrhea may occur.",
+    "A possible treatment-related effect includes nausea and vomiting, dyspepsia, gastritis, and abdominal pain have also occurred.",
+    "Monitoring is advised because as with penicillins and other cephalosporins, transient hepatitis and cholestatic jaundice have been reported may occur.",
+    "Some patients report other reactions have included hypersensitivity reactions, genital and anal pruritus, genital candidiasis, vaginitis and vaginal discharge, dizziness.. while taking this medicine.",
+    "Some patients report reversible interstitial nephritis has been reported while taking this medicine.",
+    "Monitoring is advised because eosinophilia, neutropenia, thrombocytopenia, hemolytic anemia.. may occur.",
+    "Monitoring is advised because in addition to the adverse reactions listed above that have been observed in patients treated with cephalexin.. may occur.",
+    "Some patients report altered Laboratory Tests : Prolonged prothrombin time, increased blood urea nitrogen (BUN), increased creatinine, elevated alkaline phosphatase.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Serious hypersensitivity (anaphylactic) reactions : Prior to use...",
+    "Healthcare providers evaluate risk when before therapy with cephalexin is instituted, inquire whether the patient has a history of hypersensitivity reactions to cephalexin, cephalosporins...",
+    "Extra caution is needed because cross-hypersensitivity among beta-lactam antibacterial drugs may occur in up to 10% of patients with a history of penicillin allergy."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Available data from published epidemiologic studies and pharmacovigilance case reports over several decades with cephalosporin use...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Metformin: increased metformin concentrations.",
+      "Healthcare providers evaluate risk when monitor for hypoglycemia.",
+      "Patients should discuss safety when co-administration of probenecid with cephalexin is not recommended.",
+      "Healthcare providers evaluate risk when careful patient monitoring and dose adjustment of metformin is recommended in patients concomitantly taking cephalexin and metformin [see Clinical Pharmacolo..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Cephalexin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Cephalexin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-02-11T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22cephalexin%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:48.064Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=cephalexin",
+      "accessedAt": "2026-07-12T06:31:48.064Z"
+    }
+  ]
+}

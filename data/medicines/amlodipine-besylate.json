@@ -1,0 +1,88 @@
+{
+  "slug": "amlodipine-besylate",
+  "genericName": "Amlodipine besylate",
+  "brandNames": [
+    "Amlodipine Besylate"
+  ],
+  "composition": "AMLODIPINE BESYLATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Amlodipine besylate tablets are calcium channel blocker and may be used alone or in combination with other antihypertensive and antia...",
+    "This agent is commonly used in care plans involving lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.",
+    "Clinicians may prescribe this medicine when managing these benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including amlodipine besylate.",
+    "Medical teams consider this option for patients needing support with control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management...",
+    "Medical teams consider this option for patients needing support with many patients will require more than one drug to achieve blood pressure goals.",
+    "Clinicians may prescribe this medicine when managing for specific advice on goals and management, see published guidelines..."
+  ],
+  "howItWorks": "Amlodipine Besylate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration •adult recommended starting dose: 5 mg once daily with maximum dose 10 mg once daily. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use amlodipine besylate (2. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report 6 ADVERSE REACTIONS Most common adverse reaction to amlodipine is edema which occurred in a dose related manner while taking this medicine.",
+    "Some patients report amlodipine has been evaluated for safety in more than 11,000 patients in U.S while taking this medicine.",
+    "Monitoring is advised because in general, treatment with amlodipine was well-tolerated at doses up to 10 mg daily may occur.",
+    "A possible treatment-related effect includes most adverse reactions reported during therapy with amlodipine were of mild or moderate severity.",
+    "Some patients report in controlled clinical trials directly comparing amlodipine (N=1730) at doses up to 10 mg to placebo (N=1250).. while taking this medicine.",
+    "A possible treatment-related effect includes the most commonly reported side effects more frequent than placebo are reflected in the table below.",
+    "Monitoring is advised because they are listed to alert the physician to a possible relationship: Cardiovascular arrhythmia (including ventricular tachycardia and atrial fibrillation).. may occur.",
+    "Some patients report central and Peripheral Nervous System hypoesthesia, neuropathy peripheral, paresthesia, tremor, vertigo while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary The limited available data based on post-marketing reports with amlodipine use in pregnant women are not sufficient to inform a dr...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Do not exceed doses greater than 20 mg daily of simvastatin.",
+      "Patients should discuss safety when monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A inhibitors to determine the need for dose adjustment [see CLINICA...",
+      "Patients should discuss safety when cYP3A Inducers No information is available on the quantitative effects of CYP3A inducers on amlodipine.",
+      "Extra caution is needed because blood pressure should be closely monitored when amlodipine is co-administered with CYP3A inducers.",
+      "Patients should discuss safety when sildenafil Monitor for hypotension when sildenafil is co-administered with amlodipine [see CLINICAL PHARMACOLOGY ( 12.2 )].",
+      "Healthcare providers evaluate risk when limit the dose of simvastatin in patients on amlodipine to 20 mg daily [see CLINICAL PHARMACOLOGY ( 12.3 )]."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Amlodipine besylate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Amlodipine besylate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "diabetes",
+    "hypertension"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-04-20T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22amlodipine%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:34.385Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=amlodipine%20besylate",
+      "accessedAt": "2026-07-12T06:31:34.385Z"
+    }
+  ]
+}

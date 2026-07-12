@@ -1,0 +1,108 @@
+healthy diet|Nutrition
+diabetes management|Diabetes
+hypertension lifestyle|Heart Health
+yoga health benefits|Wellness
+monsoon health tips|Seasonal
+child immunization|Pediatrics
+mental health awareness|Mental Health
+sleep hygiene|Wellness
+heart healthy foods|Nutrition
+thyroid diet guide|Endocrine
+exercise for beginners|Fitness
+stress management|Mental Health
+women health screening|Women Health
+men health checkup|Men Health
+vitamin d deficiency|Nutrition
+kidney stone prevention|Urology
+pcos management|Women Health
+senior citizen health|Geriatrics
+covid prevention|Infectious Disease
+immunity boosting foods|Nutrition
+mediterranean diet|Nutrition
+plant based diet|Nutrition
+intermittent fasting|Nutrition
+protein intake guide|Nutrition
+hydration guide|Wellness
+gut health|Nutrition
+cholesterol management|Heart Health
+blood pressure monitoring|Heart Health
+stroke prevention|Neurology
+cancer screening guide|Oncology
+breast self examination|Women Health
+pregnancy nutrition|Pregnancy
+postpartum care|Pregnancy
+newborn care|Pediatrics
+breastfeeding guide|Pediatrics
+adolescent health|Pediatrics
+screen time effects|Pediatrics
+workplace ergonomics|Wellness
+back pain prevention|Musculoskeletal
+joint health|Musculoskeletal
+eye care tips|Ophthalmology
+dental hygiene|Dental
+oral health|Dental
+skin care routine|Dermatology
+sun protection|Dermatology
+hair fall causes|Dermatology
+allergy management|Immunology
+asthma action plan|Respiratory
+copd self management|Respiratory
+smoking cessation|Wellness
+alcohol and health|Wellness
+liver health|Hepatology
+kidney health|Nephrology
+urinary health|Urology
+menopause guide|Women Health
+prostate health|Men Health
+sexual health|General
+travel health|Travel Medicine
+tropical diseases|Infectious Disease
+vaccination schedule india|Pediatrics
+antibiotic stewardship|Infectious Disease
+pain management basics|Pain Medicine
+first aid kit essentials|Emergency
+home medicine safety|Pharmacy
+generic medicines guide|Pharmacy
+drug interaction awareness|Pharmacy
+medication adherence|Pharmacy
+telemedicine guide|Digital Health
+health insurance basics|Finance
+ayurveda and modern medicine|Alternative Medicine
+meditation benefits|Mental Health
+anxiety coping skills|Mental Health
+depression support|Mental Health
+burnout recovery|Mental Health
+mindful eating|Nutrition
+weight loss science|Nutrition
+obesity management|Metabolic
+prediabetes reversal|Diabetes
+insulin basics|Diabetes
+thyroid symptoms guide|Endocrine
+anemia diet|Hematology
+iron rich foods|Nutrition
+calcium and bone health|Nutrition
+pregnancy exercise|Pregnancy
+infant sleep safety|Pediatrics
+fever in children|Pediatrics
+cough in children|Pediatrics
+diarrhea in children|Pediatrics
+elderly fall prevention|Geriatrics
+memory care tips|Neurology
+parkinson caregiver guide|Neurology
+epilepsy lifestyle|Neurology
+migraine triggers|Neurology
+seasonal allergies|Immunology
+food poisoning prevention|Gastroenterology
+food safety india|Nutrition
+clean water health|Public Health
+air pollution health|Public Health
+heat wave safety|Seasonal
+cold weather health|Seasonal
+mosquito borne diseases|Infectious Disease
+hand hygiene|Public Health
+cervical cancer prevention|Oncology
+hpv vaccine guide|Vaccination
+hepatitis prevention|Infectious Disease
+hiv prevention|Infectious Disease
+tuberculosis awareness|Infectious Disease
+malaria prevention|Infectious Disease

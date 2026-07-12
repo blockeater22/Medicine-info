@@ -1,0 +1,86 @@
+{
+  "slug": "insulin-glargine",
+  "genericName": "Insulin glargine",
+  "brandNames": [
+    "BASAGLAR KwikPen",
+    "BASAGLAR Tempo Pen"
+  ],
+  "composition": "INSULIN GLARGINE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Insulin Analog [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE BASAGLAR ® is indicated to improve glycemic control in adults and pediatric patients with type 1 diabetes mellitus and in adults with...",
+    "This agent is commonly used in care plans involving bASAGLAR ® is a long-acting human insulin analog indicated to improve glycemic control in adults and pediatric patients with type 1 diabetes mellitus and in ..."
+  ],
+  "howItWorks": "Insulin Glargine belongs to the insulin analog [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 4 ) administer subcutaneously once daily at any time of day, but at the same time every day. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 3% were 65 and over, while 4. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because 6 ADVERSE REACTIONS The following adverse reactions are discussed elsewhere: Hypoglycemia [see Warnings and Precautions ( 5.3 )] may occur.",
+    "A possible treatment-related effect includes hypoglycemia Due to Medication Errors [see Warnings and Precautions ( 5.4 )].",
+    "A possible treatment-related effect includes hypersensitivity Reactions [see Warnings and Precautions ( 5.5 )].",
+    "Monitoring is advised because hypokalemia [see Warnings and Precautions ( 5.6 )] may occur.",
+    "Some patients report two clinical trials with BASAGLAR were conducted: one in type 1 diabetes and one in type 2 diabetes while taking this medicine.",
+    "A possible treatment-related effect includes the type 1 diabetes population had the following characteristics: Mean age was 41 years and mean duration of diabetes was 16 years.",
+    "Some patients report at baseline, mean eGFR was 109 mL/min/1.73m 2 while taking this medicine.",
+    "Monitoring is advised because the mean BMI was approximately 26 kg/m 2 may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because increase frequency of glucose monitoring with changes to: insulin dosage, co-administered glucose lowering medications, meal pattern, physical activity.",
+    "Healthcare providers evaluate risk when and in patients with renal or hepatic impairment and hypoglycemia unawareness.",
+    "Extra caution is needed because instruct patients to check insulin labels before injection."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary Published studies with use of insulin glargine products during pregnancy have not reported a clear association with insulin glargi...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when intervention: Dose reductions and increased frequency of glucose monitoring may be required when BASAGLAR is co-administered with these drugs.",
+      "Patients should discuss safety when drugs That May Increase or Decrease the Blood Glucose Lowering Effect of BASAGLAR Drugs: Alcohol, beta-blockers, clonidine, and lithium salts.",
+      "Extra caution is needed because pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia.",
+      "Extra caution is needed because intervention: Dose adjustment and increased frequency of glucose monitoring may be required when BASAGLAR is co-administered with these drugs.",
+      "Healthcare providers evaluate risk when drugs That May Blunt Signs and Symptoms of Hypoglycemia Drugs: beta-blockers, clonidine, guanethidine...",
+      "Patients should discuss safety when drugs that may increase the risk of hypoglycemia: antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates..."
+    ]
+  },
+  "storage": "Health professionals note that 16.2 Storage and Handling Dispense in the original sealed carton with the enclosed Instructions for Use.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Insulin glargine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Insulin glargine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "diabetes"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-12-11T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22insulin%20glargine%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:41.742Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=insulin%20glargine",
+      "accessedAt": "2026-07-12T06:31:41.742Z"
+    }
+  ]
+}

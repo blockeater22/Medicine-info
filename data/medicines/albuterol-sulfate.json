@@ -1,0 +1,81 @@
+{
+  "slug": "albuterol-sulfate",
+  "genericName": "Albuterol sulfate",
+  "brandNames": [
+    "Albuterol Sulfate HFA"
+  ],
+  "composition": "ALBUTEROL SULFATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with management of conditions associated with albuterol sulfate."
+  ],
+  "howItWorks": "Albuterol Sulfate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration for oral inhalation only. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 1 ), clinical studies ( 14. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report the safety data described below reflects exposure to albuterol sulfate HFA in 248 subjects treated with albuterol sulfate HFA in 3 placebo-controlled clinica.. while taking this medicine.",
+    "Monitoring is advised because the data from adults and adolescents is based upon 2 clinical trials in which 202 subjects with asthma aged 12 years and older were treated with albuterol su.. may occur.",
+    "Monitoring is advised because the adult/adolescent population was 92 female, 110 male and 163 white, 19 black, 18 Hispanic, 2 other may occur.",
+    "Some patients report the data from pediatric subjects are based upon 1 clinical trial in which 46 subjects with asthma aged 4 to 11 years were treated with albuterol sulfate HFA .. while taking this medicine.",
+    "Some patients report the population was 21 female, 25 male and 25 white, 17 black, 3 Hispanic, 1 other while taking this medicine.",
+    "Monitoring is advised because adult and Adolescent Subjects Aged 12 Years and Older The two 12-week, randomized.. may occur.",
+    "Some patients report overall, the incidence and nature of the adverse reactions reported for albuterol sulfate HFA and a CFC 11/12‑propelled albuterol inhaler were comparable while taking this medicine.",
+    "Monitoring is advised because table 1 lists the incidence of all adverse reactions (whether considered by the investigator to be related or unrelated to drug) from these trials that occur.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because 5 WARNINGS AND PRECAUTIONS Life-threatening paradoxical bronchospasm may occur.",
+    "Patients should discuss safety when discontinue Albuterol Sulfate HFA immediately and institute alternative therapy.",
+    "Extra caution is needed because use with caution in patients sensitive to sympathomimetic drugs and patients with cardiovascular or convulsive disorders."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to asthma medications duri...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Other short-acting sympathomimetic aerosol bronchodilators should not be used concomitantly with albuterol.",
+      "Patients should discuss safety when if additional adrenergic drugs are to be administered by any route, they should be used with caution to avoid deleterious cardiovascular effects.",
+      "Healthcare providers evaluate risk when beta-blockers: Use with caution.",
+      "Healthcare providers evaluate risk when may block bronchodilatory effects of beta-agonists and produce severe bronchospasm.",
+      "Extra caution is needed because electrocardiographic changes and/or hypokalemia associated with non–potassium-sparing diuretics may worsen with concomitant beta-agonists.",
+      "Healthcare providers evaluate risk when consider monitoring digoxin levels."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Albuterol sulfate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Albuterol sulfate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-12-31T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22albuterol%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:36.694Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=albuterol%20sulfate",
+      "accessedAt": "2026-07-12T06:31:36.694Z"
+    }
+  ]
+}

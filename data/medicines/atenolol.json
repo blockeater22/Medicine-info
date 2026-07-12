@@ -1,0 +1,90 @@
+{
+  "slug": "atenolol",
+  "genericName": "Atenolol",
+  "brandNames": [
+    "Atenolol"
+  ],
+  "composition": "ATENOLOL — active ingredient details may vary by marketed formulation.",
+  "drugClass": "beta-Adrenergic Blocker [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing hypertension Atenolol tablets are indicated for the treatment of hypertension, to lower blood pressure.",
+    "This agent is commonly used in care plans involving lowering blood pressure lowers the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions.",
+    "Clinicians may prescribe this medicine when managing these benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including atenolol.",
+    "Medical teams consider this option for patients needing support with control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management...",
+    "Clinicians may prescribe this medicine when managing many patients will require more than 1 drug to achieve blood pressure goals.",
+    "Clinicians may prescribe this medicine when managing for specific advice on goals and management, see published guidelines..."
+  ],
+  "howItWorks": "Atenolol belongs to the beta-adrenergic blocker [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an the full effect of this dose will usually be seen within one to two weeks. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report most adverse effects have been mild and transient while taking this medicine.",
+    "A possible treatment-related effect includes the frequency estimates in the following table were derived from controlled studies in hypertensive patients in which adverse reactions were either volunteer...",
+    "A possible treatment-related effect includes the reported frequency of elicited adverse effects was higher for both atenolol and placebo-treated patients than when these reactions were volunteered.",
+    "A possible treatment-related effect includes where frequency of adverse effects of atenolol and placebo is similar, causal relationship to atenolol is uncertain.",
+    "Some patients report volunteered (U.S while taking this medicine.",
+    "A possible treatment-related effect includes studies) Total - Volunteered and Elicited (Foreign + U.S.",
+    "A possible treatment-related effect includes however, these usually responded to atropine and/or to withholding further dosage of atenolol.",
+    "Monitoring is advised because the incidence of heart failure was not increased by atenolol may occur."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when cardiac Failure Sympathetic stimulation is necessary in supporting circulatory function in congestive heart failure...",
+    "Patients should discuss safety when in patients with acute myocardial infarction...",
+    "Healthcare providers evaluate risk when in Patients Without a History of Cardiac Failure Continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pregnancy See WARNINGS - Pregnancy and Fetal Injury.",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers Atenolol is excreted in human breast milk at a ratio of 1.5 to 6.8 when compared to the concentration in plasma.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when drug Interactions Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents.",
+      "Patients should discuss safety when patients treated with atenolol plus a catecholamine depletor should therefore be closely observed for evidence of hypotension and/or marked bradycardia which...",
+      "Extra caution is needed because calcium channel blockers may also have an additive effect when given with atenolol (see WARNINGS ).",
+      "Healthcare providers evaluate risk when disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and chronotropic effects.",
+      "Patients should discuss safety when disopyramide has been associated with severe bradycardia, asystole and heart failure when administered with beta-blockers.",
+      "Patients should discuss safety when amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with beta-blockers."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Atenolol information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Atenolol on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "diabetes",
+    "hypertension"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-11-26T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22atenolol%22&limit=1",
+      "accessedAt": "2026-07-12T06:32:06.211Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=atenolol",
+      "accessedAt": "2026-07-12T06:32:06.211Z"
+    }
+  ]
+}

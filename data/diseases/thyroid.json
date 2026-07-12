@@ -1,0 +1,83 @@
+{
+  "slug": "thyroid",
+  "name": "Thyroid Disorders",
+  "category": "Endocrine",
+  "description": "Complete guide to Thyroid Disorders: symptoms, causes, diagnosis, treatment, and prevention for patients in India.",
+  "seo": {
+    "title": "Thyroid Disorders: Symptoms, Causes, Treatment | Doctors Hub",
+    "description": "Learn about Thyroid Disorders — symptoms, causes, risk factors, diagnosis, treatment options, and prevention tips.",
+    "keywords": [
+      "Thyroid Disorders",
+      "Endocrine"
+    ]
+  },
+  "overview": "Thyroid Disorders is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "symptoms": [
+    "Varies by individual and severity",
+    "Persistent or worsening symptoms require medical evaluation",
+    "Consult doctor for accurate diagnosis"
+  ],
+  "causes": [
+    "Genetic predisposition",
+    "Lifestyle factors",
+    "Environmental triggers",
+    "Underlying medical conditions"
+  ],
+  "riskFactors": [
+    "Family history",
+    "Age",
+    "Sedentary lifestyle",
+    "Poor diet",
+    "Smoking and alcohol"
+  ],
+  "diagnosis": [
+    "Medical history review",
+    "Physical examination",
+    "Blood tests and imaging as needed",
+    "Specialist referral if required"
+  ],
+  "treatment": [
+    "Lifestyle modifications",
+    "Medications as prescribed",
+    "Regular monitoring",
+    "Specialist care for complex cases"
+  ],
+  "homeCare": [
+    "Follow prescribed treatment plan",
+    "Maintain healthy diet",
+    "Adequate rest and hydration",
+    "Monitor symptoms"
+  ],
+  "prevention": [
+    "Regular health checkups",
+    "Balanced diet and exercise",
+    "Avoid known triggers",
+    "Vaccination where applicable"
+  ],
+  "complications": [
+    "Progression if untreated",
+    "Organ damage in chronic cases",
+    "Reduced quality of life"
+  ],
+  "emergencyWarningSigns": [
+    "Severe chest pain",
+    "Difficulty breathing",
+    "Sudden confusion",
+    "High fever with rigors"
+  ],
+  "relatedMedicines": [
+    "levothyroxine"
+  ],
+  "faqs": [
+    {
+      "question": "What causes Thyroid Disorders?",
+      "answer": "Multiple factors including genetics, lifestyle, and environment contribute."
+    },
+    {
+      "question": "Is Thyroid Disorders curable?",
+      "answer": "Many conditions are manageable with proper treatment. Consult your doctor for prognosis."
+    }
+  ],
+  "popular": true,
+  "updatedAt": "2026-07-01"
+}

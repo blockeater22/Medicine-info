@@ -1,0 +1,90 @@
+{
+  "slug": "doxycycline",
+  "genericName": "Doxycycline",
+  "brandNames": [
+    "doxycycline"
+  ],
+  "composition": "DOXYCYCLINE HYCLATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing to reduce the development of drug-resistant bacteria and maintain effectiveness of doxycycline and other antibacterial drugs...",
+    "Medical teams consider this option for patients needing support with when culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.",
+    "Medical teams consider this option for patients needing support with in the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.",
+    "Medical teams consider this option for patients needing support with treatment: Doxycycline is indicated for the treatment of the following infections: Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever...",
+    "This agent is commonly used in care plans involving respiratory tract infections caused by Mycoplasma pneumoniae.",
+    "Medical teams consider this option for patients needing support with lymphogranuloma venereum caused by Chlamydia trachomatis."
+  ],
+  "howItWorks": "Doxycycline belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an exceeding the recommended dosage may result in an increased incidence of side effects. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an , anthrax, rocky mountain spotted fever), particularly when there are no alternative therapies. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because due to oral doxycycline's virtually complete absorption, side effects of the lower bowel, particularly diarrhea, have been infrequent may occur.",
+    "Monitoring is advised because the following adverse reactions have been observed in patients receiving tetracyclines: Gastrointestinal: anorexia, nausea, vomiting, diarrhea, glossitis.. may occur.",
+    "Monitoring is advised because hepatotoxicity has been reported rarely may occur.",
+    "Monitoring is advised because these reactions have been caused by both the oral and parenteral administration of tetracyclines may occur.",
+    "Some patients report superficial discoloration of the adult permanent dentition, reversible upon drug discontinuation and professional dental cleaning has been reported while taking this medicine.",
+    "Monitoring is advised because permanent tooth discoloration and enamel hypoplasia may occur with drugs of the tetracycline class when used during tooth development may occur.",
+    "Monitoring is advised because most of these patients took medications immediately before going to bed may occur.",
+    "A possible treatment-related effect includes exfoliative dermatitis has been reported but is uncommon."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when the use of drugs of the tetracycline class during tooth development (last half of pregnancy...",
+    "Healthcare providers evaluate risk when this adverse reaction is more common during long-term use of the drugs, but it has been observed following repeated short-term courses.",
+    "Healthcare providers evaluate risk when enamel hypoplasia has also been reported."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because pregnancy: Teratogenic Effects There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers Tetracyclines are excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because drug Interactions Because tetracyclines have been shown to depress plasma prothrombin activity...",
+      "Extra caution is needed because since bacteriostatic drugs may interfere with the bactericidal action of penicillin...",
+      "Extra caution is needed because absorption of tetracyclines is impaired by antacids containing aluminum, calcium, or magnesium, and iron-containing preparations.",
+      "Extra caution is needed because absorption of tetracyclines is impaired by bismuth subsalicylate.",
+      "Extra caution is needed because barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline.",
+      "Healthcare providers evaluate risk when the concurrent use of tetracycline and Penthrane ® (methoxyflurane) has been reported to result in fatal renal toxicity."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Doxycycline information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Doxycycline on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "common-cold",
+    "fever",
+    "pneumonia"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-05-01T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22doxycycline%22&limit=1",
+      "accessedAt": "2026-07-12T06:31:47.472Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=doxycycline",
+      "accessedAt": "2026-07-12T06:31:47.472Z"
+    }
+  ]
+}
