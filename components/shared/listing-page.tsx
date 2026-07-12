@@ -2,6 +2,7 @@ import { MedicalCard } from "@/components/shared/medical-card";
 import { Pagination } from "@/components/shared/pagination";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
 import { TopBannerAd } from "@/components/ads/ad-placeholder";
+import { LISTING_PAGE_SIZE } from "@/lib/listings";
 import { paginate } from "@/utils/helpers";
 
 interface ListingPageProps {
@@ -17,7 +18,7 @@ interface ListingPageProps {
 export function ListingPage({
   title, description, basePath, itemBasePath, breadcrumbLabel, items, page = 1,
 }: ListingPageProps) {
-  const paginated = paginate(items, page, 12);
+  const paginated = paginate(items, page, LISTING_PAGE_SIZE);
 
   return (
     <div className="container-custom py-8">

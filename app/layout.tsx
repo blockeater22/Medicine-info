@@ -38,6 +38,9 @@ export const metadata: Metadata = {
   },
   twitter: { card: "summary_large_image" },
   robots: { index: true, follow: true },
+  verification: {
+    google: "iigqyi__6otBwMaDmBhu7xE5WtXDLnNz745RiLIl0fs",
+  },
   manifest: "/manifest.json",
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "#0b5ba8" },

@@ -1,6 +1,11 @@
-import { Activity } from "lucide-react";
+// import { Activity } from "lucide-react";
 
+// Disabled: form posts to "#" with no API, DB, or email provider.
+// Re-enable once you wire up Mailchimp, Resend, Buttondown, etc.
 export function NewsletterSection() {
+  return null;
+
+  /*
   return (
     <section className="section-padding">
       <div className="rounded-2xl bg-primary/5 border border-primary/10 p-8 md:p-12 text-center">
@@ -28,4 +33,5 @@ export function NewsletterSection() {
       </div>
     </section>
   );
+  */
 }

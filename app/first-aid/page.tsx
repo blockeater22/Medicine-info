@@ -1,23 +1,19 @@
-import { getAllFirstAid } from "@/lib/data";
 import { buildMetadata } from "@/lib/seo";
 import { ListingPage } from "@/components/shared/listing-page";
+import { firstAidListing } from "@/lib/listing-configs";
 
-export const metadata = buildMetadata({
-  title: "First Aid Guides — Emergency Step-by-Step Instructions",
-  description: "Emergency first aid guides for burns, choking, CPR, snake bites, and more with Indian emergency numbers.",
-  keywords: ["first aid", "emergency guide", "CPR", "first aid India"],
-}, "/first-aid");
+export const metadata = buildMetadata(firstAidListing.meta, firstAidListing.basePath);
 
 export default function FirstAidListingPage() {
-  const items = getAllFirstAid().sort((a, b) => a.name.localeCompare(b.name));
   return (
     <ListingPage
-      title="First Aid Guides"
-      description="Step-by-step emergency first aid instructions with do's, don'ts, and emergency numbers."
-      basePath="/first-aid"
-      itemBasePath="/first-aid"
-      breadcrumbLabel="First Aid"
-      items={items}
+      title={firstAidListing.title}
+      description={firstAidListing.description}
+      basePath={firstAidListing.basePath}
+      itemBasePath={firstAidListing.itemBasePath}
+      breadcrumbLabel={firstAidListing.breadcrumbLabel}
+      items={firstAidListing.getItems()}
+      page={1}
     />
   );
 }

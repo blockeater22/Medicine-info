@@ -3,7 +3,8 @@ import {
   Pill, Heart, FlaskConical, Calculator, Siren, BookOpen, Activity,
 } from "lucide-react";
 import { HeroSection } from "@/components/home/hero-section";
-import { NewsletterSection } from "@/components/home/newsletter-section";
+// Newsletter disabled — no backend to store or email subscribers yet.
+// import { NewsletterSection } from "@/components/home/newsletter-section";
 import { DeferredRecentlyViewed } from "@/components/home/deferred-recently-viewed";
 import { MedicalCard } from "@/components/shared/medical-card";
 import { ArticleCard } from "@/components/shared/article-card";
@@ -167,7 +168,7 @@ export default function HomePage() {
           <FAQAccordion faqs={HOME_FAQS} title="Frequently Asked Questions" />
         </section>
 
-        <NewsletterSection />
+        {/* <NewsletterSection /> */}
       </div>
     </>
   );

@@ -4,6 +4,7 @@ import Link from "next/link";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
+import { listingPageHref } from "@/lib/listings";
 
 interface PaginationProps {
   currentPage: number;
@@ -22,7 +23,7 @@ export function Pagination({ currentPage, totalPages, basePath }: PaginationProp
     <nav aria-label="Pagination" className="flex items-center justify-center gap-1 mt-8">
       {currentPage > 1 && (
         <Button variant="outline" size="sm" asChild>
-          <Link href={currentPage === 2 ? basePath : `${basePath}?page=${currentPage - 1}`}>
+          <Link href={listingPageHref(basePath, currentPage - 1)}>
             <ChevronLeft className="h-4 w-4" /> Previous
           </Link>
         </Button>
@@ -34,7 +35,7 @@ export function Pagination({ currentPage, totalPages, basePath }: PaginationProp
           <span key={page} className="flex items-center gap-1">
             {showEllipsis && <span className="px-2 text-muted-foreground">...</span>}
             <Link
-              href={page === 1 ? basePath : `${basePath}?page=${page}`}
+              href={listingPageHref(basePath, page)}
               className={cn(
                 "inline-flex h-9 w-9 items-center justify-center rounded-lg text-sm font-medium transition-colors",
                 page === currentPage ? "bg-primary text-primary-foreground" : "hover:bg-accent"
@@ -48,7 +49,7 @@ export function Pagination({ currentPage, totalPages, basePath }: PaginationProp
       })}
       {currentPage < totalPages && (
         <Button variant="outline" size="sm" asChild>
-          <Link href={`${basePath}?page=${currentPage + 1}`}>
+          <Link href={listingPageHref(basePath, currentPage + 1)}>
             Next <ChevronRight className="h-4 w-4" />
           </Link>
         </Button>
