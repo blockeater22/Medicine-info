@@ -3,6 +3,8 @@ const siteUrl = (process.env.SITE_URL || process.env.NEXT_PUBLIC_SITE_URL || "ht
 
 module.exports = {
   siteUrl,
+  output: "export",
+  outDir: "out",
   generateRobotsTxt: true,
   changefreq: "weekly",
   priority: 0.7,
@@ -15,6 +17,5 @@ module.exports = {
         allow: "/",
       },
     ],
-    additionalSitemaps: [`${siteUrl}/sitemap.xml`],
   },
 };
