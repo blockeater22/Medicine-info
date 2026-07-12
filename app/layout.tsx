@@ -39,7 +39,19 @@ export const metadata: Metadata = {
   twitter: { card: "summary_large_image" },
   robots: { index: true, follow: true },
   manifest: "/manifest.json",
-  icons: { icon: "/icon.svg", apple: "/icon.svg" },
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#0b5ba8" },
+    { media: "(prefers-color-scheme: dark)", color: "#1e3a5f" },
+  ],
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      { url: "/icon.svg", type: "image/svg+xml" },
+    ],
+    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
+  },
   alternates: {
     types: {
       "application/rss+xml": `${SITE.domain}/feed.xml`,

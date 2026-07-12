@@ -18,20 +18,27 @@ export function Navbar() {
   return (
     <header className="sticky top-0 z-50 border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80">
       <nav className="container-custom flex h-16 items-center justify-between gap-4" aria-label="Main navigation">
-        <Link href="/" className="flex items-center gap-2 font-semibold text-primary shrink-0">
+        <Link
+          href="/"
+          className="flex items-center gap-2 font-semibold text-primary shrink-0"
+          aria-label={`${SITE.name} home`}
+        >
           <Stethoscope className="h-6 w-6" aria-hidden="true" />
           <span className="hidden sm:inline">{SITE.name}</span>
         </Link>
 
-        <div className="hidden lg:flex flex-1 max-w-md mx-4">
-          <SearchBar compact />
-        </div>
+        {pathname !== "/" && (
+          <div className="hidden lg:flex flex-1 max-w-md mx-4">
+            <SearchBar compact />
+          </div>
+        )}
 
         <div className="hidden md:flex items-center gap-1">
           {NAV_LINKS.slice(0, 5).map((link) => (
             <Link
               key={link.href}
               href={link.href}
+              prefetch={false}
               className={cn(
                 "px-3 py-2 text-sm font-medium rounded-lg transition-colors hover:bg-accent",
                 pathname.startsWith(link.href) && "text-primary bg-accent"

@@ -4,12 +4,12 @@ import {
 } from "lucide-react";
 import { HeroSection } from "@/components/home/hero-section";
 import { NewsletterSection } from "@/components/home/newsletter-section";
+import { DeferredRecentlyViewed } from "@/components/home/deferred-recently-viewed";
 import { MedicalCard } from "@/components/shared/medical-card";
 import { ArticleCard } from "@/components/shared/article-card";
 import { CategoryCard } from "@/components/shared/category-card";
 import { EmergencyBanner } from "@/components/shared/emergency-banner";
 import { FAQAccordion } from "@/components/shared/faq-accordion";
-import { RecentlyViewed } from "@/components/shared/recently-viewed";
 import { TopBannerAd } from "@/components/ads/ad-placeholder";
 import {
   getPopularCalculators,
@@ -19,7 +19,7 @@ import {
   getPopularFirstAid,
   getTrendingArticles,
 } from "@/lib/data";
-import { buildMetadata } from "@/lib/seo";
+import { buildMetadata, faqSchema, JsonLd } from "@/lib/seo";
 import { SITE } from "@/lib/constants";
 
 export const metadata = buildMetadata({
@@ -55,6 +55,7 @@ export default function HomePage() {
 
   return (
     <>
+      <JsonLd data={faqSchema(HOME_FAQS)} />
       <HeroSection />
 
       <div className="container-custom">
@@ -74,7 +75,7 @@ export default function HomePage() {
         <section className="section-padding">
           <div className="flex items-center justify-between mb-8">
             <h2 className="text-2xl md:text-3xl font-bold">Popular Medicines</h2>
-            <Link href="/medicines" className="text-sm text-primary hover:underline font-medium">View all</Link>
+            <Link href="/medicines" prefetch={false} className="text-sm text-primary hover:underline font-medium">View all</Link>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             {medicines.map((m) => (
@@ -158,7 +159,7 @@ export default function HomePage() {
 
         {/* Recently Viewed */}
         <section className="section-padding">
-          <RecentlyViewed />
+          <DeferredRecentlyViewed />
         </section>
 
         {/* FAQ */}

@@ -3,14 +3,25 @@
   "short_name": "DoctorsHub",
   "description": "India's trusted free medical information platform",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "orientation": "portrait-primary",
   "background_color": "#ffffff",
-  "theme_color": "#2563eb",
+  "theme_color": "#0b5ba8",
+  "lang": "en-IN",
+  "categories": ["health", "medical", "education"],
   "icons": [
     {
       "src": "/icon.svg",
       "sizes": "any",
-      "type": "image/svg+xml"
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }

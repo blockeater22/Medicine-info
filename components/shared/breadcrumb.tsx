@@ -24,7 +24,7 @@ export function Breadcrumb({ items }: BreadcrumbProps) {
                   {item.label}
                 </span>
               ) : (
-                <Link href={item.href} className="hover:text-primary transition-colors">
+                <Link href={item.href} prefetch={false} className="hover:text-primary transition-colors">
                   {i === 0 && <Home className="inline h-3.5 w-3.5 mr-1" aria-hidden="true" />}
                   {item.label}
                 </Link>

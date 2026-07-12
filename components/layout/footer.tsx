@@ -9,7 +9,7 @@ export function Footer() {
       <div className="container-custom py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div className="space-y-4">
-            <Link href="/" className="flex items-center gap-2 font-semibold text-primary">
+            <Link href="/" prefetch={false} className="flex items-center gap-2 font-semibold text-primary">
               <Stethoscope className="h-6 w-6" aria-hidden="true" />
               {SITE.name}
             </Link>
@@ -29,7 +29,7 @@ export function Footer() {
             <ul className="space-y-2">
               {FOOTER_LINKS.resources.map((link) => (
                 <li key={link.href}>
-                  <Link href={link.href} className="text-sm text-muted-foreground hover:text-primary transition-colors">
+                  <Link href={link.href} prefetch={false} className="text-sm text-muted-foreground hover:text-primary transition-colors">
                     {link.label}
                   </Link>
                 </li>
@@ -42,7 +42,7 @@ export function Footer() {
             <ul className="space-y-2">
               {FOOTER_LINKS.company.map((link) => (
                 <li key={link.href}>
-                  <Link href={link.href} className="text-sm text-muted-foreground hover:text-primary transition-colors">
+                  <Link href={link.href} prefetch={false} className="text-sm text-muted-foreground hover:text-primary transition-colors">
                     {link.label}
                   </Link>
                 </li>
@@ -55,7 +55,7 @@ export function Footer() {
             <ul className="space-y-2">
               {FOOTER_LINKS.legal.map((link) => (
                 <li key={link.href}>
-                  <Link href={link.href} className="text-sm text-muted-foreground hover:text-primary transition-colors">
+                  <Link href={link.href} prefetch={false} className="text-sm text-muted-foreground hover:text-primary transition-colors">
                     {link.label}
                   </Link>
                 </li>

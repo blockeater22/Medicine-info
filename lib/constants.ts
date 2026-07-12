@@ -1,8 +1,9 @@
 import type { SiteConfig } from "@/types";
+import { getSiteUrl } from "@/lib/site-url";
 
 export const SITE: SiteConfig = {
   name: "Doctors Hub",
-  domain: "https://doctors-hub.in",
+  domain: getSiteUrl(),
   tagline: "India's Trusted Free Medical Information Platform",
   description:
     "Search medicines, diseases, symptoms, lab tests, medical calculators, first aid guides and health articles. Free, reliable medical information for India.",

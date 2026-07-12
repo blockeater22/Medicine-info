@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { getAllDiseases, getDisease, getRelatedDiseases, getRelatedMedicines } from "@/lib/data";
-import { buildMetadata, medicalConditionSchema, JsonLd } from "@/lib/seo";
+import { buildMetadata, medicalConditionSchema, medicalWebPageSchema, JsonLd } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
 import { ContentSection, ContentList, TableOfContents } from "@/components/shared/content-section";
 import { FAQAccordion } from "@/components/shared/faq-accordion";
@@ -41,7 +41,17 @@ export default async function DiseasePage({ params }: { params: Promise<{ slug: 
   return (
     <div className="container-custom py-8">
       <TrackRecentlyViewed slug={slug} name={disease.name} href={`/disease/${slug}`} type="disease" />
-      <JsonLd data={medicalConditionSchema(disease)} />
+      <JsonLd
+        data={[
+          medicalConditionSchema(disease),
+          medicalWebPageSchema({
+            name: disease.name,
+            description: disease.description,
+            path: `/disease/${slug}`,
+            dateModified: disease.updatedAt,
+          }),
+        ]}
+      />
       <Breadcrumb items={[{ label: "Diseases", href: "/diseases" }, { label: disease.name, href: `/disease/${slug}` }]} />
 
       <div className="grid lg:grid-cols-3 gap-8">

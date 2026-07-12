@@ -8,8 +8,13 @@ export function buildMetadata(seo: SEOData, path = ""): Metadata {
     title: seo.title,
     description: seo.description,
     keywords: seo.keywords?.join(", "),
+    authors: [{ name: SITE.name, url: SITE.domain }],
+    creator: SITE.name,
+    publisher: SITE.name,
     alternates: { canonical: seo.canonical || url },
-    robots: seo.noindex ? { index: false, follow: false } : undefined,
+    robots: seo.noindex
+      ? { index: false, follow: false }
+      : { index: true, follow: true, googleBot: { index: true, follow: true } },
     openGraph: {
       title: seo.title,
       description: seo.description,
@@ -112,6 +117,39 @@ export function medicineSchema(medicine: {
     activeIngredient: medicine.composition,
     indication: medicine.uses.join(", "),
     adverseOutcome: medicine.sideEffects.join(", "),
+  };
+}
+
+export function medicalWebPageSchema(page: {
+  name: string;
+  description: string;
+  path: string;
+  dateModified?: string;
+}) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "MedicalWebPage",
+    name: page.name,
+    url: `${SITE.domain}${page.path}`,
+    description: page.description,
+    ...(page.dateModified ? { dateModified: page.dateModified } : {}),
+    isPartOf: { "@type": "WebSite", name: SITE.name, url: SITE.domain },
+  };
+}
+
+export function medicalTestSchema(test: {
+  name: string;
+  slug: string;
+  description: string;
+  purpose: string[];
+}) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "MedicalTest",
+    name: test.name,
+    url: `${SITE.domain}/lab-test/${test.slug}`,
+    description: test.description,
+    usedToDiagnose: test.purpose.join(", "),
   };
 }
 

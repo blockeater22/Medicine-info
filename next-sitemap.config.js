@@ -1,6 +1,8 @@
 /** @type {import('next-sitemap').IConfig} */
+const siteUrl = (process.env.SITE_URL || process.env.NEXT_PUBLIC_SITE_URL || "https://www.doctors-hub.in").replace(/\/$/, "");
+
 module.exports = {
-  siteUrl: process.env.SITE_URL || "https://doctors-hub.in",
+  siteUrl,
   generateRobotsTxt: true,
   changefreq: "weekly",
   priority: 0.7,
@@ -13,6 +15,6 @@ module.exports = {
         allow: "/",
       },
     ],
-    additionalSitemaps: [],
+    additionalSitemaps: [`${siteUrl}/sitemap.xml`],
   },
 };

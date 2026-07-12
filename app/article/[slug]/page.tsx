@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { getAllArticles, getArticle } from "@/lib/data";
-import { buildMetadata, articleSchema, JsonLd } from "@/lib/seo";
+import { buildMetadata, articleSchema, medicalWebPageSchema, JsonLd } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
 import { FAQAccordion } from "@/components/shared/faq-accordion";
 import { MedicalDisclaimer } from "@/components/shared/medical-disclaimer";
@@ -40,7 +40,17 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   return (
     <div className="container-custom py-8 max-w-3xl">
       <TrackRecentlyViewed slug={slug} name={article.name} href={`/article/${slug}`} type="article" />
-      <JsonLd data={articleSchema(article)} />
+      <JsonLd
+        data={[
+          articleSchema(article),
+          medicalWebPageSchema({
+            name: article.name,
+            description: article.description,
+            path: `/article/${slug}`,
+            dateModified: article.updatedAt,
+          }),
+        ]}
+      />
       <Breadcrumb items={[{ label: "Articles", href: "/articles" }, { label: article.name, href: `/article/${slug}` }]} />
 
       <header className="mb-8">

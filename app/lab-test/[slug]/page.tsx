@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { getAllLabTests, getLabTest } from "@/lib/data";
-import { buildMetadata } from "@/lib/seo";
+import { buildMetadata, medicalTestSchema, medicalWebPageSchema, JsonLd } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
 import { ContentSection, ContentList } from "@/components/shared/content-section";
 import { FAQAccordion } from "@/components/shared/faq-accordion";
@@ -28,6 +28,17 @@ export default async function LabTestPage({ params }: { params: Promise<{ slug: 
   return (
     <div className="container-custom py-8 max-w-4xl">
       <TrackRecentlyViewed slug={slug} name={test.name} href={`/lab-test/${slug}`} type="lab-test" />
+      <JsonLd
+        data={[
+          medicalTestSchema(test),
+          medicalWebPageSchema({
+            name: test.name,
+            description: test.description,
+            path: `/lab-test/${slug}`,
+            dateModified: test.updatedAt,
+          }),
+        ]}
+      />
       <Breadcrumb items={[{ label: "Lab Tests", href: "/lab-tests" }, { label: test.name, href: `/lab-test/${slug}` }]} />
 
       <header className="mb-8">
