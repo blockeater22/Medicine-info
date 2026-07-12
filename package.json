@@ -12,6 +12,7 @@
     "validate": "tsx scripts/validate-content.ts && tsx scripts/validate-sitemap.ts",
     "fix:p0": "tsx scripts/fix-p0-content.ts",
     "compliance:strip-doctors": "tsx scripts/compliance-strip-doctors.ts",
+    "audit:links": "tsx scripts/audit-internal-links.ts",
     "fetch": "tsx scripts/run-pipeline.ts all",
     "build-content": "tsx scripts/run-pipeline.ts all && tsx scripts/validate-content.ts && tsx scripts/generate-search-index.ts",
     "generate:content": "npm run build-content",
