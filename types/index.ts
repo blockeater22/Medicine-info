@@ -23,6 +23,27 @@ export interface BreadcrumbItem {
   href: string;
 }
 
+export interface AuthorshipInfo {
+  authorId: string;
+  reviewerId: string;
+  lastReviewed: string;
+}
+
+export interface TeamMember {
+  id: string;
+  slug: string;
+  name: string;
+  credentials: string;
+  specialty: string;
+  registration: string;
+  bio: string;
+  education: string[];
+  affiliations: string[];
+  languages: string[];
+  seo: SEOData;
+  updatedAt: string;
+}
+
 export interface BaseContent {
   slug: string;
   name: string;
@@ -32,6 +53,7 @@ export interface BaseContent {
   relatedSlugs?: string[];
   updatedAt: string;
   sources?: SourceItem[];
+  authoredBy?: AuthorshipInfo;
   popular?: boolean;
   trending?: boolean;
 }
@@ -174,7 +196,6 @@ export interface SiteConfig {
   tagline: string;
   description: string;
   email: string;
-  phone: string;
   address: string;
   social: {
     facebook?: string;

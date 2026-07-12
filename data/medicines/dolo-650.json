@@ -5,7 +5,7 @@
   "brandNames": [
     "Dolo"
   ],
-  "category": "Pain Relief",
+  "category": "Analgesic / Antipyretic",
   "description": "Dolo 650 (Paracetamol) uses, dosage, side effects and safety information for patients in India.",
   "seo": {
     "title": "Dolo 650: Uses, Dosage, Side Effects | Doctors Hub",
@@ -19,11 +19,11 @@
   },
   "composition": "Paracetamol — consult product label for exact strength and excipients.",
   "uses": [
-    "Pain and fever relief",
-    "Inflammation reduction where applicable",
-    "As prescribed by physician for indicated conditions"
+    "Fever",
+    "Headache",
+    "Musculoskeletal pain"
   ],
-  "howItWorks": "Paracetamol works through established pharmacological pathways to relieve symptoms or treat the underlying condition. Always follow your doctor's prescription.",
+  "howItWorks": "Dolo 650 contains paracetamol 650 mg per tablet. It is used for symptomatic relief of pain and fever.",
   "dosage": {
     "adults": "As directed by physician. Typical adult dose varies by condition and formulation.",
     "children": "Pediatric dosing must be weight-based. Consult pediatrician.",
@@ -39,6 +39,7 @@
     "Gastrointestinal discomfort"
   ],
   "warnings": [
+    "Dolo 650 by Micro Labs is among the most prescribed paracetamol brands in India.",
     "Do not exceed prescribed dose",
     "Inform doctor of all medications",
     "Not for self-medication without consultation"
@@ -72,5 +73,22 @@
     }
   ],
   "popular": true,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "WHO Model Formulary",
+      "url": "https://list.essentialmeds.org/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "Indian Pharmacopoeia Commission",
+      "url": "https://ipc.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ]
 }

@@ -11,36 +11,39 @@
       "Musculoskeletal"
     ]
   },
-  "overview": "Arthritis is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Arthritis refers to joint inflammation causing pain, stiffness, and reduced mobility. Osteoarthritis (wear-and-tear) and rheumatoid arthritis (autoimmune) are the most common forms seen in Indian clinics. Treatment focuses on pain control, preserving function, and slowing disease progression.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Joint pain and stiffness, worse in the morning (inflammatory types)",
+    "Swelling and warmth over affected joints",
+    "Reduced range of motion",
+    "Fatigue in rheumatoid arthritis"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Osteoarthritis: cartilage breakdown with age and joint stress",
+    "Rheumatoid arthritis: autoimmune attack on synovial joints",
+    "Gout: uric acid crystal deposition",
+    "Post-infectious or post-traumatic arthritis"
   ],
   "riskFactors": [
-    "Family history",
     "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Obesity (knee osteoarthritis)",
+    "Previous joint injury",
+    "Family history of autoimmune arthritis",
+    "Female sex (rheumatoid arthritis)"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Clinical examination of affected joints",
+    "X-rays showing joint space narrowing or erosions",
+    "Rheumatoid factor and anti-CCP for RA",
+    "Uric acid level in suspected gout",
+    "ESR/CRP for inflammation"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Physiotherapy and low-impact exercise",
+    "NSAIDs and paracetamol for pain",
+    "DMARDs (methotrexate, etc.) for rheumatoid arthritis",
+    "Intra-articular steroids in selected cases",
+    "Joint replacement for advanced osteoarthritis"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +52,16 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Maintain healthy weight to reduce knee load",
+    "Regular exercise to strengthen supporting muscles",
+    "Avoid repetitive joint trauma",
+    "Early treatment of rheumatoid arthritis to prevent joint damage"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Permanent joint deformity",
+    "Disability and loss of independence",
+    "Osteoporosis with long-term steroid use",
+    "Cardiovascular disease association with inflammatory arthritis"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -79,5 +83,28 @@
     }
   ],
   "popular": true,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Hot, very swollen single joint with fever (septic arthritis)",
+    "Sudden inability to bear weight after injury",
+    "Severe uncontrolled pain despite treatment"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

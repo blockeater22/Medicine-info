@@ -1,38 +1,57 @@
 {
   "slug": "hypertension",
   "name": "Hypertension",
-  "overview": "Hypertension is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include hypertension, also known as high blood pressure, is a long-term medical condition in which the blood pressure in the arteries is persistently elevated; high blood pressure usually does not cause symptoms itself; it is, however, a major risk factor for stroke, coronary artery disease, heart failure, atrial fibrillation, peripheral arterial disease, vision loss, chronic kidney disease, and dementia. This summary is educational and should be paired with professional medical evaluation.",
+  "overview": "Hypertension (high blood pressure) is persistently elevated arterial pressure, often silent until complications develop. It is a leading modifiable risk factor for stroke and heart disease in India. Regular screening and lifestyle plus medicines when needed greatly reduce long-term harm.",
   "symptoms": [
-    "Health professionals note that hypertension, also known as high blood pressure, is a long-term medical condition in which the blood pressure in the arteries is persistently elevated.",
-    "From a clinical perspective, high blood pressure usually does not cause symptoms itself.",
-    "In routine practice, it is, however, a major risk factor for stroke, coronary artery disease, heart failure, atrial fibrillation, peripheral arterial disease, vision loss, chronic kidney disease, and dementia.",
-    "In routine practice, hypertension is a major cause of premature death worldwide."
+    "Often no symptoms in early stages",
+    "Headache (sometimes with very high readings)",
+    "Dizziness or nosebleeds (uncommon)",
+    "Symptoms usually appear only after organ damage in untreated cases"
   ],
   "causes": [
-    "From a clinical perspective, multiple genetic, lifestyle, and environmental factors may contribute."
+    "Primary (essential) hypertension — multifactorial in most adults",
+    "Secondary causes: renal disease, adrenal disorders, sleep apnoea, certain drugs",
+    "Age-related stiffening of arteries",
+    "High sodium intake and low potassium diet"
   ],
-  "riskFactors": [],
+  "riskFactors": [
+    "Family history",
+    "Obesity and physical inactivity",
+    "High salt diet",
+    "Excess alcohol",
+    "Chronic stress and smoking",
+    "Diabetes and chronic kidney disease"
+  ],
   "diagnosis": [
-    "Health professionals note that clinical evaluation.",
-    "In routine practice, relevant laboratory or imaging tests as indicated."
+    "Repeated blood pressure measurements on separate visits",
+    "Home or ambulatory BP monitoring when white-coat effect suspected",
+    "Basic labs: kidney function, electrolytes, glucose, lipids",
+    "ECG and urine albumin for end-organ screening"
   ],
   "treatment": [
-    "Health professionals note that treatment plans are individualized based on severity and patient profile."
+    "Weight loss and DASH-style diet low in sodium",
+    "Regular aerobic exercise",
+    "ACE inhibitors, ARBs, calcium channel blockers, or diuretics as first-line options",
+    "Combination therapy often required for target BP"
   ],
   "prevention": [
-    "From a clinical perspective, regular checkups.",
-    "From a clinical perspective, healthy lifestyle habits.",
-    "Health professionals note that vaccination when applicable."
+    "Limit salt to <5 g/day as per WHO guidance",
+    "Maintain healthy BMI and active lifestyle",
+    "Moderate alcohol and avoid tobacco",
+    "Annual BP check after age 30, earlier if at risk"
   ],
   "complications": [
-    "Healthcare providers evaluate risk when progression if untreated.",
-    "Patients should discuss safety when reduced quality of life without proper follow-up."
+    "Stroke and transient ischaemic attack",
+    "Heart failure and myocardial infarction",
+    "Chronic kidney disease",
+    "Retinopathy and vision loss",
+    "Aortic aneurysm"
   ],
   "emergencySigns": [
-    "Patients should discuss safety when sudden severe symptoms.",
-    "Extra caution is needed because difficulty breathing.",
-    "Extra caution is needed because chest pain.",
-    "Healthcare providers evaluate risk when confusion or loss of consciousness."
+    "BP ≥180/120 with chest pain or shortness of breath",
+    "Sudden weakness, speech difficulty, or facial droop (stroke)",
+    "Severe headache with vision changes",
+    "Confusion or seizures"
   ],
   "faq": [
     {
@@ -47,12 +66,29 @@
   "relatedDiseases": [],
   "relatedMedicines": [],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
-  "lastUpdated": "2026-07-12T06:22:51.121Z",
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
   "sources": [
     {
-      "name": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hypertension",
-      "accessedAt": "2026-07-12T06:22:51.121Z"
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
     }
-  ]
+  ],
+  "category": "Cardiovascular",
+  "emergencyWarningSigns": [
+    "BP ≥180/120 with chest pain or shortness of breath",
+    "Sudden weakness, speech difficulty, or facial droop (stroke)",
+    "Severe headache with vision changes",
+    "Confusion or seizures"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  }
 }

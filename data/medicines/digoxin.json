@@ -79,5 +79,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=digoxin",
       "accessedAt": "2026-07-12T06:32:08.370Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

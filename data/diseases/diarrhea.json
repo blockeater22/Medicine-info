@@ -11,36 +11,37 @@
       "Gastrointestinal"
     ]
   },
-  "overview": "Diarrhea is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Diarrhoea is frequent loose stools, often acute and self-limiting from infections. In India, contaminated food and water are common causes; dehydration is the main danger, especially in children.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Three or more loose stools per day",
+    "Abdominal cramps",
+    "Nausea and vomiting (sometimes)",
+    "Fever if infectious"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Viral gastroenteritis (rotavirus, norovirus)",
+    "Bacterial (E. coli, Salmonella, Shigella)",
+    "Parasitic (Giardia, amoebiasis)",
+    "Medicines (antibiotics) and food intolerance"
   ],
   "riskFactors": [
-    "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Unsafe drinking water",
+    "Street food in monsoon",
+    "Poor hand hygiene",
+    "Recent antibiotic use",
+    "Travel to endemic areas"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Clinical assessment of duration and severity",
+    "Stool culture if bloody, prolonged, or outbreak",
+    "Check dehydration signs",
+    "Exclude cholera in epidemic settings"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Oral rehydration solution (ORS) — cornerstone",
+    "Zinc supplementation in children per WHO",
+    "Antibiotics only for confirmed bacterial dysentery or specific pathogens",
+    "Continue feeding; avoid unnecessary fasting"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +50,16 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Safe water and food hygiene",
+    "Hand washing",
+    "Rotavirus vaccination for infants",
+    "Proper food storage in hot climate"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Severe dehydration and shock",
+    "Electrolyte imbalance",
+    "Haemolytic uraemic syndrome (some E. coli)",
+    "Persistent diarrhoea and malnutrition in children"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -80,5 +82,29 @@
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "No urine for 8+ hours",
+    "Sunken eyes, dry mouth, lethargy in children",
+    "Blood in stool with high fever",
+    "Signs of shock — cold extremities, weak pulse"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

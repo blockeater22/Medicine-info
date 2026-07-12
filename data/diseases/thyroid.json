@@ -11,36 +11,34 @@
       "Endocrine"
     ]
   },
-  "overview": "Thyroid Disorders is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Thyroid disorders include hypothyroidism (underactive) and hyperthyroidism (overactive), common in India especially among women. Iodine nutrition and autoimmune thyroiditis (Hashimoto's, Graves') are frequent causes.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Hypothyroid: fatigue, weight gain, cold intolerance, constipation",
+    "Hyperthyroid: weight loss, palpitations, heat intolerance, tremor",
+    "Neck swelling (goitre) in some cases"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Hashimoto's thyroiditis (hypothyroid)",
+    "Graves' disease (hyperthyroid)",
+    "Iodine deficiency or excess",
+    "Thyroid nodules and thyroiditis"
   ],
   "riskFactors": [
-    "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Female sex",
+    "Family history of autoimmune thyroid disease",
+    "Previous thyroid surgery or radioiodine",
+    "Pregnancy and postpartum period"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "TSH as first-line test",
+    "Free T4 and T3 when indicated",
+    "Thyroid antibodies (anti-TPO)",
+    "Ultrasound for nodules"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Levothyroxine for hypothyroidism",
+    "Antithyroid drugs, radioiodine, or surgery for hyperthyroidism",
+    "Regular TSH monitoring for dose adjustment"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +47,15 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Adequate iodine through iodised salt (avoid excess)",
+    "Early screening in pregnancy",
+    "Adhere to prescribed thyroid replacement"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Myxoedema coma (severe hypothyroidism)",
+    "Thyroid storm (severe hyperthyroidism)",
+    "Osteoporosis with overtreated hyperthyroidism",
+    "Cardiovascular effects of untreated disease"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -79,5 +77,28 @@
     }
   ],
   "popular": true,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Severe lethargy with hypothermia (myxoedema)",
+    "High fever with agitation and tachycardia (thyroid storm)",
+    "Sudden neck swelling with breathing difficulty"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

@@ -1,7 +1,8 @@
 import { notFound } from "next/navigation";
 import { getAllSymptoms, getSymptom, getRelatedDiseases } from "@/lib/data";
-import { buildMetadata } from "@/lib/seo";
+import { buildMetadata, faqSchema, JsonLd, medicalWebPageSchema } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
+import { AuthorBlock } from "@/components/shared/author-block";
 import { ContentSection, ContentList } from "@/components/shared/content-section";
 import { FAQAccordion } from "@/components/shared/faq-accordion";
 import { MedicalDisclaimer } from "@/components/shared/medical-disclaimer";
@@ -32,12 +33,24 @@ export default async function SymptomPage({ params }: { params: Promise<{ slug: 
   return (
     <div className="container-custom py-8 max-w-4xl">
       <TrackRecentlyViewed slug={slug} name={symptom.name} href={`/symptom/${slug}`} type="symptom" />
+      <JsonLd
+        data={[
+          medicalWebPageSchema({
+            name: symptom.name,
+            description: symptom.description,
+            path: `/symptom/${slug}`,
+            dateModified: symptom.updatedAt,
+          }),
+          ...(symptom.faqs?.length ? [faqSchema(symptom.faqs)] : []),
+        ]}
+      />
       <Breadcrumb items={[{ label: "Symptoms", href: "/symptoms" }, { label: symptom.name, href: `/symptom/${slug}` }]} />
 
       <header className="mb-8">
         <span className="text-sm font-medium text-primary">{symptom.category}</span>
         <h1 className="text-3xl md:text-4xl font-bold mt-1 mb-4">{symptom.name}</h1>
         <p className="text-lg leading-relaxed">{symptom.description}</p>
+        <AuthorBlock authoredBy={symptom.authoredBy} className="mt-4" />
         <div className="mt-4"><ShareButtons url={`/symptom/${slug}`} title={symptom.name} /></div>
       </header>
 

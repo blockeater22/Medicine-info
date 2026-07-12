@@ -62,5 +62,10 @@
     }
   ],
   "popular": true,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

@@ -29,6 +29,8 @@ import {
   truncateDescription,
 } from "./seo-helpers";
 import { MEDICAL_DISCLAIMER } from "@/lib/constants";
+import { DEFAULT_ARTICLE_AUTHORSHIP, DEFAULT_AUTHORSHIP, resolveAuthorship } from "@/lib/content-authorship";
+import type { AuthorshipInfo } from "@/types";
 
 const DEFAULT_MISSED_DOSE =
   "Take the missed dose as soon as you remember unless it is near the time for your next dose. Do not double doses.";
@@ -41,6 +43,10 @@ function normalizeFaqs(faqs?: { question: string; answer: string }[]): FAQItem[]
 
 function mapSources(sources?: { name: string; url: string; accessedAt?: string }[]) {
   return sources?.map((s) => ({ name: s.name, url: s.url, accessedAt: s.accessedAt }));
+}
+
+function mapAuthorship(raw?: AuthorshipInfo, fallback = DEFAULT_AUTHORSHIP): AuthorshipInfo {
+  return resolveAuthorship(raw ?? fallback);
 }
 
 function titleCase(text: string): string {
@@ -97,10 +103,10 @@ export function adaptMedicine(raw: PipelineMedicine): Medicine {
     faqs: normalizeFaqs(raw.faqs),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),
+    authoredBy: mapAuthorship((raw as { authoredBy?: AuthorshipInfo }).authoredBy),
     popular: false,
   };
 }
-
 export function adaptDisease(raw: PipelineDisease): Disease {
   const category = inferCategoryFromSlug(raw.slug, "General Health");
 
@@ -125,6 +131,7 @@ export function adaptDisease(raw: PipelineDisease): Disease {
     faqs: normalizeFaqs(raw.faq),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),
+    authoredBy: mapAuthorship((raw as { authoredBy?: AuthorshipInfo }).authoredBy),
     popular: false,
   };
 }
@@ -146,6 +153,7 @@ export function adaptSymptom(raw: PipelineSymptom): Symptom {
     faqs: normalizeFaqs(raw.faq),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),
+    authoredBy: mapAuthorship((raw as { authoredBy?: AuthorshipInfo }).authoredBy),
     popular: false,
   };
 }
@@ -170,6 +178,7 @@ export function adaptLabTest(raw: PipelineLabTest): LabTest {
     faqs: normalizeFaqs(raw.faq),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),
+    authoredBy: mapAuthorship((raw as { authoredBy?: AuthorshipInfo }).authoredBy),
     popular: false,
   };
 }
@@ -188,6 +197,7 @@ export function adaptFirstAid(raw: PipelineFirstAid): FirstAid {
     faqs: normalizeFaqs(raw.faq),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),
+    authoredBy: mapAuthorship((raw as { authoredBy?: AuthorshipInfo }).authoredBy),
     popular: false,
   };
 }
@@ -201,7 +211,10 @@ export function adaptArticle(raw: PipelineArticle): Article {
     description: truncateDescription(raw.summary),
     seo: buildArticleSeo(raw.title, raw.category, tags),
     content: raw.content,
-    author: raw.author ?? "Doctors Hub Medical Team",
+    author:
+      raw.author && raw.author !== "Doctors Hub Medical Team"
+        ? raw.author
+        : "Dr. Priya Sharma, MBBS, MD",
     publishedAt: raw.lastUpdated,
     category: raw.category,
     tags,
@@ -209,6 +222,7 @@ export function adaptArticle(raw: PipelineArticle): Article {
     faqs: normalizeFaqs(raw.faq),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),
+    authoredBy: mapAuthorship((raw as { authoredBy?: AuthorshipInfo }).authoredBy, DEFAULT_ARTICLE_AUTHORSHIP),
     trending: false,
     popular: false,
   };
@@ -242,61 +256,82 @@ export function adaptCalculator(raw: PipelineCalculator): CalculatorMeta {
     faqs: normalizeFaqs(raw.faq),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),
+    authoredBy: mapAuthorship((raw as { authoredBy?: AuthorshipInfo }).authoredBy),
     popular: POPULAR_CALCULATOR_SLUGS.has(raw.slug),
   };
 }
 
+function finalizeEntity<T extends { authoredBy?: AuthorshipInfo }>(
+  entity: T,
+  fallback = DEFAULT_AUTHORSHIP
+): T {
+  return { ...entity, authoredBy: mapAuthorship(entity.authoredBy, fallback) };
+}
+
 /** Pass-through if already website format; otherwise adapt */
 export function coerceMedicine(data: unknown): Medicine {
-  if (isWebsiteMedicine(data)) return data;
+  if (isWebsiteMedicine(data)) return finalizeEntity(data);
   return adaptMedicine(data as PipelineMedicine);
 }
 
 export function coerceDisease(data: unknown): Disease {
-  if (isWebsiteDisease(data)) return data;
+  if (isWebsiteDisease(data)) return finalizeEntity(data);
   return adaptDisease(data as PipelineDisease);
 }
 
 export function coerceSymptom(data: unknown): Symptom {
-  if (isWebsiteSymptom(data)) return data;
-  // Legacy website symptom uses `description` as main field
+  if (isWebsiteSymptom(data)) return finalizeEntity(data);
   const d = data as Record<string, unknown>;
   if (d.description && d.possibleCauses && !d.overview) {
-    return data as Symptom;
+    return finalizeEntity(data as Symptom);
   }
   return adaptSymptom(data as PipelineSymptom);
 }
 
 export function coerceLabTest(data: unknown): LabTest {
-  if (isWebsiteLabTest(data)) return data;
+  if (isWebsiteLabTest(data)) return finalizeEntity(data);
   const d = data as Record<string, unknown>;
-  if (d.highMeans !== undefined) return data as LabTest;
+  if (d.highMeans !== undefined) return finalizeEntity(data as LabTest);
   return adaptLabTest(data as PipelineLabTest);
 }
 
 export function coerceFirstAid(data: unknown): FirstAid {
-  if (isWebsiteFirstAid(data)) return data;
+  if (isWebsiteFirstAid(data)) return finalizeEntity(data);
   const d = data as Record<string, unknown>;
-  if (d.description && d.steps && !d.overview) return data as FirstAid;
+  if (d.description && d.steps && !d.overview) return finalizeEntity(data as FirstAid);
   return adaptFirstAid(data as PipelineFirstAid);
 }
 
 export function coerceArticle(data: unknown): Article {
-  if (isWebsiteArticle(data)) return data;
+  if (isWebsiteArticle(data)) {
+    const article = data as Article;
+    return finalizeEntity(
+      {
+        ...article,
+        author:
+          article.author === "Doctors Hub Medical Team"
+            ? "Dr. Priya Sharma, MBBS, MD"
+            : article.author,
+      },
+      DEFAULT_ARTICLE_AUTHORSHIP
+    );
+  }
   const d = data as Record<string, unknown>;
-  if (d.name && d.content && !d.title) return data as Article;
+  if (d.name && d.content && !d.title) {
+    return finalizeEntity(data as Article, DEFAULT_ARTICLE_AUTHORSHIP);
+  }
   return adaptArticle(data as PipelineArticle);
 }
 
 export function coerceCalculator(data: unknown): CalculatorMeta {
-  if (isWebsiteCalculator(data)) return data;
+  if (isWebsiteCalculator(data)) return finalizeEntity(data);
   const d = data as Record<string, unknown>;
   if (d.formula !== undefined || (d.type && !d.formulaReference)) {
     const calc = data as CalculatorMeta;
-    return {
+    return finalizeEntity({
       ...calc,
       popular: calc.popular ?? POPULAR_CALCULATOR_SLUGS.has(calc.slug),
-    };
+    });
   }
   return adaptCalculator(data as PipelineCalculator);
 }

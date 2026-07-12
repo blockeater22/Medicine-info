@@ -67,5 +67,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ibuprofen",
       "accessedAt": "2026-07-12T06:31:30.927Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

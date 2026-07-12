@@ -67,5 +67,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=sodium%20cation%2C%20sodium%20bicarbonate%2C%20anhydrous%20dextrose%2C%20magnesium%20sulfate%2C%20potassium%20chloride%2C%20calcium%20chloride%2C%20sodium%20phosphate",
       "accessedAt": "2026-07-12T06:31:52.114Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

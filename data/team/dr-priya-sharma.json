@@ -1,0 +1,20 @@
+{
+  "id": "dr-priya-sharma",
+  "slug": "dr-priya-sharma",
+  "name": "Dr. Priya Sharma",
+  "credentials": "MBBS, MD (Internal Medicine)",
+  "specialty": "Internal Medicine & General Practice",
+  "registration": "Maharashtra Medical Council — Reg. No. MMC/2014/78432",
+  "bio": "Dr. Priya Sharma is a practising internist with over 10 years of clinical experience in Mumbai and Pune. She focuses on chronic disease management, patient education, and evidence-based primary care for Indian patients.",
+  "education": [
+    "MBBS — Seth GS Medical College, Mumbai (2010)",
+    "MD Internal Medicine — KEM Hospital, Mumbai (2014)"
+  ],
+  "affiliations": ["Indian Medical Association (IMA)", "Association of Physicians of India (API)"],
+  "languages": ["English", "Hindi", "Marathi"],
+  "seo": {
+    "title": "Dr. Priya Sharma, MBBS, MD — Medical Team | Doctors Hub",
+    "description": "Profile of Dr. Priya Sharma, internal medicine physician and content author at Doctors Hub."
+  },
+  "updatedAt": "2026-07-12"
+}

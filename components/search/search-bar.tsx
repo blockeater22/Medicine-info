@@ -111,7 +111,9 @@ export function SearchBar({ compact = false, autoFocus = false }: SearchBarProps
             autoFocus={autoFocus}
             className={cn("pl-10 pr-10", compact ? "h-9" : "h-12 text-base rounded-xl")}
             aria-label="Search medical information"
+            role="combobox"
             aria-autocomplete="list"
+            aria-haspopup="listbox"
             aria-expanded={showResults}
             aria-controls={showResults ? listboxId : undefined}
           />

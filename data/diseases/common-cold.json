@@ -11,36 +11,32 @@
       "Respiratory"
     ]
   },
-  "overview": "Common Cold is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "The common cold is a viral upper respiratory infection, usually self-limiting within 7–10 days. Antibiotics are not effective. Symptomatic care and hydration are the mainstay of treatment.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Runny or blocked nose",
+    "Sore throat and cough",
+    "Sneezing and mild headache",
+    "Low-grade fever in some cases"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Rhinoviruses (most common)",
+    "Coronaviruses, adenoviruses, and other respiratory viruses"
   ],
   "riskFactors": [
-    "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Seasonal crowding",
+    "Children in daycare or school",
+    "Smoking and poor sleep",
+    "Close contact with infected persons"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Clinical diagnosis — tests rarely needed",
+    "Differentiate from influenza, COVID-19, or bacterial sinusitis if symptoms prolonged or severe"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Rest and adequate fluids",
+    "Paracetamol for fever or aches",
+    "Saline nasal drops or steam inhalation",
+    "No routine antibiotics"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +45,16 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Hand hygiene",
+    "Avoid touching face with unwashed hands",
+    "Cover coughs and sneezes",
+    "Balanced diet and adequate sleep"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Acute bacterial sinusitis",
+    "Otitis media (especially in children)",
+    "Exacerbation of asthma",
+    "Secondary bacterial pneumonia (rare)"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -80,5 +77,29 @@
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Difficulty breathing",
+    "High fever >3 days",
+    "Severe ear pain or facial swelling",
+    "Confusion or dehydration"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

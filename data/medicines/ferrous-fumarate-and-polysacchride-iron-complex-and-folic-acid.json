@@ -75,5 +75,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ferrous%20fumarate%20and%20polysacchride%20iron%20complex%20and%20folic%20acid",
       "accessedAt": "2026-07-12T06:31:51.045Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

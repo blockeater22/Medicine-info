@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Stethoscope, Mail, Phone } from "lucide-react";
+import { Stethoscope, Mail } from "lucide-react";
 import { FOOTER_LINKS, MEDICAL_DISCLAIMER, SITE } from "@/lib/constants";
 import { Separator } from "@/components/ui/separator";
 
@@ -18,14 +18,11 @@ export function Footer() {
               <a href={`mailto:${SITE.email}`} className="flex items-center gap-2 hover:text-primary transition-colors">
                 <Mail className="h-4 w-4" aria-hidden="true" /> {SITE.email}
               </a>
-              <p className="flex items-center gap-2">
-                <Phone className="h-4 w-4" aria-hidden="true" /> {SITE.phone}
-              </p>
             </div>
           </div>
 
           <div>
-            <h3 className="font-semibold mb-4">Resources</h3>
+            <h2 className="font-semibold mb-4 text-base">Resources</h2>
             <ul className="space-y-2">
               {FOOTER_LINKS.resources.map((link) => (
                 <li key={link.href}>
@@ -38,7 +35,7 @@ export function Footer() {
           </div>
 
           <div>
-            <h3 className="font-semibold mb-4">Company</h3>
+            <h2 className="font-semibold mb-4 text-base">Company</h2>
             <ul className="space-y-2">
               {FOOTER_LINKS.company.map((link) => (
                 <li key={link.href}>
@@ -51,7 +48,7 @@ export function Footer() {
           </div>
 
           <div>
-            <h3 className="font-semibold mb-4">Legal</h3>
+            <h2 className="font-semibold mb-4 text-base">Legal</h2>
             <ul className="space-y-2">
               {FOOTER_LINKS.legal.map((link) => (
                 <li key={link.href}>

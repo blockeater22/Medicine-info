@@ -64,5 +64,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ascorbic%20acid%2C%20cholecalciferol%2C%20.alpha.-tocopherol%20acetate%2C%20dl-%2C%20pyridoxine%2C%20folic%20acid%2C%20cyanocobalamin%2C%20calcium%2C%20ferrous%20fumarate%2C%20magnesium%2C%20doconexent",
       "accessedAt": "2026-07-12T06:31:50.279Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

@@ -1,7 +1,8 @@
 import { notFound } from "next/navigation";
 import { getAllFirstAid, getFirstAid } from "@/lib/data";
-import { buildMetadata } from "@/lib/seo";
+import { buildMetadata, faqSchema, JsonLd, medicalWebPageSchema } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
+import { AuthorBlock } from "@/components/shared/author-block";
 import { ContentSection, ContentList } from "@/components/shared/content-section";
 import { FAQAccordion } from "@/components/shared/faq-accordion";
 import { MedicalDisclaimer } from "@/components/shared/medical-disclaimer";
@@ -29,6 +30,17 @@ export default async function FirstAidPage({ params }: { params: Promise<{ slug:
   return (
     <div className="container-custom py-8 max-w-4xl">
       <TrackRecentlyViewed slug={slug} name={guide.name} href={`/first-aid/${slug}`} type="first-aid" />
+      <JsonLd
+        data={[
+          medicalWebPageSchema({
+            name: guide.name,
+            description: guide.description,
+            path: `/first-aid/${slug}`,
+            dateModified: guide.updatedAt,
+          }),
+          ...(guide.faqs?.length ? [faqSchema(guide.faqs)] : []),
+        ]}
+      />
       <Breadcrumb items={[{ label: "First Aid", href: "/first-aid" }, { label: guide.name, href: `/first-aid/${slug}` }]} />
 
       <EmergencyBanner />
@@ -37,6 +49,7 @@ export default async function FirstAidPage({ params }: { params: Promise<{ slug:
         <span className="text-sm font-medium text-red-600 capitalize">{guide.severity} emergency</span>
         <h1 className="text-3xl md:text-4xl font-bold mt-1 mb-4">{guide.name}</h1>
         <p className="text-lg leading-relaxed">{guide.description}</p>
+        <AuthorBlock authoredBy={guide.authoredBy} className="mt-4" />
         <div className="mt-4"><ShareButtons url={`/first-aid/${slug}`} title={guide.name} /></div>
       </header>
 

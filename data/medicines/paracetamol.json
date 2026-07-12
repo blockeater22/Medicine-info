@@ -7,7 +7,7 @@
     "Dolo 650",
     "Calpol"
   ],
-  "category": "Pain Relief",
+  "category": "Analgesic / Antipyretic",
   "description": "Paracetamol (Acetaminophen) uses, dosage, side effects and safety information for patients in India.",
   "seo": {
     "title": "Paracetamol: Uses, Dosage, Side Effects | Doctors Hub",
@@ -23,11 +23,11 @@
   },
   "composition": "Acetaminophen — consult product label for exact strength and excipients.",
   "uses": [
-    "Pain and fever relief",
-    "Inflammation reduction where applicable",
-    "As prescribed by physician for indicated conditions"
+    "Mild to moderate pain (headache, body ache, toothache)",
+    "Fever reduction",
+    "Post-vaccination fever in children as advised by a doctor"
   ],
-  "howItWorks": "Acetaminophen works through established pharmacological pathways to relieve symptoms or treat the underlying condition. Always follow your doctor's prescription.",
+  "howItWorks": "Paracetamol (acetaminophen) acts centrally to reduce pain and fever. It inhibits prostaglandin synthesis in the brain and is one of the safest OTC analgesics when used at recommended doses.",
   "dosage": {
     "adults": "As directed by physician. Typical adult dose varies by condition and formulation.",
     "children": "Pediatric dosing must be weight-based. Consult pediatrician.",
@@ -37,12 +37,12 @@
   "missedDose": "Take as soon as remembered unless near next dose. Do not double dose.",
   "overdose": "Seek immediate medical attention. Contact nearest hospital or poison control.",
   "sideEffects": [
-    "Nausea",
-    "Dizziness",
-    "Skin rash (rare)",
-    "Gastrointestinal discomfort"
+    "Rare nausea",
+    "Rare skin rash",
+    "Liver damage with overdose"
   ],
   "warnings": [
+    "Widely sold OTC in India as Crocin, Dolo 650, and Calpol.",
     "Do not exceed prescribed dose",
     "Inform doctor of all medications",
     "Not for self-medication without consultation"
@@ -67,14 +67,31 @@
   ],
   "faqs": [
     {
-      "question": "What is Paracetamol used for?",
-      "answer": "Paracetamol is commonly used for conditions as prescribed by your doctor."
+      "question": "What is the difference between paracetamol and ibuprofen?",
+      "answer": "Paracetamol mainly reduces pain and fever with less stomach irritation. Ibuprofen also reduces inflammation. Do not combine without medical advice."
     },
     {
-      "question": "Can I take Paracetamol without prescription?",
-      "answer": "Always consult a qualified doctor before starting any medication."
+      "question": "What is the maximum daily dose for adults in India?",
+      "answer": "Do not exceed 4 g (4000 mg) per day for healthy adults unless directed by a doctor. Lower limits apply in liver disease."
     }
   ],
   "popular": true,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "WHO Model Formulary",
+      "url": "https://list.essentialmeds.org/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "Indian Pharmacopoeia Commission",
+      "url": "https://ipc.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ]
 }

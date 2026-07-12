@@ -11,36 +11,36 @@
       "Respiratory"
     ]
   },
-  "overview": "Pneumonia is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Pneumonia is infection of the lung parenchyma, common in India across all ages. Bacterial and viral causes differ by season; prompt antibiotics for bacterial pneumonia and supportive care reduce mortality.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Cough with sputum (may be rusty or blood-tinged)",
+    "Fever and chills",
+    "Chest pain worse with breathing",
+    "Shortness of breath and fatigue"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Streptococcus pneumoniae (common bacterial)",
+    "Haemophilus influenzae",
+    "Viruses including influenza and COVID-19",
+    "Aspiration in elderly or impaired swallow"
   ],
   "riskFactors": [
-    "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Age extremes (young children, elderly)",
+    "Smoking and COPD",
+    "Diabetes and immunosuppression",
+    "Recent viral respiratory infection"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Chest X-ray showing consolidation",
+    "Complete blood count and inflammatory markers",
+    "Sputum culture in hospitalised patients",
+    "Pulse oximetry and blood gases if severe"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Antibiotics for bacterial pneumonia per guidelines",
+    "Antivirals when influenza confirmed early",
+    "Oxygen and IV fluids if hypoxic",
+    "Vaccination for prevention"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +49,16 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Pneumococcal and influenza vaccines in eligible groups",
+    "Hand hygiene",
+    "Avoid smoking",
+    "Manage chronic lung disease"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Pleural effusion or empyema",
+    "Sepsis and respiratory failure",
+    "Lung abscess",
+    "Death in high-risk groups if untreated"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -80,5 +81,29 @@
     }
   ],
   "popular": true,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "SpO2 below 92% on room air",
+    "Confusion or hypotension",
+    "Rapid breathing with chest retractions",
+    "Cyanosis or inability to speak in full sentences"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

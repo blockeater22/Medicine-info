@@ -1,38 +1,60 @@
 {
   "slug": "diabetes",
   "name": "Diabetes",
-  "overview": "Diabetes is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include diabetes mellitus, commonly known as diabetes, is a group of common endocrine diseases characterized by sustained high blood sugar levels; diabetes tends to progress in severity, and is due to either a reduced production of the hormone insulin by the pancreas or unresponsiveness of bodily cells to insulin's effects; classic symptoms include the three ps: polydipsia, polyuria, and polyphagia, together with weight loss and blurred vision. This summary is educational and should be paired with professional medical evaluation.",
+  "overview": "Diabetes mellitus is a chronic condition where blood glucose stays elevated because the body cannot produce enough insulin or use it effectively. India has one of the world's largest diabetic populations. Early diagnosis and sustained control reduce complications affecting the eyes, kidneys, nerves, and heart.",
   "symptoms": [
-    "In routine practice, diabetes mellitus, commonly known as diabetes, is a group of common endocrine diseases characterized by sustained high blood sugar levels.",
-    "From a clinical perspective, diabetes tends to progress in severity, and is due to either a reduced production of the hormone insulin by the pancreas or unresponsiveness of bodily cells to insulin's effects.",
-    "In routine practice, classic symptoms include the three Ps: polydipsia, polyuria, and polyphagia, together with weight loss and blurred vision.",
-    "From a clinical perspective, if left untreated, the disease can lead to many health complications, including disorders of the cardiovascular system, eye, kidney, and nerves."
+    "Increased thirst and urination",
+    "Unexplained weight loss",
+    "Fatigue and blurred vision",
+    "Slow-healing wounds or frequent infections",
+    "Tingling or numbness in feet (long-standing disease)"
   ],
   "causes": [
-    "From a clinical perspective, multiple genetic, lifestyle, and environmental factors may contribute."
+    "Type 1: autoimmune destruction of pancreatic beta cells",
+    "Type 2: insulin resistance plus progressive beta-cell failure",
+    "Gestational diabetes during pregnancy",
+    "Secondary causes: pancreatitis, certain medicines, endocrine disorders"
   ],
-  "riskFactors": [],
+  "riskFactors": [
+    "Family history",
+    "Overweight and sedentary lifestyle",
+    "Age over 45",
+    "History of gestational diabetes",
+    "Polycystic ovary syndrome (PCOS)",
+    "South Asian ethnicity (higher risk at lower BMI)"
+  ],
   "diagnosis": [
-    "Health professionals note that clinical evaluation.",
-    "In routine practice, relevant laboratory or imaging tests as indicated."
+    "Fasting blood glucose and HbA1c",
+    "Oral glucose tolerance test when indicated",
+    "Urine albumin and kidney function tests",
+    "Lipid profile and blood pressure monitoring",
+    "Annual dilated eye examination"
   ],
   "treatment": [
-    "Health professionals note that treatment plans are individualized based on severity and patient profile."
+    "Lifestyle modification: diet, exercise, weight management",
+    "Metformin as first-line in most type 2 diabetes",
+    "Additional agents (SGLT2 inhibitors, GLP-1 agonists, insulin) as needed",
+    "Blood pressure and lipid control",
+    "Foot care and self-monitoring of glucose"
   ],
   "prevention": [
-    "From a clinical perspective, regular checkups.",
-    "From a clinical perspective, healthy lifestyle habits.",
-    "Health professionals note that vaccination when applicable."
+    "Maintain healthy weight and regular physical activity",
+    "Balanced diet low in refined carbohydrates",
+    "Screen adults with risk factors every 1–3 years",
+    "Manage prediabetes with structured lifestyle programmes"
   ],
   "complications": [
-    "Healthcare providers evaluate risk when progression if untreated.",
-    "Patients should discuss safety when reduced quality of life without proper follow-up."
+    "Diabetic retinopathy and vision loss",
+    "Chronic kidney disease",
+    "Neuropathy and foot ulcers",
+    "Heart attack and stroke",
+    "Hypoglycaemia with certain medicines"
   ],
   "emergencySigns": [
-    "Patients should discuss safety when sudden severe symptoms.",
-    "Extra caution is needed because difficulty breathing.",
-    "Extra caution is needed because chest pain.",
-    "Healthcare providers evaluate risk when confusion or loss of consciousness."
+    "Confusion or loss of consciousness",
+    "Fruity breath with vomiting (possible DKA)",
+    "Severe hypoglycaemia with sweating and shakiness",
+    "Non-healing foot wound with fever or spreading redness"
   ],
   "faq": [
     {
@@ -47,12 +69,29 @@
   "relatedDiseases": [],
   "relatedMedicines": [],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
-  "lastUpdated": "2026-07-12T06:22:50.138Z",
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
   "sources": [
     {
-      "name": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Diabetes",
-      "accessedAt": "2026-07-12T06:22:50.138Z"
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
     }
-  ]
+  ],
+  "category": "Endocrine",
+  "emergencyWarningSigns": [
+    "Confusion or loss of consciousness",
+    "Fruity breath with vomiting (possible DKA)",
+    "Severe hypoglycaemia with sweating and shakiness",
+    "Non-healing foot wound with fever or spreading redness"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  }
 }

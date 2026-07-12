@@ -1,7 +1,7 @@
 {
   "slug": "uti",
   "name": "Urinary Tract Infection",
-  "category": "Infectious",
+  "category": "Urological",
   "description": "Complete guide to Urinary Tract Infection: symptoms, causes, diagnosis, treatment, and prevention for patients in India.",
   "seo": {
     "title": "Urinary Tract Infection: Symptoms, Causes, Treatment | Doctors Hub",
@@ -11,36 +11,37 @@
       "Infectious"
     ]
   },
-  "overview": "Urinary Tract Infection is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Urinary tract infection (UTI) is bacterial infection of the bladder or kidneys, very common especially in women. Prompt antibiotics and hydration prevent ascending infection and complications.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Burning urination (dysuria)",
+    "Frequent urge to urinate",
+    "Cloudy or strong-smelling urine",
+    "Lower abdominal pain",
+    "Fever and flank pain if kidney involved"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "E. coli from perineal flora (most common)",
+    "Incomplete bladder emptying",
+    "Catheter use",
+    "Sexual activity"
   ],
   "riskFactors": [
-    "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Female anatomy (shorter urethra)",
+    "Diabetes",
+    "Pregnancy",
+    "Kidney stones or structural abnormalities",
+    "Menopause"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Urinalysis and urine culture",
+    "Clinical symptoms localising to bladder vs kidney",
+    "Imaging if recurrent or complicated UTI"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Short-course antibiotics based on culture sensitivity",
+    "Increased fluid intake",
+    "Longer course for pyelonephritis",
+    "Treat underlying obstruction if present"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +50,17 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Adequate hydration",
+    "Urinate after intercourse",
+    "Wipe front to back",
+    "Avoid holding urine for long periods",
+    "Cranberry products may help some women (evidence modest)"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Pyelonephritis",
+    "Sepsis",
+    "Recurrent infections",
+    "Pregnancy-related complications if untreated"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -80,5 +83,29 @@
     }
   ],
   "popular": true,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "High fever with flank pain and vomiting",
+    "Confusion or hypotension",
+    "UTI symptoms in pregnancy — always seek prompt care",
+    "No urine output with fever"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

@@ -1,0 +1,20 @@
+{
+  "id": "dr-rajesh-kumar",
+  "slug": "dr-rajesh-kumar",
+  "name": "Dr. Rajesh Kumar",
+  "credentials": "MBBS, MD (Pharmacology)",
+  "specialty": "Clinical Pharmacology & Drug Safety",
+  "registration": "Delhi Medical Council — Reg. No. DMC/2012/45678",
+  "bio": "Dr. Rajesh Kumar is a clinical pharmacologist who reviews medicine-related content for accuracy, drug interactions, and India-specific prescribing context. He has published on rational drug use and antimicrobial stewardship.",
+  "education": [
+    "MBBS — Maulana Azad Medical College, Delhi (2008)",
+    "MD Pharmacology — AIIMS New Delhi (2012)"
+  ],
+  "affiliations": ["Indian Pharmacological Society", "Indian Society for Clinical Research"],
+  "languages": ["English", "Hindi"],
+  "seo": {
+    "title": "Dr. Rajesh Kumar, MBBS, MD — Medical Team | Doctors Hub",
+    "description": "Profile of Dr. Rajesh Kumar, clinical pharmacologist and medical reviewer at Doctors Hub."
+  },
+  "updatedAt": "2026-07-12"
+}

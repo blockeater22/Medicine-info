@@ -69,5 +69,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ascorbic%20acid%2C%20sodium%20fluoride%2C%20vitamin%20a%20and%20vitamin%20d",
       "accessedAt": "2026-07-12T06:31:49.916Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

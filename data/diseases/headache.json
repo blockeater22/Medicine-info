@@ -11,36 +11,36 @@
       "Neurological"
     ]
   },
-  "overview": "Headache Disorders is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Headache is pain in the head or neck region. Tension-type and migraine headaches are most common. Sudden severe headache or headache with neurological signs requires urgent evaluation.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Dull aching (tension) or throbbing unilateral pain (migraine)",
+    "Sensitivity to light or sound",
+    "Nausea with migraine",
+    "Neck stiffness if meningitis present"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Tension-type headache from stress or muscle strain",
+    "Migraine with neurovascular triggers",
+    "Sinusitis, eyestrain, dehydration",
+    "Secondary causes: hypertension, infection, tumour (rare)"
   ],
   "riskFactors": [
-    "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Stress and poor sleep",
+    "Skipped meals and dehydration",
+    "Screen overuse",
+    "Family history of migraine",
+    "Caffeine withdrawal"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Clinical history and pattern",
+    "Neuroimaging if red flags: sudden onset, age >50 new headache, focal neurological signs",
+    "Blood pressure check"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Paracetamol or ibuprofen for acute episodes",
+    "Migraine-specific triptans when diagnosed",
+    "Rest, hydration, and trigger avoidance",
+    "Preventive medicines for frequent migraines"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +49,15 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Regular sleep schedule",
+    "Adequate hydration",
+    "Stress management",
+    "Identify and avoid personal triggers"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Medication-overuse headache from frequent analgesics",
+    "Chronic daily headache",
+    "Missed secondary cause if red flags ignored"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -80,5 +80,29 @@
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Sudden worst headache of life (thunderclap)",
+    "Headache with fever and neck stiffness",
+    "Weakness, vision loss, or confusion",
+    "Headache after head injury"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

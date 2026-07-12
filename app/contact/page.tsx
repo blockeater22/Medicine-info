@@ -1,7 +1,7 @@
 import { buildMetadata } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
 import { SITE } from "@/lib/constants";
-import { Mail, Phone, MapPin } from "lucide-react";
+import { Mail, MapPin } from "lucide-react";
 import { ContactForm } from "@/components/shared/contact-form";
 
 export const metadata = buildMetadata({
@@ -23,13 +23,12 @@ export default function ContactPage() {
             <div><p className="text-sm text-muted-foreground">Email</p><p className="font-medium">{SITE.email}</p></div>
           </a>
           <div className="flex items-center gap-3 rounded-xl border p-4">
-            <Phone className="h-5 w-5 text-primary" />
-            <div><p className="text-sm text-muted-foreground">Phone</p><p className="font-medium">{SITE.phone}</p></div>
-          </div>
-          <div className="flex items-center gap-3 rounded-xl border p-4">
             <MapPin className="h-5 w-5 text-primary" />
             <div><p className="text-sm text-muted-foreground">Location</p><p className="font-medium">{SITE.address}</p></div>
           </div>
+          <p className="text-sm text-muted-foreground">
+            For medical emergencies, call <strong>112</strong> or your local hospital. {SITE.name} does not provide telemedicine or emergency services.
+          </p>
         </div>
 
         <ContactForm />

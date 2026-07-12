@@ -21,11 +21,11 @@
   },
   "composition": "Amoxicillin — consult product label for exact strength and excipients.",
   "uses": [
-    "Pain and fever relief",
-    "Inflammation reduction where applicable",
-    "As prescribed by physician for indicated conditions"
+    "Bacterial infections such as respiratory tract infections, otitis media, and urinary tract infections",
+    "Helicobacter pylori eradication regimens (combination therapy)",
+    "Skin and soft tissue bacterial infections when prescribed by a doctor"
   ],
-  "howItWorks": "Amoxicillin works through established pharmacological pathways to relieve symptoms or treat the underlying condition. Always follow your doctor's prescription.",
+  "howItWorks": "Amoxicillin is a penicillin-type antibiotic. It works by inhibiting bacterial cell wall synthesis, which stops bacteria from multiplying. It is effective against many gram-positive and some gram-negative organisms.",
   "dosage": {
     "adults": "As directed by physician. Typical adult dose varies by condition and formulation.",
     "children": "Pediatric dosing must be weight-based. Consult pediatrician.",
@@ -36,11 +36,12 @@
   "overdose": "Seek immediate medical attention. Contact nearest hospital or poison control.",
   "sideEffects": [
     "Nausea",
-    "Dizziness",
-    "Skin rash (rare)",
-    "Gastrointestinal discomfort"
+    "Diarrhoea",
+    "Skin rash",
+    "Abdominal discomfort"
   ],
   "warnings": [
+    "Common Indian brands include Mox and Novamox. Available only on prescription in India.",
     "Do not exceed prescribed dose",
     "Inform doctor of all medications",
     "Not for self-medication without consultation"
@@ -53,9 +54,10 @@
   "alcohol": "Avoid alcohol unless approved by doctor. May increase side effects.",
   "foodInteraction": "Take as directed with or without food per physician advice.",
   "drugInteractions": [
-    "Other NSAIDs",
-    "Blood thinners",
-    "Certain antibiotics — inform your doctor of all medicines"
+    "Methotrexate",
+    "Warfarin",
+    "Allopurinol",
+    "Oral contraceptives (may reduce efficacy — use backup contraception)"
   ],
   "storage": "Store in cool, dry place below 25°C. Keep away from children.",
   "alternatives": [],
@@ -66,14 +68,31 @@
   ],
   "faqs": [
     {
-      "question": "What is Amoxicillin used for?",
-      "answer": "Amoxicillin is commonly used for conditions as prescribed by your doctor."
+      "question": "Is amoxicillin used for fever or pain?",
+      "answer": "No. Amoxicillin treats bacterial infections. It does not reduce fever or pain like paracetamol."
     },
     {
-      "question": "Can I take Amoxicillin without prescription?",
-      "answer": "Always consult a qualified doctor before starting any medication."
+      "question": "Can I stop amoxicillin when I feel better?",
+      "answer": "Complete the full course as prescribed unless your doctor advises otherwise. Stopping early can cause relapse and antibiotic resistance."
     }
   ],
   "popular": true,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "WHO Model Formulary",
+      "url": "https://list.essentialmeds.org/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "Indian Pharmacopoeia Commission",
+      "url": "https://ipc.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ]
 }

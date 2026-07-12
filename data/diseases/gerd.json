@@ -11,36 +11,36 @@
       "Gastrointestinal"
     ]
   },
-  "overview": "GERD (Acid Reflux) is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Gastro-oesophageal reflux disease (GERD) occurs when stomach acid flows back into the oesophagus, causing heartburn and regurgitation. Lifestyle changes and acid-suppressing medicines effectively control most cases.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Heartburn after meals or when lying down",
+    "Acid regurgitation",
+    "Chest discomfort mimicking cardiac pain",
+    "Chronic cough or hoarseness"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Lower oesophageal sphincter dysfunction",
+    "Hiatus hernia",
+    "Obesity increasing abdominal pressure",
+    "Delayed gastric emptying"
   ],
   "riskFactors": [
-    "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Obesity",
+    "Large meals and late-night eating",
+    "Alcohol, chocolate, spicy and fatty foods",
+    "Smoking",
+    "Pregnancy"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Clinical response to PPI trial",
+    "Upper GI endoscopy if alarm symptoms or refractory disease",
+    "Oesophageal pH monitoring in selected cases"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Weight loss and head-of-bed elevation",
+    "Avoid trigger foods and late meals",
+    "PPIs (omeprazole, pantoprazole) or H2 blockers",
+    "Antacids for occasional symptoms"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +49,16 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Eat smaller meals",
+    "Avoid lying down within 3 hours of eating",
+    "Maintain healthy weight",
+    "Limit alcohol and smoking"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Erosive oesophagitis",
+    "Barrett's oesophagus",
+    "Stricture",
+    "Aspiration pneumonia"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -80,5 +81,29 @@
     }
   ],
   "popular": true,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Difficulty swallowing or painful swallowing",
+    "Vomiting blood or black stools",
+    "Unintentional weight loss",
+    "Chest pain with exertion — exclude cardiac cause"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

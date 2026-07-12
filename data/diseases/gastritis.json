@@ -11,36 +11,35 @@
       "Gastrointestinal"
     ]
   },
-  "overview": "Gastritis is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Gastritis is inflammation of the stomach lining, causing upper abdominal pain, nausea, and bloating. H. pylori infection, NSAIDs, and alcohol are common causes in India.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Upper abdominal pain or burning",
+    "Nausea and bloating",
+    "Loss of appetite",
+    "Vomiting in severe cases"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Helicobacter pylori infection",
+    "NSAID use (ibuprofen, aspirin)",
+    "Excess alcohol",
+    "Autoimmune gastritis (less common)"
   ],
   "riskFactors": [
-    "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Chronic NSAID or aspirin use",
+    "Heavy alcohol consumption",
+    "Stress from critical illness",
+    "H. pylori prevalence in community"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Clinical history",
+    "H. pylori stool antigen or urea breath test",
+    "Upper endoscopy with biopsy when indicated"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Avoid NSAIDs and alcohol",
+    "PPI or H2 blocker for symptom relief",
+    "H. pylori eradication triple therapy when confirmed",
+    "Treat underlying cause"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +48,15 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Limit NSAID use; take with food or gastroprotection if prescribed",
+    "Moderate alcohol",
+    "Treat H. pylori when diagnosed"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Peptic ulcer disease",
+    "Gastrointestinal bleeding",
+    "Atrophic gastritis and B12 deficiency",
+    "MALT lymphoma (rare, H. pylori associated)"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -80,5 +79,29 @@
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Vomiting blood or coffee-ground material",
+    "Black tarry stools",
+    "Severe abdominal pain with rigidity",
+    "Dizziness or fainting from blood loss"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

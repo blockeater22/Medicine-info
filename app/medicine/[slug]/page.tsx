@@ -1,7 +1,8 @@
 import { notFound } from "next/navigation";
 import { getAllMedicines, getMedicine, getRelatedDiseases, getRelatedMedicines } from "@/lib/data";
-import { buildMetadata, medicineSchema, medicalWebPageSchema, JsonLd } from "@/lib/seo";
+import { buildMetadata, medicineSchema, medicalWebPageSchema, faqSchema, JsonLd } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
+import { AuthorBlock } from "@/components/shared/author-block";
 import { ContentSection, ContentList, TableOfContents } from "@/components/shared/content-section";
 import { FAQAccordion } from "@/components/shared/faq-accordion";
 import { MedicalDisclaimer } from "@/components/shared/medical-disclaimer";
@@ -36,6 +37,7 @@ export default async function MedicinePage({ params }: { params: Promise<{ slug:
 
   const relatedMeds = getRelatedMedicines(medicine.alternatives);
   const relatedDis = getRelatedDiseases(medicine.relatedDiseases);
+  const breadcrumbItems = [{ label: "Medicines", href: "/medicines" }, { label: medicine.name, href: `/medicine/${slug}` }];
 
   return (
     <div className="container-custom py-8">
@@ -49,9 +51,10 @@ export default async function MedicinePage({ params }: { params: Promise<{ slug:
             path: `/medicine/${slug}`,
             dateModified: medicine.updatedAt,
           }),
+          ...(medicine.faqs?.length ? [faqSchema(medicine.faqs)] : []),
         ]}
       />
-      <Breadcrumb items={[{ label: "Medicines", href: "/medicines" }, { label: medicine.name, href: `/medicine/${slug}` }]} />
+      <Breadcrumb items={breadcrumbItems} />
 
       <div className="grid lg:grid-cols-3 gap-8">
         <article className="lg:col-span-2 space-y-8">
@@ -60,6 +63,7 @@ export default async function MedicinePage({ params }: { params: Promise<{ slug:
             <h1 className="text-3xl md:text-4xl font-bold mt-1 mb-2">{medicine.name}</h1>
             <p className="text-muted-foreground">Generic: {medicine.genericName} | Brands: {medicine.brandNames.join(", ")}</p>
             <p className="mt-4 text-lg leading-relaxed">{medicine.description}</p>
+            <AuthorBlock authoredBy={medicine.authoredBy} className="mt-4" />
             <div className="mt-4">
               <ShareButtons url={`/medicine/${slug}`} title={medicine.name} />
             </div>

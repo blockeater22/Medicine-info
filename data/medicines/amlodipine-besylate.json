@@ -84,5 +84,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=amlodipine%20besylate",
       "accessedAt": "2026-07-12T06:31:34.385Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

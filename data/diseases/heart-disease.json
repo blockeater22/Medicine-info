@@ -11,36 +11,38 @@
       "Cardiovascular"
     ]
   },
-  "overview": "Heart Disease is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Heart disease encompasses coronary artery disease, heart failure, and arrhythmias — leading causes of death in India. Risk rises with diabetes, hypertension, smoking, and sedentary lifestyle.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Chest pain or pressure with exertion (angina)",
+    "Shortness of breath",
+    "Palpitations",
+    "Leg swelling in heart failure",
+    "Fatigue and reduced exercise tolerance"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Atherosclerosis of coronary arteries",
+    "Hypertension and diabetes damage",
+    "Valvular heart disease",
+    "Cardiomyopathies and congenital defects"
   ],
   "riskFactors": [
-    "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Smoking",
+    "Diabetes, hypertension, high cholesterol",
+    "Family history of premature heart disease",
+    "Obesity and physical inactivity",
+    "South Asian ethnicity"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "ECG and echocardiogram",
+    "Stress test or coronary angiography when indicated",
+    "Lipid profile and HbA1c",
+    "BNP for heart failure assessment"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Lifestyle: diet, exercise, smoking cessation",
+    "Statins, antiplatelets, beta-blockers, ACE inhibitors as indicated",
+    "Angioplasty or bypass for significant coronary disease",
+    "Device therapy for arrhythmias or heart failure"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +51,16 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Control BP, sugar, and cholesterol",
+    "Regular exercise and heart-healthy diet",
+    "No tobacco",
+    "Know family history and screen early"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Myocardial infarction",
+    "Heart failure",
+    "Stroke from emboli or shared atherosclerosis",
+    "Sudden cardiac death"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -80,5 +83,29 @@
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Crushing chest pain >15 minutes",
+    "Pain radiating to arm, jaw, or back",
+    "Sudden breathlessness with chest discomfort",
+    "Collapse or irregular pulse"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

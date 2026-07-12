@@ -86,5 +86,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=lisinopril%20and%20hydrochlorothiazide%20tablets",
       "accessedAt": "2026-07-12T06:31:39.935Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

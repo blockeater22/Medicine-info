@@ -2,7 +2,7 @@
 
 India's trusted free medical information platform — medicines, diseases, symptoms, lab tests, calculators, first aid guides, and health articles.
 
-**Domain:** https://doctors-hub.in
+**Domain:** https://www.doctors-hub.in
 
 ## Tech Stack
 
@@ -12,14 +12,14 @@ India's trusted free medical information platform — medicines, diseases, sympt
 - Shadcn UI (Radix)
 - Fuse.js (client-side search)
 - Framer Motion
-- next-sitemap
+- Next.js Metadata API (`app/robots.ts`, `app/sitemap.ts`)
 
 ## Getting Started
 
 ```bash
 npm install
 npm run dev      # Development server
-npm run build    # Static export + sitemap
+npm run build    # Static export (robots.txt + sitemap.xml via Metadata API)
 ```
 
 ## Project Structure
@@ -52,8 +52,8 @@ node scripts/generate-search-index.js
 Deploy directly to Vercel. Static export outputs to `out/` directory.
 
 Set environment variables:
-- `SITE_URL=https://doctors-hub.in`
-- `NEXT_PUBLIC_SITE_URL=https://doctors-hub.in`
+- `SITE_URL=https://www.doctors-hub.in`
+- `NEXT_PUBLIC_SITE_URL=https://www.doctors-hub.in`
 - `NEXT_PUBLIC_ENABLE_ADS=false` (set `true` after Google AdSense approval)
 
 After AdSense approval, also set:

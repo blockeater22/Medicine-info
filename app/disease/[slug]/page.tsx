@@ -1,7 +1,8 @@
 import { notFound } from "next/navigation";
 import { getAllDiseases, getDisease, getRelatedDiseases, getRelatedMedicines } from "@/lib/data";
-import { buildMetadata, medicalConditionSchema, medicalWebPageSchema, JsonLd } from "@/lib/seo";
+import { buildMetadata, medicalConditionSchema, medicalWebPageSchema, faqSchema, JsonLd } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
+import { AuthorBlock } from "@/components/shared/author-block";
 import { ContentSection, ContentList, TableOfContents } from "@/components/shared/content-section";
 import { FAQAccordion } from "@/components/shared/faq-accordion";
 import { MedicalDisclaimer } from "@/components/shared/medical-disclaimer";
@@ -50,6 +51,7 @@ export default async function DiseasePage({ params }: { params: Promise<{ slug: 
             path: `/disease/${slug}`,
             dateModified: disease.updatedAt,
           }),
+          ...(disease.faqs?.length ? [faqSchema(disease.faqs)] : []),
         ]}
       />
       <Breadcrumb items={[{ label: "Diseases", href: "/diseases" }, { label: disease.name, href: `/disease/${slug}` }]} />
@@ -60,6 +62,7 @@ export default async function DiseasePage({ params }: { params: Promise<{ slug: 
             <span className="text-sm font-medium text-primary">{disease.category}</span>
             <h1 className="text-3xl md:text-4xl font-bold mt-1 mb-4">{disease.name}</h1>
             <p className="text-lg leading-relaxed">{disease.description}</p>
+            <AuthorBlock authoredBy={disease.authoredBy} className="mt-4" />
             <div className="mt-4"><ShareButtons url={`/disease/${slug}`} title={disease.name} /></div>
           </header>
 

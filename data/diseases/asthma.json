@@ -11,36 +11,37 @@
       "Respiratory"
     ]
   },
-  "overview": "Asthma is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Asthma is a chronic airway disease with reversible bronchospasm, inflammation, and hyper-responsiveness to triggers. It affects millions in India, often worsened by air pollution and allergens. Good control allows normal activity with a personalised action plan.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Wheezing and shortness of breath",
+    "Chest tightness",
+    "Cough, often worse at night or early morning",
+    "Symptoms triggered by dust, pollen, cold air, or exercise"
   ],
   "causes": [
+    "Airway inflammation and hyper-reactivity",
     "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Environmental allergens and air pollution",
+    "Viral respiratory infections as triggers"
   ],
   "riskFactors": [
-    "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Family history of asthma or allergies",
+    "Childhood respiratory infections",
+    "Exposure to tobacco smoke",
+    "Occupational dust or chemical exposure",
+    "Urban air pollution"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Clinical history and episodic wheeze",
+    "Spirometry with bronchodilator reversibility",
+    "Peak flow monitoring",
+    "Allergy testing when indicated"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Inhaled corticosteroids for daily control",
+    "Short-acting bronchodilator (salbutamol) for rescue",
+    "Leukotriene modifiers or LABA add-ons as needed",
+    "Trigger avoidance and inhaler technique education"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +50,16 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Avoid known triggers and passive smoke",
+    "Annual influenza vaccination (recommended for asthma patients)",
+    "Use controller inhaler regularly as prescribed",
+    "Written asthma action plan for exacerbations"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Status asthmaticus (severe attack)",
+    "Respiratory failure",
+    "Reduced lung growth in untreated childhood asthma",
+    "Frequent school or work absenteeism"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -80,5 +82,29 @@
     }
   ],
   "popular": true,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Rescue inhaler not relieving symptoms",
+    "Difficulty speaking in full sentences",
+    "Blue lips or fingernails",
+    "Peak flow below 50% of personal best"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

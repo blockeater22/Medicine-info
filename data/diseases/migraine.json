@@ -11,36 +11,34 @@
       "Neurological"
     ]
   },
-  "overview": "Migraine is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Migraine is a recurring neurological disorder with moderate-to-severe headache, often one-sided, with nausea and sensitivity to light or sound. It affects productivity and quality of life but responds well to tailored treatment.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Pulsating headache lasting 4–72 hours",
+    "Nausea or vomiting",
+    "Photophobia and phonophobia",
+    "Aura (visual disturbances) in some patients before headache"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Genetic predisposition with cortical spreading depression",
+    "Triggers: hormones, sleep change, certain foods, stress",
+    "Not caused by a single structural lesion in typical migraine"
   ],
   "riskFactors": [
+    "Female sex and hormonal changes",
     "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Stress and irregular sleep",
+    "Fasting or dehydration"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Clinical criteria (ICHD-3 pattern)",
+    "Neuroimaging if atypical features or red flags",
+    "Exclude secondary headache causes"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Acute: NSAIDs, triptans, anti-emetics",
+    "Preventive: propranolol, topiramate, amitriptyline for frequent attacks",
+    "Lifestyle trigger management",
+    "CGRP inhibitors in selected refractory cases"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +47,16 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Regular sleep and meals",
+    "Hydration",
+    "Trigger diary",
+    "Preventive medication when ≥4 debilitating attacks/month"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Chronic migraine",
+    "Medication-overuse headache",
+    "Status migrainosus requiring hospital care",
+    "Rare migrainous infarction"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -80,5 +79,29 @@
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Headache unlike any previous migraine",
+    "Persistent vomiting with dehydration",
+    "Neurological deficit or seizure",
+    "Fever with headache"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

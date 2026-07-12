@@ -1,9 +1,13 @@
 import type { Metadata } from "next";
 import { SITE } from "@/lib/constants";
+import { getCanonicalUrl } from "@/lib/sitemap-urls";
 import type { BreadcrumbItem, FAQItem, SEOData } from "@/types";
 
-export function buildMetadata(seo: SEOData, path = ""): Metadata {
-  const url = `${SITE.domain}${path}`;
+export function buildMetadata(seo: SEOData, path = "/"): Metadata {
+  const url = seo.canonical || getCanonicalUrl(path);
+  const ogImage =
+    seo.ogImage ??
+    (path && path !== "/" ? `${SITE.domain}/og${path}.svg` : `${SITE.domain}/og-default.svg`);
   return {
     title: seo.title,
     description: seo.description,
@@ -11,7 +15,7 @@ export function buildMetadata(seo: SEOData, path = ""): Metadata {
     authors: [{ name: SITE.name, url: SITE.domain }],
     creator: SITE.name,
     publisher: SITE.name,
-    alternates: { canonical: seo.canonical || url },
+    alternates: { canonical: url },
     robots: seo.noindex
       ? { index: false, follow: false }
       : { index: true, follow: true, googleBot: { index: true, follow: true } },
@@ -24,13 +28,13 @@ export function buildMetadata(seo: SEOData, path = ""): Metadata {
       type: "website",
       images: seo.ogImage
         ? [{ url: seo.ogImage, width: 1200, height: 630, alt: seo.title }]
-        : [{ url: `${SITE.domain}/og-default.svg`, width: 1200, height: 630, alt: SITE.name }],
+        : [{ url: ogImage, width: 1200, height: 630, alt: seo.title }],
     },
     twitter: {
       card: "summary_large_image",
       title: seo.title,
       description: seo.description,
-      images: seo.ogImage ? [seo.ogImage] : [`${SITE.domain}/og-default.svg`],
+      images: seo.ogImage ? [seo.ogImage] : [ogImage],
     },
   };
 }
@@ -95,6 +99,29 @@ export function faqSchema(faqs: FAQItem[]) {
         text: faq.answer,
       },
     })),
+  };
+}
+
+export function personSchema(member: {
+  name: string;
+  slug: string;
+  credentials: string;
+  specialty: string;
+  bio: string;
+}) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    name: member.name,
+    url: `${SITE.domain}/medical-team/${member.slug}`,
+    jobTitle: member.credentials,
+    description: member.bio,
+    knowsAbout: member.specialty,
+    worksFor: {
+      "@type": "Organization",
+      name: SITE.name,
+      url: SITE.domain,
+    },
   };
 }
 

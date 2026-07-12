@@ -6,7 +6,7 @@
     "Atorva",
     "Lipitor"
   ],
-  "category": "Statin",
+  "category": "Statin (Lipid-lowering)",
   "description": "Atorvastatin (Atorvastatin) uses, dosage, side effects and safety information for patients in India.",
   "seo": {
     "title": "Atorvastatin: Uses, Dosage, Side Effects | Doctors Hub",
@@ -21,11 +21,11 @@
   },
   "composition": "Atorvastatin — consult product label for exact strength and excipients.",
   "uses": [
-    "Pain and fever relief",
-    "Inflammation reduction where applicable",
-    "As prescribed by physician for indicated conditions"
+    "High LDL cholesterol and hyperlipidaemia",
+    "Cardiovascular risk reduction in patients with coronary artery disease or diabetes",
+    "Primary prevention in high-risk adults as prescribed"
   ],
-  "howItWorks": "Atorvastatin works through established pharmacological pathways to relieve symptoms or treat the underlying condition. Always follow your doctor's prescription.",
+  "howItWorks": "Atorvastatin inhibits HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis. This lowers LDL cholesterol and stabilises arterial plaques over time.",
   "dosage": {
     "adults": "As directed by physician. Typical adult dose varies by condition and formulation.",
     "children": "Pediatric dosing must be weight-based. Consult pediatrician.",
@@ -35,10 +35,10 @@
   "missedDose": "Take as soon as remembered unless near next dose. Do not double dose.",
   "overdose": "Seek immediate medical attention. Contact nearest hospital or poison control.",
   "sideEffects": [
-    "Nausea",
-    "Dizziness",
-    "Skin rash (rare)",
-    "Gastrointestinal discomfort"
+    "Muscle aches",
+    "Elevated liver enzymes",
+    "Headache",
+    "Rare rhabdomyolysis — report severe muscle pain immediately"
   ],
   "warnings": [
     "Do not exceed prescribed dose",
@@ -75,5 +75,22 @@
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "WHO Model Formulary",
+      "url": "https://list.essentialmeds.org/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "Indian Pharmacopoeia Commission",
+      "url": "https://ipc.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ]
 }

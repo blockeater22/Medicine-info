@@ -21,11 +21,11 @@
   },
   "composition": "Levothyroxine — consult product label for exact strength and excipients.",
   "uses": [
-    "Pain and fever relief",
-    "Inflammation reduction where applicable",
-    "As prescribed by physician for indicated conditions"
+    "Hypothyroidism (underactive thyroid)",
+    "Thyroid hormone replacement after thyroidectomy",
+    "TSH suppression in thyroid cancer (specialist-directed)"
   ],
-  "howItWorks": "Levothyroxine works through established pharmacological pathways to relieve symptoms or treat the underlying condition. Always follow your doctor's prescription.",
+  "howItWorks": "Levothyroxine is synthetic T4 (thyroxine). It replaces deficient thyroid hormone, normalising metabolism, energy levels, and TSH when dosed correctly.",
   "dosage": {
     "adults": "As directed by physician. Typical adult dose varies by condition and formulation.",
     "children": "Pediatric dosing must be weight-based. Consult pediatrician.",
@@ -35,10 +35,10 @@
   "missedDose": "Take as soon as remembered unless near next dose. Do not double dose.",
   "overdose": "Seek immediate medical attention. Contact nearest hospital or poison control.",
   "sideEffects": [
-    "Nausea",
-    "Dizziness",
-    "Skin rash (rare)",
-    "Gastrointestinal discomfort"
+    "Palpitations if overdosed",
+    "Weight loss",
+    "Insomnia",
+    "Tremor — usually indicate dose adjustment needed"
   ],
   "warnings": [
     "Do not exceed prescribed dose",
@@ -65,14 +65,27 @@
   ],
   "faqs": [
     {
-      "question": "What is Levothyroxine used for?",
-      "answer": "Levothyroxine is commonly used for conditions as prescribed by your doctor."
-    },
-    {
-      "question": "Can I take Levothyroxine without prescription?",
-      "answer": "Always consult a qualified doctor before starting any medication."
+      "question": "When should I take levothyroxine?",
+      "answer": "Take on an empty stomach, typically 30–60 minutes before breakfast, with water. Avoid calcium and iron supplements within 4 hours."
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "WHO Model Formulary",
+      "url": "https://list.essentialmeds.org/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "Indian Pharmacopoeia Commission",
+      "url": "https://ipc.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ]
 }

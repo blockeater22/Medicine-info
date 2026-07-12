@@ -79,5 +79,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=rivaroxaban",
       "accessedAt": "2026-07-12T06:32:09.803Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

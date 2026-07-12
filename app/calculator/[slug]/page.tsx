@@ -1,7 +1,8 @@
 import { notFound } from "next/navigation";
 import { getAllCalculators, getCalculator } from "@/lib/data";
-import { buildMetadata } from "@/lib/seo";
+import { buildMetadata, faqSchema, JsonLd, medicalWebPageSchema } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
+import { AuthorBlock } from "@/components/shared/author-block";
 import { CalculatorEngine } from "@/components/calculators/calculator-engine";
 import { FAQAccordion } from "@/components/shared/faq-accordion";
 import { MedicalDisclaimer } from "@/components/shared/medical-disclaimer";
@@ -27,12 +28,24 @@ export default async function CalculatorPage({ params }: { params: Promise<{ slu
   return (
     <div className="container-custom py-8 max-w-2xl">
       <TrackRecentlyViewed slug={slug} name={calc.name} href={`/calculator/${slug}`} type="calculator" />
+      <JsonLd
+        data={[
+          medicalWebPageSchema({
+            name: calc.name,
+            description: calc.description,
+            path: `/calculator/${slug}`,
+            dateModified: calc.updatedAt,
+          }),
+          ...(calc.faqs?.length ? [faqSchema(calc.faqs)] : []),
+        ]}
+      />
       <Breadcrumb items={[{ label: "Calculators", href: "/calculators" }, { label: calc.name, href: `/calculator/${slug}` }]} />
 
       <header className="mb-8">
         <span className="text-sm font-medium text-primary">{calc.category}</span>
         <h1 className="text-3xl font-bold mt-1 mb-4">{calc.name}</h1>
         <p className="text-muted-foreground">{calc.description}</p>
+        <AuthorBlock authoredBy={calc.authoredBy} className="mt-4" />
       </header>
 
       <TopBannerAd />

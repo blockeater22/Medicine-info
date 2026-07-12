@@ -11,36 +11,38 @@
       "General"
     ]
   },
-  "overview": "Fever is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Fever is an elevated body temperature, usually a sign that the immune system is fighting infection or inflammation. In tropical India, fever evaluation must consider dengue, malaria, typhoid, and viral illnesses alongside common flu.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Body temperature above 38°C (100.4°F)",
+    "Chills and sweating",
+    "Headache and body ache",
+    "Loss of appetite and fatigue"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Viral infections (flu, dengue, chikungunya)",
+    "Bacterial infections (typhoid, UTI, pneumonia)",
+    "Malaria in endemic areas",
+    "Inflammatory and autoimmune conditions (less common)"
   ],
   "riskFactors": [
-    "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Travel to endemic areas without prophylaxis",
+    "Monsoon season mosquito exposure",
+    "Incomplete vaccination",
+    "Extremes of age or immunocompromise"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Clinical assessment and symptom duration",
+    "Complete blood count and peripheral smear",
+    "Dengue NS1/IgM, malaria rapid test, blood cultures as indicated",
+    "Typhoid Widal or blood culture where appropriate",
+    "Urine and chest evaluation if localising signs present"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Paracetamol for comfort (avoid ibuprofen in suspected dengue)",
+    "Adequate hydration and rest",
+    "Antibiotics only when bacterial cause confirmed",
+    "Antimalarials per national guidelines when malaria diagnosed",
+    "Hospital care for warning signs in dengue or persistent high fever"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +51,16 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Mosquito protection in monsoon (nets, repellents, remove stagnant water)",
+    "Safe food and water to reduce typhoid risk",
+    "Routine vaccinations including influenza where advised",
+    "Seek early evaluation if fever lasts >3 days in endemic season"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Dehydration",
+    "Seizures in young children with high fever",
+    "Dengue haemorrhagic fever or shock",
+    "Sepsis from untreated bacterial infection"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -80,5 +83,29 @@
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Fever >3 days without improvement in dengue season",
+    "Bleeding, severe abdominal pain, or persistent vomiting",
+    "Neck stiffness with headache (meningitis concern)",
+    "Confusion, rash with hypotension, or breathing difficulty"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

@@ -78,5 +78,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=morphine%20sulfate",
       "accessedAt": "2026-07-12T06:31:46.651Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

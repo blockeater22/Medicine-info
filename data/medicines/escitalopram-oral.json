@@ -84,5 +84,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=escitalopram%20oral",
       "accessedAt": "2026-07-12T06:31:44.274Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

@@ -83,5 +83,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=amoxicillin%20and%20clavulanate%20potassium",
       "accessedAt": "2026-07-12T06:31:31.923Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

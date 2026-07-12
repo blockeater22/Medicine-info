@@ -83,5 +83,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=risperidone",
       "accessedAt": "2026-07-12T06:32:00.468Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

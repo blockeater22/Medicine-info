@@ -9,6 +9,8 @@ import {
   getAllCalculators,
   getAllFirstAid,
 } from "../lib/data.js";
+import { GENERIC_MEDICINE_MARKERS } from "./p0/medicine-fixes.js";
+import { GENERIC_DISEASE_MARKERS } from "./p0/disease-fixes.js";
 
 const errors: string[] = [];
 
@@ -20,6 +22,33 @@ function checkRequired(obj: Record<string, unknown>, fields: string[], file: str
   for (const field of fields) {
     if (obj[field] === undefined || obj[field] === null || obj[field] === "") {
       errors.push(`${file}: missing required field "${field}"`);
+    }
+  }
+}
+
+function checkMedicineAccuracy(medicines: ReturnType<typeof getAllMedicines>) {
+  for (const med of medicines) {
+    const file = `medicines/${med.slug}.json`;
+    if (med.uses.includes(GENERIC_MEDICINE_MARKERS.uses)) {
+      errors.push(`${file}: generic incorrect uses (pain/fever template)`);
+    }
+    if (med.howItWorks.includes(GENERIC_MEDICINE_MARKERS.howItWorks)) {
+      errors.push(`${file}: generic howItWorks template`);
+    }
+    if (med.category === "Antibiotic" && med.uses.some((u) => /pain|fever relief/i.test(u) && !/not used for/i.test(u))) {
+      errors.push(`${file}: antibiotic with pain/fever uses`);
+    }
+  }
+}
+
+function checkDiseaseBoilerplate(diseases: ReturnType<typeof getAllDiseases>) {
+  for (const disease of diseases) {
+    const file = `diseases/${disease.slug}.json`;
+    const blob = JSON.stringify(disease).toLowerCase();
+    for (const marker of GENERIC_DISEASE_MARKERS) {
+      if (blob.includes(marker.toLowerCase())) {
+        errors.push(`${file}: generic boilerplate detected (${marker.slice(0, 40)}...)`);
+      }
     }
   }
 }
@@ -52,10 +81,21 @@ function main() {
     console.log(`✓ ${col.name}: ${col.items.length} records`);
   }
 
-  // Check data dir exists
-  for (const dir of ["medicines", "diseases", "symptoms", "tests", "articles", "calculators", "first-aid"]) {
+  for (const dir of ["medicines", "diseases", "symptoms", "tests", "articles", "calculators", "first-aid", "team"]) {
     const p = path.join("data", dir);
     if (!fs.existsSync(p)) errors.push(`Missing data directory: ${p}`);
+  }
+
+  if (fs.readdirSync(path.join("data", "team")).filter((f) => f.endsWith(".json")).length < 3) {
+    errors.push("data/team: requires at least 3 physician profiles");
+  }
+
+  checkMedicineAccuracy(getAllMedicines());
+  checkDiseaseBoilerplate(getAllDiseases());
+
+  const constants = fs.readFileSync(path.join("lib/constants.ts"), "utf-8");
+  if (constants.includes("XXX-XXXX") || constants.includes("1800-XXX")) {
+    errors.push("lib/constants.ts: placeholder phone still present");
   }
 
   if (errors.length) {
@@ -64,7 +104,7 @@ function main() {
     process.exit(1);
   }
 
-  console.log("\nAll content validation checks passed.");
+  console.log("\nAll content validation checks passed (including P0 quality gates).");
 }
 
 main();

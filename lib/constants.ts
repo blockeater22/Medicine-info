@@ -8,7 +8,6 @@ export const SITE: SiteConfig = {
   description:
     "Search medicines, diseases, symptoms, lab tests, medical calculators, first aid guides and health articles. Free, reliable medical information for India.",
   email: "contact@doctors-hub.in",
-  phone: "+91-1800-XXX-XXXX",
   address: "India",
   social: {
     facebook: "https://facebook.com/doctorshub",
@@ -40,6 +39,7 @@ export const FOOTER_LINKS = {
   ],
   company: [
     { label: "About Us", href: "/about" },
+    { label: "Medical Team", href: "/medical-team" },
     { label: "Editorial Policy", href: "/editorial-policy" },
     { label: "Corrections", href: "/corrections" },
     { label: "Contact", href: "/contact" },

@@ -11,36 +11,37 @@
       "Mental Health"
     ]
   },
-  "overview": "Depression is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Depression (major depressive disorder) is a mood disorder with persistent low mood, loss of interest, and functional impairment. It is common and treatable with psychotherapy, medicines, and social support.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Persistent sadness or emptiness",
+    "Loss of interest in activities",
+    "Sleep and appetite changes",
+    "Fatigue, poor concentration, feelings of guilt",
+    "Thoughts of self-harm in severe cases"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Genetic and neurotransmitter factors",
+    "Stressful life events and trauma",
+    "Chronic medical illness",
+    "Not a personal weakness — a medical condition"
   ],
   "riskFactors": [
     "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Chronic pain or disability",
+    "Substance use",
+    "Social isolation",
+    "Postpartum period"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Clinical interview using standard criteria (DSM-5/ICD-11)",
+    "Rule out thyroid disease, anaemia, medication effects",
+    "Assess suicide risk"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Psychotherapy (CBT, interpersonal therapy)",
+    "Antidepressants (SSRIs first-line in moderate-severe cases)",
+    "Regular exercise and sleep hygiene",
+    "Crisis support and hospital care if suicidal"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +50,16 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Social connection and stress management",
+    "Early treatment of subthreshold symptoms",
+    "Limit alcohol",
+    "Routine mental health screening in primary care"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Suicide",
+    "Substance abuse",
+    "Poor adherence to chronic disease care",
+    "Disability and unemployment"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -77,5 +79,29 @@
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Active suicidal thoughts or plan",
+    "Psychosis with depression",
+    "Inability to care for self or others",
+    "Severe agitation or self-harm behaviour"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

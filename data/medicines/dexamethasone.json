@@ -85,5 +85,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=dexamethasone",
       "accessedAt": "2026-07-12T06:31:39.212Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

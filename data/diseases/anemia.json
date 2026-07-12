@@ -1,7 +1,7 @@
 {
   "slug": "anemia",
   "name": "Anemia",
-  "category": "Hematology",
+  "category": "Haematology",
   "description": "Complete guide to Anemia: symptoms, causes, diagnosis, treatment, and prevention for patients in India.",
   "seo": {
     "title": "Anemia: Symptoms, Causes, Treatment | Doctors Hub",
@@ -11,36 +11,38 @@
       "Hematology"
     ]
   },
-  "overview": "Anemia is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Anaemia is reduced haemoglobin or red blood cell mass, causing fatigue and weakness. Iron deficiency from poor intake or blood loss is the most common cause in Indian women and children.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Fatigue and weakness",
+    "Pale skin and conjunctiva",
+    "Shortness of breath on exertion",
+    "Dizziness and cold intolerance",
+    "Brittle nails and hair loss in iron deficiency"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Iron deficiency (nutritional, menstrual blood loss, hookworm)",
+    "Vitamin B12 or folate deficiency",
+    "Chronic disease anaemia",
+    "Haemolytic anaemias and bone marrow disorders"
   ],
   "riskFactors": [
-    "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Vegetarian diet without iron/B12 supplementation",
+    "Heavy menstrual periods",
+    "Pregnancy",
+    "GI blood loss (ulcers, piles)",
+    "Intestinal malabsorption"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Complete blood count and peripheral smear",
+    "Serum ferritin and iron studies",
+    "B12 and folate levels",
+    "Stool occult blood or endoscopy if GI loss suspected"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Iron supplements for iron deficiency",
+    "Treat underlying cause (hookworm, menorrhagia, GI bleed)",
+    "B12 injections or oral folate as indicated",
+    "Blood transfusion in severe symptomatic anaemia"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +51,16 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Iron-rich diet (leafy greens, legumes, jaggery, meat if consumed)",
+    "Vitamin C with iron meals to improve absorption",
+    "Deworming programmes in endemic areas",
+    "Antenatal iron and folic acid supplementation"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Heart failure from chronic severe anaemia",
+    "Poor pregnancy outcomes",
+    "Cognitive effects in children",
+    "Delayed growth and development"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -77,5 +80,29 @@
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Chest pain or heart failure symptoms",
+    "Fainting with haemoglobin critically low",
+    "Melena or haematemesis with anaemia",
+    "Rapidly falling haemoglobin"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

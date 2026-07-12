@@ -85,5 +85,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=olanzapine",
       "accessedAt": "2026-07-12T06:32:00.826Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

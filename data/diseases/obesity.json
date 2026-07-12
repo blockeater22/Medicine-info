@@ -11,36 +11,38 @@
       "Metabolic"
     ]
   },
-  "overview": "Obesity is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Obesity is excess body fat that increases risk of diabetes, heart disease, and joint problems. Indian populations face cardiometabolic risk at lower BMI thresholds (≥23 kg/m² overweight per ICMR guidelines).",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Increased BMI and waist circumference",
+    "Breathlessness on exertion",
+    "Joint pain (knees, back)",
+    "Snoring and sleep apnoea",
+    "Often no symptoms until complications develop"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Caloric intake exceeding expenditure",
+    "Sedentary lifestyle",
+    "Genetic and hormonal factors",
+    "Medicines (steroids, some antipsychotics)",
+    "Medical conditions (hypothyroidism, Cushing's — less common)"
   ],
   "riskFactors": [
+    "High-calorie processed food",
+    "Low physical activity",
     "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Poor sleep",
+    "Urban lifestyle with long commutes"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "BMI calculation",
+    "Waist circumference (≥90 cm men, ≥80 cm women — Asian cut-offs)",
+    "Screen for diabetes, lipids, fatty liver, sleep apnoea"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Structured diet with calorie deficit",
+    "150+ minutes moderate exercise weekly",
+    "Behavioural counselling",
+    "GLP-1 agonists or bariatric surgery in selected severe obesity"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +51,17 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Balanced diet with portion control",
+    "Daily physical activity",
+    "Limit sugary drinks and ultra-processed food",
+    "Adequate sleep"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Type 2 diabetes",
+    "Hypertension and heart disease",
+    "Fatty liver (NAFLD)",
+    "Obstructive sleep apnoea",
+    "Osteoarthritis"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -79,5 +83,29 @@
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Chest pain or stroke symptoms",
+    "Acute shortness of breath at rest",
+    "Confusion with uncontrolled diabetes",
+    "Not typically an emergency unless complication present"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

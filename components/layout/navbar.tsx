@@ -41,7 +41,7 @@ export function Navbar() {
               prefetch={false}
               className={cn(
                 "px-3 py-2 text-sm font-medium rounded-lg transition-colors hover:bg-accent",
-                pathname.startsWith(link.href) && "text-primary bg-accent"
+                pathname.startsWith(link.href) && "bg-primary text-primary-foreground"
               )}
             >
               {link.label}
@@ -75,7 +75,7 @@ export function Navbar() {
               onClick={() => setOpen(false)}
               className={cn(
                 "block px-3 py-2 text-sm font-medium rounded-lg hover:bg-accent",
-                pathname.startsWith(link.href) && "text-primary bg-accent"
+                pathname.startsWith(link.href) && "bg-primary text-primary-foreground"
               )}
             >
               {link.label}

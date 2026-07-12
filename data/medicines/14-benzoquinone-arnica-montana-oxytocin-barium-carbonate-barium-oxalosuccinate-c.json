@@ -65,5 +65,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=1%2C4-benzoquinone%20-%20arnica%20montana%20-%20oxytocin%20-%20barium%20carbonate%20-%20barium%20oxalosuccinate%20-%20corticotropin%20-%20lead%20-%20levothyroxine%20-%20lutrelin%20-%20malic%20acid%20-%20melatonin%20-%20neurotrophin-3%20-%20neurotrophin-4%20-%20phenylalanine%20-%20pork%20liver%20-%20pyruvic%20acid%20-%20rinfabate%20-%20sus%20scrofa%20adrenal%20gland%20-%20sus%20scrofa%20frontal%20lobe%20-%20sus%20scrofa%20hypothalamus%20-%20thyrotropin%20alfa%20-%20brain-derived%20neurotrophic%20factor%20human%20-",
       "accessedAt": "2026-07-12T06:32:03.174Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

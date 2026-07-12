@@ -11,36 +11,36 @@
       "Immunology"
     ]
   },
-  "overview": "Allergies is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Allergies are exaggerated immune responses to harmless substances (pollen, dust, food, drugs). Allergic rhinitis and food allergies are increasingly recognised in urban India.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Sneezing, runny nose, itchy eyes (rhinitis)",
+    "Hives or skin itching",
+    "Wheezing in allergic asthma",
+    "Swelling of lips or face in food allergy"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "IgE-mediated hypersensitivity to allergens",
+    "Genetic predisposition (atopy)",
+    "Environmental allergen exposure"
   ],
   "riskFactors": [
-    "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Family history of asthma or eczema",
+    "Urban pollution exposure",
+    "Early antibiotic overuse (debated)",
+    "Food allergen exposure in sensitised individuals"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Clinical history and symptom pattern",
+    "Skin prick or specific IgE testing",
+    "Elimination diet under supervision for food allergy",
+    "Differentiate from intolerance (non-immune)"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Allergen avoidance when possible",
+    "Antihistamines (cetirizine, loratadine)",
+    "Nasal steroids for rhinitis",
+    "Epinephrine auto-injector for anaphylaxis risk",
+    "Immunotherapy for selected cases"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +49,15 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Identify and reduce trigger exposure",
+    "Breastfeeding guidance for infant allergy (individualised)",
+    "Controlled introduction of allergens in infants per paediatric guidance"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Anaphylaxis",
+    "Asthma exacerbation",
+    "Chronic sinusitis",
+    "Eczema flares"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -80,5 +80,29 @@
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Difficulty breathing or throat tightness",
+    "Swelling of tongue or lips",
+    "Dizziness or collapse after allergen exposure",
+    "Use epinephrine and call emergency services if anaphylaxis suspected"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }

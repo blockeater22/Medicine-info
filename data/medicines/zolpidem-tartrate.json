@@ -82,5 +82,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=zolpidem%20tartrate",
       "accessedAt": "2026-07-12T06:32:02.827Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

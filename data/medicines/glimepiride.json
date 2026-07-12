@@ -80,5 +80,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=glimepiride",
       "accessedAt": "2026-07-12T06:31:33.644Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

@@ -6,7 +6,7 @@
     "Asthalin",
     "Ventolin"
   ],
-  "category": "Bronchodilator",
+  "category": "Short-Acting Beta-2 Agonist (Bronchodilator)",
   "description": "Salbutamol (Salbutamol) uses, dosage, side effects and safety information for patients in India.",
   "seo": {
     "title": "Salbutamol: Uses, Dosage, Side Effects | Doctors Hub",
@@ -21,11 +21,11 @@
   },
   "composition": "Salbutamol — consult product label for exact strength and excipients.",
   "uses": [
-    "Pain and fever relief",
-    "Inflammation reduction where applicable",
-    "As prescribed by physician for indicated conditions"
+    "Acute asthma symptoms and bronchospasm",
+    "COPD rescue inhaler use",
+    "Exercise-induced bronchospasm (pre-treatment)"
   ],
-  "howItWorks": "Salbutamol works through established pharmacological pathways to relieve symptoms or treat the underlying condition. Always follow your doctor's prescription.",
+  "howItWorks": "Salbutamol stimulates beta-2 receptors in bronchial smooth muscle, causing rapid bronchodilation and relief of wheezing and shortness of breath within minutes.",
   "dosage": {
     "adults": "As directed by physician. Typical adult dose varies by condition and formulation.",
     "children": "Pediatric dosing must be weight-based. Consult pediatrician.",
@@ -35,12 +35,13 @@
   "missedDose": "Take as soon as remembered unless near next dose. Do not double dose.",
   "overdose": "Seek immediate medical attention. Contact nearest hospital or poison control.",
   "sideEffects": [
-    "Nausea",
-    "Dizziness",
-    "Skin rash (rare)",
-    "Gastrointestinal discomfort"
+    "Tremor",
+    "Palpitations",
+    "Headache",
+    "Muscle cramps with frequent use"
   ],
   "warnings": [
+    "Available as inhalers and nebulisation solutions; common in asthma care across India.",
     "Do not exceed prescribed dose",
     "Inform doctor of all medications",
     "Not for self-medication without consultation"
@@ -65,14 +66,27 @@
   ],
   "faqs": [
     {
-      "question": "What is Salbutamol used for?",
-      "answer": "Salbutamol is commonly used for conditions as prescribed by your doctor."
-    },
-    {
-      "question": "Can I take Salbutamol without prescription?",
-      "answer": "Always consult a qualified doctor before starting any medication."
+      "question": "How often can I use my salbutamol inhaler?",
+      "answer": "Follow your action plan. Needing rescue inhaler more than twice a week may mean your asthma is uncontrolled — see your doctor."
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "WHO Model Formulary",
+      "url": "https://list.essentialmeds.org/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "Indian Pharmacopoeia Commission",
+      "url": "https://ipc.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ]
 }

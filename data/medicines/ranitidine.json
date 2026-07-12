@@ -63,5 +63,10 @@
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ranitidine",
       "accessedAt": "2026-07-12T06:31:52.494Z"
     }
-  ]
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  }
 }

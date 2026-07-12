@@ -6,7 +6,7 @@
     "Losar",
     "Repace"
   ],
-  "category": "Antihypertensive",
+  "category": "ARB (Antihypertensive)",
   "description": "Losartan (Losartan) uses, dosage, side effects and safety information for patients in India.",
   "seo": {
     "title": "Losartan: Uses, Dosage, Side Effects | Doctors Hub",
@@ -21,11 +21,11 @@
   },
   "composition": "Losartan — consult product label for exact strength and excipients.",
   "uses": [
-    "Pain and fever relief",
-    "Inflammation reduction where applicable",
-    "As prescribed by physician for indicated conditions"
+    "Hypertension",
+    "Diabetic nephropathy with proteinuria",
+    "Heart failure with reduced ejection fraction (selected patients)"
   ],
-  "howItWorks": "Losartan works through established pharmacological pathways to relieve symptoms or treat the underlying condition. Always follow your doctor's prescription.",
+  "howItWorks": "Losartan blocks angiotensin II type 1 receptors, relaxing blood vessels and reducing aldosterone effects, which lowers blood pressure and protects kidneys.",
   "dosage": {
     "adults": "As directed by physician. Typical adult dose varies by condition and formulation.",
     "children": "Pediatric dosing must be weight-based. Consult pediatrician.",
@@ -35,10 +35,10 @@
   "missedDose": "Take as soon as remembered unless near next dose. Do not double dose.",
   "overdose": "Seek immediate medical attention. Contact nearest hospital or poison control.",
   "sideEffects": [
-    "Nausea",
     "Dizziness",
-    "Skin rash (rare)",
-    "Gastrointestinal discomfort"
+    "Hyperkalaemia (monitor potassium)",
+    "Fatigue",
+    "Cough (less common than with ACE inhibitors)"
   ],
   "warnings": [
     "Do not exceed prescribed dose",
@@ -74,5 +74,22 @@
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-rajesh-kumar",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "WHO Model Formulary",
+      "url": "https://list.essentialmeds.org/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "Indian Pharmacopoeia Commission",
+      "url": "https://ipc.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ]
 }

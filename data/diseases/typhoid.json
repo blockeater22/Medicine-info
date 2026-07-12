@@ -1,7 +1,7 @@
 {
   "slug": "typhoid",
   "name": "Typhoid Fever",
-  "category": "Infectious",
+  "category": "Infectious Disease",
   "description": "Complete guide to Typhoid Fever: symptoms, causes, diagnosis, treatment, and prevention for patients in India.",
   "seo": {
     "title": "Typhoid Fever: Symptoms, Causes, Treatment | Doctors Hub",
@@ -11,36 +11,35 @@
       "Infectious"
     ]
   },
-  "overview": "Typhoid Fever is a common health condition affecting millions in India. Early diagnosis and proper management are essential for better outcomes.",
+  "overview": "Typhoid fever is a bacterial infection caused by Salmonella Typhi, spread through contaminated food and water. It remains endemic in parts of India. Prompt diagnosis and appropriate antibiotics prevent serious complications.",
   "symptoms": [
-    "Varies by individual and severity",
-    "Persistent or worsening symptoms require medical evaluation",
-    "Consult doctor for accurate diagnosis"
+    "Prolonged high fever (step-ladder pattern classically)",
+    "Headache, abdominal pain, and constipation or diarrhoea",
+    "Rose-coloured spots on trunk (some patients)",
+    "Weakness and loss of appetite"
   ],
   "causes": [
-    "Genetic predisposition",
-    "Lifestyle factors",
-    "Environmental triggers",
-    "Underlying medical conditions"
+    "Salmonella Typhi infection via faecal-oral route",
+    "Contaminated water or street food",
+    "Poor hand hygiene in endemic settings"
   ],
   "riskFactors": [
-    "Family history",
-    "Age",
-    "Sedentary lifestyle",
-    "Poor diet",
-    "Smoking and alcohol"
+    "Travel to endemic areas",
+    "Consumption of untreated water or raw foods",
+    "Close contact with carriers",
+    "Lack of typhoid vaccination in high-risk individuals"
   ],
   "diagnosis": [
-    "Medical history review",
-    "Physical examination",
-    "Blood tests and imaging as needed",
-    "Specialist referral if required"
+    "Blood culture (gold standard early in illness)",
+    "Widal test (supportive, interpret with caution)",
+    "Stool culture in carriers",
+    "Clinical correlation with travel and exposure history"
   ],
   "treatment": [
-    "Lifestyle modifications",
-    "Medications as prescribed",
-    "Regular monitoring",
-    "Specialist care for complex cases"
+    "Appropriate antibiotics (azithromycin, ceftriaxone, or fluoroquinolones per local resistance patterns)",
+    "Hydration and supportive care",
+    "Hospitalisation for severe cases or complications",
+    "Carrier state may need prolonged treatment"
   ],
   "homeCare": [
     "Follow prescribed treatment plan",
@@ -49,15 +48,16 @@
     "Monitor symptoms"
   ],
   "prevention": [
-    "Regular health checkups",
-    "Balanced diet and exercise",
-    "Avoid known triggers",
-    "Vaccination where applicable"
+    "Typhoid vaccination before travel or in endemic settings",
+    "Drink boiled or bottled water",
+    "Eat well-cooked food; avoid raw salads from unknown sources",
+    "Hand washing before meals"
   ],
   "complications": [
-    "Progression if untreated",
-    "Organ damage in chronic cases",
-    "Reduced quality of life"
+    "Intestinal perforation or bleeding",
+    "Encephalopathy",
+    "Chronic carrier state (gallbladder)",
+    "Relapse after initial treatment"
   ],
   "emergencyWarningSigns": [
     "Severe chest pain",
@@ -80,5 +80,29 @@
     }
   ],
   "popular": false,
-  "updatedAt": "2026-07-01"
+  "updatedAt": "2026-07-01",
+  "emergencySigns": [
+    "Severe abdominal pain with rigidity",
+    "Massive bleeding or shock",
+    "Altered mental status",
+    "Persistent fever despite appropriate antibiotics"
+  ],
+  "authoredBy": {
+    "authorId": "dr-priya-sharma",
+    "reviewerId": "dr-ananya-mehta",
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "lastUpdated": "2026-07-12T00:00:00.000Z"
 }
