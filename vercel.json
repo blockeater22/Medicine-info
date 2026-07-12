@@ -1,8 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "npm run validate && npm run build",
-  "outputDirectory": "out",
-  "framework": "nextjs",
   "headers": [
     {
       "source": "/_next/static/:path*",
