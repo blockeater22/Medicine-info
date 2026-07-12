@@ -67,8 +67,9 @@
   ],
   "relatedMedicines": [],
   "relatedDiseases": [
-    "common-cold",
-    "hypertension"
+    "uti",
+    "allergies",
+    "common-cold"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2024-05-22T00:00:00.000Z",
@@ -76,17 +77,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22verapamil%22&limit=1",
-      "accessedAt": "2026-07-12T06:32:07.294Z"
+      "accessedAt": "2026-07-12T12:01:06.301Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=verapamil%20hydrochloride",
-      "accessedAt": "2026-07-12T06:32:07.294Z"
+      "accessedAt": "2026-07-12T12:01:06.301Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

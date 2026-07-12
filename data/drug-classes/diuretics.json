@@ -1,0 +1,71 @@
+{
+  "slug": "diuretics",
+  "name": "Diuretics",
+  "description": "Diuretics — drug class guide for patients in India.",
+  "overview": "Diuretics are a group of medicines used for related therapeutic purposes in India. Always use as prescribed.",
+  "commonUses": [
+    "Conditions commonly treated with diuretics",
+    "Selected based on diagnosis and patient profile"
+  ],
+  "examples": [
+    "amiloride hydrochloride",
+    "amlodipine valsartan and hydrochlorothiazide",
+    "captopril and hydrochlorothiazide",
+    "carvedilol",
+    "chlorthalidone",
+    "enalapril maleate"
+  ],
+  "medicineSlugs": [
+    "amiloride-hydrochloride",
+    "amlodipine-valsartan-and-hydrochlorothiazide",
+    "captopril-and-hydrochlorothiazide",
+    "carvedilol",
+    "chlorthalidone",
+    "enalapril-maleate",
+    "furosemide",
+    "indapamide",
+    "lisinopril-and-hydrochlorothiazide-tablets",
+    "olmesartan-medoxomil-hydrochlorothiazide",
+    "perindopril-erbumine",
+    "propranolol-hydrochloride",
+    "ramipril",
+    "spironolactone",
+    "torsemide"
+  ],
+  "relatedDiseaseSlugs": [],
+  "safetyNotes": [
+    "Do not self-medicate or switch brands without medical advice",
+    "Inform your doctor about all current medicines"
+  ],
+  "seo": {
+    "title": "Diuretics: Medicines, Uses & Safety | Doctors Hub",
+    "description": "Guide to Diuretics — common Indian medicines, uses, and safety.",
+    "keywords": [
+      "Diuretics",
+      "drug class",
+      "medicines India"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are Diuretics?",
+      "answer": "Diuretics are medicines grouped by similar therapeutic use. Your doctor selects the specific drug and dose."
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "WHO Model Formulary",
+      "url": "https://list.essentialmeds.org/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "Indian Pharmacopoeia Commission",
+      "url": "https://ipc.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "updatedAt": "2026-07-12"
+}

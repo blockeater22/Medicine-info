@@ -1,0 +1,58 @@
+{
+  "slug": "bronchodilators",
+  "name": "Bronchodilators",
+  "description": "Bronchodilators — drug class guide for patients in India.",
+  "overview": "Bronchodilators are a group of medicines used for related therapeutic purposes in India. Always use as prescribed.",
+  "commonUses": [
+    "Conditions commonly treated with bronchodilators",
+    "Selected based on diagnosis and patient profile"
+  ],
+  "examples": [
+    "albuterol sulfate",
+    "fluticasone propionate and salmeterol",
+    "formoterol fumarate",
+    "salbutamol"
+  ],
+  "medicineSlugs": [
+    "albuterol-sulfate",
+    "fluticasone-propionate-and-salmeterol",
+    "formoterol-fumarate",
+    "salbutamol"
+  ],
+  "relatedDiseaseSlugs": [],
+  "safetyNotes": [
+    "Do not self-medicate or switch brands without medical advice",
+    "Inform your doctor about all current medicines"
+  ],
+  "seo": {
+    "title": "Bronchodilators: Medicines, Uses & Safety | Doctors Hub",
+    "description": "Guide to Bronchodilators — common Indian medicines, uses, and safety.",
+    "keywords": [
+      "Bronchodilators",
+      "drug class",
+      "medicines India"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are Bronchodilators?",
+      "answer": "Bronchodilators are medicines grouped by similar therapeutic use. Your doctor selects the specific drug and dose."
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "WHO Model Formulary",
+      "url": "https://list.essentialmeds.org/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "Indian Pharmacopoeia Commission",
+      "url": "https://ipc.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "updatedAt": "2026-07-12"
+}

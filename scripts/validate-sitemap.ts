@@ -1,6 +1,12 @@
 import fs from "fs";
 import path from "path";
-import { getSitemapEntries, getCanonicalUrl, SITEMAP_EXCLUDED_PATHS } from "../lib/sitemap-urls.js";
+import {
+  getSitemapEntries,
+  getSitemapStats,
+  getCanonicalUrl,
+  SITEMAP_EXCLUDED_PATHS,
+} from "../lib/sitemap-urls.js";
+import { AI_CRAWLER_USER_AGENTS } from "../lib/sitemap-config.js";
 import { getSiteUrl } from "../lib/site-url.js";
 
 const errors: string[] = [];
@@ -8,6 +14,7 @@ const siteUrl = getSiteUrl();
 
 function main() {
   const entries = getSitemapEntries();
+  const stats = getSitemapStats();
   const urls = entries.map((e) => getCanonicalUrl(e.path));
 
   if (!siteUrl.startsWith("https://www.doctors-hub.in")) {
@@ -29,14 +36,23 @@ function main() {
     }
   }
 
+  const staticWithLastMod = entries.filter(
+    (e) =>
+      e.path === "/" ||
+      ["/medicines", "/diseases", "/drug-classes", "/health-az", "/editorial-policy"].includes(e.path)
+  );
+  if (staticWithLastMod.some((e) => !e.lastModified)) {
+    errors.push("Some key static pages missing lastmod in sitemap entries");
+  }
+
   const requiredPrefixes = [
     `${siteUrl}/`,
     `${siteUrl}/medicine/`,
     `${siteUrl}/disease/`,
     `${siteUrl}/symptom/`,
     `${siteUrl}/lab-test/`,
-    `${siteUrl}/article/`,
-    `${siteUrl}/calculator/`,
+    `${siteUrl}/drug-class/`,
+    `${siteUrl}/health-az/`,
   ];
 
   for (const prefix of requiredPrefixes) {
@@ -58,22 +74,42 @@ function main() {
       if (!robots.includes(`${siteUrl}/sitemap.xml`)) {
         errors.push("robots.txt does not reference canonical sitemap.xml");
       }
-      if (/Disallow:\s*\/\s*$/m.test(robots) && !robots.includes("Allow:")) {
-        errors.push("robots.txt blocks entire site");
+      const robotsLower = robots.toLowerCase();
+      if (/Disallow:\s*\/\s*$/m.test(robots) && !robotsLower.includes("user-agent: *")) {
+        errors.push("robots.txt blocks entire site for all agents");
+      }
+      for (const bot of AI_CRAWLER_USER_AGENTS.slice(0, 3)) {
+        if (!robotsLower.includes(`user-agent: ${bot.toLowerCase()}`)) {
+          errors.push(`robots.txt missing AI crawler block: ${bot}`);
+          break;
+        }
       }
     }
 
     if (!fs.existsSync(sitemapPath)) {
-      errors.push("out/sitemap.xml missing — run npm run build");
+      const chunked = path.join(outDir, "sitemap", "0.xml");
+      if (!stats.usesIndex && fs.existsSync(chunked)) {
+        errors.push("out/sitemap.xml missing but sitemap/0.xml exists — run postbuild fix-sitemap-export");
+      } else {
+        errors.push("out/sitemap.xml missing — run npm run build");
+      }
     } else {
       const xml = fs.readFileSync(sitemapPath, "utf-8");
-      if (xml.includes("<sitemapindex")) {
-        errors.push("Expected single urlset sitemap.xml (no sitemap index needed at current scale)");
+      if (stats.usesIndex) {
+        if (!xml.includes("<sitemapindex")) {
+          errors.push("Expected sitemap index at current URL count (>5000)");
+        }
+      } else if (xml.includes("<sitemapindex")) {
+        const chunkPath = path.join(outDir, "sitemap", "0.xml");
+        if (!fs.existsSync(chunkPath)) {
+          errors.push("sitemap index present but sitemap/0.xml missing");
+        }
+      } else if (!xml.includes("<urlset")) {
+        errors.push("sitemap.xml is not valid urlset XML");
       }
       if (xml.includes(`${siteUrl}/sitemap.xml</loc>`)) {
         errors.push("sitemap.xml self-references in index (invalid)");
       }
-      if (!xml.includes("<urlset")) errors.push("sitemap.xml is not valid urlset XML");
     }
 
     const stalePublicRobots = path.join(process.cwd(), "public/robots.txt");
@@ -82,7 +118,8 @@ function main() {
     }
   }
 
-  console.log(`✓ sitemap entries: ${entries.length}`);
+  console.log(`✓ sitemap entries: ${entries.length} (chunks: ${stats.chunks}, index: ${stats.usesIndex})`);
+  console.log(`✓ entries with lastmod: ${stats.withLastMod}`);
   console.log(`✓ canonical base: ${siteUrl}`);
 
   if (errors.length) {

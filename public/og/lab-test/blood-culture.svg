@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b5ba8"/>
+      <stop offset="100%" stop-color="#1e3a5f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="80" y="280" fill="#ffffff" font-family="system-ui,sans-serif" font-size="56" font-weight="700">Blood Culture</text>
+  <text x="80" y="360" fill="#dbeafe" font-family="system-ui,sans-serif" font-size="28">Lab test guide</text>
+  <text x="80" y="540" fill="#93c5fd" font-family="system-ui,sans-serif" font-size="24">Doctors Hub · doctors-hub.in</text>
+</svg>

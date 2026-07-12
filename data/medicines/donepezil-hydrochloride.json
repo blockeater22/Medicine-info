@@ -1,0 +1,84 @@
+{
+  "slug": "donepezil-hydrochloride",
+  "genericName": "Donepezil hydrochloride",
+  "brandNames": [
+    "DONEPEZIL HYDROCHLORIDE"
+  ],
+  "composition": "DONEPEZIL HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE Donepezil hydrochloride tablet is an acetylcholinesterase inhibitor indicated for the treatment of dementia of the Alzheimer's type.",
+    "This agent is commonly used in care plans involving efficacy has been demonstrated in patients with mild, moderate, and severe Alzheimer's Disease ( 1 ).",
+    "Medical teams consider this option for patients needing support with donepezil hydrochloride tablet is indicated for the treatment of dementia of the Alzheimer's type.",
+    "Medical teams consider this option for patients needing support with efficacy has been demonstrated in patients with mild, moderate, and severe Alzheimer's disease."
+  ],
+  "howItWorks": "Donepezil Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration mild to moderate alzheimer's disease: 5 mg to 10 mg once daily ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use the safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use alzheimer's disease is a disorder occurring primarily in individuals over 55 years of age. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because 6 ADVERSE REACTIONS Most common adverse reactions in clinical studies of donepezil hydrochloride are nausea, diarrhea, insomnia, vomiting, muscle cramps.. may occur.",
+    "Monitoring is advised because the following serious adverse reactions are described below and elsewhere in the labeling: Cardiovascular Conditions [ see Warnings and Precautions ( 5.2 ) ] may occur.",
+    "Some patients report nausea and Vomiting [ see Warnings and Precautions ( 5.3 ) ] while taking this medicine.",
+    "Some patients report peptic Ulcer Disease and GI Bleeding [ see Warnings and Precautions ( 5.4 ) ] while taking this medicine.",
+    "A possible treatment-related effect includes weight Loss [ see Warnings and Precautions ( 5.5 ) ].",
+    "A possible treatment-related effect includes genitourinary Conditions [ see Warnings and Precautions ( 5.6 ) ].",
+    "Monitoring is advised because neurological Conditions: Seizures [ see Warnings and Precautions ( 5.7 ) ] may occur.",
+    "Monitoring is advised because pulmonary Conditions [ see Warnings and Precautions ( 5.8 ) ] may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when the following serious adverse reactions are described below and elsewhere in the labeling: Cardiovascular Conditions [ see Warnings and Precautions ( 5.2 ) ]."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary There are no adequate data on the developmental risks associated with the use of donepezil hydrochloride in pregnant women.",
+    "breastfeeding": "Extra caution is needed because 8.2 Lactation Risk Summary There are no data on the presence of donepezil or its metabolites in human milk, the effects on the breastfed infant...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Cholinesterase inhibitors have the potential to interfere with the activity of anticholinergic medications ( 7.1 )."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Donepezil hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Donepezil hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "allergies",
+    "alzheimers-disease"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-11-29T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22donepezil%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:19.407Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=donepezil%20hydrochloride",
+      "accessedAt": "2026-07-12T12:02:19.407Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

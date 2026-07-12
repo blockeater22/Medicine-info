@@ -1,0 +1,85 @@
+{
+  "slug": "beclomethasone-dipropionate-hfa",
+  "genericName": "Beclomethasone dipropionate hfa",
+  "brandNames": [
+    "QVAR REDIHALER"
+  ],
+  "composition": "BECLOMETHASONE DIPROPIONATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE QVAR REDIHALER is indicated in the maintenance treatment of asthma as prophylactic therapy in adults and pediatric patients 4 years o...",
+    "This agent is commonly used in care plans involving limitations of Use: QVAR REDIHALER is not indicated for the relief of acute bronchospasm.",
+    "Clinicians may prescribe this medicine when managing qVAR REDIHALER is a corticosteroid indicated for maintenance treatment of asthma as prophylactic therapy in adults and pediatric patients 4 years of age and ..."
+  ],
+  "howItWorks": "Beclomethasone Dipropionate Hfa belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration for oral inhalation only. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes because clinical trials are conducted under widely varying conditions...",
+    "Some patients report doses of 160 or 320 mcg twice daily) or placebo while taking this medicine.",
+    "A possible treatment-related effect includes in considering these data, difference in average duration of exposure and clinical trial design should be taken into account.",
+    "A possible treatment-related effect includes pediatric Patients 4 to 11 Years of Age: The adverse reaction information presented in Table 2 concerning QVAR REDIHALER and QVAR MDI is derived from one 12‑...",
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine.",
+    "A possible treatment-related effect includes local Effects: Localized infections with Candida albicans have occurred in patients treated with beclomethasone dipropionate or other orally inhaled corticos...",
+    "Some patients report psychiatric and Behavioral Changes: Aggression, depression, sleep disorders, psychomotor hyperactivity.. while taking this medicine.",
+    "A possible treatment-related effect includes eye Disorders: Blurred vision, central serous chorioretinopathy (CSC)."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Oropharyngeal candidiasis: Candida albicans infection of the mouth and throat may occur.",
+    "Extra caution is needed because monitor patients periodically for signs of adverse effects on the oral cavity.",
+    "Patients should discuss safety when advise patients to rinse the mouth with water without swallowing after inhalation to help reduce the risk."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Beclomethasone dipropionate hfa information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Beclomethasone dipropionate hfa on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-09-20T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22beclomethasone%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:26.588Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=beclomethasone%20dipropionate%20hfa",
+      "accessedAt": "2026-07-12T12:02:26.588Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

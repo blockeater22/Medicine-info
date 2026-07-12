@@ -1,0 +1,83 @@
+{
+  "slug": "prednisolone-acetate",
+  "genericName": "Prednisolone acetate",
+  "brandNames": [
+    "PRED FORTE"
+  ],
+  "composition": "PREDNISOLONE ACETATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving pRED FORTE ® is indicated for the treatment of steroid-responsive inflammation of the palpebral and bulbar conjunctiva, cornea..."
+  ],
+  "howItWorks": "Prednisolone Acetate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration shake well before using. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use the safety and effectiveness in pediatric patients have been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an geriatric use no overall differences in safety or effectiveness have been observed between elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report the following adverse reactions have been identified during use of PRED FORTE ® while taking this medicine.",
+    "A possible treatment-related effect includes because reactions are reported voluntarily from a population of uncertain size...",
+    "A possible treatment-related effect includes include elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage...",
+    "Monitoring is advised because the development of secondary ocular infection (bacterial, fungal, and viral) has occurred may occur.",
+    "A possible treatment-related effect includes fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids.",
+    "A possible treatment-related effect includes the possibility of fungal invasion should be considered in any persistent corneal ulceration where steroid treatment has been used (see PRECAUTIONS ).",
+    "Some patients report other adverse reactions reported with the use of prednisolone acetate ophthalmic suspension include: allergic reactions while taking this medicine.",
+    "Some patients report foreign body sensation while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when prolonged use of corticosteroids may result in posterior subcapsular cataract formation and may increase intraocular pressure in susceptible individuals...",
+    "Healthcare providers evaluate risk when prolonged use may also suppress the host immune response and thus increase the hazard of secondary ocular infections.",
+    "Extra caution is needed because if this product is used for 10 days or longer..."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because pregnancy Prednisolone has been shown to be teratogenic in mice when given in doses 1-10 times the human dose.",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers It is not known whether topical ophthalmic administration of corticosteroids could result in sufficient systemic absorption to produce detect...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Prednisolone acetate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Prednisolone acetate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-02-02T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22prednisolone%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:29.081Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=prednisolone%20acetate",
+      "accessedAt": "2026-07-12T12:01:29.081Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

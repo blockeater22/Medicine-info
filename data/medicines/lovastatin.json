@@ -1,0 +1,93 @@
+{
+  "slug": "lovastatin",
+  "genericName": "Lovastatin",
+  "brandNames": [
+    "Lovastatin"
+  ],
+  "composition": "LOVASTATIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "HMG-CoA Reductase Inhibitor [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing therapy with Lovastatin Tablets USP should be a component of multiple risk factor intervention in those individuals with dyslipidemia at risk for atheroscler...",
+    "This agent is commonly used in care plans involving lovastatin Tablets USP should be used in addition to a diet restricted in saturated fat and cholesterol as part of a treatment strategy to lower total-C and ...",
+    "This agent is commonly used in care plans involving hypercholesterolemia Therapy with lipid-altering agents should be a component of multiple risk factor intervention in those individuals at significantly incr...",
+    "Clinicians may prescribe this medicine when managing adolescent Patients With Heterozygous Familial Hypercholesterolemia Lovastatin Tablets USP are indicated as an adjunct to diet to reduce total-C...",
+    "This agent is commonly used in care plans involving lDL-C remains > 189 mg/dL or 2.",
+    "Clinicians may prescribe this medicine when managing for patients with TG less than 400 mg/dL (< 4.5 mmol/L)..."
+  ],
+  "howItWorks": "Lovastatin belongs to the hmg-coa reductase inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an lovastatin tablets should be given with meals. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an doses greater than 40 mg have not been studied in this population. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report phase III Clinical Studies In Phase III controlled clinical studies involving 613 patients treated with lovastatin.. while taking this medicine.",
+    "Monitoring is advised because persistent increases of serum transaminases have been noted (see WARNINGS, Liver Dysfunction ) may occur.",
+    "A possible treatment-related effect includes about 11% of patients had elevations of CK levels of at least twice the normal value on one or more occasions.",
+    "Monitoring is advised because the corresponding values for the control agent cholestyramine were 9 percent may occur.",
+    "Monitoring is advised because this was attributable to the noncardiac fraction of CK may occur.",
+    "Monitoring is advised because large increases in CK have sometimes been reported (see WARNINGS , Myopathy/Rhabdomyolysis ) may occur.",
+    "A possible treatment-related effect includes expanded Clinical Evaluation of Lovastatin (EXCEL) Study Lovastatin was compared to placebo in 8...",
+    "Monitoring is advised because clinical adverse experiences reported as possibly, probably or definitely drug-related in ≥ 1% in any treatment group are shown in the table below may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because myopathy/Rhabdomyolysis Lovastatin, like other inhibitors of HMG-CoA reductase, occasionally causes myopathy manifested as muscle pain...",
+    "Patients should discuss safety when myopathy sometimes takes the form of rhabdomyolysis with or without acute renal failure secondary to myoglobinuria, and rare fatalities have occurred.",
+    "Patients should discuss safety when the risk of myopathy is increased by high levels of HMG-CoA reductase inhibitory activity in plasma."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when pregnancy Teratogenic Effects Pregnancy Category X See CONTRAINDICATIONS.",
+    "breastfeeding": "Extra caution is needed because nursing Mothers It is not known whether lovastatin is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interactions CYP3A4 Interactions Lovastatin is metabolized by CYP3A4 but has no CYP3A4 inhibitory activity.",
+      "Patients should discuss safety when therefore it is not expected to affect the plasma concentrations of other drugs metabolized by CYP3A4.",
+      "Extra caution is needed because interactions With Lipid-Lowering Drugs That Can Cause Myopathy When Given Alone The risk of myopathy is also increased by the following lipid-lowering drugs ...",
+      "Healthcare providers evaluate risk when wARNINGS, Myopathy/Rhabdomyolysis.",
+      "Extra caution is needed because gemfibrozil Other fibrates Niacin (nicotinic acid) (≥ 1 g/day) Other Drug Interactions Cyclosporine The risk of myopathy/rhabdomyolysis is increased by conco...",
+      "Healthcare providers evaluate risk when danazol, Diltiazem, Dronedarone or Verapamil The risk of myopathy/rhabdomyolysis is increased by concomitant administration of danazol, diltiazem..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Lovastatin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Lovastatin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2020-04-01T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22lovastatin%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:55.069Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=lovastatin",
+      "accessedAt": "2026-07-12T12:00:55.069Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

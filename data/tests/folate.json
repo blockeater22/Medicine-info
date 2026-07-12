@@ -1,0 +1,59 @@
+{
+  "slug": "folate",
+  "name": "Folate",
+  "overview": "Folate is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include folate, also known as vitamin b9 and folacin, is one of the b vitamins; folate is required for the body to make dna and rna and metabolise amino acids necessary for cell division and maturation of blood cells; as the human body cannot make folate, it is required in the diet, making it an essential nutrient. This summary is educational and should be paired with professional medical evaluation.",
+  "purpose": [
+    "From a clinical perspective, folate, also known as vitamin B9 and folacin, is one of the B vitamins.",
+    "From a clinical perspective, folate is required for the body to make DNA and RNA and metabolise amino acids necessary for cell division and maturation of blood cells.",
+    "In routine practice, as the human body cannot make folate, it is required in the diet, making it an essential nutrient.",
+    "Health professionals note that it occurs naturally in many foods.",
+    "In routine practice, the recommended adult daily intake of folate in the U.S."
+  ],
+  "preparation": [
+    "From a clinical perspective, confirm fasting requirements with your lab.",
+    "In routine practice, bring prior reports and medication list."
+  ],
+  "procedure": [
+    "From a clinical perspective, sample collection at a certified laboratory.",
+    "Health professionals note that results reviewed by qualified personnel."
+  ],
+  "normalRange": "Reference intervals vary by laboratory method, age, sex, and clinical context. Interpret results with your doctor.",
+  "highMeaning": [
+    "From a clinical perspective, may indicate active disease, inflammation, or organ stress depending on the analyte."
+  ],
+  "lowMeaning": [
+    "In routine practice, may suggest deficiency, suppression, or reduced production depending on the analyte."
+  ],
+  "interpretation": [
+    "In routine practice, compare with previous results for trends.",
+    "In routine practice, correlate with symptoms and examination.",
+    "In routine practice, single abnormal values may require repeat testing."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Folate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Do I need fasting before Folate?",
+      "answer": "Preparation depends on the exact test order. Follow the instructions provided by your laboratory or physician."
+    }
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T12:03:46.081Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Folate",
+      "accessedAt": "2026-07-12T12:03:46.081Z"
+    },
+    {
+      "name": "LOINC",
+      "url": "https://loinc.org/",
+      "accessedAt": "2026-07-12T12:03:46.081Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

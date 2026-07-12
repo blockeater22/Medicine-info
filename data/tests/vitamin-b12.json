@@ -1,67 +1,58 @@
 {
   "slug": "vitamin-b12",
-  "name": "Vitamin B12 Test",
-  "category": "Nutrition",
-  "description": "Vitamin B12 Test — purpose, preparation, procedure, normal range, and result interpretation.",
-  "seo": {
-    "title": "Vitamin B12 Test: Purpose, Normal Range, Preparation | Doctors Hub",
-    "description": "Complete guide to Vitamin B12 Test test in India. Learn preparation, procedure, normal values, and what results mean.",
-    "keywords": [
-      "Vitamin B12 Test",
-      "lab test India"
-    ]
-  },
-  "overview": "Vitamin B12 Test is a commonly ordered diagnostic test used to evaluate specific aspects of your health.",
+  "name": "Vitamin B12",
+  "overview": "Vitamin B12 is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include vitamin b12, also known as cobalamin or extrinsic factor, is a water-soluble vitamin involved in metabolism; one of eight b vitamins, it serves as a vital cofactor in dna synthesis and both fatty acid and amino acid metabolism; it plays an essential role in the nervous system by supporting myelin synthesis and is critical for the maturation of red blood cells in the bone marrow. This summary is educational and should be paired with professional medical evaluation.",
   "purpose": [
-    "Screening for disease",
-    "Monitoring existing conditions",
-    "Evaluating treatment response",
-    "Pre-operative assessment"
+    "Health professionals note that vitamin B12, also known as cobalamin or extrinsic factor, is a water-soluble vitamin involved in metabolism.",
+    "Health professionals note that one of eight B vitamins, it serves as a vital cofactor in DNA synthesis and both fatty acid and amino acid metabolism.",
+    "Health professionals note that it plays an essential role in the nervous system by supporting myelin synthesis and is critical for the maturation of red blood cells in the bone marrow.",
+    "In routine practice, animals require B12 but plants do not, relying instead on alternative enzymatic pathways."
   ],
   "preparation": [
-    "Follow fasting instructions if required (typically 8-12 hours)",
-    "Inform lab about current medications",
-    "Stay hydrated unless told otherwise",
-    "Bring previous reports if available"
+    "From a clinical perspective, confirm fasting requirements with your lab.",
+    "In routine practice, bring prior reports and medication list."
   ],
   "procedure": [
-    "Blood/urine sample collection at certified lab",
-    "Non-invasive for imaging tests",
-    "Results typically available within 24-48 hours"
+    "From a clinical perspective, sample collection at a certified laboratory.",
+    "Health professionals note that results reviewed by qualified personnel."
   ],
-  "normalRange": "Reference ranges vary by lab, age, and gender. Always interpret with your doctor.",
-  "highMeans": [
-    "Possible infection or inflammation",
-    "Organ dysfunction",
-    "Nutritional deficiency or excess",
-    "Requires clinical correlation"
+  "normalRange": "Reference intervals vary by laboratory method, age, sex, and clinical context. Interpret results with your doctor.",
+  "highMeaning": [
+    "From a clinical perspective, may indicate active disease, inflammation, or organ stress depending on the analyte."
   ],
-  "lowMeans": [
-    "Possible deficiency state",
-    "Bone marrow issues (for blood tests)",
-    "Malabsorption",
-    "Requires clinical correlation"
+  "lowMeaning": [
+    "In routine practice, may suggest deficiency, suppression, or reduced production depending on the analyte."
   ],
   "interpretation": [
-    "Compare with previous results for trends",
-    "Single abnormal value may not indicate disease",
-    "Doctor will correlate with symptoms and examination"
+    "In routine practice, compare with previous results for trends.",
+    "In routine practice, correlate with symptoms and examination.",
+    "In routine practice, single abnormal values may require repeat testing."
   ],
-  "faqs": [
+  "faq": [
     {
-      "question": "Do I need to fast for Vitamin B12 Test?",
-      "answer": "Check specific test requirements. Fasting tests typically need 8-12 hours."
+      "question": "Can I rely on this Vitamin B12 information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
     },
     {
-      "question": "How long for Vitamin B12 Test results?",
-      "answer": "Most results available within 24-48 hours at standard labs."
+      "question": "Do I need fasting before Vitamin B12?",
+      "answer": "Preparation depends on the exact test order. Follow the instructions provided by your laboratory or physician."
     }
   ],
-  "popular": false,
-  "updatedAt": "2026-07-01",
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T12:03:45.123Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vitamin_B12",
+      "accessedAt": "2026-07-12T12:03:45.123Z"
+    },
+    {
+      "name": "LOINC",
+      "url": "https://loinc.org/",
+      "accessedAt": "2026-07-12T12:03:45.123Z"
+    }
+  ],
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

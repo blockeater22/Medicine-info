@@ -1,0 +1,69 @@
+{
+  "slug": "respiratory-agents",
+  "name": "Respiratory Agents",
+  "description": "Respiratory Agents — drug class guide for patients in India.",
+  "overview": "Respiratory Agents are a group of medicines used for related therapeutic purposes in India. Always use as prescribed.",
+  "commonUses": [
+    "Conditions commonly treated with respiratory agents",
+    "Selected based on diagnosis and patient profile"
+  ],
+  "examples": [
+    "amoxicillin",
+    "budesonide",
+    "cetirizine hydrochloride",
+    "chlorpheniramine maleate",
+    "doxycycline",
+    "fluticasone propionate nasal"
+  ],
+  "medicineSlugs": [
+    "amoxicillin",
+    "budesonide",
+    "cetirizine-hydrochloride",
+    "chlorpheniramine-maleate",
+    "doxycycline",
+    "fluticasone-propionate-nasal",
+    "levocetirizine-dihydrochloride",
+    "loratadine",
+    "minocycline-hydrochloride",
+    "montelukast-sodium",
+    "montelukast",
+    "theophylline-anhydrous",
+    "vancomycin-hydrochloride"
+  ],
+  "relatedDiseaseSlugs": [],
+  "safetyNotes": [
+    "Do not self-medicate or switch brands without medical advice",
+    "Inform your doctor about all current medicines"
+  ],
+  "seo": {
+    "title": "Respiratory Agents: Medicines, Uses & Safety | Doctors Hub",
+    "description": "Guide to Respiratory Agents — common Indian medicines, uses, and safety.",
+    "keywords": [
+      "Respiratory Agents",
+      "drug class",
+      "medicines India"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are Respiratory Agents?",
+      "answer": "Respiratory Agents are medicines grouped by similar therapeutic use. Your doctor selects the specific drug and dose."
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "WHO Model Formulary",
+      "url": "https://list.essentialmeds.org/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "Indian Pharmacopoeia Commission",
+      "url": "https://ipc.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "updatedAt": "2026-07-12"
+}

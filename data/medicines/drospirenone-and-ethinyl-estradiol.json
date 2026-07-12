@@ -1,0 +1,93 @@
+{
+  "slug": "drospirenone-and-ethinyl-estradiol",
+  "genericName": "Drospirenone and ethinyl estradiol",
+  "brandNames": [
+    "Yaz"
+  ],
+  "composition": "drospirenone and ethinyl estradiol — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with the effectiveness of Yaz for PMDD when used for more than three menstrual cycles has not been evaluated.",
+    "Medical teams consider this option for patients needing support with the essential features of PMDD according to the Diagnostic and Statistical Manual-4th edition (DSM-IV) include markedly depressed mood, anxiety or tension...",
+    "Medical teams consider this option for patients needing support with other features include decreased interest in usual activities, difficulty concentrating, lack of energy, change in appetite or sleep, and feeling out of control.",
+    "Medical teams consider this option for patients needing support with physical symptoms associated with PMDD include breast tenderness, headache, joint and muscle pain, bloating and weight gain.",
+    "Medical teams consider this option for patients needing support with in this disorder, these symptoms occur regularly during the luteal phase and remit within a few days following onset of menses.",
+    "Medical teams consider this option for patients needing support with the disturbance markedly interferes with work or school, or with usual social activities and relationships with others."
+  ],
+  "howItWorks": "Drospirenone And Ethinyl Estradiol belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration • take one tablet daily by mouth at the same time every day. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and efficacy of yaz has been established in women of reproductive age. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use yaz has not been studied in postmenopausal women and is not indicated in this population. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report contraception and Acne Clinical Trials The data provided reflect the experience with the use of Yaz in the adequate and well-controlled studies for contracep.. while taking this medicine.",
+    "Monitoring is advised because for contraception, a Phase 3, multicenter, multinational, open-label study was conducted to evaluate safety and efficacy up to one year in 1.. may occur.",
+    "Monitoring is advised because a second Phase 3 study was a single center, open-label, active-controlled study to evaluate the effect of 7 28-day cycles of Yaz on carbohydrate metabolism.. may occur.",
+    "Some patients report for acne, two multicenter, double-blind, randomized, placebo-controlled studies.. while taking this medicine.",
+    "Some patients report the adverse reactions seen across the 2 indications overlapped, and are reported using the frequencies from the pooled dataset while taking this medicine.",
+    "A possible treatment-related effect includes the most common adverse reactions (≥ 2% of users) were: headache/migraine (6.7%)...",
+    "A possible treatment-related effect includes pMDD Clinical Trials Safety data from trials for the indication of PMDD are reported separately due to differences in study design and setting in the Contrac...",
+    "A possible treatment-related effect includes two (one parallel and one crossover designed) multicenter, double-blind, randomized..."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS • Vascular risks : Stop Yaz if a thrombotic event occurs.",
+    "Patients should discuss safety when stop at least 4 weeks before and through 2 weeks after major surgery.",
+    "Extra caution is needed because start no earlier than 4 weeks after delivery, in women who are not breastfeeding."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary There is no use for contraception in pregnancy.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Consult the labeling of all concurrently-used drugs to obtain further information about interactions with hormonal contraceptives or the ...",
+      "Extra caution is needed because drugs or herbal products that induce certain enzymes (for example, CYP3A4) may decrease the effectiveness of COCs or increase breakthrough bleeding.",
+      "Patients should discuss safety when counsel patients to use a back-up or alternative method of contraception when enzyme inducers are used with COCs.",
+      "Healthcare providers evaluate risk when some drugs or herbal products that may decrease the effectiveness of hormonal contraceptives include phenytoin, barbiturates, carbamazepine, bosentan...",
+      "Extra caution is needed because john's wort.",
+      "Extra caution is needed because interactions between oral contraceptives and other drugs may lead to breakthrough bleeding and/or contraceptive failure."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Drospirenone and ethinyl estradiol information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Drospirenone and ethinyl estradiol on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "headache",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-05-29T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22drospirenone%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:55.621Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=drospirenone%20and%20ethinyl%20estradiol",
+      "accessedAt": "2026-07-12T12:01:55.621Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

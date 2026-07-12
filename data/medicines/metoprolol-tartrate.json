@@ -1,0 +1,93 @@
+{
+  "slug": "metoprolol-tartrate",
+  "genericName": "Metoprolol tartrate",
+  "brandNames": [
+    "Metoprolol Tartrate"
+  ],
+  "composition": "METOPROLOL TARTRATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Metoprolol tartrate tablets are a beta-adrenergic blocker indicated for the treatment of: Hypertension, to lower blood pressure.",
+    "This agent is commonly used in care plans involving lowering blood pressure lowers the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions.",
+    "This agent is commonly used in care plans involving these benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including metoprolol.",
+    "Medical teams consider this option for patients needing support with control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management...",
+    "Clinicians may prescribe this medicine when managing many patients will require more than 1 drug to achieve blood pressure goals.",
+    "Clinicians may prescribe this medicine when managing for specific advice on goals and management, see published guidelines..."
+  ],
+  "howItWorks": "Metoprolol Tartrate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration administer once daily with food or after a meal. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness of metoprolol have not been established in pediatric patients. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes 6 ADVERSE REACTIONS The following adverse reactions are described elsewhere in labeling: Worsening angina or myocardial infarction [see Warnings and Precauti...",
+    "Monitoring is advised because hypertension and Angina Most adverse effects have been mild and transient may occur.",
+    "Monitoring is advised because central Nervous System: Tiredness and dizziness have occurred in about 10% of patients may occur.",
+    "Some patients report depression has been reported in about 5 of 100 patients while taking this medicine.",
+    "Some patients report mental confusion and short-term memory loss have been reported while taking this medicine.",
+    "Some patients report headache, nightmares, and insomnia have also been reported while taking this medicine.",
+    "A possible treatment-related effect includes cardiovascular: Shortness of breath and bradycardia have occurred in approximately 3% of patients.",
+    "A possible treatment-related effect includes cold extremities."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Abrupt cessation may exacerbate myocardial ischemia.",
+    "Patients should discuss safety when when discontinuing chronically administered metoprolol, particularly in patients with ischemic heart disease...",
+    "Healthcare providers evaluate risk when if angina markedly worsens or acute coronary ischemia develops, promptly reinstate metoprolol..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Available data from published observational studies have not demonstrated an association of adverse developmental outcomes with ma...",
+    "breastfeeding": "Extra caution is needed because 8.3 Females and Males of Reproductive Potential Risk Summary Based on the published literature...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when while there is no information about moderate or weak inhibitors, these too are likely to increase metoprolol concentration.",
+      "Healthcare providers evaluate risk when increases in plasma concentration decrease the cardioselectivity of metoprolol [see Clinical Pharmacology (12.3) ].",
+      "Extra caution is needed because monitor patients closely, when the combination cannot be avoided.",
+      "Healthcare providers evaluate risk when concomitant use with beta-blockers can increase the risk of bradycardia.",
+      "Healthcare providers evaluate risk when if clonidine and a beta-blocker, such as metoprolol are coadministered...",
+      "Healthcare providers evaluate risk when if replacing clonidine by beta-blocker therapy, delay the introduction of beta-blockers for several days after clonidine administration has stopped."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Metoprolol tartrate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Metoprolol tartrate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-06-10T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22metoprolol%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:04.294Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=metoprolol%20tartrate",
+      "accessedAt": "2026-07-12T12:01:04.294Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

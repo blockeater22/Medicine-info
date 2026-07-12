@@ -1,0 +1,55 @@
+{
+  "slug": "blood-in-stool",
+  "name": "Blood In Stool",
+  "overview": "Blood In Stool is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include medical condition of blood in the feces. This summary is educational and should be paired with professional medical evaluation.",
+  "possibleCauses": [
+    "From a clinical perspective, blood in stool looks different depending on how early it enters the digestive tract—and thus how much digestive action it has been exposed to—and how much th...",
+    "Health professionals note that the term can refer either to melena, with a black appearance, typically originating from upper gastrointestinal bleeding.",
+    "From a clinical perspective, or to hematochezia, with a red color, typically originating from lower gastrointestinal bleeding.",
+    "From a clinical perspective, evaluation of the blood found in stool depends on its characteristics, in terms of color, quantity and other features, which can point to its source...",
+    "Health professionals note that the term \"blood in stool\" is usually only used to describe visible blood, and not fecal occult blood..."
+  ],
+  "redFlags": [
+    "Patients should discuss safety when sudden severe onset.",
+    "Healthcare providers evaluate risk when associated chest pain or breathing difficulty.",
+    "Extra caution is needed because high fever with confusion.",
+    "Healthcare providers evaluate risk when symptoms after head injury."
+  ],
+  "homeCare": [
+    "Health professionals note that rest and hydration.",
+    "In routine practice, monitor symptom changes.",
+    "In routine practice, use only previously recommended."
+  ],
+  "whenToSeeDoctor": [
+    "From a clinical perspective, symptoms persist beyond several days.",
+    "In routine practice, severity increases.",
+    "From a clinical perspective, new neurological or cardiac features appear."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Blood In Stool information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "When should I worry about blood in stool?",
+      "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
+    }
+  ],
+  "relatedDiseases": [
+    "leukemia",
+    "pulmonary-embolism",
+    "anemia"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T11:57:31.910Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blood_in_stool",
+      "accessedAt": "2026-07-12T11:57:31.910Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

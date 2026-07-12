@@ -1,0 +1,60 @@
+{
+  "slug": "antifungals",
+  "name": "Antifungals",
+  "description": "Antifungals — drug class guide for patients in India.",
+  "overview": "Antifungals are a group of medicines used for related therapeutic purposes in India. Always use as prescribed.",
+  "commonUses": [
+    "Conditions commonly treated with antifungals",
+    "Selected based on diagnosis and patient profile"
+  ],
+  "examples": [
+    "clotrimazole",
+    "fluconazole",
+    "itraconazole",
+    "nystatin",
+    "terbinafine hydrochloride"
+  ],
+  "medicineSlugs": [
+    "clotrimazole",
+    "fluconazole",
+    "itraconazole",
+    "nystatin",
+    "terbinafine-hydrochloride"
+  ],
+  "relatedDiseaseSlugs": [],
+  "safetyNotes": [
+    "Do not self-medicate or switch brands without medical advice",
+    "Inform your doctor about all current medicines"
+  ],
+  "seo": {
+    "title": "Antifungals: Medicines, Uses & Safety | Doctors Hub",
+    "description": "Guide to Antifungals — common Indian medicines, uses, and safety.",
+    "keywords": [
+      "Antifungals",
+      "drug class",
+      "medicines India"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are Antifungals?",
+      "answer": "Antifungals are medicines grouped by similar therapeutic use. Your doctor selects the specific drug and dose."
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "WHO Model Formulary",
+      "url": "https://list.essentialmeds.org/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "Indian Pharmacopoeia Commission",
+      "url": "https://ipc.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "updatedAt": "2026-07-12"
+}

@@ -1,6 +1,7 @@
 import type {
   Article,
   CalculatorMeta,
+  ContentReviewInfo,
   Disease,
   FAQItem,
   FirstAid,
@@ -29,8 +30,7 @@ import {
   truncateDescription,
 } from "./seo-helpers";
 import { MEDICAL_DISCLAIMER } from "@/lib/constants";
-import { DEFAULT_ARTICLE_AUTHORSHIP, DEFAULT_AUTHORSHIP, resolveAuthorship } from "@/lib/content-authorship";
-import type { AuthorshipInfo } from "@/types";
+import { resolveContentReview } from "@/lib/content-authorship";
 
 const DEFAULT_MISSED_DOSE =
   "Take the missed dose as soon as you remember unless it is near the time for your next dose. Do not double doses.";
@@ -45,8 +45,10 @@ function mapSources(sources?: { name: string; url: string; accessedAt?: string }
   return sources?.map((s) => ({ name: s.name, url: s.url, accessedAt: s.accessedAt }));
 }
 
-function mapAuthorship(raw?: AuthorshipInfo, fallback = DEFAULT_AUTHORSHIP): AuthorshipInfo {
-  return resolveAuthorship(raw ?? fallback);
+function legacyReview(raw: unknown, updatedAt?: string): ContentReviewInfo {
+  const d = raw as { contentReview?: ContentReviewInfo; authoredBy?: ContentReviewInfo & { authorId?: string } };
+  const legacy = d.contentReview ?? (d.authoredBy?.lastReviewed ? { lastReviewed: d.authoredBy.lastReviewed } : undefined);
+  return resolveContentReview(legacy, updatedAt);
 }
 
 function titleCase(text: string): string {
@@ -103,7 +105,7 @@ export function adaptMedicine(raw: PipelineMedicine): Medicine {
     faqs: normalizeFaqs(raw.faqs),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),
-    authoredBy: mapAuthorship((raw as { authoredBy?: AuthorshipInfo }).authoredBy),
+    contentReview: legacyReview(raw, raw.lastUpdated),
     popular: false,
   };
 }
@@ -131,7 +133,7 @@ export function adaptDisease(raw: PipelineDisease): Disease {
     faqs: normalizeFaqs(raw.faq),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),
-    authoredBy: mapAuthorship((raw as { authoredBy?: AuthorshipInfo }).authoredBy),
+    contentReview: legacyReview(raw, raw.lastUpdated),
     popular: false,
   };
 }
@@ -153,7 +155,7 @@ export function adaptSymptom(raw: PipelineSymptom): Symptom {
     faqs: normalizeFaqs(raw.faq),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),
-    authoredBy: mapAuthorship((raw as { authoredBy?: AuthorshipInfo }).authoredBy),
+    contentReview: legacyReview(raw, raw.lastUpdated),
     popular: false,
   };
 }
@@ -178,7 +180,7 @@ export function adaptLabTest(raw: PipelineLabTest): LabTest {
     faqs: normalizeFaqs(raw.faq),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),
-    authoredBy: mapAuthorship((raw as { authoredBy?: AuthorshipInfo }).authoredBy),
+    contentReview: legacyReview(raw, raw.lastUpdated),
     popular: false,
   };
 }
@@ -197,7 +199,7 @@ export function adaptFirstAid(raw: PipelineFirstAid): FirstAid {
     faqs: normalizeFaqs(raw.faq),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),
-    authoredBy: mapAuthorship((raw as { authoredBy?: AuthorshipInfo }).authoredBy),
+    contentReview: legacyReview(raw, raw.lastUpdated),
     popular: false,
   };
 }
@@ -211,10 +213,9 @@ export function adaptArticle(raw: PipelineArticle): Article {
     description: truncateDescription(raw.summary),
     seo: buildArticleSeo(raw.title, raw.category, tags),
     content: raw.content,
-    author:
-      raw.author && raw.author !== "Doctors Hub Medical Team"
+    author: raw.author && !/dr\.|medical team|physician|mbbs|md\b/i.test(raw.author)
         ? raw.author
-        : "Dr. Priya Sharma, MBBS, MD",
+        : "Doctors Hub Editorial",
     publishedAt: raw.lastUpdated,
     category: raw.category,
     tags,
@@ -222,7 +223,7 @@ export function adaptArticle(raw: PipelineArticle): Article {
     faqs: normalizeFaqs(raw.faq),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),
-    authoredBy: mapAuthorship((raw as { authoredBy?: AuthorshipInfo }).authoredBy, DEFAULT_ARTICLE_AUTHORSHIP),
+    contentReview: legacyReview(raw, raw.lastUpdated),
     trending: false,
     popular: false,
   };
@@ -256,16 +257,18 @@ export function adaptCalculator(raw: PipelineCalculator): CalculatorMeta {
     faqs: normalizeFaqs(raw.faq),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),
-    authoredBy: mapAuthorship((raw as { authoredBy?: AuthorshipInfo }).authoredBy),
+    contentReview: legacyReview(raw, raw.lastUpdated),
     popular: POPULAR_CALCULATOR_SLUGS.has(raw.slug),
   };
 }
 
-function finalizeEntity<T extends { authoredBy?: AuthorshipInfo }>(
-  entity: T,
-  fallback = DEFAULT_AUTHORSHIP
+function finalizeEntity<T extends { contentReview?: ContentReviewInfo; authoredBy?: ContentReviewInfo; updatedAt?: string }>(
+  entity: T
 ): T {
-  return { ...entity, authoredBy: mapAuthorship(entity.authoredBy, fallback) };
+  const review = legacyReview(entity, entity.updatedAt);
+  const { authoredBy: _, ...rest } = entity as T & { authoredBy?: ContentReviewInfo };
+  void _;
+  return { ...rest, contentReview: review } as T;
 }
 
 /** Pass-through if already website format; otherwise adapt */
@@ -305,20 +308,16 @@ export function coerceFirstAid(data: unknown): FirstAid {
 export function coerceArticle(data: unknown): Article {
   if (isWebsiteArticle(data)) {
     const article = data as Article;
-    return finalizeEntity(
-      {
-        ...article,
-        author:
-          article.author === "Doctors Hub Medical Team"
-            ? "Dr. Priya Sharma, MBBS, MD"
-            : article.author,
-      },
-      DEFAULT_ARTICLE_AUTHORSHIP
-    );
+    return finalizeEntity({
+      ...article,
+      author: /dr\.|medical team|physician|mbbs|md\b/i.test(article.author)
+        ? "Doctors Hub Editorial"
+        : article.author,
+    });
   }
   const d = data as Record<string, unknown>;
   if (d.name && d.content && !d.title) {
-    return finalizeEntity(data as Article, DEFAULT_ARTICLE_AUTHORSHIP);
+    return finalizeEntity(data as Article);
   }
   return adaptArticle(data as PipelineArticle);
 }

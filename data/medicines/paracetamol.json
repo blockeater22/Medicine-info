@@ -43,6 +43,8 @@
   ],
   "warnings": [
     "Widely sold OTC in India as Crocin, Dolo 650, and Calpol.",
+    "Widely sold OTC in India as Crocin, Dolo 650, and Calpol.",
+    "Widely sold OTC in India as Crocin, Dolo 650, and Calpol.",
     "Do not exceed prescribed dose",
     "Inform doctor of all medications",
     "Not for self-medication without consultation"
@@ -63,7 +65,8 @@
   "alternatives": [],
   "relatedDiseases": [
     "fever",
-    "diabetes"
+    "diabetes",
+    "headache"
   ],
   "faqs": [
     {
@@ -77,11 +80,6 @@
   ],
   "popular": true,
   "updatedAt": "2026-07-01",
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
-    "lastReviewed": "2026-07-12"
-  },
   "sources": [
     {
       "name": "WHO Model Formulary",
@@ -93,5 +91,8 @@
       "url": "https://ipc.gov.in/",
       "accessedAt": "2026-07-12"
     }
-  ]
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

@@ -1,16 +1,6 @@
 {
   "slug": "arthritis",
   "name": "Arthritis",
-  "category": "Musculoskeletal",
-  "description": "Complete guide to Arthritis: symptoms, causes, diagnosis, treatment, and prevention for patients in India.",
-  "seo": {
-    "title": "Arthritis: Symptoms, Causes, Treatment | Doctors Hub",
-    "description": "Learn about Arthritis — symptoms, causes, risk factors, diagnosis, treatment options, and prevention tips.",
-    "keywords": [
-      "Arthritis",
-      "Musculoskeletal"
-    ]
-  },
   "overview": "Arthritis refers to joint inflammation causing pain, stiffness, and reduced mobility. Osteoarthritis (wear-and-tear) and rheumatoid arthritis (autoimmune) are the most common forms seen in Indian clinics. Treatment focuses on pain control, preserving function, and slowing disease progression.",
   "symptoms": [
     "Joint pain and stiffness, worse in the morning (inflammatory types)",
@@ -45,12 +35,6 @@
     "Intra-articular steroids in selected cases",
     "Joint replacement for advanced osteoarthritis"
   ],
-  "homeCare": [
-    "Follow prescribed treatment plan",
-    "Maintain healthy diet",
-    "Adequate rest and hydration",
-    "Monitor symptoms"
-  ],
   "prevention": [
     "Maintain healthy weight to reduce knee load",
     "Regular exercise to strengthen supporting muscles",
@@ -63,37 +47,29 @@
     "Osteoporosis with long-term steroid use",
     "Cardiovascular disease association with inflammatory arthritis"
   ],
-  "emergencyWarningSigns": [
-    "Severe chest pain",
-    "Difficulty breathing",
-    "Sudden confusion",
-    "High fever with rigors"
-  ],
-  "relatedMedicines": [
-    "ibuprofen"
-  ],
-  "faqs": [
-    {
-      "question": "What causes Arthritis?",
-      "answer": "Multiple factors including genetics, lifestyle, and environment contribute."
-    },
-    {
-      "question": "Is Arthritis curable?",
-      "answer": "Many conditions are manageable with proper treatment. Consult your doctor for prognosis."
-    }
-  ],
-  "popular": true,
-  "updatedAt": "2026-07-01",
   "emergencySigns": [
     "Hot, very swollen single joint with fever (septic arthritis)",
     "Sudden inability to bear weight after injury",
     "Severe uncontrolled pain despite treatment"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
+  "faq": [
+    {
+      "question": "Can I rely on this Arthritis information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "What should I do if Arthritis symptoms worsen suddenly?",
+      "answer": "Seek urgent medical care, especially if severe pain, breathing difficulty, confusion, or high fever develops."
+    }
+  ],
+  "relatedDiseases": [],
+  "relatedMedicines": [
+    "fluoxetine-hydrochloride",
+    "clonazepam",
+    "metronidazole"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
   "sources": [
     {
       "name": "MedlinePlus",
@@ -106,5 +82,17 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "relatedSlugs": [
+    "urine-routine",
+    "liver-function-tests"
+  ],
+  "category": "Musculoskeletal",
+  "emergencyWarningSigns": [
+    "Hot, very swollen single joint with fever (septic arthritis)",
+    "Sudden inability to bear weight after injury",
+    "Severe uncontrolled pain despite treatment"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

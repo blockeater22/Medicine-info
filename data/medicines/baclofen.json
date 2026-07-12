@@ -1,0 +1,87 @@
+{
+  "slug": "baclofen",
+  "genericName": "Baclofen",
+  "brandNames": [
+    "BACLOFEN"
+  ],
+  "composition": "BACLOFEN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "gamma-Aminobutyric Acid-ergic Agonist [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with baclofen tablets, USP are useful for the alleviation of signs and symptoms of spasticity resulting from multiple sclerosis...",
+    "Clinicians may prescribe this medicine when managing patients should have reversible spasticity so that baclofen treatment will aid in restoring residual function.",
+    "Medical teams consider this option for patients needing support with baclofen tablets, USP may also be of some value in patients with spinal cord injuries and other spinal cord diseases.",
+    "This agent is commonly used in care plans involving baclofen tablets, USP are not indicated in the treatment of skeletal muscle spasm resulting from rheumatic disorders.",
+    "This agent is commonly used in care plans involving the efficacy of baclofen in stroke, cerebral palsy, and Parkinson's disease has not been established and, therefore, it is not recommended for these conditions."
+  ],
+  "howItWorks": "Baclofen belongs to the gamma-aminobutyric acid-ergic agonist [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration the determination of optimal dosage requires individual titration. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because the most common is transient drowsiness (10 to 63%) may occur.",
+    "Some patients report in one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group while taking this medicine.",
+    "Some patients report other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%) while taking this medicine.",
+    "Some patients report others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%) while taking this medicine.",
+    "Some patients report and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity.. while taking this medicine.",
+    "Monitoring is advised because cardiovascular: Hypotension (0 to 9%) may occur.",
+    "Monitoring is advised because rare instances of dyspnea, palpitation, chest pain, syncope may occur.",
+    "Monitoring is advised because gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%) may occur."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when neonatal Withdrawal Symptoms: Withdrawal symptoms have been reported starting hours to days after delivery in neonates whose mothers were treated with oral b...",
+    "Extra caution is needed because the symptoms of withdrawal in these infants have included increased muscle tone, tremor, jitteriness, and seizure.",
+    "Healthcare providers evaluate risk when if the potential benefit justifies the potential risk to the fetus and oral baclofen is continued during pregnancy..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Baclofen information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Baclofen on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "headache",
+    "heart-disease",
+    "thyroid"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-01-21T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22baclofen%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:18.267Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=baclofen",
+      "accessedAt": "2026-07-12T12:02:18.267Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

@@ -61,24 +61,26 @@
     }
   ],
   "relatedMedicines": [],
-  "relatedDiseases": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "coronary-artery-disease",
+    "allergies"
+  ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-02-10T00:00:00.000Z",
   "sources": [
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22isosorbide%20dinitrate%22&limit=1",
-      "accessedAt": "2026-07-12T06:32:07.662Z"
+      "accessedAt": "2026-07-12T12:01:07.464Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=isosorbide%20dinitrate",
-      "accessedAt": "2026-07-12T06:32:07.662Z"
+      "accessedAt": "2026-07-12T12:01:07.464Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

@@ -69,9 +69,9 @@
   ],
   "relatedMedicines": [],
   "relatedDiseases": [
-    "common-cold",
     "heart-disease",
-    "hypertension"
+    "allergies",
+    "common-cold"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2023-10-09T00:00:00.000Z",
@@ -79,17 +79,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22enalapril%22&limit=1",
-      "accessedAt": "2026-07-12T06:32:05.076Z"
+      "accessedAt": "2026-07-12T12:00:58.191Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=enalapril%20maleate",
-      "accessedAt": "2026-07-12T06:32:05.076Z"
+      "accessedAt": "2026-07-12T12:00:58.191Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

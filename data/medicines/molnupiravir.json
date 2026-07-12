@@ -1,0 +1,81 @@
+{
+  "slug": "molnupiravir",
+  "genericName": "Molnupiravir",
+  "brandNames": [
+    "LAGEVRIO"
+  ],
+  "composition": "MOLNUPIRAVIR — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing management of conditions associated with molnupiravir."
+  ],
+  "howItWorks": "Molnupiravir belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use lagevrio is not authorized for use in patients less than 18 years of age. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an no dosage adjustment is recommended based on age. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because 6 ADVERSE REACTIONS 6.1 Adverse Reactions from Clinical Studies The following adverse reactions have been observed in the clinical study of LAGEVRIO that sup.. may occur.",
+    "A possible treatment-related effect includes the adverse reaction rates observed in these clinical trials cannot be directly compared to rates in the clinical trials of another drug and may not reflect ...",
+    "Monitoring is advised because additional adverse events associated with LAGEVRIO may become apparent with more widespread use may occur.",
+    "Some patients report overall, more than 900 subjects have been exposed to LAGEVRIO 800 mg twice daily in clinical trials while taking this medicine.",
+    "A possible treatment-related effect includes the safety assessment of LAGEVRIO is primarily based on an analysis from subjects followed through Day 29 in the Phase 3 study in non-hospitalized subjects w...",
+    "Some patients report the safety of LAGEVRIO was evaluated based on an analysis of a Phase 3 double-blind trial (MOVe-OUT) in which 1.. while taking this medicine.",
+    "Some patients report adverse events were those reported while subjects were on study intervention or within 14 days of study intervention completion/discontinuation while taking this medicine.",
+    "A possible treatment-related effect includes discontinuation of study intervention due to an adverse event occurred in 1% of subjects receiving LAGEVRIO and 3% of subjects receiving placebo."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when the safety assessment of LAGEVRIO is primarily based on an analysis from subjects followed through Day 29 in the Phase 3 study in non-hospitalized subjects w...",
+    "Extra caution is needed because the safety of LAGEVRIO was evaluated based on an analysis of a Phase 3 double-blind trial (MOVe-OUT) in which 1...",
+    "Extra caution is needed because serious adverse events occurred in 7% of subjects receiving LAGEVRIO and 10% receiving placebo.",
+    "Extra caution is needed because most serious adverse events were COVID-19 related."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Pregnancy Registry There is a pregnancy registry that monitors pregnancy outcomes in individuals exposed to LAGEVRIO during pregnancy.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS No drug interactions have been identified based on the limited available data on the emergency use of LAGEVRIO authorized under this EUA.",
+      "Healthcare providers evaluate risk when no clinical drug-drug interaction trials of LAGEVRIO with concomitant medications, including other treatments for mild-to-moderate COVID-19..."
+    ]
+  },
+  "storage": "Health professionals note that and Handling Store LAGEVRIO capsules at 20° to 25°C (68° to 77°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Molnupiravir information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Molnupiravir on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-07-11T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22molnupiravir%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:26.193Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=molnupiravir",
+      "accessedAt": "2026-07-12T12:02:26.193Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

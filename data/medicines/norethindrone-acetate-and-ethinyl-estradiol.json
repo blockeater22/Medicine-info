@@ -1,0 +1,88 @@
+{
+  "slug": "norethindrone-acetate-and-ethinyl-estradiol",
+  "genericName": "Norethindrone acetate and ethinyl estradiol",
+  "brandNames": [
+    "Hailey 1.5/30"
+  ],
+  "composition": "ETHINYL ESTRADIOL — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Estrogen [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with hailey 1.5/30 is indicated for the prevention of pregnancy in women who elect to use oral contraceptives as a method of contraception.",
+    "This agent is commonly used in care plans involving oral contraceptives are highly effective.",
+    "Clinicians may prescribe this medicine when managing table 1 lists the typical accidental pregnancy rates for users of combination oral contraceptives and other methods of contraception.",
+    "Medical teams consider this option for patients needing support with the efficacy of these contraceptive methods, except sterilization, depends upon the reliability with which they are used.",
+    "Medical teams consider this option for patients needing support with correct and consistent use of methods can result in lower failure rates.",
+    "This agent is commonly used in care plans involving this term represents “typical” couples who initiate use of a method (not necessarily for the first time)..."
+  ],
+  "howItWorks": "Norethindrone Acetate And Ethinyl Estradiol belongs to the estrogen [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an the possibility of ovulation and conception prior to initiation of use should be considered. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report three studies compared breast cancer risk between current or recent COC users (<6 months since last use) and never users of COCs (Figure 1) (70, 73, 75) while taking this medicine.",
+    "A possible treatment-related effect includes one of these studies reported no association between breast cancer risk and COC use.",
+    "Monitoring is advised because the other two studies found an increased relative risk of 1.19 to 1.33 with current or recent use may occur.",
+    "Some patients report both of these studies found an increased risk of breast cancer with current use of longer duration.. while taking this medicine.",
+    "Monitoring is advised because fIGURE 1: RELEVANT STUDIES OF RISK OF BREAST CANCER WITH COMBINED ORAL CONTRACEPTIVES RR = relative risk may occur.",
+    "Some patients report oR = odds ratio while taking this medicine.",
+    "Some patients report hR = hazard ratio while taking this medicine.",
+    "A possible treatment-related effect includes “never COC use” are females that never used COCs."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when the use of oral contraceptives is associated with increased risks of several serious conditions including myocardial infarction, thromboembolism, stroke...",
+    "Patients should discuss safety when the risk of morbidity and mortality increases significantly in the presence of other underlying risk factors such as hypertension, hyperlipidemias, obesity...",
+    "Patients should discuss safety when practitioners prescribing oral contraceptives should be familiar with the following information relating to these risks."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Norethindrone acetate and ethinyl estradiol information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Norethindrone acetate and ethinyl estradiol on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-01-29T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22norethindrone%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:55.221Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=norethindrone%20acetate%20and%20ethinyl%20estradiol",
+      "accessedAt": "2026-07-12T12:01:55.221Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "insomnia",
+  "name": "Insomnia",
+  "overview": "Insomnia is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include disorder causing trouble with sleeping. This summary is educational and should be paired with professional medical evaluation.",
+  "possibleCauses": [
+    "From a clinical perspective, insomnia, also known as sleeplessness, is a sleep disorder causing difficulty falling asleep or staying asleep for as long as desired.",
+    "Health professionals note that insomnia is typically followed by daytime sleepiness, low energy, irritability, and a depressed mood.",
+    "In routine practice, it may result in an increased risk of accidents as well as problems focusing and learning.",
+    "Health professionals note that insomnia can be short-term, lasting for days or weeks, or long-term, lasting more than a month.",
+    "In routine practice, the concept of the word insomnia has two distinct possibilities: insomnia disorder or insomnia symptoms."
+  ],
+  "redFlags": [
+    "Patients should discuss safety when sudden severe onset.",
+    "Healthcare providers evaluate risk when associated chest pain or breathing difficulty.",
+    "Extra caution is needed because high fever with confusion.",
+    "Healthcare providers evaluate risk when symptoms after head injury."
+  ],
+  "homeCare": [
+    "Health professionals note that rest and hydration.",
+    "In routine practice, monitor symptom changes.",
+    "In routine practice, use only previously recommended."
+  ],
+  "whenToSeeDoctor": [
+    "From a clinical perspective, symptoms persist beyond several days.",
+    "In routine practice, severity increases.",
+    "From a clinical perspective, new neurological or cardiac features appear."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Insomnia information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "When should I worry about insomnia?",
+      "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
+    }
+  ],
+  "relatedDiseases": [
+    "insomnia"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T11:58:04.342Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Insomnia",
+      "accessedAt": "2026-07-12T11:58:04.342Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

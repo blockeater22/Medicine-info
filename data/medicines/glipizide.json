@@ -1,0 +1,86 @@
+{
+  "slug": "glipizide",
+  "genericName": "Glipizide",
+  "brandNames": [
+    "Glipizide"
+  ],
+  "composition": "GLIPIZIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Sulfonylurea [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with glipizide Tablets USP are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus."
+  ],
+  "howItWorks": "Glipizide belongs to the sulfonylurea [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an , loss of an adequate blood-glucose-lowering response after an initial period of effectiveness. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness in children have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes in U.S.",
+    "Monitoring is advised because of 702 patients, 11.8% reported adverse reactions and in only 1.5% was glipizide discontinued may occur.",
+    "Monitoring is advised because hypoglycemia See PRECAUTIONS and OVERDOSAGE sections may occur.",
+    "Monitoring is advised because gastrointestinal Gastrointestinal disturbances are the most common reactions may occur.",
+    "Some patients report gastrointestinal complaints were reported with the following approximate incidence: nausea and diarrhea, one in seventy while taking this medicine.",
+    "A possible treatment-related effect includes constipation and gastralgia, one in one hundred.",
+    "A possible treatment-related effect includes they appear to be dose-related and may disappear on division or reduction of dosage.",
+    "Monitoring is advised because cholestatic jaundice may occur rarely with sulfonylureas: glipizide should be discontinued if this occurs may occur."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when in U.S."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when pregnancy Glipizide was found to be mildly fetotoxic in rat reproductive studies at all dose levels (5 to 50 mg/kg).",
+    "breastfeeding": "Patients should discuss safety when nursing Mothers Although it is not known whether glipizide is excreted in human milk, some sulfonylurea drugs are known to be excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interactions The hypoglycemic action of sulfonylureas may be potentiated by certain drugs including non-steroidal anti-inflammatory agents, some azoles...",
+      "Extra caution is needed because when such drugs are administered to a patient receiving glipizide, the patient should be observed closely for hypoglycemia.",
+      "Patients should discuss safety when when such drugs are withdrawn from a patient receiving glipizide, the patient should be observed closely for loss of control.",
+      "Extra caution is needed because in vitro binding studies with human serum proteins indicate that glipizide binds differently than tolbutamide and does not interact with salicylate or dicumarol.",
+      "Patients should discuss safety when however, caution must be exercised in extrapolating these findings to the clinical situation and in the use of glipizide with these drugs.",
+      "Healthcare providers evaluate risk when certain drugs tend to produce hyperglycemia and may lead to loss of control."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Glipizide information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Glipizide on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "diabetes"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-03-19T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22glipizide%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:46.705Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=glipizide",
+      "accessedAt": "2026-07-12T12:00:46.705Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

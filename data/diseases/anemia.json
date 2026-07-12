@@ -1,16 +1,6 @@
 {
   "slug": "anemia",
   "name": "Anemia",
-  "category": "Haematology",
-  "description": "Complete guide to Anemia: symptoms, causes, diagnosis, treatment, and prevention for patients in India.",
-  "seo": {
-    "title": "Anemia: Symptoms, Causes, Treatment | Doctors Hub",
-    "description": "Learn about Anemia — symptoms, causes, risk factors, diagnosis, treatment options, and prevention tips.",
-    "keywords": [
-      "Anemia",
-      "Hematology"
-    ]
-  },
   "overview": "Anaemia is reduced haemoglobin or red blood cell mass, causing fatigue and weakness. Iron deficiency from poor intake or blood loss is the most common cause in Indian women and children.",
   "symptoms": [
     "Fatigue and weakness",
@@ -44,12 +34,6 @@
     "B12 injections or oral folate as indicated",
     "Blood transfusion in severe symptomatic anaemia"
   ],
-  "homeCare": [
-    "Follow prescribed treatment plan",
-    "Maintain healthy diet",
-    "Adequate rest and hydration",
-    "Monitor symptoms"
-  ],
   "prevention": [
     "Iron-rich diet (leafy greens, legumes, jaggery, meat if consumed)",
     "Vitamin C with iron meals to improve absorption",
@@ -62,36 +46,30 @@
     "Cognitive effects in children",
     "Delayed growth and development"
   ],
-  "emergencyWarningSigns": [
-    "Severe chest pain",
-    "Difficulty breathing",
-    "Sudden confusion",
-    "High fever with rigors"
-  ],
-  "relatedMedicines": [],
-  "faqs": [
-    {
-      "question": "What causes Anemia?",
-      "answer": "Multiple factors including genetics, lifestyle, and environment contribute."
-    },
-    {
-      "question": "Is Anemia curable?",
-      "answer": "Many conditions are manageable with proper treatment. Consult your doctor for prognosis."
-    }
-  ],
-  "popular": false,
-  "updatedAt": "2026-07-01",
   "emergencySigns": [
     "Chest pain or heart failure symptoms",
     "Fainting with haemoglobin critically low",
     "Melena or haematemesis with anaemia",
     "Rapidly falling haemoglobin"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
+  "faq": [
+    {
+      "question": "Can I rely on this Anemia information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "What should I do if Anemia symptoms worsen suddenly?",
+      "answer": "Seek urgent medical care, especially if severe pain, breathing difficulty, confusion, or high fever develops."
+    }
+  ],
+  "relatedDiseases": [],
+  "relatedMedicines": [
+    "fluoxetine-hydrochloride",
+    "clonazepam",
+    "metronidazole"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
   "sources": [
     {
       "name": "MedlinePlus",
@@ -104,5 +82,18 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "relatedSlugs": [
+    "urine-routine",
+    "liver-function-tests"
+  ],
+  "category": "Haematology",
+  "emergencyWarningSigns": [
+    "Chest pain or heart failure symptoms",
+    "Fainting with haemoglobin critically low",
+    "Melena or haematemesis with anaemia",
+    "Rapidly falling haemoglobin"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

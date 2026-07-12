@@ -1,0 +1,79 @@
+{
+  "slug": "dermatitis",
+  "name": "Dermatitis",
+  "overview": "Dermatitis is a health condition that requires individualized medical assessment. Symptoms, causes, and treatment vary by person — consult a qualified doctor in India for diagnosis and a care plan tailored to your history and local guidelines.",
+  "symptoms": [
+    "In routine practice, dermatitis is a term used for different types of skin inflammation, typically characterized by itchiness, redness and a rash.",
+    "From a clinical perspective, the area of skin involved can vary from small to covering the entire body.",
+    "From a clinical perspective, dermatitis is also called eczema, but \"eczema\" is often used for the most common type of skin inflammation, atopic dermatitis."
+  ],
+  "causes": [
+    "Dermatitis: see a doctor for personalized cause guidance."
+  ],
+  "riskFactors": [
+    "Dermatitis: see a doctor for personalized care guidance."
+  ],
+  "diagnosis": [
+    "In routine practice, relevant laboratory or imaging tests as indicated.",
+    "Dermatitis: Diagnosis depends on severity, age, and comorbidities — seek professional evaluation.",
+    "Follow-up testing and monitoring for dermatitis should be guided by your treating physician."
+  ],
+  "treatment": [
+    "Dermatitis: Treatment depends on severity, age, and comorbidities — seek professional evaluation.",
+    "Follow-up testing and monitoring for dermatitis should be guided by your treating physician."
+  ],
+  "prevention": [
+    "From a clinical perspective, regular checkups.",
+    "From a clinical perspective, healthy lifestyle habits."
+  ],
+  "complications": [
+    "Healthcare providers evaluate risk when progression if untreated."
+  ],
+  "emergencySigns": [
+    "Extra caution is needed because difficulty breathing.",
+    "Extra caution is needed because chest pain.",
+    "Healthcare providers evaluate risk when confusion or loss of consciousness."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Dermatitis information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "What should I do if Dermatitis symptoms worsen suddenly?",
+      "answer": "Seek urgent medical care, especially if severe pain, breathing difficulty, confusion, or high fever develops."
+    }
+  ],
+  "relatedDiseases": [],
+  "relatedMedicines": [
+    "fluoxetine-hydrochloride",
+    "clonazepam",
+    "metronidazole"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "relatedSlugs": [
+    "urine-routine",
+    "liver-function-tests"
+  ],
+  "emergencyWarningSigns": [
+    "Extra caution is needed because difficulty breathing.",
+    "Extra caution is needed because chest pain.",
+    "Healthcare providers evaluate risk when confusion or loss of consciousness."
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

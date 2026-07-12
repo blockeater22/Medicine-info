@@ -1,0 +1,89 @@
+{
+  "slug": "famotidine",
+  "genericName": "Famotidine",
+  "brandNames": [
+    "Famotidine"
+  ],
+  "composition": "FAMOTIDINE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Histamine-2 Receptor Antagonist [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Famotidine tablets are indicated in adult and pediatric patients 40 kg and greater for the treatment of: • active duodenal ulcer (DU).",
+    "Clinicians may prescribe this medicine when managing famotidine tablets are indicated in adults for the: • treatment of pathological hypersecretory conditions (e.g., Zollinger-Ellison syndrome...",
+    "Clinicians may prescribe this medicine when managing famotidine tablets are a histamine-2 (H 2 ) receptor antagonist indicated ( 1 ): In adult and pediatric patients 40 kg and greater for the treatment of: • ac...",
+    "Clinicians may prescribe this medicine when managing in adults for the: • treatment of pathological hypersecretory conditions (e.g., Zollinger-Ellison syndrome, multiple endocrine neoplasias)."
+  ],
+  "howItWorks": "Famotidine belongs to the histamine-2 receptor antagonist [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration indication recommended dosage ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an , duodenal ulcer, gastric ulcer) and gerd (i. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use of the 1442 famotidine-treated patients in clinical studies, approximately 10% were 65 and older. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes famotidine was studied in 7 US and international placebo- and active-controlled trials in approximately 2500 patients [see Clinical Studies ( 14 )].",
+    "Some patients report a total of 1442 patients were treated with famotidine, including 302 treated with 40 mg twice daily, 456 treated with 20 mg twice daily.. while taking this medicine.",
+    "Some patients report the population was 17 to 91 years old, fairly well distributed between gender and race while taking this medicine.",
+    "Some patients report however, the predominant race treated was Caucasian while taking this medicine.",
+    "A possible treatment-related effect includes the following adverse reactions occurred in greater than or equal to 1% of famotidine-treated patients: headache, dizziness and constipation.",
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS • Central Nervous System (CNS) Adverse Reactions: Elderly patients and patients with renal impairment at increased risk.",
+    "Extra caution is needed because reduce the dosage.",
+    "Extra caution is needed because evaluate prior to initiating therapy."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Available data with H 2 -receptor antagonists, including famotidine...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS • Drugs Dependent on Gastric pH for Absorption: Systemic exposure of the concomitant drug may be significantly reduced leading to loss of...",
+      "Patients should discuss safety when full prescribing information for a list of interacting drugs.",
+      "Patients should discuss safety when avoid concomitant use, if possible.",
+      "Patients should discuss safety when concomitant administration of famotidine with dasatinib, delavirdine mesylate, cefditoren, and fosamprenavir is not recommended.",
+      "Patients should discuss safety when avoid concomitant use with famotidine.",
+      "Extra caution is needed because if concomitant use is necessary, monitor for hypotension, bradycardia or excessive drowsiness."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Famotidine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Famotidine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-10-22T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22famotidine%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:17.253Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=famotidine",
+      "accessedAt": "2026-07-12T12:01:17.253Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

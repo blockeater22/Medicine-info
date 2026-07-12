@@ -64,7 +64,9 @@
     "High fever with rigors"
   ],
   "relatedMedicines": [
-    "levothyroxine"
+    "levothyroxine",
+    "levothyroxine-sodium",
+    "fluoxetine-hydrochloride"
   ],
   "faqs": [
     {
@@ -83,11 +85,6 @@
     "High fever with agitation and tachycardia (thyroid storm)",
     "Sudden neck swelling with breathing difficulty"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
   "sources": [
     {
       "name": "MedlinePlus",
@@ -100,5 +97,12 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
+  "relatedSlugs": [
+    "kidney-function-test",
+    "liver-function-test"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

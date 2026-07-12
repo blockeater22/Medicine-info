@@ -1,0 +1,50 @@
+{
+  "slug": "dysuria",
+  "name": "Dysuria",
+  "overview": "Dysuria is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include painful or uncomfortable urination. This summary is educational and should be paired with professional medical evaluation.",
+  "possibleCauses": [
+    "In routine practice, dysuria is a painful or otherwise uncomfortable sensation in the urethra associated with urination.",
+    "Health professionals note that it can be caused by various conditions, such as urinary tract infections."
+  ],
+  "redFlags": [
+    "Patients should discuss safety when sudden severe onset.",
+    "Healthcare providers evaluate risk when associated chest pain or breathing difficulty.",
+    "Extra caution is needed because high fever with confusion.",
+    "Healthcare providers evaluate risk when symptoms after head injury."
+  ],
+  "homeCare": [
+    "Health professionals note that rest and hydration.",
+    "In routine practice, monitor symptom changes.",
+    "In routine practice, use only previously recommended."
+  ],
+  "whenToSeeDoctor": [
+    "From a clinical perspective, symptoms persist beyond several days.",
+    "In routine practice, severity increases.",
+    "From a clinical perspective, new neurological or cardiac features appear."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Dysuria information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "When should I worry about dysuria?",
+      "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
+    }
+  ],
+  "relatedDiseases": [
+    "uti"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T11:57:36.829Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dysuria",
+      "accessedAt": "2026-07-12T11:57:36.829Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

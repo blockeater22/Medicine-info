@@ -1,0 +1,84 @@
+{
+  "slug": "sulfasalazine",
+  "genericName": "Sulfasalazine",
+  "brandNames": [
+    "Sulfasalazine"
+  ],
+  "composition": "SULFASALAZINE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Aminosalicylate [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing sulfasalazine Tablets are indicated: a) in the treatment of mild to moderate ulcerative colitis, and as adjunctive therapy in severe ulcerative colitis.",
+    "Medical teams consider this option for patients needing support with and b) for the prolongation of the remission period between acute attacks of ulcerative colitis."
+  ],
+  "howItWorks": "Sulfasalazine belongs to the aminosalicylate [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an initial therapy: adults: 3 to 4 g daily in evenly divided doses with dosage intervals not exceeding eight hours. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because the most common adverse reactions associated with sulfasalazine are anorexia, headache, nausea, vomiting, gastric distress.. may occur.",
+    "A possible treatment-related effect includes these occur in about one-third of the patients.",
+    "Monitoring is advised because less frequent adverse reactions are skin rash, pruritus, urticaria, fever, Heinz body anemia, hemolytic anemia, and cyanosis.. may occur.",
+    "Some patients report experience suggests that with a daily dosage of 4 g or more, or total serum sulfapyridine levels above 50 μg/mL.. while taking this medicine.",
+    "Monitoring is advised because although the listing which follows includes a few adverse reactions which have not been reported with this specific drug.. may occur.",
+    "A possible treatment-related effect includes less common or rare adverse reactions include: Blood dyscrasias: aplastic anemia, agranulocytosis, leukopenia, megaloblastic (macrocytic) anemia, purpura...",
+    "Some patients report gastrointestinal reactions: hepatitis, hepatic failure, pancreatitis, bloody diarrhea, impaired folic acid absorption, impaired digoxin absorption.. while taking this medicine.",
+    "A possible treatment-related effect includes central nervous system reactions: transverse myelitis, convulsions, meningitis, transient lesions of the posterior spinal column, cauda equina syndrome..."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when hepatic, Renal...",
+    "Healthcare providers evaluate risk when deaths associated with the administration of sulfasalazine have been reported from hypersensitivity reactions, agranulocytosis, aplastic anemia...",
+    "Extra caution is needed because the presence of clinical signs such as sore throat, fever, pallor, purpura, or jaundice may be indications of serious blood disorders or hepatotoxicity."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Sulfasalazine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Sulfasalazine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2022-12-12T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22sulfasalazine%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:50.037Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=sulfasalazine",
+      "accessedAt": "2026-07-12T12:01:50.037Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

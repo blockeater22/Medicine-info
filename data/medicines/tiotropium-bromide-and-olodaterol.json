@@ -1,0 +1,90 @@
+{
+  "slug": "tiotropium-bromide-and-olodaterol",
+  "genericName": "Tiotropium bromide and olodaterol",
+  "brandNames": [
+    "Stiolto Respimat"
+  ],
+  "composition": "OLODATEROL HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with important Limitations of Use STIOLTO RESPIMAT is not indicated to treat acute deteriorations of COPD [see Warnings and Precautions (5.2) ].",
+    "Clinicians may prescribe this medicine when managing sTIOLTO RESPIMAT is not indicated to treat asthma.",
+    "Clinicians may prescribe this medicine when managing the safety and effectiveness of STIOLTO RESPIMAT in asthma have not been established."
+  ],
+  "howItWorks": "Tiotropium Bromide And Olodaterol belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration for oral inhalation only. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use copd does not normally occur in children. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 0%) were <65 years of age, 407 (39. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes 6 ADVERSE REACTIONS LABA, such as olodaterol, one of the active components in STIOLTO RESPIMAT...",
+    "Some patients report sTIOLTO RESPIMAT is not indicated for the treatment of asthma [see Warning and Precautions (5.1) ] while taking this medicine.",
+    "A possible treatment-related effect includes the clinical program for STIOLTO RESPIMAT included 7,151 subjects with COPD in two 52-week active-controlled trials, one 12-week placebo-controlled trial...",
+    "Monitoring is advised because a total of 1,988 subjects received at least 1 dose of STIOLTO RESPIMAT may occur.",
+    "A possible treatment-related effect includes observed in the ≤12-week trials were consistent with those observed in the 52-week trials, which formed the primary safety database.",
+    "Some patients report the primary safety database consisted of pooled data from the two 52-week double-blind, active-controlled.. while taking this medicine.",
+    "A possible treatment-related effect includes these trials included 5,162 adult COPD patients (72.9% males and 27.1% females) 40 years of age and older.",
+    "Some patients report of these patients, 1,029 were treated with STIOLTO RESPIMAT once daily while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS LABA as monotherapy (without an inhaled corticosteroid) for asthma increases the risk of serious asthma-related events.",
+    "Patients should discuss safety when concomitant short-acting beta 2 -agonists can be used as needed for acute relief.",
+    "Extra caution is needed because discontinue STIOLTO RESPIMAT immediately."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary There are no adequate and well-controlled clinical studies with STIOLTO RESPIMAT or its individual components...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Other adrenergic drugs may potentiate effect.",
+      "Healthcare providers evaluate risk when use with caution.",
+      "Healthcare providers evaluate risk when use with extreme caution.",
+      "Patients should discuss safety when use with caution and only when medically necessary.",
+      "Healthcare providers evaluate risk when drugs that are known to prolong the QTc interval may be associated with an increased risk of ventricular arrhythmias.",
+      "Extra caution is needed because beta-blockers not only block the therapeutic effects of beta-agonists, but may produce severe bronchospasm in COPD patients."
+    ]
+  },
+  "storage": "From a clinical perspective, store at 20°C to 25°C (68°F to 77°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Tiotropium bromide and olodaterol information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Tiotropium bromide and olodaterol on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "asthma",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-06-30T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22tiotropium%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:26.417Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=tiotropium%20bromide%20and%20olodaterol",
+      "accessedAt": "2026-07-12T12:01:26.417Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

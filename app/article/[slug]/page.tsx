@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import { getAllArticles, getArticle } from "@/lib/data";
 import { buildMetadata, articleSchema, medicalWebPageSchema, faqSchema, JsonLd } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
-import { AuthorBlock } from "@/components/shared/author-block";
+import { EditorialAttribution } from "@/components/shared/editorial-attribution";
 import { FAQAccordion } from "@/components/shared/faq-accordion";
 import { MedicalDisclaimer } from "@/components/shared/medical-disclaimer";
 import { ShareButtons } from "@/components/shared/share-buttons";
@@ -58,7 +58,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       <header className="mb-8">
         <span className="text-sm font-medium text-primary">{article.category}</span>
         <h1 className="text-3xl md:text-4xl font-bold mt-1 mb-4">{article.name}</h1>
-        <AuthorBlock authoredBy={article.authoredBy} className="mb-4" />
+        <EditorialAttribution contentReview={article.contentReview} updatedAt={article.updatedAt} className="mb-4" />
         <div className="flex flex-wrap items-center gap-4 text-sm text-muted-foreground">
           <span className="flex items-center gap-1"><User className="h-4 w-4" />{article.author}</span>
           <span className="flex items-center gap-1"><Clock className="h-4 w-4" />{article.readTime} min read</span>

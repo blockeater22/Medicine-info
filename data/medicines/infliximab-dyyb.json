@@ -1,0 +1,91 @@
+{
+  "slug": "infliximab-dyyb",
+  "genericName": "Infliximab-dyyb",
+  "brandNames": [
+    "INFLECTRA"
+  ],
+  "composition": "INFLIXIMAB — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Tumor Necrosis Factor Blocker [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with pediatric Crohn's Disease ( 1.2 ): • reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients 6 years of age and old...",
+    "Medical teams consider this option for patients needing support with ulcerative Colitis ( 1.3 ): • reducing signs and symptoms, inducing and maintaining clinical remission and mucosal healing...",
+    "Medical teams consider this option for patients needing support with pediatric Ulcerative Colitis ( 1.4 ): • reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients 6 years of age and ...",
+    "Medical teams consider this option for patients needing support with rheumatoid Arthritis ( 1.5 ) in combination with methotrexate: • reducing signs and symptoms, inhibiting the progression of structural damage...",
+    "This agent is commonly used in care plans involving ankylosing Spondylitis ( 1.6 ): • reducing signs and symptoms in adult patients with active disease.",
+    "This agent is commonly used in care plans involving psoriatic Arthritis ( 1.7 ): • reducing signs and symptoms of active arthritis, inhibiting the progression of structural damage..."
+  ],
+  "howItWorks": "Infliximab-Dyyb belongs to the tumor necrosis factor blocker [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an , hypersensitivity) that occur during infusion and shortly after infusion ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an [see dosage and administration (2. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use of the total number of infliximab-treated patients in ra and ps clinical studies, 256 (9. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes one of the most common reasons for discontinuation of treatment was infusion-related reactions (e.g., dyspnea, flushing, headache and rash).",
+    "Some patients report infusion-Related Reactions Adverse Reactions During or Shortly After Infusion An infusion reaction was defined in clinical trials as any adverse event occurr.. while taking this medicine.",
+    "A possible treatment-related effect includes in all the clinical studies, approximately 20% of infliximab-treated patients experienced an infusion reaction compared with 10% of placebo-treated patients.",
+    "Monitoring is advised because of infliximab-treated patients who had an infusion reaction during the induction period, 27% experienced an infusion reaction during the maintenance period may occur.",
+    "Monitoring is advised because of patients who did not have an infusion reaction during the induction period, 9% experienced an infusion reaction during the maintenance period may occur.",
+    "A possible treatment-related effect includes among all infliximab infusions, 3% were accompanied by nonspecific symptoms such as fever or chills...",
+    "A possible treatment-related effect includes serious infusion reactions occurred in <1% of patients and included anaphylaxis, convulsions, erythematous rash and hypotension.",
+    "Monitoring is advised because approximately 3% of patients discontinued treatment with infliximab because of infusion reactions.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when serious infusion reactions occurred in <1% of patients and included anaphylaxis, convulsions, erythematous rash and hypotension."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary Available observational studies in pregnant women exposed to infliximab products showed no increased risk of major malformations a...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Other Biological Products – increased risk of serious infections ( 7.1 ) 7.1 Other Biological Products The combination of INFLECTRA with ...",
+      "Extra caution is needed because an increased risk of serious infections was seen in clinical studies of other TNF blockers used in combination with anakinra or abatacept...",
+      "Patients should discuss safety when because of the nature of the adverse reactions seen with these combinations with TNF blocker therapy...",
+      "Extra caution is needed because therefore, the combination of INFLECTRA and anakinra or abatacept is not recommended [see Warnings and Precautions (5.10) ].",
+      "Extra caution is needed because the concomitant use of tocilizumab with biological DMARDs such as TNF antagonists, including INFLECTRA...",
+      "Patients should discuss safety when the majority of patients in RA or CD clinical studies received one or more concomitant medications."
+    ]
+  },
+  "storage": "In routine practice, and Handling Store unopened INFLECTRA ® vials in a refrigerator at 2°C to 8°C (36°F to 46°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Infliximab-dyyb information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Infliximab-dyyb on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-09-10T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22infliximab%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:50.841Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=infliximab-dyyb",
+      "accessedAt": "2026-07-12T12:01:50.841Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

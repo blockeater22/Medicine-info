@@ -1,0 +1,93 @@
+{
+  "slug": "amlodipine-valsartan-and-hydrochlorothiazide",
+  "genericName": "Amlodipine valsartan and hydrochlorothiazide",
+  "brandNames": [
+    "Exforge HCT"
+  ],
+  "composition": "AMLODIPINE BESYLATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Thiazide Diuretic [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Exforge HCT (amlodipine, valsartan, and hydrochlorothiazide) is indicated for the treatment of hypertension, to lower blood pressure.",
+    "This agent is commonly used in care plans involving lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.",
+    "This agent is commonly used in care plans involving these benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes, including amlodipine...",
+    "This agent is commonly used in care plans involving there are no controlled trials demonstrating risk reduction with Exforge HCT.",
+    "Medical teams consider this option for patients needing support with control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management...",
+    "Clinicians may prescribe this medicine when managing many patients will require more than 1 drug to achieve blood pressure goals."
+  ],
+  "howItWorks": "Amlodipine Valsartan And Hydrochlorothiazide belongs to the thiazide diuretic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration dose once-daily. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use the safety and effectiveness of exforge hct in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because in the controlled trial of Exforge HCT, where only the maximum dose (10/320/25 mg) was evaluated, safety data were obtained in 582 patients with hypertension may occur.",
+    "A possible treatment-related effect includes have generally been mild and transient in nature and have only infrequently required discontinuation of therapy.",
+    "A possible treatment-related effect includes the overall frequency of adverse reactions was similar between men and women, younger (< 65 years) and older ( > 65 years) patients...",
+    "A possible treatment-related effect includes in the active controlled clinical trial...",
+    "Monitoring is advised because the most common reasons for discontinuation of therapy with Exforge HCT were dizziness (1.0%) and hypotension (0.7%) may occur.",
+    "Monitoring is advised because the most frequent adverse events that occurred in the active controlled clinical trial in at least 2% of patients treated with Exforge HCT are presented in t.. may occur.",
+    "Monitoring is advised because valsartan Valsartan has been evaluated for safety in more than 4000 hypertensive patients in clinical trials may occur.",
+    "Monitoring is advised because in trials in which valsartan was compared to an ACE inhibitor with or without placebo.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal an...",
+    "Extra caution is needed because resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.",
+    "Extra caution is needed because potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Exforge HCT can cause fetal harm when administered to a pregnant woman.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS No drug interaction studies have been conducted with Exforge HCT and other drugs...",
+      "Extra caution is needed because a pharmacokinetic drug-drug interaction study has been conducted to address the potential for pharmacokinetic interaction between the triple combination...",
+      "Patients should discuss safety when no clinically relevant interaction was observed.",
+      "Extra caution is needed because amlodipine Impact of Other Drugs on Amlodipine CYP3A Inhibitors Coadministration with CYP3A inhibitors (moderate and strong) results in increased systemic ex...",
+      "Healthcare providers evaluate risk when monitor for symptoms of hypotension and edema when amlodipine is coadministered with CYP3A inhibitors to determine the need for dose adjustment [see Clinical...",
+      "Patients should discuss safety when cYP3A Inducers No information is available on the quantitative effects of CYP3A inducers on amlodipine."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Amlodipine valsartan and hydrochlorothiazide information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Amlodipine valsartan and hydrochlorothiazide on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-12-12T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22amlodipine%20valsartan%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:29.255Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=amlodipine%20valsartan%20and%20hydrochlorothiazide",
+      "accessedAt": "2026-07-12T12:02:29.255Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

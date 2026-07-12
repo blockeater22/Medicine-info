@@ -67,9 +67,9 @@
   ],
   "relatedMedicines": [],
   "relatedDiseases": [
-    "common-cold",
-    "diabetes",
-    "heart-disease"
+    "heart-disease",
+    "allergies",
+    "common-cold"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2025-08-28T00:00:00.000Z",
@@ -77,17 +77,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22atorvastatin%22&limit=1",
-      "accessedAt": "2026-07-12T06:31:34.021Z"
+      "accessedAt": "2026-07-12T12:00:53.502Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=atorvastatin%20calcium",
-      "accessedAt": "2026-07-12T06:31:34.021Z"
+      "accessedAt": "2026-07-12T12:00:53.502Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

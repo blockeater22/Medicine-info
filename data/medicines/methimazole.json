@@ -1,0 +1,77 @@
+{
+  "slug": "methimazole",
+  "genericName": "Methimazole",
+  "brandNames": [
+    "methimazole"
+  ],
+  "composition": "METHIMAZOLE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Thyroid Hormone Synthesis Inhibitor [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing ."
+  ],
+  "howItWorks": "Methimazole belongs to the thyroid hormone synthesis inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an (see dosage and administration. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when first Trimester Use of Methimazole and Congenital Malformations Methimazole crosses the placental membranes and can cause fetal harm when administered in the...",
+    "Extra caution is needed because rare instances of congenital defects, including aplasia cutis, craniofacial malformations (facial dysmorphism.",
+    "Healthcare providers evaluate risk when choanal atresia), gastrointestinal malformations (esophageal atresia with or without tracheoesophageal fistula)..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when pregnancy (See WARNINGS ) If methimazole is used during the first trimester of pregnancy or if the patient becomes pregnant while taking this drug...",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers Methimazole is present in breast milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interactions Anticoagulants (oral) Due to potential inhibition of vitamin K activity by methimazole, the activity of oral anticoagulants (e.g....",
+      "Healthcare providers evaluate risk when additional monitoring of PT/INR should be considered, especially before surgical procedures.",
+      "Healthcare providers evaluate risk when a dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid.",
+      "Healthcare providers evaluate risk when digitalis glycosides Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid.",
+      "Patients should discuss safety when a reduced dosage of digitalis glycosides may be needed.",
+      "Healthcare providers evaluate risk when theophylline Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Methimazole information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Methimazole on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-09-10T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22methimazole%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:32.765Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=methimazole",
+      "accessedAt": "2026-07-12T12:01:32.765Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "nifedipine",
+  "genericName": "Nifedipine",
+  "brandNames": [
+    "Nifedipine"
+  ],
+  "composition": "NIFEDIPINE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Dihydropyridine Calcium Channel Blocker [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving iNDICATIONS & USAGE I.",
+    "Medical teams consider this option for patients needing support with vasospastic Angina Nifedipine extended-release tablets are indicated for the management of vasospastic angina confirmed by any of the following criteria: 1) ...",
+    "Medical teams consider this option for patients needing support with in those patients who have had angiography...",
+    "Medical teams consider this option for patients needing support with chronic Stable Angina (Classical Effort-Associated Angina) Nifedipine extended-release tablets are indicated for the management of chronic stable angina (eff...",
+    "This agent is commonly used in care plans involving in chronic stable angina (effort-associated angina)...",
+    "Clinicians may prescribe this medicine when managing controlled studies in small numbers of patients suggest concomitant use of nifedipine and beta-blocking agents may be beneficial in patients with chronic sta..."
+  ],
+  "howItWorks": "Nifedipine belongs to the dihydropyridine calcium channel blocker [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage & administration dosage must be adjusted according to each patient’s needs. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes aDVERSE EXPERIENCES Over 1000 patients from both controlled and open trials with nifedipine extended-release tablets in hypertension and angina were included...",
+    "A possible treatment-related effect includes all side effects reported during nifedipine extended-release tablets therapy were tabulated independent of their causal relation to medication.",
+    "Some patients report the most common side effect reported with nifedipine extended-release tablets was edema which was dose related and ranged in frequency from approximately 10%.. while taking this medicine.",
+    "Some patients report other common adverse experiences reported in placebo-controlled trials include: Nifedipine Extended-Release Tablets (%) (N=707) Placebo (%) (N=266) Adverse E.. while taking this medicine.",
+    "Some patients report the following adverse reactions occurred with an incidence of less than 3.0% while taking this medicine.",
+    "Some patients report with the exception of leg cramps, the incidence of these side effects was similar to that of placebo alone while taking this medicine.",
+    "Monitoring is advised because the following adverse experiences, reported in less than 1% of patients, occurred under conditions (e.g., open trials.. may occur.",
+    "A possible treatment-related effect includes in multiple-dose U.S."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when in multiple-dose U.S."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Nifedipine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Nifedipine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "chronic-obstructive-pulmonary-disease",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2019-06-06T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22nifedipine%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:06.695Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=nifedipine",
+      "accessedAt": "2026-07-12T12:01:06.695Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

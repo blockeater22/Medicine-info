@@ -1,0 +1,82 @@
+{
+  "slug": "latanoprost",
+  "genericName": "Latanoprost",
+  "brandNames": [
+    "latanoprost"
+  ],
+  "composition": "LATANOPROST — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Prostaglandin Analog [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Latanoprost ophthalmic solution is indicated for the reduction of elevated intraocular pressure (IOP) in patients with open-angle gla...",
+    "Clinicians may prescribe this medicine when managing latanoprost ophthalmic solution is a prostaglandin F 2α analogue indicated for the reduction of elevated intraocular pressure in patients with open-angle gla..."
+  ],
+  "howItWorks": "Latanoprost belongs to the prostaglandin analog [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration the recommended dosage is one drop in the affected eye(s) once daily in the evening. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report latanoprost ophthalmic solution was studied in three multicenter, randomized, controlled clinical trials while taking this medicine.",
+    "A possible treatment-related effect includes patients received 50 mcg/mL latanoprost ophthalmic solution once daily or 5 mg/mL active-comparator (timolol) twice daily.",
+    "A possible treatment-related effect includes the patient population studied had a mean age of 65±10 years.",
+    "Some patients report seven percent of patients withdrew before the 6-month endpoint while taking this medicine.",
+    "Monitoring is advised because because they are reported voluntarily from a population of unknown size.. may occur.",
+    "Monitoring is advised because the reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to latanoprost.. may occur.",
+    "A possible treatment-related effect includes toxic epidermal necrolysis Eye Disorders : Eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation, and number of eyelashes).",
+    "Monitoring is advised because corneal edema and erosions may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when the reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to latanoprost..."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary There are no adequate and well-controlled studies of latanoprost ophthalmic solution administration in pregnant women.to inform dr...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Latanoprost information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Latanoprost on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-11-29T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22latanoprost%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:10.604Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=latanoprost",
+      "accessedAt": "2026-07-12T12:02:10.604Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

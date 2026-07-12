@@ -1,0 +1,91 @@
+{
+  "slug": "pravastatin-sodium",
+  "genericName": "Pravastatin sodium",
+  "brandNames": [
+    "PRAVASTATIN SODIUM"
+  ],
+  "composition": "PRAVASTATIN SODIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE Therapy with lipid-altering agents should be only one component of multiple risk factor intervention in individuals at significantly ...",
+    "Medical teams consider this option for patients needing support with drug therapy is indicated as an adjunct to diet when the response to a diet restricted in saturated fat and cholesterol and other nonpharmacologic measures a...",
+    "Clinicians may prescribe this medicine when managing lDL-C remains ≥190 mg/dL or b.",
+    "Clinicians may prescribe this medicine when managing lDL-C remains ≥160 mg/dL and: there is a positive family history of premature cardiovascular disease (CVD) or two or more other CVD risk factors are present ..."
+  ],
+  "howItWorks": "Pravastatin Sodium belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration adults: the recommended starting dose is 40 mg once daily. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an [see adverse reactions (6. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an across these 2 studies, 36. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because 6 ADVERSE REACTIONS Pravastatin is generally well tolerated may occur.",
+    "Monitoring is advised because have usually been mild and transient may occur.",
+    "Some patients report in 4-month-long placebo-controlled trials.. while taking this medicine.",
+    "Some patients report this difference was not statistically significant while taking this medicine.",
+    "A possible treatment-related effect includes the most common adverse reactions that led to treatment discontinuation and occurred at an incidence greater than placebo were: liver function test increased...",
+    "Monitoring is advised because adverse event data were pooled from 7 double-blind, placebo-controlled trials (West of Scotland Coronary Prevention Study [WOS] may occur.",
+    "Some patients report cholesterol and Recurrent Events study [CARE] while taking this medicine.",
+    "A possible treatment-related effect includes long-term Intervention with Pravastatin in Ischemic Disease study [LIPID]."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Skeletal muscle effects (e.g., myopathy and rhabdomyolysis): predisposing factors include advanced age (≥65)...",
+    "Patients should discuss safety when patients should be advised to promptly report to their physician any unexplained and/or persistent muscle pain, tenderness, or weakness.",
+    "Patients should discuss safety when pravastatin therapy should be discontinued if myopathy is diagnosed or suspected."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Pravastatin Sodium is contraindicated for use in pregnant woman because of the potential for fetal harm.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS For the concurrent therapy of either cyclosporine, fibrates, niacin (nicotinic acid), or erythromycin...",
+      "Healthcare providers evaluate risk when concomitant lipid-lowering therapies: use with fibrates or lipid-modifying doses (≥1 g/day) of niacin increases the risk of adverse skeletal muscle effects.",
+      "Patients should discuss safety when caution should be used when prescribing with Pravastatin Sodium.",
+      "Healthcare providers evaluate risk when limit pravastatin to 20 mg once daily.",
+      "Healthcare providers evaluate risk when limit pravastatin to 40 mg once daily.",
+      "Patients should discuss safety when limit pravastatin to 20 mg once daily for concomitant use with cyclosporine [see Dosage and Administration (2.6) , Warnings and Precautions (5.1) ..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Pravastatin sodium information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Pravastatin sodium on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "cardiovascular-disease",
+    "allergies"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-08-14T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22pravastatin%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:54.673Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=pravastatin%20sodium",
+      "accessedAt": "2026-07-12T12:00:54.673Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

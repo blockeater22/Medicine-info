@@ -1,0 +1,57 @@
+{
+  "slug": "erythrocyte-sedimentation-rate",
+  "name": "Erythrocyte Sedimentation Rate",
+  "overview": "Erythrocyte Sedimentation Rate is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include the erythrocyte sedimentation rate is the rate at which red blood cells in anticoagulated whole blood descend in a standardized tube over a period of one hour; it is a common hematology test, and is a non-specific measure of inflammation; to perform the test, anticoagulated blood is traditionally placed in an upright tube, known as a westergren tube, and the distance which the red blood cells fall is measured and reported in millimetres at the end of one hour. This summary is educational and should be paired with professional medical evaluation.",
+  "purpose": [
+    "In routine practice, the erythrocyte sedimentation rate is the rate at which red blood cells in anticoagulated whole blood descend in a standardized tube over a period of one hour.",
+    "From a clinical perspective, it is a common hematology test, and is a non-specific measure of inflammation.",
+    "In routine practice, to perform the test, anticoagulated blood is traditionally placed in an upright tube, known as a Westergren tube..."
+  ],
+  "preparation": [
+    "From a clinical perspective, confirm fasting requirements with your lab.",
+    "In routine practice, bring prior reports and medication list."
+  ],
+  "procedure": [
+    "From a clinical perspective, sample collection at a certified laboratory.",
+    "Health professionals note that results reviewed by qualified personnel."
+  ],
+  "normalRange": "Reference intervals vary by laboratory method, age, sex, and clinical context. Interpret results with your doctor.",
+  "highMeaning": [
+    "From a clinical perspective, may indicate active disease, inflammation, or organ stress depending on the analyte."
+  ],
+  "lowMeaning": [
+    "In routine practice, may suggest deficiency, suppression, or reduced production depending on the analyte."
+  ],
+  "interpretation": [
+    "In routine practice, compare with previous results for trends.",
+    "In routine practice, correlate with symptoms and examination.",
+    "In routine practice, single abnormal values may require repeat testing."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Erythrocyte Sedimentation Rate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Do I need fasting before Erythrocyte Sedimentation Rate?",
+      "answer": "Preparation depends on the exact test order. Follow the instructions provided by your laboratory or physician."
+    }
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T12:02:47.176Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Erythrocyte_sedimentation_rate",
+      "accessedAt": "2026-07-12T12:02:47.176Z"
+    },
+    {
+      "name": "LOINC",
+      "url": "https://loinc.org/",
+      "accessedAt": "2026-07-12T12:02:47.176Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

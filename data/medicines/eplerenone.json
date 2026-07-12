@@ -1,0 +1,93 @@
+{
+  "slug": "eplerenone",
+  "genericName": "Eplerenone",
+  "brandNames": [
+    "Inspra"
+  ],
+  "composition": "EPLERENONE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Aldosterone Antagonist [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE INSPRA is an aldosterone antagonist indicated for: • Improving survival of stable adult patients with symptomatic heart failure with ...",
+    "This agent is commonly used in care plans involving lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular (CV) events, primarily strokes and MI.",
+    "This agent is commonly used in care plans involving these benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes.",
+    "This agent is commonly used in care plans involving control of high blood pressure should be part of comprehensive CV risk management, including, as appropriate, lipid control, diabetes management...",
+    "Medical teams consider this option for patients needing support with many patients will require more than one drug to achieve blood pressure goals.",
+    "Clinicians may prescribe this medicine when managing for specific advice on goals and management, see published guidelines..."
+  ],
+  "howItWorks": "Eplerenone belongs to the aldosterone antagonist [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration hfref post-mi: initiate treatment with 25 mg once daily. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an the safety and effectiveness of inspra have not been established in pediatric patients with heart failure. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an patients greater than 75 years did not appear to benefit from the use of inspra [see clinical studies (14. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because heart Failure Post-Myocardial Infarction In EPHESUS, safety was evaluated in 3307 patients treated with INSPRA and 3301 placebo-treated patients may occur.",
+    "A possible treatment-related effect includes the overall incidence of adverse events reported with INSPRA (78.9%) was similar to placebo (79.5%).",
+    "Some patients report adverse events occurred at a similar rate regardless of age, gender, or race while taking this medicine.",
+    "Monitoring is advised because patients discontinued treatment due to an adverse event at similar rates in either treatment group (4.4% INSPRA vs may occur.",
+    "Some patients report that occurred more frequently in patients treated with INSPRA than placebo were hyperkalemia (3.4% vs while taking this medicine.",
+    "A possible treatment-related effect includes discontinuations due to hyperkalemia or abnormal renal function were less than 1.0% in both groups.",
+    "Monitoring is advised because hypertension INSPRA has been evaluated for safety in 3091 patients treated for hypertension may occur.",
+    "Some patients report a total of 690 patients were treated for over 6 months and 106 patients were treated for over 1 year while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS • Hyperkalemia: Patients with decreased renal function, diabetes, proteinuria or patients who are taking ACEs and ARBs...",
+    "Patients should discuss safety when monitor serum potassium levels and adjust dose as needed.",
+    "Extra caution is needed because minimize the risk of hyperkalemia with proper patient selection and monitoring [see Dosage and Administration (2.1) , Contraindications (4) ..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary The available data from published case reports on eplerenone use during pregnancy are insufficient to establish a drug-associated ...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS • CYP3A Inhibitors: In post-MI HFrEF patients, do not exceed 25 mg once daily when used with moderate CYP3A inhibitors (e.g., verapamil...",
+      "Healthcare providers evaluate risk when in patients with hypertension, initiate at 25 mg once daily.",
+      "Patients should discuss safety when for inadequate blood pressure response, dosing may be increased to a maximum of 25 mg twice daily.",
+      "Extra caution is needed because use INSPRA with drugs that are strong inhibitors of CYP3A [see Contraindications (4) and Clinical Pharmacology (12.3) ].",
+      "Healthcare providers evaluate risk when in post-MI HFrEF patients taking a moderate CYP3A inhibitor, do not exceed 25 mg once daily.",
+      "Patients should discuss safety when in patients with hypertension taking a moderate CYP3A inhibitor, initiate at 25 mg once daily."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Eplerenone information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Eplerenone on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "allergies",
+    "cardiovascular-disease"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-06-23T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22eplerenone%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:02.756Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=eplerenone",
+      "accessedAt": "2026-07-12T12:01:02.756Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

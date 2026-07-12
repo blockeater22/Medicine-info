@@ -1,0 +1,79 @@
+{
+  "slug": "levetiracetam",
+  "genericName": "Levetiracetam",
+  "brandNames": [
+    "Levetiracetam"
+  ],
+  "composition": "LEVETIRACETAM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing management of conditions associated with levetiracetam."
+  ],
+  "howItWorks": "Levetiracetam belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration use the oral solution for pediatric patients with body weight ≤ 20 kg ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 3) and clinical studies (14. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use there were 347 subjects in clinical studies of levetiracetam that were 65 and over. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report partial-Onset Seizures Adults In controlled clinical studies in adults with partial-onset seizures [see Clinical Studies (14.1) ] .. while taking this medicine.",
+    "Some patients report of the most common adverse reactions in adults experiencing partial-onset seizures, asthenia, somnolence.. while taking this medicine.",
+    "Monitoring is advised because table 3 lists adverse reactions that occurred in at least 1% of adult epilepsy patients receiving levetiracetam in placebo-controlled studies and were numeri.. may occur.",
+    "A possible treatment-related effect includes in these studies, either levetiracetam or placebo was added to concurrent AED therapy.",
+    "Some patients report table 4 lists the most common (>1%) adverse reactions that resulted in discontinuation or dose reduction and that occurred more frequently in levetiracetam-t.. while taking this medicine.",
+    "A possible treatment-related effect includes the most common adverse reactions in pediatric patients receiving levetiracetam in combination with other AEDs, for events with rates greater than placebo...",
+    "A possible treatment-related effect includes table 5 lists adverse reactions from the pooled pediatric controlled studies (4 to 16 years of age) that occurred in at least 2% of pediatric levetiracetam-t...",
+    "A possible treatment-related effect includes pediatric Patients 1 Month to < 4 Years In the 7-day..."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS Behavioral abnormalities including psychotic symptoms, suicidal ideation, irritability, and aggressive behavior have been observed.",
+    "Healthcare providers evaluate risk when advise patients to not drive or operate machinery until they have gained experience on levetiracetam ( 5.7 ) Withdrawal Seizures: Levetiracetam must be gradu...",
+    "Patients should discuss safety when patients treated with levetiracetam should be monitored for psychiatric signs and symptoms."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AE...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Levetiracetam information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Levetiracetam on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-11-21T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22levetiracetam%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:43.078Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=levetiracetam",
+      "accessedAt": "2026-07-12T12:01:43.078Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

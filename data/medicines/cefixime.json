@@ -1,0 +1,84 @@
+{
+  "slug": "cefixime",
+  "genericName": "Cefixime",
+  "brandNames": [
+    "Cefixime"
+  ],
+  "composition": "CEFIXIME — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing cefixime for oral suspension is generally effective in the eradication of Streptococcus pyogenes from the nasopharynx.",
+    "Clinicians may prescribe this medicine when managing when culture and susceptibility information are available, they should be considered in selecting or modifying antimicrobial therapy.",
+    "This agent is commonly used in care plans involving in the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy."
+  ],
+  "howItWorks": "Cefixime belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration adults: 400 mg daily (2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report the most commonly seen adverse reactions in U.S while taking this medicine.",
+    "Some patients report five percent (5%) of patients in the U.S while taking this medicine.",
+    "A possible treatment-related effect includes individual adverse reactions included diarrhea 16%, loose or frequent stools 6%, abdominal pain 3%, nausea 7%, dyspepsia 3%, and flatulence 4%.",
+    "Monitoring is advised because the incidence of gastrointestinal adverse reactions, including diarrhea and loose stools.. may occur.",
+    "Some patients report incidence rates were less than 1 in 50 (less than 2%) while taking this medicine.",
+    "Some patients report gastrointestinal Several cases of documented pseudomembranous colitis were identified in clinical trials while taking this medicine.",
+    "Some patients report the onset of pseudomembranous colitis symptoms may occur during or after therapy while taking this medicine.",
+    "A possible treatment-related effect includes hypersensitivity Reactions Anaphylactic/anaphylactoid reactions (including shock and fatalities), skin rashes, urticaria, drug fever, pruritus, angioedema..."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when hypersensitivity Reactions Anaphylactic/anaphylactoid reactions (including shock and fatalities), skin rashes, urticaria, drug fever, pruritus, angioedema..."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Available data from published observational studies, case series, and case reports over several decades with cephalosporin use...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when the administration of cefixime may result in a false-positive reaction for glucose in the urine using Clinitest ® , Benedict’s solution, or Fehling’s solution.",
+      "Extra caution is needed because it is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as Clinistix ® or TesTape ® ) be used.",
+      "Extra caution is needed because a false-positive direct Coombs test has been reported during treatment with other cephalosporins.",
+      "Extra caution is needed because therefore, it should be recognized that a positive Coombs test may be due to the drug.",
+      "Healthcare providers evaluate risk when clinitest ® and Clinistix ® are registered trademarks of Ames Division, Miles Laboratories, Inc.",
+      "Extra caution is needed because tes-Tape ® is a registered trademark of Eli Lilly and Company."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Cefixime information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Cefixime on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-02-14T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22cefixime%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:42.565Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=cefixime",
+      "accessedAt": "2026-07-12T12:00:42.565Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

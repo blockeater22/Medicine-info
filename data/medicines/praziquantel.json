@@ -1,0 +1,79 @@
+{
+  "slug": "praziquantel",
+  "genericName": "Praziquantel",
+  "brandNames": [
+    "PRAZIQUANTEL"
+  ],
+  "composition": "PRAZIQUANTEL — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Anthelmintic [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with management of conditions associated with praziquantel."
+  ],
+  "howItWorks": "Praziquantel belongs to the anthelmintic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 1 ) clonorchiasis and opisthorchiasis : 25 mg/kg 3 times a day separated by 4 to 6 hours for 1 day only. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an safety of praziquantel in pediatric patients younger than 1 year of age has not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an this drug is known to be substantially excreted by the kidney. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because because some of these reactions were reported voluntarily from a population of uncertain size.. may occur.",
+    "Monitoring is advised because the adverse reactions reported were malaise, headache, dizziness, abdominal discomfort (with or without nausea), pyrexia and urticaria may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because 5 WARNINGS AND PRECAUTIONS Clinical Deterioration : Potentially life threatening clinical deterioration can occur in patients treated during the acute phase ...",
+    "Patients should discuss safety when consider whether to administer to individuals reporting a history of epilepsy and/or other signs of potential central nervous systems involvement such as sub...",
+    "Extra caution is needed because cardiac Arrhythmias: Bradycardia, ectopic rhythms, ventricular fibrillation, and AV blocks has been observed with praziquantel administration."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Published studies have not identified an association with praziquantel use during pregnancy and major birth defects...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when concomitant administration of a Strong CYP 3A inducer, such as rifampin, with praziquantel is contraindicated [see Contraindications (4) ].",
+      "Healthcare providers evaluate risk when in addition, grapefruit juice was also reported to produce a 1.6-fold increase in the C max and a 1.9-fold increase in the AUC of praziquantel.",
+      "Patients should discuss safety when the effect of this exposure increase on the safety of praziquantel has not been systematically evaluated [see Dosage and Administration (2.2) ]."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Praziquantel information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Praziquantel on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-02-28T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22praziquantel%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:14.311Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=praziquantel",
+      "accessedAt": "2026-07-12T12:02:14.311Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

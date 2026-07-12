@@ -5,8 +5,8 @@ import { ArticleCard } from "@/components/shared/article-card";
 import { TopBannerAd } from "@/components/ads/ad-placeholder";
 
 export const metadata = buildMetadata({
-  title: "Health Articles — Expert Medical Content",
-  description: "Expert-reviewed health articles covering nutrition, fitness, disease management, and wellness for India.",
+  title: "Health Articles — Educational Medical Content",
+  description: "Educational health articles covering nutrition, fitness, disease management, and wellness for India.",
   keywords: ["health articles", "medical articles", "wellness India"],
 }, "/articles");
 

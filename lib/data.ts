@@ -4,6 +4,7 @@ import type {
   Article,
   CalculatorMeta,
   Disease,
+  DrugClass,
   FirstAid,
   LabTest,
   Medicine,
@@ -13,6 +14,7 @@ import {
   coerceArticle,
   coerceCalculator,
   coerceDisease,
+  coerceDrugClass,
   coerceFirstAid,
   coerceLabTest,
   coerceMedicine,
@@ -90,6 +92,14 @@ export function getAllCalculators(): CalculatorMeta[] {
 
 export function getCalculator(slug: string): CalculatorMeta | null {
   return readJsonFile("calculators", slug, coerceCalculator);
+}
+
+export function getAllDrugClasses(): DrugClass[] {
+  return readJsonDir("drug-classes", coerceDrugClass);
+}
+
+export function getDrugClass(slug: string): DrugClass | null {
+  return readJsonFile("drug-classes", slug, coerceDrugClass);
 }
 
 export function getPopularMedicines(limit = 8): Medicine[] {

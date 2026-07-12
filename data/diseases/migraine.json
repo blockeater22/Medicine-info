@@ -1,16 +1,6 @@
 {
   "slug": "migraine",
   "name": "Migraine",
-  "category": "Neurological",
-  "description": "Complete guide to Migraine: symptoms, causes, diagnosis, treatment, and prevention for patients in India.",
-  "seo": {
-    "title": "Migraine: Symptoms, Causes, Treatment | Doctors Hub",
-    "description": "Learn about Migraine — symptoms, causes, risk factors, diagnosis, treatment options, and prevention tips.",
-    "keywords": [
-      "Migraine",
-      "Neurological"
-    ]
-  },
   "overview": "Migraine is a recurring neurological disorder with moderate-to-severe headache, often one-sided, with nausea and sensitivity to light or sound. It affects productivity and quality of life but responds well to tailored treatment.",
   "symptoms": [
     "Pulsating headache lasting 4–72 hours",
@@ -40,12 +30,6 @@
     "Lifestyle trigger management",
     "CGRP inhibitors in selected refractory cases"
   ],
-  "homeCare": [
-    "Follow prescribed treatment plan",
-    "Maintain healthy diet",
-    "Adequate rest and hydration",
-    "Monitor symptoms"
-  ],
   "prevention": [
     "Regular sleep and meals",
     "Hydration",
@@ -58,39 +42,30 @@
     "Status migrainosus requiring hospital care",
     "Rare migrainous infarction"
   ],
-  "emergencyWarningSigns": [
-    "Severe chest pain",
-    "Difficulty breathing",
-    "Sudden confusion",
-    "High fever with rigors"
-  ],
-  "relatedMedicines": [
-    "paracetamol",
-    "ibuprofen"
-  ],
-  "faqs": [
-    {
-      "question": "What causes Migraine?",
-      "answer": "Multiple factors including genetics, lifestyle, and environment contribute."
-    },
-    {
-      "question": "Is Migraine curable?",
-      "answer": "Many conditions are manageable with proper treatment. Consult your doctor for prognosis."
-    }
-  ],
-  "popular": false,
-  "updatedAt": "2026-07-01",
   "emergencySigns": [
     "Headache unlike any previous migraine",
     "Persistent vomiting with dehydration",
     "Neurological deficit or seizure",
     "Fever with headache"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
+  "faq": [
+    {
+      "question": "Can I rely on this Migraine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "What should I do if Migraine symptoms worsen suddenly?",
+      "answer": "Seek urgent medical care, especially if severe pain, breathing difficulty, confusion, or high fever develops."
+    }
+  ],
+  "relatedDiseases": [],
+  "relatedMedicines": [
+    "fluoxetine-hydrochloride",
+    "clonazepam",
+    "metronidazole"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
   "sources": [
     {
       "name": "MedlinePlus",
@@ -103,5 +78,18 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "relatedSlugs": [
+    "urine-routine",
+    "liver-function-tests"
+  ],
+  "category": "Neurological",
+  "emergencyWarningSigns": [
+    "Headache unlike any previous migraine",
+    "Persistent vomiting with dehydration",
+    "Neurological deficit or seizure",
+    "Fever with headache"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

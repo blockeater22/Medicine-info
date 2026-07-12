@@ -1,0 +1,91 @@
+{
+  "slug": "moxifloxacin-hydrochloride",
+  "genericName": "Moxifloxacin hydrochloride",
+  "brandNames": [
+    "MOXIFLOXACIN HYDROCHLORIDE"
+  ],
+  "composition": "MOXIFLOXACIN HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving efficacy studies of moxifloxacin could not be conducted in humans with plague for feasibility reasons.",
+    "This agent is commonly used in care plans involving therefore, this indication is based on an efficacy study conducted in animals only [see Clinical Studies (14.7) ].",
+    "Medical teams consider this option for patients needing support with when culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.",
+    "This agent is commonly used in care plans involving in the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy."
+  ],
+  "howItWorks": "Moxifloxacin Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration type of infection dose every 24 hours duration (days) community acquired pneumonia ( 1. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use effectiveness in pediatric patients and adolescents less than 18 years of age has not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an this risk is further increased in patients receiving concomitant corticosteroid therapy. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes the data described below reflect exposure to moxifloxacin hydrochloride in 14981 patients in 71 active controlled Phase II to IV clinical trials in different...",
+    "A possible treatment-related effect includes the population studied had a mean age of 50 years (approximately 73% of the population was less than 65 years of age), 50% were male, 63% were Caucasian...",
+    "A possible treatment-related effect includes patients received moxifloxacin 400 mg once daily oral, intravenous, or sequentially (intravenous followed by oral).",
+    "Some patients report treatment duration was usually 6 to 10 days, and the mean number of days on therapy was 9 days while taking this medicine.",
+    "Some patients report discontinuation of moxifloxacin due to adverse reactions occurred in 5% of patients overall, 4% of patients treated with 400 mg PO.. while taking this medicine.",
+    "A possible treatment-related effect includes the most common adverse reactions (>0.3%) leading to discontinuation with the 400 mg oral doses were nausea, diarrhea, dizziness, and vomiting.",
+    "Monitoring is advised because the most common adverse reaction leading to discontinuation with the 400 mg intravenous dose was rash may occur.",
+    "A possible treatment-related effect includes the most common adverse reactions leading to discontinuation with the 400 mg intravenous/oral sequential dose were diarrhea, pyrexia."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Prolongation of the QT interval and isolated cases of torsade de pointes has been reported.",
+    "Extra caution is needed because commonly seen adverse reactions include tendinitis, tendon rupture, arthralgia, myalgia, peripheral neuropathy...",
+    "Patients should discuss safety when these reactions can occur within hours to weeks after starting moxifloxacin hydrochloride."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary There are no available human data establishing a drug associated risk with the use of moxifloxacin.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Interacting Drug Interaction Multivalent cation-containing products including: antacids, sucralfate...",
+      "Patients should discuss safety when take moxifloxacin tablet at least 4 hours before or 8 hours after these products.",
+      "Healthcare providers evaluate risk when monitor prothrombin time/INR, and bleeding.",
+      "Extra caution is needed because avoid concomitant use.",
+      "Patients should discuss safety when therefore...",
+      "Extra caution is needed because in addition, infectious disease and its accompanying inflammatory process, age..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Moxifloxacin hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Moxifloxacin hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-09-18T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22moxifloxacin%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:11.885Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=moxifloxacin%20hydrochloride",
+      "accessedAt": "2026-07-12T12:02:11.885Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

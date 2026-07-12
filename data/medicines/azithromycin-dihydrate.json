@@ -1,0 +1,91 @@
+{
+  "slug": "azithromycin-dihydrate",
+  "genericName": "Azithromycin dihydrate",
+  "brandNames": [
+    "Azithromycin Dihydrate"
+  ],
+  "composition": "AZITHROMYCIN DIHYDRATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Azithromycin is a macrolide antibacterial drug indicated for the treatment of patients with mild to moderate infections caused by sus...",
+    "Clinicians may prescribe this medicine when managing acute bacterial sinusitis due to Haemophilus influenzae , Moraxella catarrhalis.",
+    "This agent is commonly used in care plans involving community-acquired pneumonia due to Chlamydophila pneumoniae , Haemophilus influenzae , Mycoplasma pneumoniae...",
+    "This agent is commonly used in care plans involving pharyngitis/tonsillitis caused by Streptococcus pyogenes as an alternative to first-line therapy in individuals who cannot use first-line therapy.",
+    "Clinicians may prescribe this medicine when managing uncomplicated skin and skin structure infections due to Staphylococcus aureus , Streptococcus pyogenes , or Streptococcus agalactiae.",
+    "This agent is commonly used in care plans involving urethritis and cervicitis due to Chlamydia trachomatis or Neisseria gonorrhoeae."
+  ],
+  "howItWorks": "Azithromycin Dihydrate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration adult patients ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use [see clinical pharmacology (12. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an elderly patients may be more susceptible to development of torsades de pointes arrhythmias than younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because in clinical trials, most of the reported side effects were mild to moderate in severity and were reversible upon discontinuation of the drug may occur.",
+    "A possible treatment-related effect includes potentially serious adverse reactions of angioedema and cholestatic jaundice were reported.",
+    "A possible treatment-related effect includes approximately 0.7% of the patients (adults and pediatric patients) from the 5-day multiple-dose clinical trials discontinued azithromycin therapy because of ...",
+    "Monitoring is advised because in adults given 500 mg/day for 3 days, the discontinuation rate due to treatment-related adverse reactions was 0.6% may occur.",
+    "A possible treatment-related effect includes in clinical trials in pediatric patients given 30 mg/kg, either as a single dose or over 3 days...",
+    "Some patients report no other adverse reactions occurred in patients on the multiple-dose regimens of azithromycin with a frequency greater than 1% while taking this medicine.",
+    "Monitoring is advised because that occurred with a frequency of 1% or less included the following: Cardiovascular: Palpitations, chest pain may occur.",
+    "A possible treatment-related effect includes gastrointestinal: Dyspepsia, flatulence, vomiting, melena, and cholestatic jaundice."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when potentially serious adverse reactions of angioedema and cholestatic jaundice were reported."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Available data from published literature and postmarketing experience over several decades with azithromycin use in pregnant women...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Nelfinavir: Close monitoring for known adverse reactions of azithromycin, such as liver enzyme abnormalities and hearing impairment...",
+      "Patients should discuss safety when monitor prothrombin time.",
+      "Patients should discuss safety when prothrombin times should be carefully monitored while patients are receiving azithromycin and oral anticoagulants concomitantly.",
+      "Patients should discuss safety when no specific drug interaction studies have been performed to evaluate potential drug-drug interactions.",
+      "Patients should discuss safety when however, drug interactions have been observed with other macrolide products.",
+      "Patients should discuss safety when until further data are developed regarding drug interactions when digoxin..."
+    ]
+  },
+  "storage": "Health professionals note that store at 20° to 25°C (68° to 77°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Azithromycin dihydrate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Azithromycin dihydrate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-01-05T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22azithromycin%20dihydrate%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:32.997Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=azithromycin%20dihydrate",
+      "accessedAt": "2026-07-12T12:02:32.997Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

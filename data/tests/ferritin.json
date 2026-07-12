@@ -1,0 +1,58 @@
+{
+  "slug": "ferritin",
+  "name": "Ferritin",
+  "overview": "Ferritin is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include ferritin is a universal intracellular and extracellular protein that stores iron and releases it in a controlled fashion; the protein is produced by almost all living organisms, including archaea, bacteria, algae, higher plants, and animals; it is the primary intracellular iron-storage protein in both prokaryotes and eukaryotes, keeping iron in a soluble and non-toxic form. This summary is educational and should be paired with professional medical evaluation.",
+  "purpose": [
+    "In routine practice, ferritin is a universal intracellular and extracellular protein that stores iron and releases it in a controlled fashion.",
+    "Health professionals note that the protein is produced by almost all living organisms, including archaea, bacteria, algae, higher plants, and animals.",
+    "Health professionals note that it is the primary intracellular iron-storage protein in both prokaryotes and eukaryotes, keeping iron in a soluble and non-toxic form.",
+    "From a clinical perspective, in humans, it acts as a buffer against iron deficiency and iron overload."
+  ],
+  "preparation": [
+    "From a clinical perspective, confirm fasting requirements with your lab.",
+    "In routine practice, bring prior reports and medication list."
+  ],
+  "procedure": [
+    "From a clinical perspective, sample collection at a certified laboratory.",
+    "Health professionals note that results reviewed by qualified personnel."
+  ],
+  "normalRange": "Reference intervals vary by laboratory method, age, sex, and clinical context. Interpret results with your doctor.",
+  "highMeaning": [
+    "From a clinical perspective, may indicate active disease, inflammation, or organ stress depending on the analyte."
+  ],
+  "lowMeaning": [
+    "In routine practice, may suggest deficiency, suppression, or reduced production depending on the analyte."
+  ],
+  "interpretation": [
+    "In routine practice, compare with previous results for trends.",
+    "In routine practice, correlate with symptoms and examination.",
+    "In routine practice, single abnormal values may require repeat testing."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Ferritin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Do I need fasting before Ferritin?",
+      "answer": "Preparation depends on the exact test order. Follow the instructions provided by your laboratory or physician."
+    }
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T12:02:56.570Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ferritin",
+      "accessedAt": "2026-07-12T12:02:56.570Z"
+    },
+    {
+      "name": "LOINC",
+      "url": "https://loinc.org/",
+      "accessedAt": "2026-07-12T12:02:56.570Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

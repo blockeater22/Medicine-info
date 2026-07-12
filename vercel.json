@@ -42,5 +42,10 @@
       "source": "/feed.xml",
       "headers": [{ "key": "Content-Type", "value": "application/rss+xml; charset=utf-8" }]
     }
+  ],
+  "redirects": [
+    { "source": "/disclaimer", "destination": "/medical-disclaimer", "permanent": true },
+    { "source": "/medical-team", "destination": "/editorial-policy", "permanent": true },
+    { "source": "/medical-team/:path*", "destination": "/editorial-policy", "permanent": true }
   ]
 }

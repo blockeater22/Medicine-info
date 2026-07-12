@@ -1,0 +1,93 @@
+{
+  "slug": "isotretinoin",
+  "genericName": "Isotretinoin",
+  "brandNames": [
+    "Isotretinoin"
+  ],
+  "composition": "ISOTRETINOIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Retinoid [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with severe Recalcitrant Nodular Acne Isotretinoin capsules are indicated for the treatment of severe recalcitrant nodular acne.",
+    "This agent is commonly used in care plans involving nodules are inflammatory lesions with a diameter of 5 mm or greater.",
+    "This agent is commonly used in care plans involving the nodules may become suppurative or hemorrhagic.",
+    "Clinicians may prescribe this medicine when managing because of significant adverse effects associated with its use...",
+    "Clinicians may prescribe this medicine when managing in addition, isotretinoin capsules are indicated only for those patients who are not pregnant...",
+    "Medical teams consider this option for patients needing support with a single course of therapy for 15 to 20 weeks has been shown to result in complete and prolonged remission of disease in many patients."
+  ],
+  "howItWorks": "Isotretinoin belongs to the retinoid [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an the recommended dosage range for isotretinoin capsules are 0. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use the use of isotretinoin capsules in pediatric patients less than 12 years of age has not been studied. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes clinical Trials and Postmarketing Surveillance The adverse reactions listed below reflect the experience from investigational studies of isotretinoin ...",
+    "Some patients report the relationship of some of these events to isotretinoin therapy is unknown while taking this medicine.",
+    "A possible treatment-related effect includes many of the side effects and adverse reactions seen in patients receiving isotretinoin are similar to those described in patients taking very high doses of v...",
+    "Some patients report dose Relationship Cheilitis and hypertriglyceridemia are usually dose related while taking this medicine.",
+    "Some patients report most adverse reactions reported in clinical trials were reversible when therapy was discontinued while taking this medicine.",
+    "A possible treatment-related effect includes however, some persisted after cessation of therapy (see WARNINGS and ADVERSE REACTIONS ).",
+    "Monitoring is advised because body as a Whole allergic reactions, including vasculitis, systemic hypersensitivity (see PRECAUTIONS: Hypersensitivity ), edema, fatigue, lymphadenopathy.. may occur.",
+    "Monitoring is advised because gastrointestinal inflammatory bowel disease (see WARNINGS: Inflammatory Bowel Disease ), hepatitis (see WARNINGS: Hepatotoxicity ).. may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when psychiatric Disorders Isotretinoin capsules may cause depression, psychosis and, rarely, suicidal ideation, suicide attempts, suicide...",
+    "Healthcare providers evaluate risk when no mechanism of action has been established for these events (see ADVERSE REACTIONS: Psychiatric ).",
+    "Patients should discuss safety when prescribers should read the brochure, Recognizing Psychiatric Disorders in Adolescents and Young Adults: A Guide for Prescribers of Isotretinoin."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pregnancy Category X See Boxed CONTRAINDICATIONS AND WARNINGS.",
+    "breastfeeding": "Extra caution is needed because nursing Mothers It is not known whether this drug is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because drug Interactions Vitamin A: Because of the relationship of isotretinoin capsules to vitamin A...",
+      "Patients should discuss safety when tetracyclines: Concomitant treatment with isotretinoin capsules and tetracyclines should be avoided because isotretinoin capsules use has been associated wit...",
+      "Extra caution is needed because micro-dosed Progesterone Preparations: Micro-dosed progesterone preparations (\"minipills\" that do not contain an estrogen) may be an inadequate method of con...",
+      "Extra caution is needed because although other hormonal contraceptives are highly effective...",
+      "Patients should discuss safety when these reports are more frequent for patients who can become pregnant who use only a single form of contraception.",
+      "Healthcare providers evaluate risk when it is not known if hormonal contraceptives differ in their effectiveness when used with isotretinoin capsules."
+    ]
+  },
+  "storage": "Health professionals note that store at 20° to 25°C (68° to 77°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Isotretinoin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Isotretinoin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-06-26T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22isotretinoin%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:14.689Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=isotretinoin",
+      "accessedAt": "2026-07-12T12:02:14.689Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

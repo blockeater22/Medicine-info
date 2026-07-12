@@ -1,0 +1,84 @@
+{
+  "slug": "duloxetine-hydrochloride",
+  "genericName": "Duloxetine hydrochloride",
+  "brandNames": [
+    "Duloxetine Delayed-Release"
+  ],
+  "composition": "DULOXETINE HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing management of conditions associated with duloxetine hydrochloride."
+  ],
+  "howItWorks": "Duloxetine Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration take duloxetine delayed-release capsules once daily, with or without food. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an antidepressants increased the risk of suicidal thoughts and behavior in pediatric patients. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an of the 1,041 patients in clbp trials, 21% (221) were 65 years of age or over. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because the stated frequencies of adverse reactions represent the proportion of patients who experienced, at least once.. may occur.",
+    "A possible treatment-related effect includes a reaction was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.",
+    "A possible treatment-related effect includes in Adults Adult Clinical Trial Database The data described below reflect exposure to duloxetine in placebo-controlled adult trials for MDD (N=3779)...",
+    "A possible treatment-related effect includes the age range in this pooled population was 17 to 89 years of age.",
+    "Some patients report in this pooled population, 66%, 61%, 61%, 43%, and 94% of adult patients were female while taking this medicine.",
+    "A possible treatment-related effect includes and 82%, 73%, 85%, 74%, and 86% of adult patients were Caucasian in the MDD, GAD, OA and CLBP, DPNP, and FM populations, respectively.",
+    "Monitoring is advised because most patients received Duloxetine delayed-release capsules dosages of a total of 60 to 120 mg per day [see Clinical Studies (14) ] may occur.",
+    "Monitoring is advised because the data below do not include results of the trial that evaluated the efficacy of Duloxetine delayed-release capsules for the treatment of GAD in patients ≥6.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because 5 WARNINGS AND PRECAUTIONS Hepatotoxicity : Hepatic failure, sometimes fatal, has been reported.",
+    "Patients should discuss safety when discontinue Duloxetine delayed-release capsules in patients who develop jaundice or other evidence of clinically significant liver dysfunction and should not...",
+    "Patients should discuss safety when avoid use in patients with substantial alcohol use or evidence of chronic liver disease ( 5.2 ) Orthostatic Hypotension..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary Data from a postmarketing retrospective cohort study indicate that use of duloxetine in the month before delivery may be associate...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Both CYP1A2 and CYP2D6 are responsible for duloxetine metabolism.",
+      "Healthcare providers evaluate risk when epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with ser...",
+      "Healthcare providers evaluate risk when altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are co-administered with warfarin.",
+      "Patients should discuss safety when concomitant administration of warfarin (2-9 mg once daily) under steady state conditions with Duloxetine delayed-release capsules 60 or 120 mg once daily for...",
+      "Patients should discuss safety when the total warfarin (protein bound plus free drug) pharmacokinetics (AUC τ,ss , C max,ss or t max,ss ) for both R- and S-warfarin were not altered by duloxetine.",
+      "Patients should discuss safety when in extremely acidic conditions, Duloxetine delayed-release capsules, unprotected by the enteric coating, may undergo hydrolysis to form naphthol."
+    ]
+  },
+  "storage": "Health professionals note that 16.2 Storage and Handling Store at 25°C (77°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Duloxetine hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Duloxetine hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-03-21T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22duloxetine%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:35.209Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=duloxetine%20hydrochloride",
+      "accessedAt": "2026-07-12T12:01:35.209Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

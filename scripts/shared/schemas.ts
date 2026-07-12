@@ -121,7 +121,7 @@ export const ArticleSchema = z.object({
   content: z.string().min(200),
   category: z.string().min(1),
   tags: z.array(z.string()).default([]),
-  author: z.string().default("Doctors Hub Medical Team"),
+  author: z.string().default("Doctors Hub Editorial"),
   readTimeMinutes: z.number().int().positive(),
   faq: z.array(FAQSchema).default([]),
   lastUpdated: z.string().datetime(),

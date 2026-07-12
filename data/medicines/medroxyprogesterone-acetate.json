@@ -1,0 +1,86 @@
+{
+  "slug": "medroxyprogesterone-acetate",
+  "genericName": "Medroxyprogesterone acetate",
+  "brandNames": [
+    "MEDROXYPROGESTERONE ACETATE"
+  ],
+  "composition": "MEDROXYPROGESTERONE ACETATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE Medroxyprogesterone acetate injectable suspension is indicated for use by females of reproductive potential to prevent pregnancy.",
+    "This agent is commonly used in care plans involving limitations of Use: The use of medroxyprogesterone acetate injectable suspension is not recommended as a long-term (i.e....",
+    "Clinicians may prescribe this medicine when managing medroxyprogesterone acetate is a progestin indicated for use by females of reproductive potential to prevent pregnancy."
+  ],
+  "howItWorks": "Medroxyprogesterone Acetate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage does not need to be adjusted for body weight [ see clinical studies ( 14. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use medroxyprogesterone acetate injectable suspension is not indicated before menarche. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use this product has not been studied in post-menopausal women and is not indicated in this population. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes in the two clinical trials with medroxyprogesterone acetate injectable suspension, over 3,900 women, who were treated for up to 7 years...",
+    "A possible treatment-related effect includes the population studied ranges in age from 15 to 51 years, of which 46% were White, 50% Non-White, and 4.9% Unknown race.",
+    "A possible treatment-related effect includes the patients received 150 mg medroxyprogesterone acetate injectable suspension every 3-months (90 days).",
+    "Some patients report the median study duration was 13 months with a range of 1 to 84 months while taking this medicine.",
+    "A possible treatment-related effect includes fifty eight percent of patients remained in the study after 13 months and 34% after 24 months.",
+    "Some patients report leading to study discontinuation in ≥ 2% of subjects: bleeding (8.2%), amenorrhea (2.1%).. while taking this medicine.",
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine.",
+    "A possible treatment-related effect includes there have been cases of osteoporosis including osteoporotic fractures reported post-marketing in patients taking medroxyprogesterone acetate injectable susp..."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because this loss of BMD is of particular concern during adolescence and early adulthood, a critical period of bone accretion.",
+    "Healthcare providers evaluate risk when it is unknown if use of medroxyprogesterone acetate injectable suspension by younger women will reduce peak bone mass and increase the risk for osteoporotic ...",
+    "Patients should discuss safety when a study to assess the reversibility of loss of BMD in adolescents was conducted with medroxyprogesterone acetate injectable suspension."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Medroxyprogesterone acetate injectable suspension should not be administered during pregnancy.",
+    "breastfeeding": "Patients should discuss safety when 8.3 Nursing Mothers Detectable amounts of drug have been identified in the milk of mothers receiving medroxyprogesterone acetate injectable suspension.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Drugs or herbal products that induce certain enzymes, including CYP3A4, may decrease the effectiveness of contraceptive drug products.",
+      "Extra caution is needed because drugs or herbal products that induce such enzymes may decrease the plasma concentrations of contraceptive hormones...",
+      "Patients should discuss safety when some drugs or herbal products that may decrease the effectiveness of hormonal contraceptives include: barbiturates bosentan carbamazepine felbamate griseoful...",
+      "Extra caution is needed because john’s wort topiramate HIV protease inhibitors and non-nucleoside reverse transcriptase inhibitors : Significant changes (increase or decrease) in the plasma...",
+      "Healthcare providers evaluate risk when significant changes (increase or decrease) in the plasma levels of the progestin have been noted in some cases of co-administration with non-nucleoside rever...",
+      "Healthcare providers evaluate risk when antibiotics : There have been reports of pregnancy while taking hormonal contraceptives and antibiotics..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Medroxyprogesterone acetate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Medroxyprogesterone acetate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2022-12-14T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22medroxyprogesterone%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:56.006Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=medroxyprogesterone%20acetate",
+      "accessedAt": "2026-07-12T12:01:56.006Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

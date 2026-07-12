@@ -81,13 +81,9 @@ function main() {
     console.log(`✓ ${col.name}: ${col.items.length} records`);
   }
 
-  for (const dir of ["medicines", "diseases", "symptoms", "tests", "articles", "calculators", "first-aid", "team"]) {
+  for (const dir of ["medicines", "diseases", "symptoms", "tests", "articles", "calculators", "first-aid"]) {
     const p = path.join("data", dir);
     if (!fs.existsSync(p)) errors.push(`Missing data directory: ${p}`);
-  }
-
-  if (fs.readdirSync(path.join("data", "team")).filter((f) => f.endsWith(".json")).length < 3) {
-    errors.push("data/team: requires at least 3 physician profiles");
   }
 
   checkMedicineAccuracy(getAllMedicines());

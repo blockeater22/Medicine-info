@@ -1,0 +1,84 @@
+{
+  "slug": "pramipexole-dihydrochloride",
+  "genericName": "Pramipexole dihydrochloride",
+  "brandNames": [
+    "Pramipexole dihydrochloride"
+  ],
+  "composition": "PRAMIPEXOLE DIHYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Pramipexole dihydrochloride extended-release tablets are indicated for the treatment of Parkinson's disease.",
+    "Clinicians may prescribe this medicine when managing pramipexole dihydrochloride extended-release tablet is a non-ergot dopamine agonist indicated for the treatment of Parkinson’s disease (PD) (1)."
+  ],
+  "howItWorks": "Pramipexole Dihydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 1) tablets must be swallowed whole and must not be chewed, crushed, or divided (2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an this resulted in an increase in elimination half-life from approximately 8. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report during the premarketing development of pramipexole dihydrochloride extended-release tablets.. while taking this medicine.",
+    "A possible treatment-related effect includes in addition, a randomized, double-blind...",
+    "Some patients report in this latter study, concomitant treatment with stable doses of levodopa, monoamine oxidase B inhibitor (MAOB-I) drugs, anticholinergics, or amantadine.. while taking this medicine.",
+    "Monitoring is advised because in a third trial, advanced Parkinson’s disease patients received pramipexole extended-release tablets, placebo.. may occur.",
+    "A possible treatment-related effect includes early Parkinson's Disease The most common adverse reactions (≥5% and more frequent than placebo) after 33 weeks of treatment with pramipexole dihydrochloride...",
+    "Some patients report twenty four of 223 (11%) patients treated with pramipexole dihydrochloride extended-release tablets for 33 weeks discontinued treatment due to adverse reacti.. while taking this medicine.",
+    "Monitoring is advised because the adverse reaction most commonly causing discontinuation of treatment with pramipexole dihydrochloride extended-release tablets was nausea (2%) may occur.",
+    "A possible treatment-related effect includes table 1 lists adverse reactions that occurred with a frequency of at least 2% with pramipexole dihydrochloride extended-release and were more frequent than w..."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS Falling Asleep During Activities of Daily Living: Sudden onset of sleep may occur without warning.",
+    "Healthcare providers evaluate risk when advise patients to report symptoms.",
+    "Healthcare providers evaluate risk when although many of these patients reported somnolence while on pramipexole tablets..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary There are no adequate data on the developmental risk associated with the use of pramipexole dihydrochloride extended-release in pr...",
+    "breastfeeding": "Patients should discuss safety when 8.2 Lactation Risk Summary There are no data on the presence of pramipexole in human milk, the effects of pramipexole on the breastfed infant...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Dopamine antagonists: May diminish the effectiveness of pramipexole (7.1)."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Pramipexole dihydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Pramipexole dihydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "parkinsons-disease",
+    "allergies"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2021-08-31T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22pramipexole%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:20.563Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=pramipexole%20dihydrochloride",
+      "accessedAt": "2026-07-12T12:02:20.563Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

@@ -68,17 +68,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22codeine%22&limit=1",
-      "accessedAt": "2026-07-12T06:31:47.052Z"
+      "accessedAt": "2026-07-12T12:01:46.226Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=codeine%20sulfate",
-      "accessedAt": "2026-07-12T06:31:47.052Z"
+      "accessedAt": "2026-07-12T12:01:46.226Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

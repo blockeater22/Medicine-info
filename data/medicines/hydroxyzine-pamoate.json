@@ -1,0 +1,87 @@
+{
+  "slug": "hydroxyzine-pamoate",
+  "genericName": "Hydroxyzine pamoate",
+  "brandNames": [
+    "hydroxyzine pamoate"
+  ],
+  "composition": "HYDROXYZINE PAMOATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving iNDICATIONS For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is mani...",
+    "This agent is commonly used in care plans involving useful in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus.",
+    "Clinicians may prescribe this medicine when managing as a sedative when used as premedication and following general anesthesia, hydroxyzine may potentiate meperidine (Demerol ® ) and barbiturates...",
+    "This agent is commonly used in care plans involving atropine and other belladonna alkaloids are not affected by the drug.",
+    "Medical teams consider this option for patients needing support with hydroxyzine is not known to interfere with the action of digitalis in any way and it may be used concurrently with this agent.",
+    "This agent is commonly used in care plans involving the effectiveness of hydroxyzine as an antianxiety agent for long-term use, that is, more than 4 months, has not been assessed by systematic clinical studies."
+  ],
+  "howItWorks": "Hydroxyzine Pamoate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an ; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50 mg to 100 mg daily in divided doses. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because side effects reported with the administration of hydroxyzine pamoate are usually mild and transitory in nature may occur.",
+    "Some patients report skin and Appendages Oral hydroxyzine hydrochloride is associated with Acute Generalized Exanthematous Pustulosis (AGEP) and fixed drug eruptions in post-mark.. while taking this medicine.",
+    "Monitoring is advised because anticholinergic Dry mouth may occur.",
+    "Some patients report central Nervous System Drowsiness is usually transitory and may disappear in a few days of continued therapy or upon reduction of the dose while taking this medicine.",
+    "Monitoring is advised because involuntary motor activity, including rare instances of tremor and convulsions, has been reported, usually with doses considerably higher than those recommended may occur.",
+    "Monitoring is advised because clinically significant respiratory depression has not been reported at recommended doses may occur.",
+    "Monitoring is advised because cardiac System QT prolongation, Torsade de Pointes may occur.",
+    "A possible treatment-related effect includes in post-marketing experience..."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because nursing Mothers It is not known whether this drug is excreted in human milk.",
+    "Patients should discuss safety when since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Extra caution is needed because nursing Mothers It is not known whether this drug is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Hydroxyzine pamoate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Hydroxyzine pamoate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "chronic-obstructive-pulmonary-disease",
+    "allergies"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-12-16T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22hydroxyzine%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:28.108Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=hydroxyzine%20pamoate",
+      "accessedAt": "2026-07-12T12:02:28.108Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

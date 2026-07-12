@@ -1,0 +1,57 @@
+{
+  "slug": "glucose-test",
+  "name": "Glucose Test",
+  "overview": "Glucose Test is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include many types of glucose tests exist and they can be used to estimate blood sugar levels at a given time or, over a longer period of time, to obtain average levels or to see how fast the body is able to normalize changed glucose levels; eating food for example leads to elevated blood sugar levels; in healthy people, these levels quickly return to normal via increased cellular glucose uptake which is primarily mediated by increase in blood insulin levels. This summary is educational and should be paired with professional medical evaluation.",
+  "purpose": [
+    "In routine practice, many types of glucose tests exist and they can be used to estimate blood sugar levels at a given time or, over a longer period of time...",
+    "Health professionals note that eating food for example leads to elevated blood sugar levels.",
+    "Health professionals note that in healthy people, these levels quickly return to normal via increased cellular glucose uptake which is primarily mediated by increase in blood insulin levels."
+  ],
+  "preparation": [
+    "From a clinical perspective, confirm fasting requirements with your lab.",
+    "In routine practice, bring prior reports and medication list."
+  ],
+  "procedure": [
+    "From a clinical perspective, sample collection at a certified laboratory.",
+    "Health professionals note that results reviewed by qualified personnel."
+  ],
+  "normalRange": "Reference intervals vary by laboratory method, age, sex, and clinical context. Interpret results with your doctor.",
+  "highMeaning": [
+    "From a clinical perspective, may indicate active disease, inflammation, or organ stress depending on the analyte."
+  ],
+  "lowMeaning": [
+    "In routine practice, may suggest deficiency, suppression, or reduced production depending on the analyte."
+  ],
+  "interpretation": [
+    "In routine practice, compare with previous results for trends.",
+    "In routine practice, correlate with symptoms and examination.",
+    "In routine practice, single abnormal values may require repeat testing."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Glucose Test information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Do I need fasting before Glucose Test?",
+      "answer": "Preparation depends on the exact test order. Follow the instructions provided by your laboratory or physician."
+    }
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T12:02:37.836Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Glucose_test",
+      "accessedAt": "2026-07-12T12:02:37.836Z"
+    },
+    {
+      "name": "LOINC",
+      "url": "https://loinc.org/",
+      "accessedAt": "2026-07-12T12:02:37.836Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

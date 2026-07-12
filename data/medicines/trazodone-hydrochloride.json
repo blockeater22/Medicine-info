@@ -1,0 +1,85 @@
+{
+  "slug": "trazodone-hydrochloride",
+  "genericName": "Trazodone hydrochloride",
+  "brandNames": [
+    "Trazodone Hydrochloride"
+  ],
+  "composition": "TRAZODONE HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE Trazodone is a selective serotonin reuptake inhibitor indicated for the treatment of major depressive disorder (MDD) ( 1 ).",
+    "Medical teams consider this option for patients needing support with trazodone hydrochloride tablets are indicated for the treatment of major depressive disorder (MDD) in adults."
+  ],
+  "howItWorks": "Trazodone Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration starting dose: 150 mg in divided doses daily. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness in the pediatric population have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report 6 ADVERSE REACTIONS Most common adverse reactions (incidence ≥ 5% and twice that of placebo) are: edema, blurred vision, syncope, drowsiness, fatigue.. while taking this medicine.",
+    "Monitoring is advised because to report SUSPECTED ADVERSE REACTIONS, contact Zydus Pharmaceuticals (USA) Inc may occur.",
+    "Monitoring is advised because occasional sinus bradycardia has occurred in long-term studies may occur.",
+    "Some patients report prolonged QT interval, torsade de pointes.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS Serotonin Syndrome: Increased risk when co-administered with other serotonergic agents (e.g., SSRI, SNRI, triptans)...",
+    "Healthcare providers evaluate risk when if it occurs, discontinue trazodone and initiate supportive treatment ( 5.2 ).",
+    "Patients should discuss safety when cardiac Arrhythmias: Increases the QT interval."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during ...",
+    "breastfeeding": "Healthcare providers evaluate risk when 8.2 Lactation Risk Summary Data from published literature report the transfer of trazodone into human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS CNS Depressants: Trazodone may enhance effects of alcohol, barbiturates, or other CNS depressants ( 7 ).",
+      "Extra caution is needed because cYP3A4 Inhibitors: Consider trazodone dose reduction based on tolerability ( 2.5 , 7 ).",
+      "Extra caution is needed because cYP3A4 Inducers: Increase in trazodone dosage may be necessary ( 2.5 , 7 ).",
+      "Extra caution is needed because digoxin or Phenytoin: Monitor for increased digoxin or phenytoin serum levels ( 7 ).",
+      "Patients should discuss safety when warfarin: Monitor for increased or decreased prothrombin time ( 7 ).",
+      "Extra caution is needed because mAOIs MAOIs should not be used within 14 days of trazodone [see Warnings and Precautions ( 5.8 )]."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Trazodone hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Trazodone hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-08-30T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22trazodone%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:36.753Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=trazodone%20hydrochloride",
+      "accessedAt": "2026-07-12T12:01:36.753Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

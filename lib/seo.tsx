@@ -102,29 +102,6 @@ export function faqSchema(faqs: FAQItem[]) {
   };
 }
 
-export function personSchema(member: {
-  name: string;
-  slug: string;
-  credentials: string;
-  specialty: string;
-  bio: string;
-}) {
-  return {
-    "@context": "https://schema.org",
-    "@type": "Person",
-    name: member.name,
-    url: `${SITE.domain}/medical-team/${member.slug}`,
-    jobTitle: member.credentials,
-    description: member.bio,
-    knowsAbout: member.specialty,
-    worksFor: {
-      "@type": "Organization",
-      name: SITE.name,
-      url: SITE.domain,
-    },
-  };
-}
-
 export function medicineSchema(medicine: {
   name: string;
   slug: string;
@@ -194,7 +171,7 @@ export function articleSchema(article: {
     "@type": "Article",
     headline: article.name,
     description: article.description,
-    author: { "@type": "Person", name: article.author },
+    author: { "@type": "Organization", name: SITE.name, url: SITE.domain },
     datePublished: article.publishedAt,
     dateModified: article.updatedAt,
     image: article.image || `${SITE.domain}/og-default.svg`,

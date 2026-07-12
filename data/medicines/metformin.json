@@ -42,6 +42,8 @@
   ],
   "warnings": [
     "Common brands in India include Glycomet and Obimet.",
+    "Common brands in India include Glycomet and Obimet.",
+    "Common brands in India include Glycomet and Obimet.",
     "Do not exceed prescribed dose",
     "Inform doctor of all medications",
     "Not for self-medication without consultation"
@@ -62,7 +64,8 @@
   "alternatives": [],
   "relatedDiseases": [
     "diabetes",
-    "fever"
+    "fever",
+    "allergies"
   ],
   "faqs": [
     {
@@ -72,11 +75,6 @@
   ],
   "popular": false,
   "updatedAt": "2026-07-01",
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
-    "lastReviewed": "2026-07-12"
-  },
   "sources": [
     {
       "name": "WHO Model Formulary",
@@ -88,5 +86,8 @@
       "url": "https://ipc.gov.in/",
       "accessedAt": "2026-07-12"
     }
-  ]
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

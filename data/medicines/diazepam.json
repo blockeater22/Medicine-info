@@ -69,7 +69,9 @@
   ],
   "relatedMedicines": [],
   "relatedDiseases": [
-    "common-cold"
+    "headache",
+    "thyroid",
+    "allergies"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2025-10-27T00:00:00.000Z",
@@ -77,17 +79,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22diazepam%22&limit=1",
-      "accessedAt": "2026-07-12T06:32:02.060Z"
+      "accessedAt": "2026-07-12T12:01:37.543Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=diazepam",
-      "accessedAt": "2026-07-12T06:32:02.060Z"
+      "accessedAt": "2026-07-12T12:01:37.543Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

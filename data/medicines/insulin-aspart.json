@@ -1,0 +1,88 @@
+{
+  "slug": "insulin-aspart",
+  "genericName": "Insulin aspart",
+  "brandNames": [
+    "NOVOLOG"
+  ],
+  "composition": "INSULIN ASPART — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Insulin Analog [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE NOVOLOG is indicated to improve glycemic control in adults and pediatric patients with diabetes mellitus.",
+    "This agent is commonly used in care plans involving nOVOLOG is rapid acting human insulin analog indicated to improve glycemic control in adults and pediatric patients with diabetes mellitus ( 1 )."
+  ],
+  "howItWorks": "Insulin Aspart belongs to the insulin analog [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an • subcutaneous injection ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 1 ), clinical pharmacology ( 12. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use of the total number of patients (n=1,375) treated with novolog in 3 controlled clinical studies, 2. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report the safety of NOVOLOG was evaluated in two treat-to-target trials of 6 months duration.. while taking this medicine.",
+    "Monitoring is advised because the data in Table 1 reflect the exposure of 596 patients with type 1 diabetes to NOVOLOG in one clinical trial with a mean exposure duration to NOVOLOG of 24.. may occur.",
+    "Monitoring is advised because the mean age was 39 years may occur.",
+    "Monitoring is advised because fifty-one percent were male, 94% were Caucasian, 2% were Black and 4% were other races may occur.",
+    "Monitoring is advised because the mean body mass index (BMI) was 25.6 kg/m 2 may occur.",
+    "Monitoring is advised because the mean duration of diabetes was 15.7 years and the mean HbA 1c at baseline was 7.9% may occur.",
+    "Some patients report the data in Table 2 reflect the exposure of 91 patients with type 2 diabetes to NOVOLOG in one clinical trial with a mean exposure duration to NOVOLOG of 24 .. while taking this medicine.",
+    "Monitoring is advised because the mean age was 57 years may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when increase frequency of glucose monitoring with changes to: insulin dosage, concomitantly administered glucose lowering medications, meal pattern...",
+    "Extra caution is needed because and in patients with renal or hepatic impairments and hypoglycemia unawareness ( 5.",
+    "Patients should discuss safety when instruct patients to check insulin labels before injection ( 5."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Available information from published randomized controlled trials with insulin aspart use during the second trimester of pregnancy...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS The table below presents clinically significant drug interactions with NOVOLOG.",
+      "Patients should discuss safety when drugs That May Increase the Risk of Hypoglycemia Drugs: Antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates...",
+      "Healthcare providers evaluate risk when intervention: Dose adjustment and increased frequency of glucose monitoring may be required when NOVOLOG is concomitantly administered with these drugs.",
+      "Extra caution is needed because drugs That May Increase or Decrease the Blood Glucose Lowering Effect of NOVOLOG Drugs: Alcohol, beta-blockers, clonidine, and lithium salts.",
+      "Extra caution is needed because pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Insulin aspart information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Insulin aspart on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "diabetes"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-12-15T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22insulin%20aspart%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:51.930Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=insulin%20aspart",
+      "accessedAt": "2026-07-12T12:00:51.930Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

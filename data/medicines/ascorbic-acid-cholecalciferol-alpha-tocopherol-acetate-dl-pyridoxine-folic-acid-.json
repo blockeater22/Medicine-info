@@ -50,24 +50,26 @@
     }
   ],
   "relatedMedicines": [],
-  "relatedDiseases": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2024-01-15T00:00:00.000Z",
   "sources": [
     {
       "name": "OpenFDA Drug Labels",
-      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22cyanocobalamin%22&limit=1",
-      "accessedAt": "2026-07-12T06:31:50.279Z"
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22pyridoxine%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:07.579Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ascorbic%20acid%2C%20cholecalciferol%2C%20.alpha.-tocopherol%20acetate%2C%20dl-%2C%20pyridoxine%2C%20folic%20acid%2C%20cyanocobalamin%2C%20calcium%2C%20ferrous%20fumarate%2C%20magnesium%2C%20doconexent",
-      "accessedAt": "2026-07-12T06:31:50.279Z"
+      "accessedAt": "2026-07-12T12:02:07.579Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

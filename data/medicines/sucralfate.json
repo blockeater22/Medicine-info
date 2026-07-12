@@ -1,0 +1,88 @@
+{
+  "slug": "sucralfate",
+  "genericName": "Sucralfate",
+  "brandNames": [
+    "Sucralfate"
+  ],
+  "composition": "SUCRALFATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Aluminum Complex [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with sucralfate tablets are indicated in: Short-term treatment (up to 8 weeks) of active duodenal ulcer.",
+    "This agent is commonly used in care plans involving while healing with sucralfate may occur during the first week or two...",
+    "This agent is commonly used in care plans involving maintenance therapy for duodenal ulcer patients at reduced dosage after healing of acute ulcers."
+  ],
+  "howItWorks": "Sucralfate belongs to the aluminum complex [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration active duodenal ulcer. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because adverse reactions to sucralfate in clinical trials were minor and only rarely led to discontinuation of the drug may occur.",
+    "Monitoring is advised because in studies involving over 2700 patients treated with sucralfate tablets, adverse effects were reported in 129 (4.7%) may occur.",
+    "Monitoring is advised because constipation was the most frequent complaint (2%) may occur.",
+    "Some patients report cases of anaphylactic reactions, bronchospasm, laryngeal edema, edema of the mouth, pharyngeal edema.. while taking this medicine.",
+    "Monitoring is advised because bezoars have been reported in patients treated with sucralfate may occur.",
+    "Some patients report the majority of patients had underlying medical conditions that may predispose to bezoar formation (such as delayed gastric emptying) or were receiving conco.. while taking this medicine.",
+    "Monitoring is advised because inadvertent injection of insoluble sucralfate and its insoluble excipients has led to fatal complications, including pulmonary and cerebral emboli may occur.",
+    "Some patients report sucralfate is not intended for intravenous administration while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when inadvertent injection of insoluble sucralfate and its insoluble excipients has led to fatal complications, including pulmonary and cerebral emboli."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pregnancy Teratogenic effects Teratogenicity studies have been performed in mice, rats...",
+    "breastfeeding": "Extra caution is needed because nursing Mothers It is not known whether this drug is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when drug Interactions Some studies have shown that simultaneous sucralfate administration in healthy volunteers reduced the extent of absorption (bioavailability...",
+      "Healthcare providers evaluate risk when subtherapeutic prothrombin times with concomitant warfarin and sucralfate therapy have been reported in spontaneous and published case reports.",
+      "Patients should discuss safety when however...",
+      "Extra caution is needed because the mechanism of these interactions appears to be nonsystemic in nature...",
+      "Patients should discuss safety when in all case studies to date (cimetidine, ciprofloxacin, digoxin, norfloxacin, ofloxacin, and ranitidine)...",
+      "Patients should discuss safety when because of the potential of Sucralfate to alter the absorption of some drugs..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Sucralfate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Sucralfate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-01-03T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22sucralfate%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:19.109Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=sucralfate",
+      "accessedAt": "2026-07-12T12:01:19.109Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

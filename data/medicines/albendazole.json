@@ -1,0 +1,87 @@
+{
+  "slug": "albendazole",
+  "genericName": "Albendazole",
+  "brandNames": [
+    "Albendazole"
+  ],
+  "composition": "ALBENDAZOLE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Anthelmintic [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with management of conditions associated with albendazole."
+  ],
+  "howItWorks": "Albendazole belongs to the anthelmintic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an albendazole tablets should be taken with food. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use hydatid disease is uncommon in infants and young children. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because the adverse reaction profile of albendazole differs between hydatid disease and neurocysticercosis may occur.",
+    "A possible treatment-related effect includes occurring with a frequency of 1% or greater in either disease are described in Table 2 below.",
+    "Some patients report these symptoms were usually mild and resolved without treatment while taking this medicine.",
+    "Monitoring is advised because treatment discontinuations were predominantly due to leukopenia (0.7%) or hepatic abnormalities (3.8% in hydatid disease) may occur.",
+    "Some patients report the following incidence reflects adverse reactions that were reported to be at least possibly or probably related to albendazole while taking this medicine.",
+    "Monitoring is advised because immune System Disorders: Hypersensitivity reactions, including rash and urticaria may occur.",
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine.",
+    "Some patients report blood and Lymphatic System Disorders: Aplastic anemia, bone marrow suppression, neutropenia while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Bone Marrow Suppression: Fatalities have been reported due to bone marrow suppression.",
+    "Patients should discuss safety when monitor blood counts in all patients at the beginning of each 28-day cycle of therapy, and every 2 weeks while on therapy.",
+    "Healthcare providers evaluate risk when discontinue albendazole if clinically significant changes in blood counts occur."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary There are limited data on use of albendazole in pregnant women to inform a drug-associated risk of major birth defects and miscarr...",
+    "breastfeeding": "Healthcare providers evaluate risk when 8.3 Females and Males of Reproductive Potential Pregnancy Testing Obtain pregnancy test prior to prescribing albendazole to women of reproductive potential.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because mean T max and mean plasma elimination half-life of albendazole sulfoxide were unchanged.",
+      "Extra caution is needed because the pharmacokinetics of praziquantel were unchanged following co-administration with albendazole (400 mg).",
+      "Patients should discuss safety when albendazole sulfoxide plasma concentrations were unchanged 4 hours after dosing.",
+      "Extra caution is needed because albendazole induces cytochrome P450 1A in human hepatoma cells.",
+      "Extra caution is needed because therefore, it is recommended that plasma concentrations of theophylline be monitored during and after treatment."
+    ]
+  },
+  "storage": "In routine practice, 16.2 Storage and Handling Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].",
+  "faqs": [
+    {
+      "question": "Can I rely on this Albendazole information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Albendazole on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2019-09-30T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22albendazole%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:13.432Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=albendazole",
+      "accessedAt": "2026-07-12T12:02:13.432Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

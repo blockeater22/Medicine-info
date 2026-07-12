@@ -1,0 +1,89 @@
+{
+  "slug": "febuxostat",
+  "genericName": "Febuxostat",
+  "brandNames": [
+    "Febuxostat"
+  ],
+  "composition": "FEBUXOSTAT — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Xanthine Oxidase Inhibitor [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Febuxostat is a xanthine oxidase (XO) inhibitor indicated for the chronic management of hyperuricemia in adult patients with gout who...",
+    "Medical teams consider this option for patients needing support with limitations of Use : Febuxostat tablets are not recommended for the treatment of asymptomatic hyperuricemia."
+  ],
+  "howItWorks": "Febuxostat belongs to the xanthine oxidase inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration recommended dosage is 40 mg or 80 mg once daily. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness of febuxostat in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use no dose adjustment is necessary in elderly patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes in Phase 2 and 3 clinical studies, a total of 2757 patients with hyperuricemia and gout were treated with febuxostat 40 mg or 80 mg daily.",
+    "A possible treatment-related effect includes for febuxostat 40 mg, 559 patients were treated for ≥6 months.",
+    "Some patients report for febuxostat 80 mg, 1377 patients were treated for ≥6 months, 674 patients were treated for ≥1 year and 515 patients were treated for ≥2 years while taking this medicine.",
+    "Monitoring is advised because in the CARES study, a total of 3098 patients were treated with febuxostat 40 mg or 80 mg daily may occur.",
+    "Some patients report of these, 2155 patients were treated for ≥1 year and 1539 were treated for ≥2 years [see Clinical Studies (14.2) ] while taking this medicine.",
+    "Monitoring is advised because most Common Adverse Reactions In three randomized, controlled clinical studies (Studies 1, 2 and 3), which were 6 to 12 months in duration.. may occur.",
+    "Monitoring is advised because table 1 summarizes adverse reactions reported at a rate of at least 1% in febuxostat treatment groups and at least 0.5% greater than placebo may occur.",
+    "Some patients report in addition to the adverse reactions presented in Table 1.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS Gout Flares : An increase in gout flares is frequently observed after initiation of febuxostat.",
+    "Extra caution is needed because if a gout flare occurs during treatment, febuxostat need not be discontinued.",
+    "Patients should discuss safety when prophylactic therapy (i.e., non-steroidal anti-inflammatory drug or colchicine) upon initiation of treatment may be beneficial for up to six months."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Limited available data with febuxostat use in pregnant women are insufficient to inform a drug associated risk of adverse developm...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Concomitant administration of febuxostat with XO substrate drugs...",
+      "Extra caution is needed because based on a drug interaction study in healthy patients...",
+      "Patients should discuss safety when therefore, use with caution when coadministering febuxostat with theophylline.",
+      "Healthcare providers evaluate risk when a drug interaction study of febuxostat and azathioprine, also metabolized by XO...",
+      "Patients should discuss safety when drug interaction studies of febuxostat with other drugs that are metabolized by XO (e.g., mercaptopurine) have not been conducted.",
+      "Patients should discuss safety when febuxostat is contraindicated in patients being treated with azathioprine or mercaptopurine [see Contraindications (4) ]."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Febuxostat information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Febuxostat on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-05-08T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22febuxostat%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:48.489Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=febuxostat",
+      "accessedAt": "2026-07-12T12:01:48.489Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

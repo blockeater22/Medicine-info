@@ -2,7 +2,8 @@ import { notFound } from "next/navigation";
 import { getAllMedicines, getMedicine, getRelatedDiseases, getRelatedMedicines } from "@/lib/data";
 import { buildMetadata, medicineSchema, medicalWebPageSchema, faqSchema, JsonLd } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
-import { AuthorBlock } from "@/components/shared/author-block";
+import { EditorialAttribution } from "@/components/shared/editorial-attribution";
+import { QuickReferenceBox } from "@/components/medicine/quick-reference-box";
 import { ContentSection, ContentList, TableOfContents } from "@/components/shared/content-section";
 import { FAQAccordion } from "@/components/shared/faq-accordion";
 import { MedicalDisclaimer } from "@/components/shared/medical-disclaimer";
@@ -63,7 +64,8 @@ export default async function MedicinePage({ params }: { params: Promise<{ slug:
             <h1 className="text-3xl md:text-4xl font-bold mt-1 mb-2">{medicine.name}</h1>
             <p className="text-muted-foreground">Generic: {medicine.genericName} | Brands: {medicine.brandNames.join(", ")}</p>
             <p className="mt-4 text-lg leading-relaxed">{medicine.description}</p>
-            <AuthorBlock authoredBy={medicine.authoredBy} className="mt-4" />
+            <EditorialAttribution contentReview={medicine.contentReview} updatedAt={medicine.updatedAt} className="mt-4" />
+            <QuickReferenceBox medicine={medicine} className="mt-4" />
             <div className="mt-4">
               <ShareButtons url={`/medicine/${slug}`} title={medicine.name} />
             </div>

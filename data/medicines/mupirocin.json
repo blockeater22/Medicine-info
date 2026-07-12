@@ -1,0 +1,82 @@
+{
+  "slug": "mupirocin",
+  "genericName": "Mupirocin",
+  "brandNames": [
+    "MUPIROCIN"
+  ],
+  "composition": "MUPIROCIN CALCIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Mupirocin cream is indicated for the treatment of secondarily infected traumatic skin lesions (up to 10 cm in length or 100 cm 2 in a...",
+    "This agent is commonly used in care plans involving mupirocin cream is an RNA synthetase inhibitor antibacterial indicated for the treatment of secondarily infected traumatic skin lesions (up to 10 cm in lengt..."
+  ],
+  "howItWorks": "Mupirocin belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration for topical use only. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes in 2 randomized, double‑blind, double‑dummy trials, 339 subjects were treated with topical mupirocin cream plus oral placebo.",
+    "A possible treatment-related effect includes occurred in 28 (8.3%) subjects.",
+    "Some patients report the following adverse reactions were reported by at least 1% of subjects in connection with the use of mupirocin cream in clinical trials: headache (1.7%).. while taking this medicine.",
+    "Some patients report other adverse reactions which occurred in less than 1% of subjects were: abdominal pain, burning at application site, cellulitis, dermatitis, dizziness.. while taking this medicine.",
+    "Monitoring is advised because in a supportive trial in the treatment of secondarily infected eczema, 82 subjects were treated with mupirocin cream may occur.",
+    "Monitoring is advised because because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made may occur.",
+    "A possible treatment-related effect includes these reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting...",
+    "A possible treatment-related effect includes immune System Disorders Systemic allergic reactions, including anaphylaxis, urticaria, angioedema, and generalized rash [see Warnings and Precautions ( 5.1 )]."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when these reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary There are insufficient human data to establish whether there is a drug-associated risk with mupirocin cream in pregnant women.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Mupirocin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Mupirocin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-03-18T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22mupirocin%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:16.191Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=mupirocin",
+      "accessedAt": "2026-07-12T12:02:16.191Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

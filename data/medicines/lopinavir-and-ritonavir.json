@@ -1,0 +1,89 @@
+{
+  "slug": "lopinavir-and-ritonavir",
+  "genericName": "Lopinavir and ritonavir",
+  "brandNames": [
+    "Lopinavir and Ritonavir"
+  ],
+  "composition": "LOPINAVIR — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Protease Inhibitor [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Lopinavir and ritonavir is indicated in combination with other antiretroviral agents for the treatment of HIV1 infection in adults an...",
+    "Medical teams consider this option for patients needing support with limitations of Use: Genotypic or phenotypic testing and/or treatment history should guide the use of lopinavir and ritonavir.",
+    "Clinicians may prescribe this medicine when managing the number of baseline lopinavir resistance-associated substitutions affects the virologic response to lopinavir and ritonavir [see Microbiology ( 12.4 )].",
+    "Medical teams consider this option for patients needing support with lopinavir and ritonavir is an HIV-1 protease inhibitor indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection in adul..."
+  ],
+  "howItWorks": "Lopinavir And Ritonavir belongs to the protease inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 3 ): total recommended daily dosage is 800/200 mg given once or twice daily. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an lopinavir and ritonavir should not be administered once daily in pediatric patients. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes 6 ADVERSE REACTIONS The following adverse reactions are discussed in greater detail in other sections of the labeling.",
+    "Some patients report in Adults The safety of lopinavir and ritonavir has been investigated in about 2,600 patients in Phase II-IV clinical trials.. while taking this medicine.",
+    "Some patients report along with nucleoside reverse transcriptase inhibitors (NRTIs), in some studies, lopinavir and ritonavir was used in combination with efavirenz or nevirapine while taking this medicine.",
+    "Some patients report in clinical studies the incidence of diarrhea in patients treated with either lopinavir and ritonavir capsules or tablets was greater in those patients treat.. while taking this medicine.",
+    "Some patients report any grade of diarrhea was reported by at least half of patients taking once daily lopinavir and ritonavir capsules or tablets while taking this medicine.",
+    "Some patients report at the time of treatment discontinuation.. while taking this medicine.",
+    "A possible treatment-related effect includes commonly reported adverse reactions to lopinavir and ritonavir included diarrhea, nausea, vomiting, hypertriglyceridemia and hypercholesterolemia.",
+    "A possible treatment-related effect includes diarrhea, nausea and vomiting may occur at the beginning of the treatment while hypertriglyceridemia and hypercholesterolemia may occur later."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when the following have been identified as adverse reactions of moderate or severe intensity (Table 8): Table 8."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to lopinavir and ritonavir...",
+    "breastfeeding": "Healthcare providers evaluate risk when 8.3 Females and Males of Reproductive Potential Contraception Use of lopinavir and ritonavir may reduce the efficacy of combined hormonal contraceptives.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Co-administration of lopinavir and ritonavir can alter the plasma concentrations of other drugs and other drugs may alter the plasma conc...",
+      "Healthcare providers evaluate risk when the potential for drug-drug interactions must be considered prior to and during therapy.",
+      "Extra caution is needed because agents that are extensively metabolized by CYP3A and have high first pass metabolism appear to be the most susceptible to large increases in AUC (> 3-fold) w...",
+      "Extra caution is needed because thus...",
+      "Extra caution is needed because co-administration with other CYP3A substrates may require a dose adjustment or additional monitoring as shown in Table 12.",
+      "Extra caution is needed because additionally, lopinavir and ritonavir induces glucuronidation."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Lopinavir and ritonavir information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Lopinavir and ritonavir on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "uti",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2021-06-05T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22ritonavir%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:03.068Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=lopinavir%20and%20ritonavir",
+      "accessedAt": "2026-07-12T12:02:03.068Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

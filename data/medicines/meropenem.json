@@ -1,0 +1,89 @@
+{
+  "slug": "meropenem",
+  "genericName": "Meropenem",
+  "brandNames": [
+    "MEROPENEM"
+  ],
+  "composition": "MEROPENEM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with when culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.",
+    "This agent is commonly used in care plans involving in the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy."
+  ],
+  "howItWorks": "Meropenem belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an when treating infections caused by pseudomonas aeruginosa , a dose of 1 gram every 8 hours is recommended. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 3) , dosage and administration (2. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report adult Patients During clinical investigations, 2904 immunocompetent adult patients were treated for non-CNS infections with Meropenem for Injection.. while taking this medicine.",
+    "Monitoring is advised because deaths in 5 patients were assessed as possibly related to meropenem may occur.",
+    "A possible treatment-related effect includes 36 (1.2%) patients had meropenem discontinued because of adverse events.",
+    "Some patients report many patients in these trials were severely ill and had multiple background diseases, physiological impairments and were receiving multiple other drug therapies while taking this medicine.",
+    "A possible treatment-related effect includes in the seriously ill patient population...",
+    "Monitoring is advised because the following adverse reaction frequencies were derived from the clinical trials in the 2904 patients treated with Meropenem for Injection, USP may occur.",
+    "A possible treatment-related effect includes additional systemic adverse events that were reported with Meropenem for Injection...",
+    "A possible treatment-related effect includes the most common adverse events occurring in greater than 5% of the patients were: headache (7.8%), nausea (7.8%), constipation (7.0%), diarrhea (7.0%)..."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because many patients in these trials were severely ill and had multiple background diseases, physiological impairments and were receiving multiple other drug therapies.",
+    "Healthcare providers evaluate risk when in the seriously ill patient population...",
+    "Patients should discuss safety when pediatric Patients: Systemic and Local Adverse Reactions Pediatric Patients with Serious Bacterial Infections (excluding Bacterial Meningitis): Meropenem for..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary There are insufficient human data to establish whether there is a drug-associated risk of major birth defects or miscarriages with...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Co-administration of Meropenem for Injection, USP with probenecid inhibits renal excretion of meropenem and is therefore not recommended.",
+      "Patients should discuss safety when antibacterial drugs other than carbapenems should be considered to treat infections in patients whose seizures are well controlled on valproic acid or divalp...",
+      "Extra caution is needed because co-administration of probenecid with meropenem is not recommended.",
+      "Patients should discuss safety when the valproic acid concentrations may drop below the therapeutic range as a result of this interaction, therefore increasing the risk of breakthrough seizures.",
+      "Extra caution is needed because although the mechanism of this interaction is unknown...",
+      "Extra caution is needed because if administration of Meropenem for Injection, USP is necessary..."
+    ]
+  },
+  "storage": "From a clinical perspective, conditions Store at 20° to 25°C (68° to 77°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Meropenem information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Meropenem on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-07-10T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22meropenem%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:44.563Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=meropenem",
+      "accessedAt": "2026-07-12T12:00:44.563Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

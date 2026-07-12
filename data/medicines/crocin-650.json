@@ -40,6 +40,8 @@
   ],
   "warnings": [
     "Crocin is a leading paracetamol brand in India manufactured by GSK. This page is informational, not promotional.",
+    "Crocin is a leading paracetamol brand in India manufactured by GSK. This page is informational, not promotional.",
+    "Crocin is a leading paracetamol brand in India manufactured by GSK. This page is informational, not promotional.",
     "Do not exceed prescribed dose",
     "Inform doctor of all medications",
     "Not for self-medication without consultation"
@@ -60,7 +62,8 @@
   "alternatives": [],
   "relatedDiseases": [
     "fever",
-    "headache"
+    "headache",
+    "typhoid"
   ],
   "faqs": [
     {
@@ -74,11 +77,6 @@
   ],
   "popular": true,
   "updatedAt": "2026-07-01",
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
-    "lastReviewed": "2026-07-12"
-  },
   "sources": [
     {
       "name": "WHO Model Formulary",
@@ -90,5 +88,8 @@
       "url": "https://ipc.gov.in/",
       "accessedAt": "2026-07-12"
     }
-  ]
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

@@ -70,7 +70,8 @@
   ],
   "relatedMedicines": [
     "paracetamol",
-    "dolo-650"
+    "dolo-650",
+    "fluoxetine-hydrochloride"
   ],
   "faqs": [
     {
@@ -90,11 +91,6 @@
     "Neck stiffness with headache (meningitis concern)",
     "Confusion, rash with hypotension, or breathing difficulty"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
   "sources": [
     {
       "name": "MedlinePlus",
@@ -107,5 +103,12 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
+  "relatedSlugs": [
+    "cbc",
+    "blood-sugar-fasting"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

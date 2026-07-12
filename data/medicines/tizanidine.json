@@ -1,0 +1,87 @@
+{
+  "slug": "tizanidine",
+  "genericName": "Tizanidine",
+  "brandNames": [
+    "tizanidine"
+  ],
+  "composition": "TIZANIDINE HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Tizanidine is indicated for the treatment of spasticity in adults.",
+    "This agent is commonly used in care plans involving tizanidine is a central alpha-2-adrenergic agonist indicated for the treatment of spasticity."
+  ],
+  "howItWorks": "Tizanidine belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 1 ) recommended starting dose: 2 mg by mouth every 6 to 8 hours, as needed, up to a maximum of 3 doses in 24 hours ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because the safety of tizanidine has been evaluated in three double-blind, randomized, placebo-controlled clinical studies [see Clinical Studies ( 14 )] may occur.",
+    "Some patients report two studies were conducted in patients with multiple sclerosis and one in patients with spinal cord injury while taking this medicine.",
+    "Some patients report each study had a 13-week active treatment period which included a 3-week titration phase to the maximum tolerated dose up to 36 mg/day in three divided doses.. while taking this medicine.",
+    "A possible treatment-related effect includes in all, 264 patients received tizanidine and 261 patients received placebo.",
+    "Monitoring is advised because across the three studies approximately 51% of patients were women, and the median dose during the plateau phase ranged from 20 to 28 mg/day may occur.",
+    "Some patients report the most common adverse reactions (>10% of patients treated with tizanidine) reported in multiple dose.. while taking this medicine.",
+    "A possible treatment-related effect includes three-quarters of the patients rated the reactions as mild to moderate and one-quarter of the patients rated the reactions as being severe.",
+    "Some patients report these adverse reactions appeared to be dose related while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when three-quarters of the patients rated the reactions as mild to moderate and one-quarter of the patients rated the reactions as being severe."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Moderate or weak CYP1A2 inhibitors: avoid concomitant use.",
+      "Patients should discuss safety when may cause hypotension, bradycardia, or excessive drowsiness.",
+      "Healthcare providers evaluate risk when if concomitant use is necessary and adverse reactions occur, reduce tizanidine dosage or discontinue.",
+      "Extra caution is needed because if concomitant use is clinically necessary, and adverse reactions such as hypotension, bradycardia, or excessive drowsiness occur...",
+      "Patients should discuss safety when however, if concomitant use is clinically necessary and adverse reactions such as hypotension, bradycardia, or excessive drowsiness occur...",
+      "Patients should discuss safety when this was associated with an increase in adverse reactions of tizanidine."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Tizanidine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Tizanidine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-03-11T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22tizanidine%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:18.645Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=tizanidine",
+      "accessedAt": "2026-07-12T12:02:18.645Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

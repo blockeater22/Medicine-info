@@ -1,0 +1,87 @@
+{
+  "slug": "primaquine-phosphate",
+  "genericName": "Primaquine phosphate",
+  "brandNames": [
+    "PRIMAQUINE PHOSPHATE"
+  ],
+  "composition": "PRIMAQUINE PHOSPHATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with primaquine phosphate is indicated for the radical cure (prevention of relapse) of vivax malaria."
+  ],
+  "howItWorks": "Primaquine Phosphate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an primaquine phosphate tablets can be taken with or without food. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes to report SUSPECTED ADVERSE REACTIONS, please call Ingenus Pharmaceuticals...",
+    "Monitoring is advised because hematologic: Leukopenia, hemolytic anemia, decreased hemoglobin, methemoglobinemia may occur.",
+    "Some patients report hemolytic anemia occurs commonly in patients with G6PD deficiency and may be severe or fatal in patients with severe G6PD deficiency (see WARNINGS ) while taking this medicine.",
+    "Monitoring is advised because methemoglobin levels are usually <10%.. may occur.",
+    "A possible treatment-related effect includes leukopenia was observed in patients with rheumatoid arthritis or lupus erythematosus (see PRECAUTIONS ).",
+    "Monitoring is advised because cardiac: Cardiac arrhythmia and QT interval prolongation (see PRECAUTIONS , OVERDOSAGE ) may occur.",
+    "Monitoring is advised because nervous System: Dizziness may occur.",
+    "A possible treatment-related effect includes skin and Soft Tissue: Rash, pruritus."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because hemolytic anemia occurs commonly in patients with G6PD deficiency and may be severe or fatal in patients with severe G6PD deficiency (see WARNINGS ).",
+    "Patients should discuss safety when methemoglobin levels are usually <10%..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Extra caution is needed because nursing Mothers A breastfed infant with G6PD deficiency is at risk for hemolytic anemia from exposure to primaquine.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because drug Interactions Pharmacodynamics Interactions Quinacrine Concurrent use of quinacrine (mepacrine) and primaquine are contraindicated.",
+      "Healthcare providers evaluate risk when increased toxicity was seen when quinacrine was used with pamaquine, another 8-aminoquinoline (see CONTRAINDICATIONS ).",
+      "Patients should discuss safety when hemolytic Agents and Methemoglobinemia-Inducing Drugs The concurrent administration of hemolytic agents or methemoglobinemia-inducing drugs and primaquine sh...",
+      "Healthcare providers evaluate risk when if the concurrent administration cannot be avoided, close blood monitoring is required.",
+      "Healthcare providers evaluate risk when qT Interval Prolonging Drugs The pharmacodynamic interaction potential to prolong the QT interval of the electrocardiogram between primaquine and other drugs...",
+      "Patients should discuss safety when if primaquine is used concomitantly with other drugs that prolong the QT interval..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Primaquine phosphate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Primaquine phosphate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-04-02T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22primaquine%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:04.262Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=primaquine%20phosphate",
+      "accessedAt": "2026-07-12T12:02:04.262Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

@@ -42,6 +42,8 @@
   ],
   "warnings": [
     "Common Indian brands include Mox and Novamox. Available only on prescription in India.",
+    "Common Indian brands include Mox and Novamox. Available only on prescription in India.",
+    "Common Indian brands include Mox and Novamox. Available only on prescription in India.",
     "Do not exceed prescribed dose",
     "Inform doctor of all medications",
     "Not for self-medication without consultation"
@@ -78,11 +80,6 @@
   ],
   "popular": true,
   "updatedAt": "2026-07-01",
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
-    "lastReviewed": "2026-07-12"
-  },
   "sources": [
     {
       "name": "WHO Model Formulary",
@@ -94,5 +91,8 @@
       "url": "https://ipc.gov.in/",
       "accessedAt": "2026-07-12"
     }
-  ]
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

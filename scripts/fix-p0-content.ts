@@ -42,13 +42,10 @@ function fixMedicines() {
       }
     }
 
-    if (!data.authoredBy) {
-      data.authoredBy = {
-        authorId: "dr-priya-sharma",
-        reviewerId: "dr-rajesh-kumar",
-        lastReviewed: "2026-07-12",
-      };
+    if (!data.contentReview && !data.authoredBy) {
+      data.contentReview = { lastReviewed: "2026-07-12" };
     }
+    delete data.authoredBy;
 
     if (!data.sources || (data.sources as unknown[]).length < 2) {
       data.sources = [
@@ -90,6 +87,31 @@ function fixDiseases() {
       data.complications = override.complications;
       data.emergencySigns = override.emergencySigns;
       if (override.category) data.category = override.category;
+    } else if (hasGeneric) {
+      const name = String(data.name ?? slug);
+      const boilerplatePatterns = [
+        ...GENERIC_DISEASE_MARKERS,
+        "Health professionals note that",
+        "Patients should discuss safety when",
+        "From a clinical perspective, multiple genetic",
+      ];
+
+      const strip = (items: unknown) => {
+        if (!Array.isArray(items)) return items;
+        const cleaned = (items as string[]).filter(
+          (item) => !boilerplatePatterns.some((m) => item.toLowerCase().includes(m.toLowerCase()))
+        );
+        return cleaned.length ? cleaned : [`${name}: see a doctor for personalized ${String(items === data.causes ? "cause" : "care")} guidance.`];
+      };
+
+      for (const key of ["symptoms", "causes", "riskFactors", "diagnosis", "treatment", "prevention", "complications", "emergencySigns"]) {
+        data[key] = strip(data[key]);
+      }
+
+      const overview = String(data.overview ?? "");
+      if (boilerplatePatterns.some((m) => overview.toLowerCase().includes(m.toLowerCase())) || overview.includes("care planning in India and worldwide")) {
+        data.overview = `${name} is a health condition that requires individualized medical assessment. Symptoms, causes, and treatment vary by person — consult a qualified doctor in India for diagnosis and a care plan tailored to your history and local guidelines.`;
+      }
     }
 
     // Normalize website-format fields when present
@@ -97,13 +119,10 @@ function fixDiseases() {
       data.emergencyWarningSigns = data.emergencySigns;
     }
 
-    if (!data.authoredBy) {
-      data.authoredBy = {
-        authorId: "dr-priya-sharma",
-        reviewerId: "dr-ananya-mehta",
-        lastReviewed: "2026-07-12",
-      };
+    if (!data.contentReview && !data.authoredBy) {
+      data.contentReview = { lastReviewed: "2026-07-12" };
     }
+    delete data.authoredBy;
 
     if (!data.sources || (data.sources as unknown[]).length < 2) {
       data.sources = [
@@ -121,7 +140,7 @@ function fixDiseases() {
   return fixed;
 }
 
-function injectAuthorship() {
+function injectContentReview() {
   const dirs = ["medicines", "diseases", "symptoms", "tests", "articles", "calculators", "first-aid"];
   let count = 0;
 
@@ -134,18 +153,23 @@ function injectAuthorship() {
       const data = JSON.parse(fs.readFileSync(filePath, "utf-8")) as Record<string, unknown>;
       let changed = false;
 
-      if (!data.authoredBy) {
-        data.authoredBy = {
-          authorId: "dr-priya-sharma",
-          reviewerId: dirName === "articles" ? "dr-ananya-mehta" : "dr-rajesh-kumar",
-          lastReviewed: "2026-07-12",
+      if (!data.contentReview) {
+        const legacy = data.authoredBy as { lastReviewed?: string } | undefined;
+        data.contentReview = {
+          lastReviewed: legacy?.lastReviewed ?? "2026-07-12",
         };
         changed = true;
       }
-
-      if (dirName === "articles" && data.author === "Doctors Hub Medical Team") {
-        data.author = "Dr. Priya Sharma, MBBS, MD";
+      if (data.authoredBy) {
+        delete data.authoredBy;
         changed = true;
+      }
+
+      if (dirName === "articles" && typeof data.author === "string") {
+        if (/dr\.|medical team|physician|mbbs|md\b/i.test(data.author)) {
+          data.author = "Doctors Hub Editorial";
+          changed = true;
+        }
       }
 
       if (changed) {
@@ -167,9 +191,9 @@ function main() {
   const diseases = fixDiseases();
   console.log(`Fixed ${diseases} diseases\n`);
 
-  console.log("Injecting authorship on remaining entities...");
-  const auth = injectAuthorship();
-  console.log(`Updated authorship on ${auth} files\n`);
+  console.log("Injecting content review metadata on remaining entities...");
+  const auth = injectContentReview();
+  console.log(`Updated content review on ${auth} files\n`);
 
   console.log("P0 content repair complete.");
 }

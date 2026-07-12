@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import { getAllLabTests, getLabTest } from "@/lib/data";
 import { buildMetadata, medicalTestSchema, medicalWebPageSchema, faqSchema, JsonLd } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
-import { AuthorBlock } from "@/components/shared/author-block";
+import { EditorialAttribution } from "@/components/shared/editorial-attribution";
 import { ContentSection, ContentList } from "@/components/shared/content-section";
 import { FAQAccordion } from "@/components/shared/faq-accordion";
 import { MedicalDisclaimer } from "@/components/shared/medical-disclaimer";
@@ -47,7 +47,7 @@ export default async function LabTestPage({ params }: { params: Promise<{ slug: 
         <span className="text-sm font-medium text-primary">{test.category}</span>
         <h1 className="text-3xl md:text-4xl font-bold mt-1 mb-4">{test.name}</h1>
         <p className="text-lg leading-relaxed">{test.description}</p>
-        <AuthorBlock authoredBy={test.authoredBy} className="mt-4" />
+        <EditorialAttribution contentReview={test.contentReview} updatedAt={test.updatedAt} className="mt-4" />
         <div className="mt-4"><ShareButtons url={`/lab-test/${slug}`} title={test.name} /></div>
       </header>
 

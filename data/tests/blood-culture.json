@@ -1,0 +1,57 @@
+{
+  "slug": "blood-culture",
+  "name": "Blood Culture",
+  "overview": "Blood Culture is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include a blood culture is a medical laboratory test used to detect bacteria or fungi in a person's blood; under normal conditions, the blood does not contain microorganisms: their presence can indicate a bloodstream infection such as bacteremia or fungemia, which in severe cases may result in sepsis; by culturing the blood, microbes can be identified and tested for resistance to antimicrobial drugs, which allows clinicians to provide an effective treatment. This summary is educational and should be paired with professional medical evaluation.",
+  "purpose": [
+    "Health professionals note that a blood culture is a medical laboratory test used to detect bacteria or fungi in a person's blood.",
+    "From a clinical perspective, under normal conditions, the blood does not contain microorganisms: their presence can indicate a bloodstream infection such as bacteremia or fungemia...",
+    "Health professionals note that by culturing the blood, microbes can be identified and tested for resistance to antimicrobial drugs, which allows clinicians to provide an effective treatment."
+  ],
+  "preparation": [
+    "From a clinical perspective, confirm fasting requirements with your lab.",
+    "In routine practice, bring prior reports and medication list."
+  ],
+  "procedure": [
+    "From a clinical perspective, sample collection at a certified laboratory.",
+    "Health professionals note that results reviewed by qualified personnel."
+  ],
+  "normalRange": "Reference intervals vary by laboratory method, age, sex, and clinical context. Interpret results with your doctor.",
+  "highMeaning": [
+    "From a clinical perspective, may indicate active disease, inflammation, or organ stress depending on the analyte."
+  ],
+  "lowMeaning": [
+    "In routine practice, may suggest deficiency, suppression, or reduced production depending on the analyte."
+  ],
+  "interpretation": [
+    "In routine practice, compare with previous results for trends.",
+    "In routine practice, correlate with symptoms and examination.",
+    "In routine practice, single abnormal values may require repeat testing."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Blood Culture information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Do I need fasting before Blood Culture?",
+      "answer": "Preparation depends on the exact test order. Follow the instructions provided by your laboratory or physician."
+    }
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T12:02:47.882Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blood_culture",
+      "accessedAt": "2026-07-12T12:02:47.882Z"
+    },
+    {
+      "name": "LOINC",
+      "url": "https://loinc.org/",
+      "accessedAt": "2026-07-12T12:02:47.882Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

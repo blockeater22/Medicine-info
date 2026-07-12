@@ -1,0 +1,88 @@
+{
+  "slug": "tobramycin",
+  "genericName": "Tobramycin",
+  "brandNames": [
+    "Tobramycin"
+  ],
+  "composition": "TOBRAMYCIN SULFATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving skin, bone, and skin structure infections caused by P.",
+    "Clinicians may prescribe this medicine when managing aminoglycosides, including tobramycin...",
+    "Clinicians may prescribe this medicine when managing tobramycin may be considered in serious staphylococcal infections when penicillin or other potentially less toxic drugs are contraindicated and when bacteria...",
+    "Medical teams consider this option for patients needing support with bacterial cultures should be obtained prior to and during treatment to isolate and identify etiologic organisms and to test their susceptibility to tobramycin.",
+    "Clinicians may prescribe this medicine when managing if susceptibility tests show that the causative organisms are resistant to tobramycin, other appropriate therapy should be instituted.",
+    "Medical teams consider this option for patients needing support with in patients in whom a serious life-threatening gram- negative infection is suspected..."
+  ],
+  "howItWorks": "Tobramycin belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration tobramycin may be given intramuscularly or intravenously. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes neurotoxicity — Adverse effects on both the vestibular and auditory branches of the eighth nerve have been noted...",
+    "Some patients report symptoms include dizziness, vertigo, tinnitus, roaring in the ears, and hearing loss while taking this medicine.",
+    "Monitoring is advised because hearing loss is usually irreversible and is manifested initially by diminution of high-tone acuity may occur.",
+    "A possible treatment-related effect includes tobramycin and gentamicin sulfates closely parallel each other in regard to ototoxic potential.",
+    "Monitoring is advised because nephrotoxicity — Renal function changes, as shown by rising BUN, NPN, and serum creatinine and by oliguria, cylindruria, and increased proteinuria.. may occur.",
+    "Monitoring is advised because adverse renal effects can occur in patients with initially normal renal function may occur.",
+    "Some patients report clinical studies and studies in experimental animals have been conducted to compare the nephrotoxic potential of tobramycin and gentamicin while taking this medicine.",
+    "A possible treatment-related effect includes in some of the clinical studies and in the animal studies, tobramycin caused nephrotoxicity significantly less frequently than gentamicin."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when wARNINGS box above.",
+    "Patients should discuss safety when this product contains sodium metabisulfite, a sulfite that may cause allergic-type reactions...",
+    "Extra caution is needed because the overall prevalence of sulfite sensitivity in the general population is unknown and probably low."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Tobramycin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Tobramycin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "uti",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-02-27T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22tobramycin%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:12.268Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=tobramycin",
+      "accessedAt": "2026-07-12T12:02:12.268Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

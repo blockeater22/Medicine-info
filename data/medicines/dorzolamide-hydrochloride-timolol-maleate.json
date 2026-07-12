@@ -1,0 +1,84 @@
+{
+  "slug": "dorzolamide-hydrochloride-timolol-maleate",
+  "genericName": "Dorzolamide hydrochloride timolol maleate",
+  "brandNames": [
+    "DORZOLAMIDE HYDROCHLORIDE TIMOLOL MALEATE"
+  ],
+  "composition": "DORZOLAMIDE HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS & USAGE Dorzolamide hydrochloride and timolol maleate ophthalmic solution is indicated for the reduction of elevated intraocular pressure (IOP)...",
+    "Clinicians may prescribe this medicine when managing the IOP-lowering of dorzolamide hydrochloride and timolol maleate ophthalmic solution administered twice a day was slightly less than that seen with the conc...",
+    "Clinicians may prescribe this medicine when managing dorzolamide hydrochloride and timolol maleate ophthalmic solution is a combination of dorzolamide hydrochloride, a carbonic anhydrase inhibitor...",
+    "This agent is commonly used in care plans involving the IOP-lowering of dorzolamide hydrochloride and timolol maleate ophthalmic solution twice daily was slightly less than that seen with the concomitant admin..."
+  ],
+  "howItWorks": "Dorzolamide Hydrochloride Timolol Maleate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an safety and efficacy in pediatric patients below the age of 2 years have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because 6 ADVERSE REACTIONS The most frequently reported adverse reactions were taste perversion (bitter, sour.. may occur.",
+    "Monitoring is advised because dorzolamide hydrochloride and timolol maleate ophthalmic solution was evaluated in 1.. may occur.",
+    "Some patients report approximately 5% of all patients discontinued therapy because of adverse reactions while taking this medicine.",
+    "Monitoring is advised because the most frequently reported adverse reactions occurring in up to 30% of patients were taste perversion (bitter, sour.. may occur.",
+    "Monitoring is advised because the following adverse reactions were reported in 5 to15% of patients: conjunctival hyperemia, blurred vision, superficial punctate keratitis or eye itching may occur.",
+    "A possible treatment-related effect includes other adverse reactions that have been reported with the individual components are listed below: Dorzolamide 2% Angioedema, asthenia/fatigue, bronchospasm...",
+    "Monitoring is advised because timolol (ocular administration) Body as a Whole: Asthenia/fatigue may occur.",
+    "Monitoring is advised because cardiovascular: Arrhythmia, syncope, cerebral ischemia, worsening of angina pectoris, palpitation, cardiac arrest, pulmonary edema, edema, claudication.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because and although administered topically, is absorbed systemically.",
+    "Patients should discuss safety when therefore...",
+    "Patients should discuss safety when in patients without a history of cardiac failure continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Teratogenic Effects.",
+    "breastfeeding": "Patients should discuss safety when 8.3 Nursing Mothers It is not known whether dorzolamide is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because there have been no reports of exacerbation of rebound hypertension with ophthalmic timolol maleate."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Dorzolamide hydrochloride timolol maleate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Dorzolamide hydrochloride timolol maleate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "uti"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22timolol%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:10.229Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=dorzolamide%20hydrochloride%20timolol%20maleate",
+      "accessedAt": "2026-07-12T12:02:10.229Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "blood-urea-nitrogen",
+  "name": "Blood Urea Nitrogen",
+  "overview": "Blood Urea Nitrogen is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include blood urea nitrogen (bun) is a medical test that measures the amount of urea nitrogen found in blood; the liver produces urea in the urea cycle as a waste product of the digestion of protein; normal human adult blood should contain 7 to 18 mg/dl of urea nitrogen. This summary is educational and should be paired with professional medical evaluation.",
+  "purpose": [
+    "From a clinical perspective, blood urea nitrogen (BUN) is a medical test that measures the amount of urea nitrogen found in blood.",
+    "In routine practice, the liver produces urea in the urea cycle as a waste product of the digestion of protein.",
+    "From a clinical perspective, normal human adult blood should contain 7 to 18 mg/dL of urea nitrogen.",
+    "From a clinical perspective, individual laboratories may have different reference ranges, as they may use different assays.",
+    "Health professionals note that the test is used to detect kidney problems."
+  ],
+  "preparation": [
+    "From a clinical perspective, confirm fasting requirements with your lab.",
+    "In routine practice, bring prior reports and medication list."
+  ],
+  "procedure": [
+    "From a clinical perspective, sample collection at a certified laboratory.",
+    "Health professionals note that results reviewed by qualified personnel."
+  ],
+  "normalRange": "Reference intervals vary by laboratory method, age, sex, and clinical context. Interpret results with your doctor.",
+  "highMeaning": [
+    "From a clinical perspective, may indicate active disease, inflammation, or organ stress depending on the analyte."
+  ],
+  "lowMeaning": [
+    "In routine practice, may suggest deficiency, suppression, or reduced production depending on the analyte."
+  ],
+  "interpretation": [
+    "In routine practice, compare with previous results for trends.",
+    "In routine practice, correlate with symptoms and examination.",
+    "In routine practice, single abnormal values may require repeat testing."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Blood Urea Nitrogen information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Do I need fasting before Blood Urea Nitrogen?",
+      "answer": "Preparation depends on the exact test order. Follow the instructions provided by your laboratory or physician."
+    }
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T12:02:42.245Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blood_urea_nitrogen",
+      "accessedAt": "2026-07-12T12:02:42.245Z"
+    },
+    {
+      "name": "LOINC",
+      "url": "https://loinc.org/",
+      "accessedAt": "2026-07-12T12:02:42.245Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

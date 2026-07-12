@@ -1,0 +1,79 @@
+{
+  "slug": "magnesium-sulfate-in-dextrose",
+  "genericName": "Magnesium sulfate in dextrose",
+  "brandNames": [
+    "Magnesium Sulfate in Dextrose"
+  ],
+  "composition": "MAGNESIUM SULFATE HEPTAHYDRATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing management of conditions associated with magnesium sulfate in dextrose."
+  ],
+  "howItWorks": "Magnesium Sulfate In Dextrose belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration • administer via intravenous infusion pump ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes 6 ADVERSE REACTIONS The following adverse reactions have been identified in clinical studies or postmarketing reports.",
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine.",
+    "Monitoring is advised because bradycardia, pulmonary edema, decreased respiratory rate, lethargy, sedation, somnolence, visual disturbances.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when in addition, cases of neonatal fracture have been reported.",
+    "Patients should discuss safety when neonates of women receiving Magnesium Sulfate in 5% Dextrose Injection (especially with prolonged maternal use) are at risk for magnesium toxicity including ...",
+    "Healthcare providers evaluate risk when there is one reported case of neonatal death as the result of magnesium toxicity after transplacental exposure."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary Magnesium Sulfate in 5% Dextrose Injection is indicated in pregnant women for the prevention of eclampsia in women with preeclamps...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Table 1 presents the potential clinical impact of medications that may be commonly administered concomitantly with Magnesium Sulfate in 5...",
+      "Extra caution is needed because table 1: Potential Clinically Significant Drug Interactions with Magnesium Sulfate in 5% Dextrose Injection For drug incompatibility information [see Dosage ...",
+      "Patients should discuss safety when intervention: • Monitor respiration and the depth of neuromuscular blockade frequently (e.g....",
+      "Patients should discuss safety when the amount of reversal agent(s) required to achieve adequate reversal of the neuromuscular blocking agent(s) may also be increased.",
+      "Extra caution is needed because examples: • Depolarizing neuromuscular blockers: succinylcholine • Non-depolarizing neuromuscular blockers: atracurium, cisatracurium, pancuronium...",
+      "Extra caution is needed because the potential for magnesium sulfate to affect other CNS depressants is unknown [see Clinical Pharmacology (12.2) ]."
+    ]
+  },
+  "storage": "From a clinical perspective, store at 20°C to 25°C (68°F to 77°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Magnesium sulfate in dextrose information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Magnesium sulfate in dextrose on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-04-23T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22magnesium%20sulfate%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:09.120Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=magnesium%20sulfate%20in%20dextrose",
+      "accessedAt": "2026-07-12T12:02:09.120Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

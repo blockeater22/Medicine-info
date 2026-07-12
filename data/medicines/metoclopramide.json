@@ -69,8 +69,9 @@
   ],
   "relatedMedicines": [],
   "relatedDiseases": [
+    "allergies",
     "common-cold",
-    "uti"
+    "fever"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2025-04-11T00:00:00.000Z",
@@ -78,17 +79,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22metoclopramide%22&limit=1",
-      "accessedAt": "2026-07-12T06:31:53.570Z"
+      "accessedAt": "2026-07-12T12:01:20.094Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=metoclopramide",
-      "accessedAt": "2026-07-12T06:31:53.570Z"
+      "accessedAt": "2026-07-12T12:01:20.094Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

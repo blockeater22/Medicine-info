@@ -32,7 +32,7 @@ export const metadata = buildMetadata({
 const HOME_FAQS = [
   { question: "Is Doctors Hub free to use?", answer: "Yes, Doctors Hub is completely free. All medical information, calculators, and guides are available at no cost." },
   { question: "Can I use this information instead of seeing a doctor?", answer: "No. Our content is for educational purposes only. Always consult a qualified healthcare professional for diagnosis and treatment." },
-  { question: "How often is content updated?", answer: "Our medical team regularly reviews and updates content to ensure accuracy and relevance." },
+  { question: "How often is content updated?", answer: "We follow our content review process and update pages when guidelines change, errors are reported, or on a scheduled review cycle." },
   { question: "Does Doctors Hub sell medicines?", answer: "No. We provide information only. We do not sell or prescribe medicines." },
 ];
 
@@ -43,7 +43,7 @@ const categories = [
   { title: "Symptoms", description: "Causes, remedies, when to see a doctor", href: "/symptoms", icon: Activity },
   { title: "Calculators", description: "BMI, BMR, pregnancy and more", href: "/calculators", icon: Calculator },
   { title: "First Aid", description: "Emergency step-by-step guides", href: "/first-aid", icon: Siren },
-  { title: "Articles", description: "Expert health articles and tips", href: "/articles", icon: BookOpen },
+  { title: "Articles", description: "Health articles and educational resources", href: "/articles", icon: BookOpen },
 ];
 
 export default function HomePage() {

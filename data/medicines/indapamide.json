@@ -1,0 +1,92 @@
+{
+  "slug": "indapamide",
+  "genericName": "Indapamide",
+  "brandNames": [
+    "Indapamide"
+  ],
+  "composition": "INDAPAMIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Thiazide-like Diuretic [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with iNDICATIONS Indapamide tablets are indicated for the treatment of hypertension, alone or in combination with other antihypertensive drugs.",
+    "Clinicians may prescribe this medicine when managing indapamide tablets are also indicated for the treatment of salt and fluid retention associated with congestive heart failure.",
+    "Clinicians may prescribe this medicine when managing usage in Pregnancy : The routine use of diuretics in an otherwise healthy woman is inappropriate and exposes mother and fetus to unnecessary hazard (see PREC...",
+    "Medical teams consider this option for patients needing support with diuretics do not prevent development of toxemia of pregnancy, and there is no satisfactory evidence that they are useful in the treatment of developed toxemia.",
+    "This agent is commonly used in care plans involving edema during pregnancy may arise from pathological causes or from the physiologic and mechanical consequences of pregnancy.",
+    "This agent is commonly used in care plans involving indapamide is indicated in pregnancy when edema is due to pathologic causes, just as it is in the absence of pregnancy (however, see PRECAUTIONS below)."
+  ],
+  "howItWorks": "Indapamide belongs to the thiazide-like diuretic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage & administration hypertension : the adult starting indapamide dose for hypertension is 1. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use : safety and effectiveness of indapamide in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report most adverse effects have been mild and transient while taking this medicine.",
+    "A possible treatment-related effect includes the clinical adverse reactions listed in Table 1 represent data from Phase II/III placebo-controlled studies (306 patients given indapamide 1.25 mg).",
+    "A possible treatment-related effect includes the clinical adverse reactions listed in Table 2 represent data from Phase II placebo-controlled studies and long-term controlled clinical trials (426patient...",
+    "Monitoring is advised because the reactions are arranged into two groups: 1) a cumulative incidence equal to or greater than 5% may occur.",
+    "Monitoring is advised because 2)a cumulative incidence less than 5% may occur.",
+    "A possible treatment-related effect includes reactions are counted regardless of relation to drug.",
+    "Some patients report approximately 4% of patients given indapamide 1.25 mg compared to 5% of the patients given placebo discontinued treatment in the trials of up to eight weeks .. while taking this medicine.",
+    "Some patients report in controlled clinical trials of six to eight weeks in duration, 20% of patients receiving indapamide 1.25 mg, 61% of patients receiving indapamide 5.0 mg.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when severe cases of hyponatremia, accompanied by hypokalemia have been reported with recommended doses of indapamide.",
+    "Healthcare providers evaluate risk when this occurred primarily in elderly females.",
+    "Extra caution is needed because also, a large case-controlled pharmacoepidemiology study indicates that there is an increased risk of hyponatremia with indapamide 2.5 mg and 5 mg doses."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pregnancy : Teratogenic Effects : Reproduction studies have been performed in rats, mice and rabbits at doses up to 6...",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers: It is not known whether this drug is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because drug Interactions Other Antihypertensives : Indapamide may add to or potentiate the action of other antihypertensive drugs.",
+      "Patients should discuss safety when in limited controlled trials that compared the effect of indapamide combined with other antihypertensive drugs with the effect of the other drugs administere...",
+      "Extra caution is needed because lithium : See WARNINGS.",
+      "Patients should discuss safety when post-Sympathectomy Patient : The antihypertensive effect of the drug may be enhanced in the post-sympathectomized patient.",
+      "Healthcare providers evaluate risk when norepinephrine : Indapamide, like the thiazides, may decrease arterial responsiveness to norepinephrine..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Indapamide information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Indapamide on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-06-26T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22indapamide%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:01.149Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=indapamide",
+      "accessedAt": "2026-07-12T12:01:01.149Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

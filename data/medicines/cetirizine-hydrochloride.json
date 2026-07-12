@@ -51,7 +51,8 @@
   "relatedMedicines": [],
   "relatedDiseases": [
     "allergies",
-    "fever"
+    "fever",
+    "typhoid"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2025-04-07T00:00:00.000Z",
@@ -59,17 +60,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22cetirizine%22&limit=1",
-      "accessedAt": "2026-07-12T06:31:35.950Z"
+      "accessedAt": "2026-07-12T12:01:26.780Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=cetirizine%20hydrochloride",
-      "accessedAt": "2026-07-12T06:31:35.950Z"
+      "accessedAt": "2026-07-12T12:01:26.780Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

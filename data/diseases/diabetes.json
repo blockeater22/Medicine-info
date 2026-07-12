@@ -67,7 +67,11 @@
     }
   ],
   "relatedDiseases": [],
-  "relatedMedicines": [],
+  "relatedMedicines": [
+    "fluoxetine-hydrochloride",
+    "clonazepam",
+    "losartan-potassium"
+  ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-07-12T00:00:00.000Z",
   "sources": [
@@ -82,6 +86,10 @@
       "accessedAt": "2026-07-12"
     }
   ],
+  "relatedSlugs": [
+    "urine-routine",
+    "liver-function-tests"
+  ],
   "category": "Endocrine",
   "emergencyWarningSigns": [
     "Confusion or loss of consciousness",
@@ -89,9 +97,7 @@
     "Severe hypoglycaemia with sweating and shakiness",
     "Non-healing foot wound with fever or spreading redness"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

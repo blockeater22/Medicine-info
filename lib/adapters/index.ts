@@ -24,3 +24,4 @@ export {
   coerceArticle,
   coerceCalculator,
 } from "./to-website";
+export { coerceDrugClass } from "./coerce-drug-class";

@@ -65,7 +65,9 @@
   ],
   "relatedMedicines": [],
   "relatedDiseases": [
-    "common-cold"
+    "allergies",
+    "common-cold",
+    "fever"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2024-05-17T00:00:00.000Z",
@@ -73,17 +75,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22clopidogrel%22&limit=1",
-      "accessedAt": "2026-07-12T06:31:41.369Z"
+      "accessedAt": "2026-07-12T12:01:12.227Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=clopidogrel%20bisulfate",
-      "accessedAt": "2026-07-12T06:31:41.369Z"
+      "accessedAt": "2026-07-12T12:01:12.227Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

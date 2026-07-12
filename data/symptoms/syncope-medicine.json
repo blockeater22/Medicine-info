@@ -1,0 +1,51 @@
+{
+  "slug": "syncope-medicine",
+  "name": "Syncope (Medicine)",
+  "overview": "Syncope (Medicine) is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include transient loss of consciousness and postural tone. This summary is educational and should be paired with professional medical evaluation.",
+  "possibleCauses": [
+    "Health professionals note that syncope, commonly known as fainting or passing out, is a loss of consciousness and muscle strength characterized by a fast onset, short duration...",
+    "From a clinical perspective, it is caused by a decrease in blood flow to the brain, typically from low blood pressure.",
+    "From a clinical perspective, there are sometimes symptoms before the loss of consciousness such as lightheadedness, sweating, pale skin, blurred vision, nausea, vomiting, or feeling warm.",
+    "In routine practice, syncope may also be associated with a short episode of muscle twitching.",
+    "In routine practice, psychiatric causes can also be determined when a patient experiences fear, anxiety, or panic."
+  ],
+  "redFlags": [
+    "Patients should discuss safety when sudden severe onset.",
+    "Healthcare providers evaluate risk when associated chest pain or breathing difficulty.",
+    "Extra caution is needed because high fever with confusion.",
+    "Healthcare providers evaluate risk when symptoms after head injury."
+  ],
+  "homeCare": [
+    "Health professionals note that rest and hydration.",
+    "In routine practice, monitor symptom changes.",
+    "In routine practice, use only previously recommended."
+  ],
+  "whenToSeeDoctor": [
+    "From a clinical perspective, symptoms persist beyond several days.",
+    "In routine practice, severity increases.",
+    "From a clinical perspective, new neurological or cardiac features appear."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Syncope (Medicine) information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "When should I worry about syncope (medicine)?",
+      "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
+    }
+  ],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T11:58:03.659Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Syncope_(medicine)",
+      "accessedAt": "2026-07-12T11:58:03.659Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

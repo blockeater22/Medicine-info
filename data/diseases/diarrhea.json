@@ -1,16 +1,6 @@
 {
   "slug": "diarrhea",
   "name": "Diarrhea",
-  "category": "Gastrointestinal",
-  "description": "Complete guide to Diarrhea: symptoms, causes, diagnosis, treatment, and prevention for patients in India.",
-  "seo": {
-    "title": "Diarrhea: Symptoms, Causes, Treatment | Doctors Hub",
-    "description": "Learn about Diarrhea — symptoms, causes, risk factors, diagnosis, treatment options, and prevention tips.",
-    "keywords": [
-      "Diarrhea",
-      "Gastrointestinal"
-    ]
-  },
   "overview": "Diarrhoea is frequent loose stools, often acute and self-limiting from infections. In India, contaminated food and water are common causes; dehydration is the main danger, especially in children.",
   "symptoms": [
     "Three or more loose stools per day",
@@ -43,12 +33,6 @@
     "Antibiotics only for confirmed bacterial dysentery or specific pathogens",
     "Continue feeding; avoid unnecessary fasting"
   ],
-  "homeCare": [
-    "Follow prescribed treatment plan",
-    "Maintain healthy diet",
-    "Adequate rest and hydration",
-    "Monitor symptoms"
-  ],
   "prevention": [
     "Safe water and food hygiene",
     "Hand washing",
@@ -61,39 +45,30 @@
     "Haemolytic uraemic syndrome (some E. coli)",
     "Persistent diarrhoea and malnutrition in children"
   ],
-  "emergencyWarningSigns": [
-    "Severe chest pain",
-    "Difficulty breathing",
-    "Sudden confusion",
-    "High fever with rigors"
-  ],
-  "relatedMedicines": [
-    "metronidazole",
-    "ciprofloxacin"
-  ],
-  "faqs": [
-    {
-      "question": "What causes Diarrhea?",
-      "answer": "Multiple factors including genetics, lifestyle, and environment contribute."
-    },
-    {
-      "question": "Is Diarrhea curable?",
-      "answer": "Many conditions are manageable with proper treatment. Consult your doctor for prognosis."
-    }
-  ],
-  "popular": false,
-  "updatedAt": "2026-07-01",
   "emergencySigns": [
     "No urine for 8+ hours",
     "Sunken eyes, dry mouth, lethargy in children",
     "Blood in stool with high fever",
     "Signs of shock — cold extremities, weak pulse"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
+  "faq": [
+    {
+      "question": "Can I rely on this Diarrhea information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "What should I do if Diarrhea symptoms worsen suddenly?",
+      "answer": "Seek urgent medical care, especially if severe pain, breathing difficulty, confusion, or high fever develops."
+    }
+  ],
+  "relatedDiseases": [],
+  "relatedMedicines": [
+    "fluoxetine-hydrochloride",
+    "clonazepam",
+    "metronidazole"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
   "sources": [
     {
       "name": "MedlinePlus",
@@ -106,5 +81,18 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "relatedSlugs": [
+    "urine-routine",
+    "liver-function-tests"
+  ],
+  "category": "Gastrointestinal",
+  "emergencyWarningSigns": [
+    "No urine for 8+ hours",
+    "Sunken eyes, dry mouth, lethargy in children",
+    "Blood in stool with high fever",
+    "Signs of shock — cold extremities, weak pulse"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

@@ -1,0 +1,55 @@
+{
+  "slug": "memory-disorder",
+  "name": "Memory Disorder",
+  "overview": "Memory Disorder is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include damage to the brain's memory capacity. This summary is educational and should be paired with professional medical evaluation.",
+  "possibleCauses": [
+    "In routine practice, memory loss is the loss of memory, the faculty of the mind by which data or information is encoded, stored, and retrieved when needed.",
+    "From a clinical perspective, memory loss is usually described as forgetfulness, absent-mindedness, or a physical or mental disorder such as amnesia.",
+    "In routine practice, memory loss can be partial or total, and it is normal when it comes with aging.",
+    "In routine practice, sudden memory loss is usually a result of brain trauma and it may be permanent or temporary.",
+    "In routine practice, when it is caused by medical conditions such as Alzheimer's disease, the memory loss is gradual and tends to be permanent."
+  ],
+  "redFlags": [
+    "Patients should discuss safety when sudden severe onset.",
+    "Healthcare providers evaluate risk when associated chest pain or breathing difficulty.",
+    "Extra caution is needed because high fever with confusion.",
+    "Healthcare providers evaluate risk when symptoms after head injury."
+  ],
+  "homeCare": [
+    "Health professionals note that rest and hydration.",
+    "In routine practice, monitor symptom changes.",
+    "In routine practice, use only previously recommended."
+  ],
+  "whenToSeeDoctor": [
+    "From a clinical perspective, symptoms persist beyond several days.",
+    "In routine practice, severity increases.",
+    "From a clinical perspective, new neurological or cardiac features appear."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Memory Disorder information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "When should I worry about memory disorder?",
+      "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
+    }
+  ],
+  "relatedDiseases": [
+    "attention-deficit-hyperactivity-disorder",
+    "autism",
+    "cystic-fibrosis"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T11:57:57.606Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Memory_disorder",
+      "accessedAt": "2026-07-12T11:57:57.606Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

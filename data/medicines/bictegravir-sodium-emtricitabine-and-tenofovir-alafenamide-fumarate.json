@@ -1,0 +1,83 @@
+{
+  "slug": "bictegravir-sodium-emtricitabine-and-tenofovir-alafenamide-fumarate",
+  "genericName": "Bictegravir sodium, emtricitabine, and tenofovir alafenamide fumarate",
+  "brandNames": [
+    "Biktarvy"
+  ],
+  "composition": "BICTEGRAVIR SODIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving management of conditions associated with bictegravir sodium, emtricitabine, and tenofovir alafenamide fumarate."
+  ],
+  "howItWorks": "Bictegravir Sodium, Emtricitabine, And Tenofovir Alafenamide Fumarate belongs to the human immunodeficiency virus nucleoside analog reverse transcriptase inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration testing: prior to or when initiating biktarvy test for hepatitis b virus infection. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 1) , clinical pharmacology (12. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report 6 ADVERSE REACTIONS The following adverse reactions are discussed in other sections of the labeling: Severe Acute Exacerbations of Hepatitis B [see Warnings .. while taking this medicine.",
+    "Monitoring is advised because immune Reconstitution Syndrome [see Warnings and Precautions (5.3) ] may occur.",
+    "Some patients report new Onset or Worsening Renal Impairment [see Warnings and Precautions (5.4) ] while taking this medicine.",
+    "Monitoring is advised because lactic Acidosis/Severe Hepatomegaly with Steatosis [see Warnings and Precautions (5.5) ] may occur.",
+    "A possible treatment-related effect includes clinical Trials in Adults with No Antiretroviral Treatment History The primary safety assessment of BIKTARVY was based on data from two randomized...",
+    "A possible treatment-related effect includes after Week 144, subjects received open-label BIKTARVY in an optional extension phase for an additional 96 weeks (end of study).",
+    "A possible treatment-related effect includes a total of 634 and 1025 subjects received one tablet of BIKTARVY once daily during the double-blind (Week 144) and extension phases...",
+    "Monitoring is advised because the most common adverse reactions (all Grades) reported in at least 5% of subjects in the BIKTARVY group in either Trial 1489 or Trial 1490 were diarrhea.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because 6 ADVERSE REACTIONS The following adverse reactions are discussed in other sections of the labeling: Severe Acute Exacerbations of Hepatitis B [see Warnings ...",
+    "Patients should discuss safety when lactic Acidosis/Severe Hepatomegaly with Steatosis [see Warnings and Precautions (5.5) ]."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to BIKTARVY during pregnancy.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when comprehensive information regarding potential drug-drug interactions with other antiretroviral medications is not provided because the safety and efficacy of...",
+      "Healthcare providers evaluate risk when coadministration of BIKTARVY with drugs that are substrates of OCT2 and MATE1 (e.g., dofetilide) may increase their plasma concentrations (see Table 3 ).",
+      "Healthcare providers evaluate risk when a drug that is a strong inducer of CYP3A and also an inducer of UGT1A1 can substantially decrease the plasma concentrations of BIC which may lead to loss of ...",
+      "Healthcare providers evaluate risk when the use of BIKTARVY with a drug that is a strong inhibitor of CYP3A and also an inhibitor of UGT1A1 may significantly increase the plasma concentrations of BIC.",
+      "Extra caution is needed because tAF is a substrate of P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP).",
+      "Healthcare providers evaluate risk when co-administration of drugs that inhibit P-gp and BCRP may increase the absorption and plasma concentrations of TAF [see Clinical Pharmacology (12.3) ]."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Bictegravir sodium, emtricitabine, and tenofovir alafenamide fumarate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Bictegravir sodium, emtricitabine, and tenofovir alafenamide fumarate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-04-30T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22tenofovir%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:01.735Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=bictegravir%20sodium%2C%20emtricitabine%2C%20and%20tenofovir%20alafenamide%20fumarate",
+      "accessedAt": "2026-07-12T12:02:01.735Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

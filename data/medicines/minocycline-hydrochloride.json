@@ -1,0 +1,91 @@
+{
+  "slug": "minocycline-hydrochloride",
+  "genericName": "Minocycline hydrochloride",
+  "brandNames": [
+    "Minocycline hydrochloride"
+  ],
+  "composition": "MINOCYCLINE HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving minocycline hydrochloride capsules USP are indicated in the treatment of the following infections due to susceptible strains of the designated microorganisms...",
+    "This agent is commonly used in care plans involving respiratory tract infections caused by Mycoplasma pneumoniae.",
+    "Medical teams consider this option for patients needing support with lymphogranuloma venereum caused by Chlamydia trachomatis.",
+    "Clinicians may prescribe this medicine when managing psittacosis (Ornithosis) due to Chlamydophila psittaci.",
+    "Medical teams consider this option for patients needing support with trachoma caused by Chlamydia trachomatis , although the infectious agent is not always eliminated, as judged by immunofluorescence.",
+    "This agent is commonly used in care plans involving inclusion conjunctivitis caused by Chlamydia trachomatis."
+  ],
+  "howItWorks": "Minocycline Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an exceeding the recommended dosage may result in an increased incidence of side effects. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an minocycline capsules (50 mg, 75 mg, and 100 mg) do not contain sodium. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes due to oral minocycline's virtually complete absorption, side effects to the lower bowel, particularly diarrhea, have been infrequent.",
+    "A possible treatment-related effect includes the following adverse reactions have been observed in patients receiving tetracyclines: Body as a whole : Fever and discoloration of secretions.",
+    "Monitoring is advised because gastrointestinal : Anorexia, nausea, vomiting, diarrhea, dyspepsia, stomatitis, glossitis, dysphagia, enamel hypoplasia, enterocolitis.. may occur.",
+    "A possible treatment-related effect includes instances of esophagitis and esophageal ulcerations have been reported in patients taking the tetracycline-class antibiotics in capsule and tablet form.",
+    "A possible treatment-related effect includes most of these patients took the medication immediately before going to bed (see DOSAGE AND ADMINISTRATION ).",
+    "Monitoring is advised because genitourinary : Vulvovaginitis may occur.",
+    "A possible treatment-related effect includes hepatic toxicity : Hyperbilirubinemia, hepatic cholestasis, increases in liver enzymes, fatal hepatic failure, and jaundice.",
+    "Some patients report hepatitis, including autoimmune hepatitis, and liver failure have been reported (see PRECAUTIONS ) while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when hepatic toxicity : Hyperbilirubinemia, hepatic cholestasis, increases in liver enzymes, fatal hepatic failure, and jaundice."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pregnancy Risk Summary All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers Tetracyclines are excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because drug Interactions Because tetracyclines have been shown to depress plasma prothrombin activity...",
+      "Extra caution is needed because since bacteriostatic drugs may interfere with the bactericidal action of penicillin...",
+      "Extra caution is needed because absorption of tetracyclines is impaired by antacids containing aluminum, calcium, or magnesium, and iron-containing preparations.",
+      "Extra caution is needed because concurrent use of tetracyclines with oral contraceptives may render oral contraceptives less effective.",
+      "Extra caution is needed because administration of isotretinoin should be avoided shortly before, during, and shortly after minocycline therapy.",
+      "Healthcare providers evaluate risk when each drug alone has been associated with pseudotumor cerebri (see WARNINGS )."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Minocycline hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Minocycline hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "uti",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-01-01T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22minocycline%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:24.384Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=minocycline%20hydrochloride",
+      "accessedAt": "2026-07-12T12:02:24.384Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "vancomycin-hydrochloride",
+  "genericName": "Vancomycin hydrochloride",
+  "brandNames": [
+    "Vancomycin Hydrochloride"
+  ],
+  "composition": "VANCOMYCIN HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving vancomycin Hydrochloride for Injection...",
+    "Medical teams consider this option for patients needing support with it is indicated for penicillin-allergic patients, for patients who cannot receive or who have failed to respond to other drugs...",
+    "Medical teams consider this option for patients needing support with vancomycin Hydrochloride for Injection, USP is indicated for initial therapy when methicillin-resistant staphylococci are suspected...",
+    "Clinicians may prescribe this medicine when managing vancomycin Hydrochloride for Injection, USP is effective in the treatment of staphylococcal endocarditis.",
+    "Clinicians may prescribe this medicine when managing its effectiveness has been documented in other infections due to staphylococci, including septicemia, bone infections, lower respiratory tract infections...",
+    "This agent is commonly used in care plans involving when staphylococcal infections are localized and purulent, antibiotics are used as adjuncts to appropriate surgical measures."
+  ],
+  "howItWorks": "Vancomycin Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an an infusion rate of 10 mg/min or less is associated with fewer infusion-related events (see adverse reactions ). Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use in pediatric patients, it may be appropriate to confirm desired vancomycin serum concentrations. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an vancomycin dosage schedules should be adjusted in elderly patients (see dosage and administration ). Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes infusion-Related Events During or soon after rapid infusion of vancomycin hydrochloride for injection, patients may develop anaphylactoid reactions...",
+    "Some patients report rapid infusion may also cause flushing of the upper body (“red neck”) or pain and muscle spasm of the chest and back while taking this medicine.",
+    "A possible treatment-related effect includes these reactions usually resolve within 20 minutes but may persist for several hours.",
+    "A possible treatment-related effect includes such events are infrequent if vancomycin hydrochloride for injection is given by a slow infusion over 60 minutes.",
+    "Some patients report in studies of normal volunteers.. while taking this medicine.",
+    "A possible treatment-related effect includes nephrotoxicity Systemic vancomycin exposure may result in acute kidney injury (AKI).",
+    "Monitoring is advised because the risk of AKI increases as systemic exposure/serum levels increase may occur.",
+    "Some patients report additional risk factors for AKI in patients receiving vancomycin include receipt of concomitant drugs known to be nephrotoxic.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because infusion Reactions Rapid bolus administration (e.g., over several minutes) may be associated with exaggerated hypotension...",
+    "Extra caution is needed because vancomycin hydrochloride for injection should be administered in a diluted solution over a period of not less than 60 minutes to avoid rapid-infusion-related...",
+    "Extra caution is needed because stopping the infusion usually results in prompt cessation of these reactions."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pregnancy Teratogenic Effects Animal reproduction studies have not been conducted with vancomycin.",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers Vancomycin hydrochloride for injection is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interactions Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing (see Pediatric...",
+      "Extra caution is needed because monitor renal function in patients receiving vancomycin and concurrent and/or sequential systemic or topical use of other potentially..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Vancomycin hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Vancomycin hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "uti",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-01-30T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22vancomycin%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:44.189Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=vancomycin%20hydrochloride",
+      "accessedAt": "2026-07-12T12:00:44.189Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

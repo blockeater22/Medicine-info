@@ -1,0 +1,86 @@
+{
+  "slug": "sumatriptan",
+  "genericName": "Sumatriptan",
+  "brandNames": [
+    "Sumatriptan"
+  ],
+  "composition": "SUMATRIPTAN SUCCINATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Sumatriptan Injection, USP is indicated in adults for (1) the acute treatment of migraine, with or without aura...",
+    "This agent is commonly used in care plans involving limitations of Use: • Use only if a clear diagnosis of migraine or cluster headache has been established.",
+    "Medical teams consider this option for patients needing support with if a patient has no response to the first migraine attack treated with Sumatriptan Injection reconsider the diagnosis before Sumatriptan Injection is adminis..."
+  ],
+  "howItWorks": "Sumatriptan belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration • for subcutaneous use only (2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because migraine Headache Table 1 lists adverse reactions that occurred in 2 U.S may occur.",
+    "Monitoring is advised because only reactions that occurred at a frequency of 2% or more in groups treated with sumatriptan injection 6 mg and that occurred at a frequency greater than the.. may occur.",
+    "Some patients report the incidence of adverse reactions in controlled clinical trials was not affected by gender or age of the patients while taking this medicine.",
+    "Some patients report there were insufficient data to assess the impact of race on the incidence of adverse reactions while taking this medicine.",
+    "Monitoring is advised because cluster Headache In the controlled clinical trials assessing the efficacy of sumatriptan injection as a treatment for cluster headache (Studies 4 and 5).. may occur.",
+    "Monitoring is advised because overall, the frequency of adverse reactions reported in the trials of cluster headache was generally lower than in the migraine trials may occur.",
+    "A possible treatment-related effect includes exceptions include reports of paresthesia (5% sumatriptan injection, 0% placebo), nausea and vomiting (4% sumatriptan injection, 0% placebo)...",
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS • Myocardial ischemia/infarction and Prinzmetal’s angina: Perform cardiac evaluation in patients with multiple cardiovascular risk...",
+    "Patients should discuss safety when there have been rare reports of serious cardiac adverse reactions, including acute myocardial infarction...",
+    "Patients should discuss safety when some of these reactions occurred in patients without known CAD."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Data from a prospective pregnancy exposure registry and epidemiological studies of pregnant women have not detected an increased f...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS 7.1 Ergot-Containing Drugs Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.",
+      "Extra caution is needed because because these effects may be additive..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Sumatriptan information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Sumatriptan on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "headache",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-09-28T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22sumatriptan%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:21.337Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=sumatriptan",
+      "accessedAt": "2026-07-12T12:02:21.337Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

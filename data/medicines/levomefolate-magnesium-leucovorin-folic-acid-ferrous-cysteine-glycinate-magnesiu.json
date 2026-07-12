@@ -1,0 +1,74 @@
+{
+  "slug": "levomefolate-magnesium-leucovorin-folic-acid-ferrous-cysteine-glycinate-magnesiu",
+  "genericName": "Levomefolate magnesium, leucovorin, folic acid, ferrous cysteine glycinate, magnesium ascorbate, zinc ascorbate, cocarboxylase, flavin adenine dinucleotide, nadh, pyridoxal phosphate anhydrous, cobamamide, betaine, magnesium l-threonate, 1,2-docosahexanoyl-sn-glycero-3-phosphoserine calcium, 1,2-icosapentoyl-sn-glycero-3-phosphoserine calcium, and phosphatidyl serine",
+  "brandNames": [
+    "EnBrace HR"
+  ],
+  "composition": "1,2-DOCOSAHEXANOYL-SN-GLYCERO-3-PHOSPHOSERINE CALCIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Methylating Agent [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving iNDICATIONS: EnBrace HR ® is indicated in the TREATMENT of vitamin deficiency - specifically vitamin B 12 deficiency...",
+    "This agent is commonly used in care plans involving requirements of vitamin B 9 and/or vitamin B 12 in excess of normal due to pregnancy can usually be met with oral supplementation."
+  ],
+  "howItWorks": "Levomefolate Magnesium, Leucovorin, Folic Acid, Ferrous Cysteine Glycinate, Magnesium Ascorbate, Zinc Ascorbate, Cocarboxylase, Flavin Adenine Dinucleotide, Nadh, Pyridoxal Phosphate Anhydrous, Cobamamide, Betaine, Magnesium L-Threonate, 1,2-Docosahexanoyl-Sn-Glycero-3-Phosphoserine Calcium, 1,2-Icosapentoyl-Sn-Glycero-3-Phosphoserine Calcium, And Phosphatidyl Serine belongs to the methylating agent [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration ​: the recommended dosage is one (1) capsule daily, preferably on an empty stomach. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because mild transient diarrhea, polycythemia vera, itching, transitory exanthema, feeling of swelling of entire body may occur with administration of vitamin B 12 may occur.",
+    "Some patients report allergic sensitization has been reported following both oral and parenteral administration of folic acid while taking this medicine."
+  ],
+  "seriousSideEffects": [],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at 20°-25°C (68°-77°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Levomefolate magnesium, leucovorin, folic acid, ferrous cysteine glycinate, magnesium ascorbate, zinc ascorbate, cocarboxylase, flavin adenine dinucleotide, nadh, pyridoxal phosphate anhydrous, cobamamide, betaine, magnesium l-threonate, 1,2-docosahexanoyl-sn-glycero-3-phosphoserine calcium, 1,2-icosapentoyl-sn-glycero-3-phosphoserine calcium, and phosphatidyl serine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Levomefolate magnesium, leucovorin, folic acid, ferrous cysteine glycinate, magnesium ascorbate, zinc ascorbate, cocarboxylase, flavin adenine dinucleotide, nadh, pyridoxal phosphate anhydrous, cobamamide, betaine, magnesium l-threonate, 1,2-docosahexanoyl-sn-glycero-3-phosphoserine calcium, 1,2-icosapentoyl-sn-glycero-3-phosphoserine calcium, and phosphatidyl serine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "gerd",
+    "allergies",
+    "anemia"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-02-10T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%221%2C2-icosapentoyl-sn-glycero-3-phosphoserine%20calcium%22&limit=1",
+      "accessedAt": "2026-07-12T11:54:19.153Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=levomefolate%20magnesium%2C%20leucovorin%2C%20folic%20acid%2C%20ferrous%20cysteine%20glycinate%2C%20magnesium%20ascorbate%2C%20zinc%20ascorbate%2C%20cocarboxylase%2C%20flavin%20adenine%20dinucleotide%2C%20nadh%2C%20pyridoxal%20phosphate%20anhydrous%2C%20cobamamide%2C%20betaine%2C%20magnesium%20l-threonate%2C%201%2C2-docosahexanoyl-sn-glycero-3-phosphoserine%20calcium%2C%201%2C2-icosapentoyl-sn-glycero-3-phosphoserine%20calcium%2C%20and%20phosphatidyl%20serine",
+      "accessedAt": "2026-07-12T11:54:19.153Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

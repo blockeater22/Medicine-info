@@ -36,7 +36,9 @@
     "High-risk individuals (elderly, pregnant, chronic illness)"
   ],
   "relatedDiseases": [
-    "arthritis"
+    "arthritis",
+    "gerd",
+    "obesity"
   ],
   "faqs": [
     {
@@ -46,9 +48,7 @@
   ],
   "popular": false,
   "updatedAt": "2026-07-01",
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

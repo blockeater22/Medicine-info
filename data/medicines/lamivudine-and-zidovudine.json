@@ -1,0 +1,86 @@
+{
+  "slug": "lamivudine-and-zidovudine",
+  "genericName": "Lamivudine and zidovudine",
+  "brandNames": [
+    "LAMIVUDINE and ZIDOVUDINE"
+  ],
+  "composition": "LAMIVUDINE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Hepatitis B Virus Nucleoside Analog Reverse Transcriptase Inhibitor [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS & USAGE Lamivudine and zidovudine tablets a combination of 2 nucleoside analogues...",
+    "Medical teams consider this option for patients needing support with lamivudine and zidovudine tablets, a combination of 2 nucleoside analogue reverse transcriptase inibitors..."
+  ],
+  "howItWorks": "Lamivudine And Zidovudine belongs to the hepatitis b virus nucleoside analog reverse transcriptase inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage & administration • adults and adolescents weighing greater than or equal to 30 kg: 1 tablet orally twice daily. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report lamivudine plus Zidovudine Administered as Separate Formulations In 4 randomized, controlled trials of EPIVIR 300 mg per day plus RETROVIR 600 mg per day.. while taking this medicine.",
+    "Monitoring is advised because selected laboratory abnormalities observed during therapy are listed in Table 2 may occur.",
+    "A possible treatment-related effect includes aNC = Absolute neutrophil count.",
+    "Monitoring is advised because because these reactions are reported voluntarily from a population of unknown size.. may occur.",
+    "Monitoring is advised because body as a Whole Redistribution/accumulation of body fat [see Warnings and Precautions (5.8)] may occur.",
+    "Monitoring is advised because cardiovascular Cardiomyopathy may occur.",
+    "A possible treatment-related effect includes endocrine and Metabolic Gynecomastia, hyperglycemia.",
+    "A possible treatment-related effect includes gastrointestinal Oral mucosal pigmentation, stomatitis."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS • Hepatic decompensation, some fatal...",
+    "Patients should discuss safety when discontinue lamivudine and zidovudine tablet as medically appropriate and consider dose reduction or discontinuation of interferon alfa, ribavirin, or both.",
+    "Extra caution is needed because coadministration of ribavirin and zidovudine is not advised."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to lamivudine and zidovudi...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS • Agents antagonistic with zidovudine: Concomitant use should be avoided.",
+      "Healthcare providers evaluate risk when when possible, avoid chronic coadministration.",
+      "Healthcare providers evaluate risk when when possible, avoid use of sorbitol-containing medicines with lamivudine-containing medicines [see Clinical Pharmacology (12.3)]."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Lamivudine and zidovudine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Lamivudine and zidovudine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-03-29T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22lamivudine%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:01.314Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=lamivudine%20and%20zidovudine",
+      "accessedAt": "2026-07-12T12:02:01.314Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

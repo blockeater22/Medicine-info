@@ -1,0 +1,59 @@
+{
+  "slug": "aspartate-transaminase",
+  "name": "Aspartate Transaminase",
+  "overview": "Aspartate Transaminase is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include aspartate transaminase (ast) or aspartate aminotransferase, also known as aspat/asat/aat or (serum) glutamic oxaloacetic transaminase, is a pyridoxal phosphate (plp)-dependent transaminase enzyme that was first described by arthur karmen and colleagues in 1954; ast catalyzes the reversible transfer of an α-amino group between aspartate and glutamate and, as such, is an important enzyme in amino acid metabolism; ast is found in the liver, heart, skeletal muscle, kidneys, brain, red blood cells and gall bladder. This summary is educational and should be paired with professional medical evaluation.",
+  "purpose": [
+    "In routine practice, aspartate transaminase (AST) or aspartate aminotransferase, also known as AspAT/ASAT/AAT or (serum) glutamic oxaloacetic transaminase...",
+    "From a clinical perspective, aST catalyzes the reversible transfer of an α-amino group between aspartate and glutamate and, as such, is an important enzyme in amino acid metabolism.",
+    "Health professionals note that aST is found in the liver, heart, skeletal muscle, kidneys, brain, red blood cells and gall bladder.",
+    "From a clinical perspective, serum AST level, serum ALT level, and their ratio are commonly measured clinically as biomarkers for liver health.",
+    "In routine practice, the tests are part of blood panels."
+  ],
+  "preparation": [
+    "From a clinical perspective, confirm fasting requirements with your lab.",
+    "In routine practice, bring prior reports and medication list."
+  ],
+  "procedure": [
+    "From a clinical perspective, sample collection at a certified laboratory.",
+    "Health professionals note that results reviewed by qualified personnel."
+  ],
+  "normalRange": "Reference intervals vary by laboratory method, age, sex, and clinical context. Interpret results with your doctor.",
+  "highMeaning": [
+    "From a clinical perspective, may indicate active disease, inflammation, or organ stress depending on the analyte."
+  ],
+  "lowMeaning": [
+    "In routine practice, may suggest deficiency, suppression, or reduced production depending on the analyte."
+  ],
+  "interpretation": [
+    "In routine practice, compare with previous results for trends.",
+    "In routine practice, correlate with symptoms and examination.",
+    "In routine practice, single abnormal values may require repeat testing."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Aspartate Transaminase information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Do I need fasting before Aspartate Transaminase?",
+      "answer": "Preparation depends on the exact test order. Follow the instructions provided by your laboratory or physician."
+    }
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T12:03:32.236Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aspartate_transaminase",
+      "accessedAt": "2026-07-12T12:03:32.236Z"
+    },
+    {
+      "name": "LOINC",
+      "url": "https://loinc.org/",
+      "accessedAt": "2026-07-12T12:03:32.236Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

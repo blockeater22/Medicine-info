@@ -1,0 +1,91 @@
+{
+  "slug": "chlorthalidone",
+  "genericName": "Chlorthalidone",
+  "brandNames": [
+    "Chlorthalidone"
+  ],
+  "composition": "CHLORTHALIDONE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Thiazide-like Diuretic [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving diuretics such as chlorthalidone are indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effect of other antih...",
+    "Medical teams consider this option for patients needing support with chlorthalidone is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy.",
+    "Medical teams consider this option for patients needing support with chlorthalidone has also been found useful in edema due to various forms of renal dysfunction, such as nephrotic syndrome, acute glomerulonephritis...",
+    "Clinicians may prescribe this medicine when managing usage in Pregnancy The routine use of diuretics in an otherwise healthy woman is inappropriate and exposes mother and fetus to unnecessary hazard.",
+    "Medical teams consider this option for patients needing support with diuretics do not prevent development of toxemia of pregnancy, and there is no satisfactory evidence that they are useful in the treatment of developed toxemia.",
+    "Medical teams consider this option for patients needing support with edema during pregnancy may arise from pathologic causes or from the physiologic and mechanical consequences of pregnancy."
+  ],
+  "howItWorks": "Chlorthalidone belongs to the thiazide-like diuretic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration therapy should be initiated with the lowest possible dose. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness in children have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report the following adverse reactions have been observed, but there is not enough systematic collection of data to support an estimate of their frequency while taking this medicine.",
+    "Some patients report gastrointestinal System Reactions: anorexia, gastric irritation, nausea, vomiting, cramping, diarrhea, constipation.. while taking this medicine.",
+    "Monitoring is advised because central Nervous System Reactions: dizziness, vertigo, paresthesias, headache, xanthopsia may occur.",
+    "Some patients report hematologic Reactions: leukopenia, agranulocytosis, thrombocytopenia, aplastic anemia while taking this medicine.",
+    "Some patients report dermatologic-Hypersensitivity Reactions: purpura, photosensitivity, rash, urticaria, necrotizing angiitis (vasculitis, cutaneous vasculitis).. while taking this medicine.",
+    "Monitoring is advised because cardiovascular Reactions: orthostatic hypotension may occur and may be aggravated by alcohol, barbiturates, or narcotics may occur.",
+    "Monitoring is advised because other Adverse Reactions: hyperglycemia, glycosuria, hyperuricemia, muscle spasm, weakness, restlessness, impotence may occur.",
+    "Monitoring is advised because whenever adverse reactions are moderate or severe, chlorthalidone dosage should be reduced or therapy withdrawn may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when whenever adverse reactions are moderate or severe, chlorthalidone dosage should be reduced or therapy withdrawn."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because pregnancy Teratogenic Effects.",
+    "breastfeeding": "Patients should discuss safety when nursing Mothers Thiazides are excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interactions Chlorthalidone may add to or potentiate the action of other antihypertensive drugs.",
+      "Extra caution is needed because potentiation occurs with ganglionic peripheral adrenergic blocking drugs.",
+      "Extra caution is needed because medication such as digitalis may also influence serum electrolytes.",
+      "Extra caution is needed because warning signs, irrespective of cause, are: dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue...",
+      "Patients should discuss safety when insulin requirements in diabetic patients may be increased, decreased, or unchanged.",
+      "Extra caution is needed because higher dosage of oral hypoglycemic agents may be required."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Chlorthalidone information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Chlorthalidone on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2022-11-24T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22chlorthalidone%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:00.785Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=chlorthalidone",
+      "accessedAt": "2026-07-12T12:01:00.785Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

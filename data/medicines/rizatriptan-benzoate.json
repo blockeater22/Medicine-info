@@ -1,0 +1,94 @@
+{
+  "slug": "rizatriptan-benzoate",
+  "genericName": "Rizatriptan benzoate",
+  "brandNames": [
+    "MAXALT",
+    "MAXALT-MLT"
+  ],
+  "composition": "RIZATRIPTAN BENZOATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE MAXALT ® and MAXALT-MLT ® are indicated for the acute treatment of migraine with or without aura in adults and in pediatric patients ...",
+    "Clinicians may prescribe this medicine when managing limitations of Use MAXALT should only be used where a clear diagnosis of migraine has been established.",
+    "Medical teams consider this option for patients needing support with if a patient has no response for the first migraine attack treated with MAXALT...",
+    "This agent is commonly used in care plans involving mAXALT is not indicated for use in the management of hemiplegic or basilar migraine [see Contraindications (4) ].",
+    "Clinicians may prescribe this medicine when managing mAXALT is not indicated for the prevention of migraine attacks.",
+    "Medical teams consider this option for patients needing support with safety and effectiveness of MAXALT have not been established for cluster headache."
+  ],
+  "howItWorks": "Rizatriptan Benzoate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 ) adjust dose if co-administered with propranolol ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness in pediatric patients under 6 years of age have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report 6 ADVERSE REACTIONS The following adverse reactions are discussed in more detail in other sections of the labeling: Myocardial Ischemia.. while taking this medicine.",
+    "A possible treatment-related effect includes arrhythmias [see Warnings and Precautions (5.2) ].",
+    "Monitoring is advised because chest, Throat, Neck and/or Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3) ] may occur.",
+    "Some patients report cerebrovascular Events [see Warnings and Precautions (5.4) ] while taking this medicine.",
+    "Monitoring is advised because other Vasospasm Reactions [see Warnings and Precautions (5.5) ] may occur.",
+    "A possible treatment-related effect includes medication Overuse Headache [see Warnings and Precautions (5.6) ].",
+    "Some patients report serotonin Syndrome [see Warnings and Precautions (5.7) ] while taking this medicine.",
+    "Some patients report increase in Blood Pressure [see Warnings and Precautions (5.8) ] while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because 5 WARNINGS AND PRECAUTIONS Myocardial ischemia, myocardial infarction...",
+    "Healthcare providers evaluate risk when generally not associated with myocardial ischemia.",
+    "Patients should discuss safety when there have been rare reports of serious cardiac adverse reactions, including acute myocardial infarction..."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Available human data on the use of MAXALT in pregnant women are not sufficient to draw conclusions about drug-associated risk for ...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS 7.1 Propranolol The dose of MAXALT should be adjusted in propranolol-treated patients...",
+      "Patients should discuss safety when a specific MAO-A inhibitor increased the systemic exposure of rizatriptan and its metabolite [see Contraindications (4) and Clinical Pharmacology (12.3) ].",
+      "Patients should discuss safety when drug Interactions [See also Drug Interactions (7) .] Monoamine oxidase inhibitors : Rizatriptan is principally metabolized via monoamine oxidase...",
+      "Patients should discuss safety when plasma concentrations of rizatriptan may be increased by drugs that are selective MAO-A inhibitors (e.g....",
+      "Patients should discuss safety when in a drug interaction study, when MAXALT 10 mg was administered to subjects (n=12) receiving concomitant therapy with the selective...",
+      "Patients should discuss safety when and the AUC of the active N-monodesmethyl metabolite of rizatriptan was increased more than 400%."
+    ]
+  },
+  "storage": "Health professionals note that store MAXALT Tablets at room temperature, 15°C-30°C (59°F-86°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Rizatriptan benzoate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Rizatriptan benzoate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "headache",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-01-29T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22rizatriptan%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:21.727Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=rizatriptan%20benzoate",
+      "accessedAt": "2026-07-12T12:02:21.727Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

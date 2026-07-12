@@ -1,0 +1,59 @@
+{
+  "slug": "semen-analysis",
+  "name": "Semen Analysis",
+  "overview": "Semen Analysis is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include a semen analysis, also called seminogram or spermiogram, evaluates certain characteristics of a male's semen and the sperm contained therein; it is done to help evaluate male fertility, whether for those seeking pregnancy or verifying the success of vasectomy; depending on the measurement method, just a few characteristics may be evaluated or many characteristics may be evaluated. This summary is educational and should be paired with professional medical evaluation.",
+  "purpose": [
+    "In routine practice, a semen analysis, also called seminogram or spermiogram, evaluates certain characteristics of a male's semen and the sperm contained therein.",
+    "In routine practice, it is done to help evaluate male fertility, whether for those seeking pregnancy or verifying the success of vasectomy.",
+    "From a clinical perspective, depending on the measurement method, just a few characteristics may be evaluated or many characteristics may be evaluated.",
+    "In routine practice, collection techniques and precise measurement method may influence results.",
+    "From a clinical perspective, the assay is also referred to as ejaculate analysis, human sperm assay (HSA), sperm function test, and sperm assay."
+  ],
+  "preparation": [
+    "From a clinical perspective, confirm fasting requirements with your lab.",
+    "In routine practice, bring prior reports and medication list."
+  ],
+  "procedure": [
+    "From a clinical perspective, sample collection at a certified laboratory.",
+    "Health professionals note that results reviewed by qualified personnel."
+  ],
+  "normalRange": "Reference intervals vary by laboratory method, age, sex, and clinical context. Interpret results with your doctor.",
+  "highMeaning": [
+    "From a clinical perspective, may indicate active disease, inflammation, or organ stress depending on the analyte."
+  ],
+  "lowMeaning": [
+    "In routine practice, may suggest deficiency, suppression, or reduced production depending on the analyte."
+  ],
+  "interpretation": [
+    "In routine practice, compare with previous results for trends.",
+    "In routine practice, correlate with symptoms and examination.",
+    "In routine practice, single abnormal values may require repeat testing."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Semen Analysis information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Do I need fasting before Semen Analysis?",
+      "answer": "Preparation depends on the exact test order. Follow the instructions provided by your laboratory or physician."
+    }
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T12:03:12.389Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Semen_analysis",
+      "accessedAt": "2026-07-12T12:03:12.389Z"
+    },
+    {
+      "name": "LOINC",
+      "url": "https://loinc.org/",
+      "accessedAt": "2026-07-12T12:03:12.389Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

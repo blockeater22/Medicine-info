@@ -1,0 +1,53 @@
+{
+  "slug": "chills",
+  "name": "Chills",
+  "overview": "Chills is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include medical condition. This summary is educational and should be paired with professional medical evaluation.",
+  "possibleCauses": [
+    "In routine practice, chills is a feeling of coldness occurring usually during a high fever but sometimes alone in specific people.",
+    "In routine practice, it occurs during fever as a result of the release of cytokines and prostaglandins as part of the inflammatory response...",
+    "From a clinical perspective, the increased set point causes the body temperature to rise (pyrexia), but also makes the patient feel chilled until the new set point is reached.",
+    "In routine practice, the patient will also shiver because their body produces heat during muscle contraction in a physiological attempt to increase body temperature to the new se...",
+    "In routine practice, chills not accompanying a high fever are normally mild."
+  ],
+  "redFlags": [
+    "Patients should discuss safety when sudden severe onset.",
+    "Healthcare providers evaluate risk when associated chest pain or breathing difficulty.",
+    "Extra caution is needed because high fever with confusion.",
+    "Healthcare providers evaluate risk when symptoms after head injury."
+  ],
+  "homeCare": [
+    "Health professionals note that rest and hydration.",
+    "In routine practice, monitor symptom changes.",
+    "In routine practice, use only previously recommended."
+  ],
+  "whenToSeeDoctor": [
+    "From a clinical perspective, symptoms persist beyond several days.",
+    "In routine practice, severity increases.",
+    "From a clinical perspective, new neurological or cardiac features appear."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Chills information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "When should I worry about chills?",
+      "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
+    }
+  ],
+  "relatedDiseases": [
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T11:57:54.732Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chills",
+      "accessedAt": "2026-07-12T11:57:54.732Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

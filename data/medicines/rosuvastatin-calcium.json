@@ -1,0 +1,93 @@
+{
+  "slug": "rosuvastatin-calcium",
+  "genericName": "Rosuvastatin calcium",
+  "brandNames": [
+    "Rosuvastatin Calcium"
+  ],
+  "composition": "ROSUVASTATIN CALCIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving as an adjunct to diet to: Reduce low-density lipoprotein cholesterol (LDL-C) in adults with primary hyperlipidemia.",
+    "Clinicians may prescribe this medicine when managing reduce LDL-C and slow the progression of atherosclerosis in adults.",
+    "This agent is commonly used in care plans involving reduce LDL-C in adults and pediatric patients aged 8 years and older with heterozygous familial hypercholesterolemia (HeFH).",
+    "This agent is commonly used in care plans involving as an adjunct to other LDL-C-lowering therapies, or alone if such treatments are unavailable...",
+    "Clinicians may prescribe this medicine when managing as an adjunct to diet for the treatment of adults with: Primary dysbetalipoproteinemia.",
+    "This agent is commonly used in care plans involving hypertriglyceridemia."
+  ],
+  "howItWorks": "Rosuvastatin Calcium belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration take orally with or without food, at any time of day. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 8%) were 75 years and older. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because reported in ≥2% of patients in placebo-controlled clinical studies and at a rate greater than placebo are shown in Table 2 may occur.",
+    "A possible treatment-related effect includes these studies had a treatment duration of up to 12 weeks.",
+    "Monitoring is advised because the following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria may occur.",
+    "A possible treatment-related effect includes elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin.",
+    "Monitoring is advised because and thyroid function abnormalities may occur.",
+    "A possible treatment-related effect includes in the METEOR study, patients were treated with rosuvastatin 40 mg (n=700) or placebo (n=281) with a mean treatment duration of 1.7 years.",
+    "Monitoring is advised because reported in ≥2% of patients and at a rate greater than placebo are shown in Table 3 may occur.",
+    "Some patients report in JUPITER.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Myopathy and Rhabdomyolysis : Risk factors include age 65 years or greater, uncontrolled hypothyroidism, renal impairment...",
+    "Extra caution is needed because asian patients may be at higher risk for myopathy.",
+    "Healthcare providers evaluate risk when discontinue rosuvastatin if markedly elevated CK levels occur or myopathy is diagnosed or suspected."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Discontinue rosuvastatin when pregnancy is recognized.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS See full prescribing information for details regarding concomitant use of rosuvastatin with other drugs that increase the risk of myopath...",
+      "Extra caution is needed because monitor INR frequently until stable upon initiation, dose titration or discontinuation.",
+      "Patients should discuss safety when rosuvastatin plasma levels can be significantly increased with concomitant administration of inhibitors of CYP2C9 and transporters.",
+      "Patients should discuss safety when table 5 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when used concomitantly with rosuvastatin and instructions for prevent...",
+      "Patients should discuss safety when table 5: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Rosuvastatin Cyclosporine Clinical Impact: Cyclosporine increased rosuv...",
+      "Patients should discuss safety when the risk of myopathy and rhabdomyolysis is increased with concomitant use of cyclosporine or gemfibrozil with rosuvastatin."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Rosuvastatin calcium information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Rosuvastatin calcium on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-11-26T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22rosuvastatin%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:53.907Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=rosuvastatin%20calcium",
+      "accessedAt": "2026-07-12T12:00:53.907Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

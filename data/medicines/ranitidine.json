@@ -49,24 +49,26 @@
     }
   ],
   "relatedMedicines": [],
-  "relatedDiseases": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2025-05-23T00:00:00.000Z",
   "sources": [
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22ranitidine%22&limit=1",
-      "accessedAt": "2026-07-12T06:31:52.494Z"
+      "accessedAt": "2026-07-12T12:01:16.867Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ranitidine",
-      "accessedAt": "2026-07-12T06:31:52.494Z"
+      "accessedAt": "2026-07-12T12:01:16.867Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

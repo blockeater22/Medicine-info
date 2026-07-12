@@ -64,7 +64,11 @@
     }
   ],
   "relatedDiseases": [],
-  "relatedMedicines": [],
+  "relatedMedicines": [
+    "fluoxetine-hydrochloride",
+    "spironolactone",
+    "verapamil-hydrochloride"
+  ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-07-12T00:00:00.000Z",
   "sources": [
@@ -79,6 +83,10 @@
       "accessedAt": "2026-07-12"
     }
   ],
+  "relatedSlugs": [
+    "urine-routine",
+    "liver-function-tests"
+  ],
   "category": "Cardiovascular",
   "emergencyWarningSigns": [
     "BP ≥180/120 with chest pain or shortness of breath",
@@ -86,9 +94,7 @@
     "Severe headache with vision changes",
     "Confusion or seizures"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

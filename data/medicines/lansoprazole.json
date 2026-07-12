@@ -1,0 +1,93 @@
+{
+  "slug": "lansoprazole",
+  "genericName": "Lansoprazole",
+  "brandNames": [
+    "Lansoprazole"
+  ],
+  "composition": "LANSOPRAZOLE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Proton Pump Inhibitor [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing eradication of H.",
+    "Clinicians may prescribe this medicine when managing please refer to the full prescribing information for amoxicillin and clarithromycin.",
+    "Medical teams consider this option for patients needing support with please refer to the full prescribing information for amoxicillin.",
+    "This agent is commonly used in care plans involving controlled studies did not extend beyond eight weeks [see Clinical Studies ( 14.5 )].",
+    "Clinicians may prescribe this medicine when managing for adults who do not heal with lansoprazole for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment.",
+    "Clinicians may prescribe this medicine when managing if there is a recurrence of erosive esophagitis an additional eight week course of lansoprazole may be considered [see Clinical Studies ( 14.8 )] 1.9 Mainten..."
+  ],
+  "howItWorks": "Lansoprazole belongs to the proton pump inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 3 ) administration instructions ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an do not exceed the recommended dose and duration of use in pediatric patients (see juvenile animal toxicity data). Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because worldwide, over 10,000 patients have been treated with lansoprazole in Phase 2 or Phase 3 clinical trials involving various dosages and durations of treatment may occur.",
+    "Monitoring is advised because in general, lansoprazole treatment has been well-tolerated in both short-term and long-term trials may occur.",
+    "Monitoring is advised because the following adverse reactions were reported by the treating physician to have a possible or probable relationship to drug in 1% or more of lansoprazole del.. may occur.",
+    "A possible treatment-related effect includes incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term...",
+    "Some patients report the incidence of diarrhea was similar between patients who received placebo and patients who received 15 mg and 30 mg of lansoprazole.. while taking this medicine.",
+    "Monitoring is advised because the most commonly reported possibly or probably treatment-related adverse event during maintenance therapy was diarrhea may occur.",
+    "Some patients report in the risk reduction study of lansoprazole for NSAID-associated gastric ulcers, the incidence of diarrhea for patients treated with lansoprazole.. while taking this medicine.",
+    "Monitoring is advised because another study for the same indication, where patients took either a COX-2 inhibitor or lansoprazole and naproxen.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Gastric Malignancy : In adults, symptomatic response with lansoprazole does not preclude the presence of gastric malignancy.",
+    "Patients should discuss safety when new onset or exacerbation of existing disease.",
+    "Extra caution is needed because with high-dose methotrexate administration, consider a temporary withdrawal of lansoprazole."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Available data from published observational studies overall do not indicate an association of adverse pregnancy outcomes with lans...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Tables 2 and 3 include drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly...",
+      "Healthcare providers evaluate risk when consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.",
+      "Extra caution is needed because clinically Relevant Interactions Affecting Drugs Co-Administered with Lansoprazole Delayed Release Capsules and Interactions with Diagnostics Antiretrovirals...",
+      "Patients should discuss safety when the clinical importance and the mechanisms behind these interactions are not always known.",
+      "Healthcare providers evaluate risk when decreased exposure of some antiretroviral drugs (e.g., rilpivirine, atazanavir...",
+      "Healthcare providers evaluate risk when increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with lansoprazole may increase toxicity of the antiretroviral drugs."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Lansoprazole information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Lansoprazole on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2022-04-15T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22lansoprazole%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:16.492Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=lansoprazole",
+      "accessedAt": "2026-07-12T12:01:16.492Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

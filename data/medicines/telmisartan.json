@@ -1,0 +1,93 @@
+{
+  "slug": "telmisartan",
+  "genericName": "Telmisartan",
+  "brandNames": [
+    "telmisartan"
+  ],
+  "composition": "TELMISARTAN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Angiotensin 2 Receptor Blocker [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Telmisartan tablets, USP are an angiotensin II receptor blocker (ARB) indicated for: Treatment of hypertension, to lower blood pressure.",
+    "This agent is commonly used in care plans involving lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.",
+    "This agent is commonly used in care plans involving these benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which this d...",
+    "Medical teams consider this option for patients needing support with control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management...",
+    "Medical teams consider this option for patients needing support with many patients will require more than one drug to achieve blood pressure goals.",
+    "Clinicians may prescribe this medicine when managing for specific advice on goals and management, see published guidelines..."
+  ],
+  "howItWorks": "Telmisartan belongs to the angiotensin 2 receptor blocker [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration may be administered with or without food ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness in pediatric patients have not been established [see clinical pharmacology (12. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report hypertension Telmisartan has been evaluated for safety in more than 3700 patients, including 1900 treated for over 6 months and more than 1300 for over one year while taking this medicine.",
+    "Monitoring is advised because adverse experiences have generally been mild and transient in nature and have infrequently required discontinuation of therapy may occur.",
+    "Monitoring is advised because in placebo-controlled trials involving 1041 patients treated with various doses of telmisartan (20 to 160 mg) monotherapy for up to 12 weeks.. may occur.",
+    "Some patients report adverse events occurring at an incidence of ≥1% in patients treated with telmisartan and at a greater rate than in patients treated with placebo.. while taking this medicine.",
+    "Some patients report discontinuation of therapy because of adverse events was required in 2.8% of 1455 patients treated with telmisartan tablets and 6.1% of 380 placebo patients .. while taking this medicine.",
+    "A possible treatment-related effect includes the incidence of adverse events was not dose-related and did not correlate with gender, age, or race of patients.",
+    "A possible treatment-related effect includes the incidence of cough occurring with telmisartan in 6 placebo-controlled trials was identical to that noted for placebo-treated patients (1.6%).",
+    "Monitoring is advised because in addition to those listed above.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS Avoid fetal or neonatal exposure ( 5.1 ) Hypotension: Correct any volume or salt depletion before initiating therapy.",
+    "Extra caution is needed because resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.",
+    "Extra caution is needed because potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Telmisartan can cause fetal harm when administered to a pregnant woman.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Aliskiren: Do not co-administer aliskiren with telmisartan in patients with diabetes.",
+      "Extra caution is needed because avoid use of aliskiren with telmisartan in patients with renal impairment (GFR <60 mL/min).",
+      "Patients should discuss safety when digoxin: When telmisartan was co-administered with digoxin...",
+      "Extra caution is needed because therefore, monitor digoxin levels when initiating, adjusting...",
+      "Extra caution is needed because lithium: Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin I...",
+      "Extra caution is needed because therefore, monitor serum lithium levels during concomitant use."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Telmisartan information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Telmisartan on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-06-05T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22telmisartan%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:56.616Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=telmisartan",
+      "accessedAt": "2026-07-12T12:00:56.616Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

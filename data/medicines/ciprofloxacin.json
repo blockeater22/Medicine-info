@@ -63,17 +63,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22ciprofloxacin%22&limit=1",
-      "accessedAt": "2026-07-12T06:31:32.654Z"
+      "accessedAt": "2026-07-12T12:00:39.493Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ciprofloxacin",
-      "accessedAt": "2026-07-12T06:31:32.654Z"
+      "accessedAt": "2026-07-12T12:00:39.493Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

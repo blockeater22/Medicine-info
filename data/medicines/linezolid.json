@@ -1,0 +1,88 @@
+{
+  "slug": "linezolid",
+  "genericName": "Linezolid",
+  "brandNames": [
+    "Linezolid"
+  ],
+  "composition": "LINEZOLID — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Oxazolidinone Antibacterial [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Linezolid for Oral Suspension is an oxazolidinone-class antibacterial indicated in adults and children for the treatment of the follo...",
+    "Medical teams consider this option for patients needing support with community-acquired pneumonia ( 1.",
+    "This agent is commonly used in care plans involving complicated skin and skin structure infections, including diabetic foot infections, without concomitant osteomyelitis ( 1.",
+    "This agent is commonly used in care plans involving uncomplicated skin and skin structure infections ( 1.",
+    "Medical teams consider this option for patients needing support with vancomycin-resistant Enterococcus faecium infections.",
+    "Medical teams consider this option for patients needing support with when culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy."
+  ],
+  "howItWorks": "Linezolid belongs to the oxazolidinone antibacterial [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage guidelines for linezolid infection due to the designated pathogens [see indications and usage ( 1 )]. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an the pharmacokinetics of linezolid have been evaluated in pediatric patients from birth to 17 years of age. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because 6 ADVERSE REACTIONS Most common adverse reactions (>5% of adult and/or pediatric patients treated with linezolid) include: diarrhea, vomiting, headache.. may occur.",
+    "Monitoring is advised because adults : The safety of linezolid formulations was evaluated in 2,046 adult patients enrolled in seven Phase 3 comparator-controlled clinical trials.. may occur.",
+    "Monitoring is advised because of the patients treated for uncomplicated skin and skin structure infections (uSSSIs).. may occur.",
+    "A possible treatment-related effect includes for all other indications, 20.4% of linezolid-treated and 14.3% of comparator-treated patients experienced at least one drug-related adverse event.",
+    "Some patients report table 2 shows the incidence of all-causality.. while taking this medicine.",
+    "A possible treatment-related effect includes ceftriaxone 1 g intravenously every 12 hours.",
+    "A possible treatment-related effect includes dicloxacillin 500 mg by mouth every 6 hours.",
+    "A possible treatment-related effect includes oxacillin 2 g intravenously every 6 hours."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because 5 WARNINGS AND PRECAUTIONS • Myelosuppression: Monitor complete blood counts weekly.",
+    "Healthcare providers evaluate risk when thrombocytopenia has been reported more often in patients with severe renal and in patients with moderate to severe hepatic impairment.",
+    "Patients should discuss safety when consider discontinuation in patients who develop or have worsening myelosuppression."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Available data from published and postmarketing case reports with linezolid use in pregnant women have not identified a drug-assoc...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Linezolid information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Linezolid on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "diabetic-foot"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-01-30T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22linezolid%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:43.795Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=linezolid",
+      "accessedAt": "2026-07-12T12:00:43.795Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

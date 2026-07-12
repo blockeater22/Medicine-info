@@ -1,0 +1,59 @@
+{
+  "slug": "lipase",
+  "name": "Lipase",
+  "overview": "Lipase is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include lipase is a class of enzymes that catalyzes the hydrolysis of fats; some lipases display broad substrate scope including esters of cholesterol, phospholipids, and of lipid-soluble vitamins and sphingomyelinases; however, these are usually treated separately from \"conventional\" lipases. This summary is educational and should be paired with professional medical evaluation.",
+  "purpose": [
+    "In routine practice, lipase is a class of enzymes that catalyzes the hydrolysis of fats.",
+    "From a clinical perspective, some lipases display broad substrate scope including esters of cholesterol, phospholipids, and of lipid-soluble vitamins and sphingomyelinases.",
+    "Health professionals note that however, these are usually treated separately from \"conventional\" lipases.",
+    "From a clinical perspective, unlike esterases, which function in water, lipases \"are activated only when adsorbed to an oil–water interface\".",
+    "From a clinical perspective, lipases perform essential roles in digestion, transport and processing of dietary lipids in most, if not all, organisms."
+  ],
+  "preparation": [
+    "From a clinical perspective, confirm fasting requirements with your lab.",
+    "In routine practice, bring prior reports and medication list."
+  ],
+  "procedure": [
+    "From a clinical perspective, sample collection at a certified laboratory.",
+    "Health professionals note that results reviewed by qualified personnel."
+  ],
+  "normalRange": "Reference intervals vary by laboratory method, age, sex, and clinical context. Interpret results with your doctor.",
+  "highMeaning": [
+    "From a clinical perspective, may indicate active disease, inflammation, or organ stress depending on the analyte."
+  ],
+  "lowMeaning": [
+    "In routine practice, may suggest deficiency, suppression, or reduced production depending on the analyte."
+  ],
+  "interpretation": [
+    "In routine practice, compare with previous results for trends.",
+    "In routine practice, correlate with symptoms and examination.",
+    "In routine practice, single abnormal values may require repeat testing."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Lipase information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Do I need fasting before Lipase?",
+      "answer": "Preparation depends on the exact test order. Follow the instructions provided by your laboratory or physician."
+    }
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T12:03:18.866Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lipase",
+      "accessedAt": "2026-07-12T12:03:18.866Z"
+    },
+    {
+      "name": "LOINC",
+      "url": "https://loinc.org/",
+      "accessedAt": "2026-07-12T12:03:18.866Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

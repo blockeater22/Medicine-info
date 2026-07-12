@@ -7,7 +7,7 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <text x="80" y="280" fill="#ffffff" font-family="system-ui,sans-serif" font-size="56" font-weight="700">Vitamin B12 Test</text>
+  <text x="80" y="280" fill="#ffffff" font-family="system-ui,sans-serif" font-size="56" font-weight="700">Vitamin B12</text>
   <text x="80" y="360" fill="#dbeafe" font-family="system-ui,sans-serif" font-size="28">Lab test guide</text>
   <text x="80" y="540" fill="#93c5fd" font-family="system-ui,sans-serif" font-size="24">Doctors Hub · doctors-hub.in</text>
 </svg>

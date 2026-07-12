@@ -1,0 +1,88 @@
+{
+  "slug": "cefuroxime-and-dextrose",
+  "genericName": "Cefuroxime and dextrose",
+  "brandNames": [
+    "Cefuroxime and Dextrose"
+  ],
+  "composition": "CEFUROXIME SODIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with urinary Tract Infections caused by Escherichia coli and Klebsiella spp.",
+    "Medical teams consider this option for patients needing support with skin and Skin-Structure Infections caused by Staphylococcus aureus (penicillinase- and non-penicillinase-producing strains), Streptococcus pyogenes...",
+    "Clinicians may prescribe this medicine when managing septicemia caused by Staphylococcus aureus (penicillinase- and non-penicillinase-producing strains), Streptococcus pneumoniae, Escherichia coli...",
+    "This agent is commonly used in care plans involving meningitis caused by Streptococcus pneumoniae, Haemophilus influenzae (including ampicillin-resistant strains), Neisseria meningitidis...",
+    "This agent is commonly used in care plans involving gonorrhea: Uncomplicated and disseminated gonococcal infections due to Neisseria gonorrhoeae (penicillinase- and non-penicillinase-producing strains) in both...",
+    "This agent is commonly used in care plans involving bone and Joint Infections caused by Staphylococcus aureus (penicillinase- and non-penicillinase producing strains)."
+  ],
+  "howItWorks": "Cefuroxime And Dextrose belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration this product is intended for intravenous administration only. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness in pediatric patients below 3 months of age have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because cefuroxime is generally well tolerated may occur.",
+    "Some patients report the most common adverse effects have been local reactions following IV administration while taking this medicine.",
+    "A possible treatment-related effect includes other adverse reactions have been encountered only rarely.",
+    "A possible treatment-related effect includes local Reactions: Thrombophlebitis has occurred with IV administration in 1 in 60 patients.",
+    "Some patients report gastrointestinal: Gastrointestinal symptoms occurred in 1 in 150 patients and included diarrhea (1 in 220 patients) and nausea (1 in 440 patients) while taking this medicine.",
+    "Monitoring is advised because the onset of pseudomembranous colitis may occur during or after antibacterial treatment (see WARNINGS ) may occur.",
+    "Some patients report hypersensitivity Reactions: Hypersensitivity reactions have been reported in fewer than 1% of the patients treated with cefuroxime and include rash (1 in 125) while taking this medicine.",
+    "A possible treatment-related effect includes pruritus, urticaria, and positive Coombs' test each occurred in fewer than 1 in 250 patients, and, as with other cephalosporins, rare cases of anaphylaxis..."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because bEFORE THERAPY WITH CEFUROXIME FOR INJECTION USP AND DEXTROSE INJECTION USP IS INSTITUTED...",
+    "Healthcare providers evaluate risk when tHIS PRODUCT SHOULD BE GIVEN CAUTIOUSLY TO PENICILLIN-SENSITIVE PATIENTS.",
+    "Patients should discuss safety when aNTIBACTERIALS SHOULD BE ADMINISTERED WITH CAUTION TO ANY PATIENT WHO HAS DEMONSTRATED SOME FORM OF ALLERGY, PARTICULARLY TO DRUGS."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when pregnancy Teratogenic Effects Reproduction studies have been performed in mice at doses up to 6...",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers Since cefuroxime is excreted in human milk, caution should be exercised when cefuroxime is administered to a nursing woman.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "In routine practice, store the unactivated unit at 20–25°C (68–77°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Cefuroxime and dextrose information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Cefuroxime and dextrose on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "uti",
+    "urinary-tract-infection",
+    "allergies"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2020-12-05T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22cefuroxime%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:43.362Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=cefuroxime%20and%20dextrose",
+      "accessedAt": "2026-07-12T12:00:43.362Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

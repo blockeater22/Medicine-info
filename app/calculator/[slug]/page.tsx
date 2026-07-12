@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import { getAllCalculators, getCalculator } from "@/lib/data";
 import { buildMetadata, faqSchema, JsonLd, medicalWebPageSchema } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
-import { AuthorBlock } from "@/components/shared/author-block";
+import { EditorialAttribution } from "@/components/shared/editorial-attribution";
 import { CalculatorEngine } from "@/components/calculators/calculator-engine";
 import { FAQAccordion } from "@/components/shared/faq-accordion";
 import { MedicalDisclaimer } from "@/components/shared/medical-disclaimer";
@@ -45,7 +45,7 @@ export default async function CalculatorPage({ params }: { params: Promise<{ slu
         <span className="text-sm font-medium text-primary">{calc.category}</span>
         <h1 className="text-3xl font-bold mt-1 mb-4">{calc.name}</h1>
         <p className="text-muted-foreground">{calc.description}</p>
-        <AuthorBlock authoredBy={calc.authoredBy} className="mt-4" />
+        <EditorialAttribution contentReview={calc.contentReview} updatedAt={calc.updatedAt} className="mt-4" />
       </header>
 
       <TopBannerAd />

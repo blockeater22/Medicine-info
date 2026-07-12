@@ -1,0 +1,53 @@
+{
+  "slug": "heartburn",
+  "name": "Heartburn",
+  "overview": "Heartburn is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include burning sensation felt behind the breastbone. This summary is educational and should be paired with professional medical evaluation.",
+  "possibleCauses": [
+    "From a clinical perspective, heartburn is a burning sensation felt behind the breastbone.",
+    "In routine practice, it is a symptom that is commonly linked to acid reflux and is often triggered by food.",
+    "In routine practice, lying down, bending, lifting, and performing certain exercises can exacerbate heartburn.",
+    "In routine practice, causes include acid reflux, gastroesophageal reflux disease (GERD), damage to the esophageal lining, bile acid, mechanical stimulation to the esophagus...",
+    "In routine practice, heartburn affects 25% of the population at least once a month."
+  ],
+  "redFlags": [
+    "Patients should discuss safety when sudden severe onset.",
+    "Healthcare providers evaluate risk when associated chest pain or breathing difficulty.",
+    "Extra caution is needed because high fever with confusion.",
+    "Healthcare providers evaluate risk when symptoms after head injury."
+  ],
+  "homeCare": [
+    "Health professionals note that rest and hydration.",
+    "In routine practice, monitor symptom changes.",
+    "In routine practice, use only previously recommended."
+  ],
+  "whenToSeeDoctor": [
+    "From a clinical perspective, symptoms persist beyond several days.",
+    "In routine practice, severity increases.",
+    "From a clinical perspective, new neurological or cardiac features appear."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Heartburn information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "When should I worry about heartburn?",
+      "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
+    }
+  ],
+  "relatedDiseases": [
+    "gastritis"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T11:57:28.097Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Heartburn",
+      "accessedAt": "2026-07-12T11:57:28.097Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

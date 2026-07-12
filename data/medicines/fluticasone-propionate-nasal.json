@@ -50,7 +50,8 @@
   "relatedMedicines": [],
   "relatedDiseases": [
     "allergies",
-    "fever"
+    "fever",
+    "typhoid"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-02-04T00:00:00.000Z",
@@ -58,17 +59,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22fluticasone%22&limit=1",
-      "accessedAt": "2026-07-12T06:31:43.534Z"
+      "accessedAt": "2026-07-12T12:01:24.901Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=fluticasone%20propionate%20nasal",
-      "accessedAt": "2026-07-12T06:31:43.534Z"
+      "accessedAt": "2026-07-12T12:01:24.901Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

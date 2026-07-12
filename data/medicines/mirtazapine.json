@@ -1,0 +1,89 @@
+{
+  "slug": "mirtazapine",
+  "genericName": "Mirtazapine",
+  "brandNames": [
+    "Mirtazapine"
+  ],
+  "composition": "MIRTAZAPINE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Mirtazapine tablets are indicated for the treatment of major depressive disorder (MDD) in adults [see Clinical Studies (14) ].",
+    "This agent is commonly used in care plans involving mirtazapine tablets are indicated for the treatment of major depressive disorder (MDD) in adults."
+  ],
+  "howItWorks": "Mirtazapine belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 1 ) • administer orally once daily, preferably in the evening prior to sleep. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use the safety and effectiveness of mirtazapine have not been established in pediatric patients with mdd. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use approximately 190 patients ≥65 years of age participated in clinical studies with mirtazapine. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because the data described below are from clinical trials in which mirtazapine was administered to 2796 patients in phase 2 and 3 clinical studies may occur.",
+    "Some patients report the trials consisted of double-blind controlled and open-label studies, inpatient and outpatient studies, fixed dose, and titration studies while taking this medicine.",
+    "Some patients report leading to Discontinuation of Treatment Approximately 16% of the 453 patients who received mirtazapine in U.S while taking this medicine.",
+    "Monitoring is advised because the most common reactions leading to discontinuation (≥1% and at a rate at least twice that of placebo) are included in Table 2 may occur.",
+    "Some patients report table 2: Adverse Reactions (≥1% and at least twice placebo) Leading to Discontinuation of Mirtazapine in 6-Week Clinical Trials in Patients with MDD Mirtazap.. while taking this medicine.",
+    "Monitoring is advised because table 3: Adverse Reactions (≥5% and twice placebo) in 6-Week U.S may occur.",
+    "Some patients report this table shows the percentage of patients in each group who had at least 1 episode of an adverse reaction at some time during their treatment while taking this medicine.",
+    "A possible treatment-related effect includes table 4: Adverse Reactions (≥1% and greater than placebo) in 6-Week U.S."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS • Agranulocytosis: If sore throat, fever, stomatitis or signs of infection occur, along with a low white blood cell count...",
+    "Healthcare providers evaluate risk when there was considerable variation in risk of suicidal thoughts and behaviors among drugs...",
+    "Healthcare providers evaluate risk when there were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg...",
+    "breastfeeding": "Patients should discuss safety when 8.3 Nursing Mothers Mirtazapine may be excreted in breast milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Table 5 includes clinically important drug interactions with mirtazapine [see Clinical Pharmacology (12.3) ].",
+      "Patients should discuss safety when table 5: Clinically Important Drug Interactions with Mirtazapine Monoamine Oxidase Inhibitors (MAOIs) Clinical Impact The concomitant use of serotonergic dru...",
+      "Extra caution is needed because intervention Mirtazapine is contraindicated in patients taking MAOIs...",
+      "Patients should discuss safety when examples selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid...",
+      "Healthcare providers evaluate risk when intervention Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases.",
+      "Healthcare providers evaluate risk when if serotonin syndrome occurs, consider discontinuation of mirtazapine and/or concomitant serotonergic drugs [see Warnings and Precautions (5.3) ]."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Mirtazapine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Mirtazapine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2022-08-01T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22mirtazapine%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:35.981Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=mirtazapine",
+      "accessedAt": "2026-07-12T12:01:35.981Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

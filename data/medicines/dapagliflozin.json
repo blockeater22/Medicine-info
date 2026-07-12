@@ -1,0 +1,91 @@
+{
+  "slug": "dapagliflozin",
+  "genericName": "Dapagliflozin",
+  "brandNames": [
+    "DAPAGLIFLOZIN"
+  ],
+  "composition": "DAPAGLIFLOZIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Sodium-Glucose Cotransporter 2 Inhibitor [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Dapagliflozin tablets are indicated: To reduce the risk of hospitalization for heart failure in adults with type 2 diabetes mellitus ...",
+    "This agent is commonly used in care plans involving as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.",
+    "Clinicians may prescribe this medicine when managing limitations of Use Dapagliflozin tablets are not recommended for use to improve glycemic control in patients with type 1 diabetes mellitus [see Warnings and ...",
+    "Clinicians may prescribe this medicine when managing dapagliflozin tablets are not recommended for use to improve glycemic control in patients with type 2 diabetes mellitus with an eGFR less than 45 mL/min/1.73...",
+    "Medical teams consider this option for patients needing support with dapagliflozin tablets are likely to be ineffective in this setting based upon its mechanism of action.",
+    "Medical teams consider this option for patients needing support with pediatric use information is approved for AstraZeneca AB’s Farxiga ® (dapagliflozin) Tablets."
+  ],
+  "howItWorks": "Dapagliflozin belongs to the sodium-glucose cotransporter 2 inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration assess renal function prior to initiation and then as clinically indicated. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use information is approved for astrazeneca ab’s farxiga ® (dapagliflozin) tablets. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use no dapagliflozin dosage change is recommended based on age. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report dapagliflozin has been evaluated in clinical trials in adult patients with type 2 diabetes mellitus while taking this medicine.",
+    "A possible treatment-related effect includes the overall safety profile of dapagliflozin was consistent across the studied indications.",
+    "Monitoring is advised because severe hypoglycemia and diabetic ketoacidosis (DKA) were observed only in patients with diabetes mellitus may occur.",
+    "Monitoring is advised because clinical Trials for Glycemic Control in Adult Patients with Type 2 Diabetes Mellitus Pool of 12 Placebo-Controlled Adult Trials for Dapagliflozin 5 and 10 mg.. may occur.",
+    "Monitoring is advised because in 4 trials dapagliflozin was used as monotherapy.. may occur.",
+    "A possible treatment-related effect includes these data reflect exposure of 2,338 adult patients to dapagliflozin with a mean exposure duration of 21 weeks.",
+    "Some patients report patients received placebo (N=1,393), dapagliflozin 5 mg (N=1,145), or dapagliflozin 10 mg (N=1,193) once daily while taking this medicine.",
+    "Monitoring is advised because the mean age of the population was 55 years and 2% were older than 75 years of age may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when severe hypoglycemia and diabetic ketoacidosis (DKA) were observed only in patients with diabetes mellitus."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Based on animal data showing adverse renal effects...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Table 4: Clinically Relevant Interactions with Dapagliflozin Insulin or Insulin Secretagogues Clinical Impact The risk of hypoglycemia ma...",
+      "Healthcare providers evaluate risk when intervention Concomitant use may require lower doses of insulin or the insulin secretagogue to reduce the risk of hypoglycemia.",
+      "Extra caution is needed because lithium Clinical Impact Concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations.",
+      "Healthcare providers evaluate risk when intervention Monitor serum lithium concentration more frequently during dapagliflozin initiation and dosage changes.",
+      "Extra caution is needed because positive Urine Glucose Test Clinical Impact SGLT2 inhibitors increase urinary glucose excretion and will lead to positive urine glucose tests.",
+      "Patients should discuss safety when intervention Monitoring glycemic control with urine glucose tests is not recommended in patients taking SGLT2 inhibitors."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Dapagliflozin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Dapagliflozin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-10-31T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22dapagliflozin%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:50.342Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=dapagliflozin",
+      "accessedAt": "2026-07-12T12:00:50.342Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

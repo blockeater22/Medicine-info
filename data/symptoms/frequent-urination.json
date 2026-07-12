@@ -1,55 +1,55 @@
 {
   "slug": "frequent-urination",
   "name": "Frequent Urination",
-  "category": "Urological",
-  "description": "Frequent Urination — possible causes, home remedies, and when to see a doctor.",
-  "seo": {
-    "title": "Frequent Urination: Causes, Remedies, When to See Doctor | Doctors Hub",
-    "description": "Understand Frequent Urination: common causes, emergency signs, home remedies, and when to consult a doctor.",
-    "keywords": [
-      "Frequent Urination"
-    ]
-  },
+  "overview": "Frequent Urination is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include medical condition. This summary is educational and should be paired with professional medical evaluation.",
   "possibleCauses": [
-    "Infection",
-    "Chronic disease",
-    "Stress and lifestyle",
-    "Medication side effects",
-    "Injury or trauma"
+    "In routine practice, frequent urination, or urinary frequency, is the need to urinate more often than usual.",
+    "Health professionals note that diuretics are medications that increase urinary frequency.",
+    "Health professionals note that nocturia is the need of frequent urination at night.",
+    "Health professionals note that the most common cause of this condition for women and children is a urinary tract infection.",
+    "Health professionals note that the most common cause of urinary frequency in older men is an enlarged prostate."
   ],
-  "emergencySymptoms": [
-    "Sudden severe onset",
-    "Associated chest pain or breathing difficulty",
-    "Loss of consciousness",
-    "High fever with confusion"
+  "redFlags": [
+    "Patients should discuss safety when sudden severe onset.",
+    "Healthcare providers evaluate risk when associated chest pain or breathing difficulty.",
+    "Extra caution is needed because high fever with confusion.",
+    "Healthcare providers evaluate risk when symptoms after head injury."
   ],
-  "homeRemedies": [
-    "Adequate rest",
-    "Hydration",
-    "Over-the-counter remedies only if previously advised by doctor",
-    "Monitor and document symptoms"
+  "homeCare": [
+    "Health professionals note that rest and hydration.",
+    "In routine practice, monitor symptom changes.",
+    "In routine practice, use only previously recommended."
   ],
-  "whenToVisitDoctor": [
-    "Symptoms persist beyond 3-5 days",
-    "Worsening severity",
-    "New associated symptoms",
-    "High-risk individuals (elderly, pregnant, chronic illness)"
+  "whenToSeeDoctor": [
+    "From a clinical perspective, symptoms persist beyond several days.",
+    "In routine practice, severity increases.",
+    "From a clinical perspective, new neurological or cardiac features appear."
   ],
-  "relatedDiseases": [
-    "diabetes",
-    "uti"
-  ],
-  "faqs": [
+  "faq": [
+    {
+      "question": "Can I rely on this Frequent Urination information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
     {
       "question": "When should I worry about frequent urination?",
-      "answer": "Seek immediate care for severe, sudden, or worsening symptoms."
+      "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
     }
   ],
-  "popular": false,
-  "updatedAt": "2026-07-01",
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "relatedDiseases": [
+    "benign-prostatic-hyperplasia",
+    "uti",
+    "cystic-fibrosis"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T11:57:35.782Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Frequent_urination",
+      "accessedAt": "2026-07-12T11:57:35.782Z"
+    }
+  ],
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

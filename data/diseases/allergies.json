@@ -67,7 +67,8 @@
   ],
   "relatedMedicines": [
     "cetirizine",
-    "montelukast"
+    "montelukast",
+    "fluoxetine-hydrochloride"
   ],
   "faqs": [
     {
@@ -87,11 +88,6 @@
     "Dizziness or collapse after allergen exposure",
     "Use epinephrine and call emergency services if anaphylaxis suspected"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
   "sources": [
     {
       "name": "MedlinePlus",
@@ -104,5 +100,11 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
+  "relatedSlugs": [
+    "pulmonary-function-testing"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

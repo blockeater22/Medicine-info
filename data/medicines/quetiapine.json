@@ -1,0 +1,93 @@
+{
+  "slug": "quetiapine",
+  "genericName": "Quetiapine",
+  "brandNames": [
+    "Quetiapine"
+  ],
+  "composition": "QUETIAPINE FUMARATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS & USAGE Quetiapine is an atypical antipsychotic indicated for the treatment of: Schizophrenia ( 1.1 ) Bipolar I disorder manic episodes ( 1.2 )...",
+    "This agent is commonly used in care plans involving the efficacy of quetiapine in schizophrenia was established in three 6-week trials in adults and one 6-week trial in adolescents (13 to 17 years).",
+    "This agent is commonly used in care plans involving the effectiveness of quetiapine for the maintenance treatment of schizophrenia has not been systematically evaluated in controlled clinical trials [ see Clin...",
+    "Medical teams consider this option for patients needing support with efficacy was established in two 12-week monotherapy trials in adults, in one 3-week adjunctive trial in adults...",
+    "Medical teams consider this option for patients needing support with quetiapine is indicated as monotherapy for the acute treatment of depressive episodes associated with bipolar disorder.",
+    "Clinicians may prescribe this medicine when managing efficacy was established in two 8-week monotherapy trials in adult patients with bipolar I and bipolar II disorder [ see Clinical Studies (14.2) ]."
+  ],
+  "howItWorks": "Quetiapine belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage & administration · quetiapine tablets, usp can be taken with or without food ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an increases in systolic and diastolic blood pressure occurred in children and adolescents and did not occur in adults. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 3) and dosage and administration (2. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because adults: The information below is derived from a clinical trial database for quetiapine consisting of over 4,300 patients may occur.",
+    "A possible treatment-related effect includes of these approximately 4,300 subjects, approximately 4,000 (2,300 in schizophrenia, 405 in acute bipolar mania, 698 in bipolar depression...",
+    "Some patients report the conditions and duration of treatment with quetiapine varied greatly and included (in overlapping categories) open-label and double-blind phases of studie.. while taking this medicine.",
+    "A possible treatment-related effect includes were assessed by collecting adverse reactions, results of physical examinations, vital signs, weights, laboratory analyses, ECGs...",
+    "Monitoring is advised because the stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, an adverse reaction of the type listed may occur.",
+    "Some patients report associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials Schizophrenia: Overall.. while taking this medicine.",
+    "Monitoring is advised because however, discontinuations due to somnolence (0.8% quetiapine vs may occur.",
+    "A possible treatment-related effect includes bipolar Disorder: Mania: Overall, discontinuations due to adverse reactions were 5.7% for quetiapine vs."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when these metabolic changes include hyperglycemia, dyslipidemia...",
+    "Extra caution is needed because monitor glucose regularly in patients with diabetes or at risk for diabetes · Dyslipidemia: Undesirable alterations have been observed in patients treated wi...",
+    "Patients should discuss safety when appropriate clinical monitoring is recommended, including fasting blood lipid testing at the beginning of, and periodically..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics...",
+    "breastfeeding": "Healthcare providers evaluate risk when 8.3 Females and Males of Reproductive Potential Infertility Females Based on the pharmacologic action of quetiapine (D2 antagonism)...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when john’s wort) ( 2.6 , 7.1 ...",
+      "Extra caution is needed because given the primary CNS effects of quetiapine, caution should be used when it is taken in combination with other centrally acting drugs.",
+      "Healthcare providers evaluate risk when quetiapine potentiated the cognitive and motor effects of alcohol in a clinical trial in subjects with selected psychotic disorders...",
+      "Healthcare providers evaluate risk when quetiapine exposure is increased by the prototype CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone...",
+      "Extra caution is needed because john’s wort etc.).",
+      "Healthcare providers evaluate risk when dose adjustment of quetiapine will be necessary if it is co-administered with potent CYP3A4 inducers or inhibitors."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Quetiapine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Quetiapine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-06-27T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22quetiapine%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:40.357Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=quetiapine",
+      "accessedAt": "2026-07-12T12:01:40.357Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

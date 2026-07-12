@@ -1,0 +1,85 @@
+{
+  "slug": "ciclesonide",
+  "genericName": "Ciclesonide",
+  "brandNames": [
+    "Omnaris"
+  ],
+  "composition": "CICLESONIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with management of conditions associated with ciclesonide."
+  ],
+  "howItWorks": "Ciclesonide belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration administer omnaris nasal spray by the intranasal route only. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 2 ), clinical studies ( 14. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes the safety data described below for adults and adolescents 12 years of age and older are based on 3 clinical trials of 2 to 6 weeks duration and one 52-week ...",
+    "A possible treatment-related effect includes in the 3 trials of 2 to 6 weeks duration, 1524 patients (495 males and 1029 females...",
+    "Monitoring is advised because the racial distribution in these three trials included 1374 Caucasians, 69 Blacks, 31 Asians, and 50 patients classified as Other may occur.",
+    "A possible treatment-related effect includes the 52-week trial was conducted in 663 patients (227 males and 436 females...",
+    "Some patients report the racial distribution in this trial included 538 Caucasians, 69 Blacks, 16 Asians, and 40 patients classified as Other while taking this medicine.",
+    "A possible treatment-related effect includes the data from pediatric patients are based upon 4 clinical trials in which 1541 children (871 males and 670 females...",
+    "Some patients report the racial distribution in these four trials included 1136 Caucasians, 273 Blacks, 20 Asians, and 112 patients classified as Other while taking this medicine.",
+    "Some patients report adults and Adolescents 12 Years of Age and Older in Short-Term (2-6 weeks) Trials: In three short-term trials conducted in the US and Canada.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS • Epistaxis, Candida albicans infection, nasal septal perforation, impaired wound healing.",
+    "Healthcare providers evaluate risk when monitor patients periodically for signs of adverse effects on the nasal mucosa.",
+    "Extra caution is needed because avoid spraying OMNARIS directly onto the nasal septum."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary There are no data on ONMARIS nasal spray use in pregnant women to assess a drug associated risk of major birth defects...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS In vitro studies and clinical pharmacology studies suggested that des-ciclesonide has no potential for metabolic drug interactions or pro...",
+      "Patients should discuss safety when in a drug interaction study, co-administration of orally inhaled ciclesonide and oral ketoconazole, a potent inhibitor of cytochrome P450 3A4...",
+      "Healthcare providers evaluate risk when erythromycin, a moderate inhibitor of cytochrome P450 3A4..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Ciclesonide information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Ciclesonide on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2022-11-08T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22ciclesonide%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:27.340Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ciclesonide",
+      "accessedAt": "2026-07-12T12:02:27.340Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

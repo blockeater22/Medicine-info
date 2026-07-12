@@ -1,0 +1,79 @@
+{
+  "slug": "typhoid-fever",
+  "name": "Typhoid Fever",
+  "overview": "Typhoid Fever is a health condition that requires individualized medical assessment. Symptoms, causes, and treatment vary by person — consult a qualified doctor in India for diagnosis and a care plan tailored to your history and local guidelines.",
+  "symptoms": [
+    "In routine practice, typhoid fever, also known as typhoid, is an orally contracted disease caused by Salmonella enterica serotype Typhi bacteria, also called Salmonella Typhi.",
+    "From a clinical perspective, often there is a gradual onset of a high fever over several days.",
+    "From a clinical perspective, some people develop a skin rash with rose colored spots."
+  ],
+  "causes": [
+    "Typhoid Fever: see a doctor for personalized cause guidance."
+  ],
+  "riskFactors": [
+    "Typhoid Fever: see a doctor for personalized care guidance."
+  ],
+  "diagnosis": [
+    "In routine practice, relevant laboratory or imaging tests as indicated.",
+    "Typhoid Fever: Diagnosis depends on severity, age, and comorbidities — seek professional evaluation.",
+    "Follow-up testing and monitoring for typhoid fever should be guided by your treating physician."
+  ],
+  "treatment": [
+    "Typhoid Fever: Treatment depends on severity, age, and comorbidities — seek professional evaluation.",
+    "Follow-up testing and monitoring for typhoid fever should be guided by your treating physician."
+  ],
+  "prevention": [
+    "From a clinical perspective, regular checkups.",
+    "From a clinical perspective, healthy lifestyle habits."
+  ],
+  "complications": [
+    "Healthcare providers evaluate risk when progression if untreated."
+  ],
+  "emergencySigns": [
+    "Extra caution is needed because difficulty breathing.",
+    "Extra caution is needed because chest pain.",
+    "Healthcare providers evaluate risk when confusion or loss of consciousness."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Typhoid Fever information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "What should I do if Typhoid Fever symptoms worsen suddenly?",
+      "answer": "Seek urgent medical care, especially if severe pain, breathing difficulty, confusion, or high fever develops."
+    }
+  ],
+  "relatedDiseases": [],
+  "relatedMedicines": [
+    "fluoxetine-hydrochloride",
+    "clonazepam",
+    "doxycycline"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "MedlinePlus",
+      "url": "https://medlineplus.gov/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "ICMR — Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "relatedSlugs": [
+    "urine-routine",
+    "liver-function-tests"
+  ],
+  "emergencyWarningSigns": [
+    "Extra caution is needed because difficulty breathing.",
+    "Extra caution is needed because chest pain.",
+    "Healthcare providers evaluate risk when confusion or loss of consciousness."
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

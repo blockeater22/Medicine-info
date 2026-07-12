@@ -1,0 +1,57 @@
+{
+  "slug": "glycated-hemoglobin",
+  "name": "Glycated Hemoglobin",
+  "overview": "Glycated Hemoglobin is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include glycated hemoglobin, also called glycohemoglobin, is any form of hemoglobin (hb) that is chemically linked to a sugar; most monosaccharides, including glucose, galactose, and fructose, spontaneously bond with hemoglobin when they are present in the bloodstream; however, glucose is only 21% as likely to do so as galactose and 13% as likely to do so as fructose, which may explain why glucose is used as the primary metabolic fuel in humans. This summary is educational and should be paired with professional medical evaluation.",
+  "purpose": [
+    "From a clinical perspective, glycated hemoglobin, also called glycohemoglobin, is any form of hemoglobin (Hb) that is chemically linked to a sugar.",
+    "Health professionals note that most monosaccharides, including glucose, galactose, and fructose, spontaneously bond with hemoglobin when they are present in the bloodstream.",
+    "In routine practice, however, glucose is only 21% as likely to do so as galactose and 13% as likely to do so as fructose..."
+  ],
+  "preparation": [
+    "From a clinical perspective, confirm fasting requirements with your lab.",
+    "In routine practice, bring prior reports and medication list."
+  ],
+  "procedure": [
+    "From a clinical perspective, sample collection at a certified laboratory.",
+    "Health professionals note that results reviewed by qualified personnel."
+  ],
+  "normalRange": "Reference intervals vary by laboratory method, age, sex, and clinical context. Interpret results with your doctor.",
+  "highMeaning": [
+    "From a clinical perspective, may indicate active disease, inflammation, or organ stress depending on the analyte."
+  ],
+  "lowMeaning": [
+    "In routine practice, may suggest deficiency, suppression, or reduced production depending on the analyte."
+  ],
+  "interpretation": [
+    "In routine practice, compare with previous results for trends.",
+    "In routine practice, correlate with symptoms and examination.",
+    "In routine practice, single abnormal values may require repeat testing."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Glycated Hemoglobin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Do I need fasting before Glycated Hemoglobin?",
+      "answer": "Preparation depends on the exact test order. Follow the instructions provided by your laboratory or physician."
+    }
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T12:02:38.527Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Glycated_hemoglobin",
+      "accessedAt": "2026-07-12T12:02:38.527Z"
+    },
+    {
+      "name": "LOINC",
+      "url": "https://loinc.org/",
+      "accessedAt": "2026-07-12T12:02:38.527Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

@@ -1,16 +1,6 @@
 {
   "slug": "obesity",
   "name": "Obesity",
-  "category": "Metabolic",
-  "description": "Complete guide to Obesity: symptoms, causes, diagnosis, treatment, and prevention for patients in India.",
-  "seo": {
-    "title": "Obesity: Symptoms, Causes, Treatment | Doctors Hub",
-    "description": "Learn about Obesity — symptoms, causes, risk factors, diagnosis, treatment options, and prevention tips.",
-    "keywords": [
-      "Obesity",
-      "Metabolic"
-    ]
-  },
   "overview": "Obesity is excess body fat that increases risk of diabetes, heart disease, and joint problems. Indian populations face cardiometabolic risk at lower BMI thresholds (≥23 kg/m² overweight per ICMR guidelines).",
   "symptoms": [
     "Increased BMI and waist circumference",
@@ -44,12 +34,6 @@
     "Behavioural counselling",
     "GLP-1 agonists or bariatric surgery in selected severe obesity"
   ],
-  "homeCare": [
-    "Follow prescribed treatment plan",
-    "Maintain healthy diet",
-    "Adequate rest and hydration",
-    "Monitor symptoms"
-  ],
   "prevention": [
     "Balanced diet with portion control",
     "Daily physical activity",
@@ -63,38 +47,30 @@
     "Obstructive sleep apnoea",
     "Osteoarthritis"
   ],
-  "emergencyWarningSigns": [
-    "Severe chest pain",
-    "Difficulty breathing",
-    "Sudden confusion",
-    "High fever with rigors"
-  ],
-  "relatedMedicines": [
-    "metformin"
-  ],
-  "faqs": [
-    {
-      "question": "What causes Obesity?",
-      "answer": "Multiple factors including genetics, lifestyle, and environment contribute."
-    },
-    {
-      "question": "Is Obesity curable?",
-      "answer": "Many conditions are manageable with proper treatment. Consult your doctor for prognosis."
-    }
-  ],
-  "popular": false,
-  "updatedAt": "2026-07-01",
   "emergencySigns": [
     "Chest pain or stroke symptoms",
     "Acute shortness of breath at rest",
     "Confusion with uncontrolled diabetes",
     "Not typically an emergency unless complication present"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
+  "faq": [
+    {
+      "question": "Can I rely on this Obesity information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "What should I do if Obesity symptoms worsen suddenly?",
+      "answer": "Seek urgent medical care, especially if severe pain, breathing difficulty, confusion, or high fever develops."
+    }
+  ],
+  "relatedDiseases": [],
+  "relatedMedicines": [
+    "fluoxetine-hydrochloride",
+    "clonazepam",
+    "metronidazole"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
   "sources": [
     {
       "name": "MedlinePlus",
@@ -107,5 +83,18 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "relatedSlugs": [
+    "urine-routine",
+    "liver-function-tests"
+  ],
+  "category": "Metabolic",
+  "emergencyWarningSigns": [
+    "Chest pain or stroke symptoms",
+    "Acute shortness of breath at rest",
+    "Confusion with uncontrolled diabetes",
+    "Not typically an emergency unless complication present"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

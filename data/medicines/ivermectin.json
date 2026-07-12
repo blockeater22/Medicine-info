@@ -1,0 +1,88 @@
+{
+  "slug": "ivermectin",
+  "genericName": "Ivermectin",
+  "brandNames": [
+    "Ivermectin"
+  ],
+  "composition": "IVERMECTIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Antiparasitic [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving ivermectin is indicated for the treatment of the following infections: Strongyloidiasis of the intestinal tract Ivermectin is indicated for the treatment of ...",
+    "Medical teams consider this option for patients needing support with this indication is based on clinical studies of both comparative and open-label designs...",
+    "Medical teams consider this option for patients needing support with onchocerciasis Ivermectin is indicated for the treatment of onchocerciasis due to the nematode parasite Onchocerca volvulus.",
+    "Medical teams consider this option for patients needing support with this indication is based on randomized, double-blind...",
+    "Clinicians may prescribe this medicine when managing the comparative studies used diethylcarbamazine citrate (DEC-C).",
+    "Clinicians may prescribe this medicine when managing nOTE: Ivermectin has no activity against adult Onchocerca volvulus parasites."
+  ],
+  "howItWorks": "Ivermectin belongs to the antiparasitic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an see table 1 for dosage guidelines. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness in pediatric patients weighing less than 15 kg have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report in comparative trials, patients treated with ivermectin experienced more abdominal distention and chest discomfort than patients treated with albendazole while taking this medicine.",
+    "A possible treatment-related effect includes however, ivermectin was better tolerated than thiabendazole in comparative studies involving 37 patients treated with thiabendazole.",
+    "Some patients report the Mazzotti-type and ophthalmologic reactions associated with the treatment of onchocerciasis or the disease itself would not be expected to occur in strong.. while taking this medicine.",
+    "A possible treatment-related effect includes laboratory Test Findings In clinical trials involving 109 patients given either one or two doses of 170 to 200 mcg/kg ivermectin...",
+    "Some patients report leukopenia and anemia were seen in one patient while taking this medicine.",
+    "Monitoring is advised because in clinical trials, ophthalmological conditions were examined in 963 adult patients before treatment, at day 3.. may occur.",
+    "Some patients report changes observed were primarily deterioration from baseline 3 days post-treatment while taking this medicine.",
+    "A possible treatment-related effect includes most changes either returned to baseline condition or improved over baseline severity at the month 3 and 6 visits."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when historical data have shown that microfilaricidal drugs, such as diethylcarbamazine citrate (DEC-C)...",
+    "Extra caution is needed because these reactions are probably due to allergic and inflammatory responses to the death of microfilariae.",
+    "Healthcare providers evaluate risk when patients treated with ivermectin for onchocerciasis may experience these reactions in addition to clinical adverse reactions possibly, probably..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when pregnancy, Teratogenic Effects Ivermectin has been shown to be teratogenic in mice, rats, and rabbits when given in repeated doses of 0.2, 8.1...",
+    "breastfeeding": "Extra caution is needed because nursing Mothers Ivermectin is excreted in human milk in low concentrations.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interactions Post-marketing reports of increased INR (International Normalized Ratio) have been rarely reported when ivermectin was co-administered with..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at temperatures below 30°C (86°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Ivermectin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Ivermectin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "uti",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-10-05T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22ivermectin%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:13.030Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ivermectin",
+      "accessedAt": "2026-07-12T12:02:13.030Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

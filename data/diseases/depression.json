@@ -1,16 +1,6 @@
 {
   "slug": "depression",
   "name": "Depression",
-  "category": "Mental Health",
-  "description": "Complete guide to Depression: symptoms, causes, diagnosis, treatment, and prevention for patients in India.",
-  "seo": {
-    "title": "Depression: Symptoms, Causes, Treatment | Doctors Hub",
-    "description": "Learn about Depression — symptoms, causes, risk factors, diagnosis, treatment options, and prevention tips.",
-    "keywords": [
-      "Depression",
-      "Mental Health"
-    ]
-  },
   "overview": "Depression (major depressive disorder) is a mood disorder with persistent low mood, loss of interest, and functional impairment. It is common and treatable with psychotherapy, medicines, and social support.",
   "symptoms": [
     "Persistent sadness or emptiness",
@@ -43,12 +33,6 @@
     "Regular exercise and sleep hygiene",
     "Crisis support and hospital care if suicidal"
   ],
-  "homeCare": [
-    "Follow prescribed treatment plan",
-    "Maintain healthy diet",
-    "Adequate rest and hydration",
-    "Monitor symptoms"
-  ],
   "prevention": [
     "Social connection and stress management",
     "Early treatment of subthreshold symptoms",
@@ -61,36 +45,30 @@
     "Poor adherence to chronic disease care",
     "Disability and unemployment"
   ],
-  "emergencyWarningSigns": [
-    "Severe chest pain",
-    "Difficulty breathing",
-    "Sudden confusion",
-    "High fever with rigors"
-  ],
-  "relatedMedicines": [],
-  "faqs": [
-    {
-      "question": "What causes Depression?",
-      "answer": "Multiple factors including genetics, lifestyle, and environment contribute."
-    },
-    {
-      "question": "Is Depression curable?",
-      "answer": "Many conditions are manageable with proper treatment. Consult your doctor for prognosis."
-    }
-  ],
-  "popular": false,
-  "updatedAt": "2026-07-01",
   "emergencySigns": [
     "Active suicidal thoughts or plan",
     "Psychosis with depression",
     "Inability to care for self or others",
     "Severe agitation or self-harm behaviour"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
+  "faq": [
+    {
+      "question": "Can I rely on this Depression information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "What should I do if Depression symptoms worsen suddenly?",
+      "answer": "Seek urgent medical care, especially if severe pain, breathing difficulty, confusion, or high fever develops."
+    }
+  ],
+  "relatedDiseases": [],
+  "relatedMedicines": [
+    "fluoxetine-hydrochloride",
+    "clonazepam",
+    "metronidazole"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
   "sources": [
     {
       "name": "MedlinePlus",
@@ -103,5 +81,18 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "relatedSlugs": [
+    "urine-routine",
+    "liver-function-tests"
+  ],
+  "category": "Mental Health",
+  "emergencyWarningSigns": [
+    "Active suicidal thoughts or plan",
+    "Psychosis with depression",
+    "Inability to care for self or others",
+    "Severe agitation or self-harm behaviour"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

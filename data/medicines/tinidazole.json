@@ -1,0 +1,89 @@
+{
+  "slug": "tinidazole",
+  "genericName": "Tinidazole",
+  "brandNames": [
+    "Tindazole"
+  ],
+  "composition": "TINIDAZOLE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Nitroimidazole Antimicrobial [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving the organism should be identified by appropriate diagnostic procedures.",
+    "Medical teams consider this option for patients needing support with it is not indicated in the treatment of asymptomatic cyst passage [see Clinical Studies ( 14.3 , 14.4 )].",
+    "Medical teams consider this option for patients needing support with when culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.",
+    "This agent is commonly used in care plans involving in the absence of such data, local epidemology and susceptibility patterns may contribute to the empiric selection of therapy."
+  ],
+  "howItWorks": "Tinidazole belongs to the nitroimidazole antimicrobial [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration trichomoniasis: a single 2 g oral dose taken with food. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because among 3669 patients treated with a single 2 g dose of tinidazole, in both controlled and uncontrolled trichomoniasis and giardiasis clinical studies.. may occur.",
+    "A possible treatment-related effect includes for multi-day dosing in controlled and uncontrolled amebiasis studies, adverse reactions were reported by 13.8% of 1765 patients.",
+    "A possible treatment-related effect includes other CNS reports include vertigo, ataxia, giddiness, insomnia, drowsiness.",
+    "Monitoring is advised because in Pediatric Patients: In pooled pediatric studies.. may occur.",
+    "A possible treatment-related effect includes bacterial vaginosis: The most common adverse reactions in treated patients (incidence >2%), which were not identified in the trichomoniasis...",
+    "Monitoring is advised because renal: urinary tract infection, painful urination, and urine abnormality may occur.",
+    "A possible treatment-related effect includes and other reactions including pelvic pain, vulvo-vaginal discomfort, vaginal odor, menorrhagia...",
+    "Monitoring is advised because because the reports of these reactions are voluntary and the population is of uncertain size.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because tinidazole: Severe acute hypersensitivity reactions have been reported on initial or subsequent exposure to tinidazole."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Available published data from a case-control study and case report with Tinidazole Tablets use in pregnant women are insufficient ...",
+    "breastfeeding": "Patients should discuss safety when 8.3 Females and Males of Reproductive Potential Infertility Infertility Males Based on findings in rodents...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Although not specifically identified in studies with tinidazole, the following drug interactions were reported for metronidazole...",
+      "Extra caution is needed because therefore, these drug interactions may occur with tinidazole.",
+      "Patients should discuss safety when the dosage of oral anticoagulants may need to be adjusted during tinidazole co-administration and up to 8 days after discontinuation.",
+      "Patients should discuss safety when alcohols...",
+      "Healthcare providers evaluate risk when psychotic reactions have been reported in alcoholic patients using metronidazole and disulfiram concurrently.",
+      "Patients should discuss safety when though no similar reactions have been reported with tinidazole, tinidazole should not be given to patients who have taken disulfiram within the last two weeks."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Tinidazole information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Tinidazole on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-03-31T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22tinidazole%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:42.190Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=tinidazole",
+      "accessedAt": "2026-07-12T12:00:42.190Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

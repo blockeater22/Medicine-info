@@ -1,0 +1,93 @@
+{
+  "slug": "rabeprazole-sodium",
+  "genericName": "Rabeprazole sodium",
+  "brandNames": [
+    "Rabeprazole sodium"
+  ],
+  "composition": "RABEPRAZOLE SODIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Rabeprazole sodium delayed-release tablets is a proton pump inhibitor (PPI) indicated in adults for: Healing of Erosive or Ulcerative...",
+    "This agent is commonly used in care plans involving maintenance of Healing of Erosive or Ulcerative GERD ( 1.2 ).",
+    "This agent is commonly used in care plans involving treatment of Symptomatic GERD ( 1.3 ).",
+    "This agent is commonly used in care plans involving healing of Duodenal Ulcers ( 1.4 ).",
+    "This agent is commonly used in care plans involving helicobacter pylori Eradication to Reduce Risk of Duodenal Ulcer Recurrence ( 1.5 ).",
+    "This agent is commonly used in care plans involving treatment of Pathological Hypersecretory Conditions, Including Zollinger-Ellison Syndrome ( 1.6 )."
+  ],
+  "howItWorks": "Rabeprazole Sodium belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an do not chew, crush or split the tablets. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an the adverse reaction profile in adolescent patients was similar to that of adults. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report 6 ADVERSE REACTIONS Most common adverse reactions in adults (>2%) are pain, pharyngitis, flatulence, infection, and constipation ( 6.1 ) while taking this medicine.",
+    "A possible treatment-related effect includes most common adverse reactions in adolescents (≥2%) are headache, diarrhea, nausea, vomiting, and abdominal pain ( 6.1 ).",
+    "Some patients report adults The data described below reflect exposure to rabeprazole sodium delayed-release tablets in 1,064 adult patients exposed for up to 8 weeks while taking this medicine.",
+    "Monitoring is advised because the studies were primarily placebo- and active-controlled trials in adult patients with Erosive or Ulcerative Gastroesophageal Reflux Disease (GERD).. may occur.",
+    "Some patients report the population had a mean age of 53 years (range 18 to 89 years) and had a ratio of approximately 60% male: 40% female while taking this medicine.",
+    "Some patients report the racial distribution was 86% Caucasian, 8% African American, 2% Asian, and 5% other while taking this medicine.",
+    "Some patients report most patients received either 10 mg, 20 mg or 40 mg per day of rabeprazole sodium delayed-release tablets while taking this medicine.",
+    "Some patients report three long-term maintenance studies consisted of a total of 740 adult patients while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because 5 WARNINGS AND PRECAUTIONS Gastric Malignancy : In adults, symptomatic response to therapy with rabeprazole does not preclude the presence of gastric malignancy.",
+    "Patients should discuss safety when consider additional follow-up and diagnostic testing ( 5.1 ).",
+    "Extra caution is needed because use with Warfarin : Monitor for increases in INR and prothrombin time ( 5.2 , 7 )."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary There are no available human data on rabeprazole sodium delayed-release tablets use in pregnant women to inform the drug associate...",
+    "breastfeeding": "Extra caution is needed because 8.2 Lactation Risk Summary Lactation studies have not been conducted to assess the presence of rabeprazole in human milk...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS See full prescribing information for a list of clinically important drug interactions ( 7 ).",
+      "Patients should discuss safety when table 2 includes drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with rabeprazole sodium d...",
+      "Healthcare providers evaluate risk when consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.",
+      "Healthcare providers evaluate risk when table 2: Clinically Relevant Interactions Affecting Drugs Co-Administered with Rabeprazole Sodium Delayed-Release Tablets and Interactions with Diagnostics A...",
+      "Healthcare providers evaluate risk when intervention: Rilpivirine-containing products : Concomitant use with rabeprazole sodium delayed-release tablets is contraindicated [see Contraindications ( 4 )].",
+      "Patients should discuss safety when prescribing information."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Rabeprazole sodium information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Rabeprazole sodium on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-01-07T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22rabeprazole%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:15.740Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=rabeprazole%20sodium",
+      "accessedAt": "2026-07-12T12:01:15.740Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

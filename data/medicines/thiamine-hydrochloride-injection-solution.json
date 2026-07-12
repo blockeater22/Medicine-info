@@ -1,0 +1,83 @@
+{
+  "slug": "thiamine-hydrochloride-injection-solution",
+  "genericName": "Thiamine hydrochloride injection, solution",
+  "brandNames": [
+    "THIAMINE HYDROCHLORIDE injection, solution"
+  ],
+  "composition": "THIAMINE HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing iNDICATIONS Thiamine hydrochloride injection is effective for the treatment of thiamine deficiency or beriberi whether of the dry (major symptoms related to ...",
+    "Medical teams consider this option for patients needing support with thiamine hydrochloride injection should be used where rapid restoration of thiamine is necessary, as in Wernicke's encephalopathy...",
+    "This agent is commonly used in care plans involving it is also indicated when giving IV dextrose to individuals with marginal thiamine status to avoid precipitation of heart failure.",
+    "Medical teams consider this option for patients needing support with thiamine hydrochloride injection is also indicated in patients with established thiamine deficiency who cannot take thiamine orally due to coexisting severe ...",
+    "Medical teams consider this option for patients needing support with thiamine hydrochloride injection is not usually indicated for conditions of decreased oral intake or decreased gastrointestinal absorption..."
+  ],
+  "howItWorks": "Thiamine Hydrochloride Injection, Solution belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an (see warnings regarding repeated injection of thiamine. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because an occasional individual may develop a hypersensitivity or life threatening anaphylactic reaction to thiamine, especially after repeated injections may occur.",
+    "Monitoring is advised because collapse and death have been reported may occur.",
+    "Monitoring is advised because a feeling of warmth, pruritus, urticaria, weakness, sweating, nausea, restlessness, tightness of the throat, angioneurotic edema, cyanosis, pulmonary edema.. may occur.",
+    "Some patients report some tenderness and induration may follow IM use (see WARNINGS ) while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when wARNING: This product contains aluminum that may be toxic.",
+    "Healthcare providers evaluate risk when aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired.",
+    "Healthcare providers evaluate risk when premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Thiamine hydrochloride injection, solution information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Thiamine hydrochloride injection, solution on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-05-07T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22thiamine%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:07.958Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=thiamine%20hydrochloride%20injection%2C%20solution",
+      "accessedAt": "2026-07-12T12:02:07.958Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

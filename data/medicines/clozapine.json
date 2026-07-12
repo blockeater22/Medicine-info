@@ -1,0 +1,91 @@
+{
+  "slug": "clozapine",
+  "genericName": "Clozapine",
+  "brandNames": [
+    "Clozapine"
+  ],
+  "composition": "CLOZAPINE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Atypical Antipsychotic [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE Clozapine orally disintegrating tablets (Clozapine ODT) is an atypical antipsychotic indicated for: Treatment of severely ill patient...",
+    "This agent is commonly used in care plans involving because of the risks of severe neutropenia and of seizure associated with their use...",
+    "This agent is commonly used in care plans involving suicidal behavior refers to actions by a patient that put him/herself at risk for death.",
+    "Medical teams consider this option for patients needing support with the effectiveness of Clozapine ODT in reducing the risk of recurrent suicidal behavior was demonstrated over a two-year treatment period in the InterSePT™ tr..."
+  ],
+  "howItWorks": "Clozapine belongs to the atypical antipsychotic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration recommended starting oral dosage is 12. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness of clozapine in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an orthostatic hypotension and tachycardia can occur with clozapine odt treatment [seeand warnings and precautions (5. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes cardiovascular reactions (tachycardia, hypotension, and syncope).",
+    "A possible treatment-related effect includes autonomic nervous system reactions (hypersalivation, sweating, dry mouth, and visual disturbances).",
+    "Monitoring is advised because gastrointestinal reactions (constipation and nausea) may occur.",
+    "Monitoring is advised because the most commonly reported adverse reactions (≥ 5%) across clozapine clinical trials were: CNS reactions, including sedation, dizziness/vertigo, headache.. may occur.",
+    "Some patients report cardiovascular reactions, including tachycardia, hypotension, and syncope while taking this medicine.",
+    "Some patients report autonomic nervous system reactions, including hypersalivation, sweating, dry mouth, and visual disturbances while taking this medicine.",
+    "Monitoring is advised because gastrointestinal reactions, including constipation and nausea may occur.",
+    "A possible treatment-related effect includes table 9 summarizes the most commonly reported adverse reactions (≥ 5%) in clozapine-treated patients (compared to chlorpromazine-treated patients) in the piv..."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because 5 WARNINGS AND PRECAUTIONS Severe neutropenia: See ( 5.1 ) Gastrointestinal Hypomotility with Severe Complications: Severe gastrointestinal adverse reactions...",
+    "Extra caution is needed because if constipation is identified, close monitoring and prompt treatment is advised.",
+    "Patients should discuss safety when discontinue if these occur."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because use caution when administering Clozapine ODT concomitantly with drugs that are inducers or inhibitors of these enzymes.",
+      "Patients should discuss safety when cYP1A2 Inhibitors Concomitant use of Clozapine ODT and CYP1A2 inhibitors can increase plasma levels of clozapine, potentially resulting in adverse reactions.",
+      "Patients should discuss safety when reduce the Clozapine ODT dose to one-third of the original dose when Clozapine ODT is coadministered with strong CYP1A2 inhibitors (e.g., fluvoxamine...",
+      "Patients should discuss safety when the Clozapine ODT dose should be increased to the original dose when coadministration of strong CYP1A2 inhibitors is discontinued [see Dosage and Administrat...",
+      "Patients should discuss safety when moderate or weak CYP1A2 inhibitors include oral contraceptives and caffeine.",
+      "Extra caution is needed because monitor patients closely when Clozapine ODT is coadministered with these inhibitors."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Clozapine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Clozapine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-03-13T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22clozapine%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:41.515Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=clozapine",
+      "accessedAt": "2026-07-12T12:01:41.515Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "weight-gain",
+  "name": "Weight Gain",
+  "overview": "Weight Gain is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include increase in a person's total body mass. This summary is educational and should be paired with professional medical evaluation.",
+  "possibleCauses": [
+    "Health professionals note that weight gain is an increase in body weight.",
+    "In routine practice, this can involve an increase in muscle mass, fat deposits, excess fluids such as water or other factors.",
+    "Health professionals note that weight gain can be a symptom of a serious medical condition."
+  ],
+  "redFlags": [
+    "Patients should discuss safety when sudden severe onset.",
+    "Healthcare providers evaluate risk when associated chest pain or breathing difficulty.",
+    "Extra caution is needed because high fever with confusion.",
+    "Healthcare providers evaluate risk when symptoms after head injury."
+  ],
+  "homeCare": [
+    "Health professionals note that rest and hydration.",
+    "In routine practice, monitor symptom changes.",
+    "In routine practice, use only previously recommended."
+  ],
+  "whenToSeeDoctor": [
+    "From a clinical perspective, symptoms persist beyond several days.",
+    "In routine practice, severity increases.",
+    "From a clinical perspective, new neurological or cardiac features appear."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Weight Gain information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "When should I worry about weight gain?",
+      "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
+    }
+  ],
+  "relatedDiseases": [
+    "thyroid",
+    "colorectal-cancer",
+    "diabetes"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T11:57:25.614Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Weight_gain",
+      "accessedAt": "2026-07-12T11:57:25.614Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

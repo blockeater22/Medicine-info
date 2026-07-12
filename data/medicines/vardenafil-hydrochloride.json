@@ -1,0 +1,89 @@
+{
+  "slug": "vardenafil-hydrochloride",
+  "genericName": "Vardenafil hydrochloride",
+  "brandNames": [
+    "Vardenafil Hydrochloride"
+  ],
+  "composition": "VARDENAFIL HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Vardenafil hydrochloride tablets are indicated for the treatment of erectile dysfunction.",
+    "This agent is commonly used in care plans involving vardenafil hydrochloride tablets are a phosphodiesterase 5 (PDE5) inhibitor indicated for the treatment of erectile dysfunction."
+  ],
+  "howItWorks": "Vardenafil Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an increase to 20 mg or decrease to 5 mg based on efficacy/tolerability. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use vardenafil hydrochloride tablets are not indicated for use in pediatric patients. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because vardenafil hydrochloride tablets were administered to over 4430 men (mean age 56, range 18-89 years may occur.",
+    "A possible treatment-related effect includes 81% White, 6% Black, 2% Asian, 2% Hispanic and 9% Other) during controlled and uncontrolled clinical trials worldwide.",
+    "Some patients report over 2200 patients were treated for 6 months or longer and 880 patients were treated for at least 1 year while taking this medicine.",
+    "Monitoring is advised because in placebo-controlled clinical trials, the discontinuation rate due to adverse events was 3.4% for vardenafil hydrochloride tablets compared to 1.1% for placebo may occur.",
+    "Monitoring is advised because when vardenafil hydrochloride tablets were taken as recommended in placebo-controlled clinical trials.. may occur.",
+    "Some patients report table 1: Adverse Reactions Reported By ≥2% of Patients Treated with Vardenafil Hydrochloride Tablets and More Frequent on Drug than Placebo in Fixed and Flex.. while taking this medicine.",
+    "Monitoring is advised because placebo-controlled trials suggested a dose effect in the incidence of some adverse reactions (headache, flushing, dyspepsia, nausea.. may occur.",
+    "Monitoring is advised because all Vardenafil Studies: Vardenafil hydrochloride tablets and vardenafil orally disintegrating tablets have been administered to over 17.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS The evaluation of erectile dysfunction should include a medical assessment...",
+    "Healthcare providers evaluate risk when vardenafil hydrochloride tablets should be used with caution, and only when the anticipated benefits outweigh the risks, in patients with a history of NAION.",
+    "Extra caution is needed because patients with a \"crowded\" optic disc may also be at an increased risk of NAION."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Vardenafil hydrochloride tablets are not indicated for use in females.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Vardenafil hydrochloride tablets can potentiate the hypotensive effects of nitrates, alpha- blockers, and antihypertensives.",
+      "Healthcare providers evaluate risk when the blood pressure lowering effects of sublingual nitrates (0.4 mg) taken 1 and 4 hours after vardenafil and increases in heart rate when taken at 1...",
+      "Healthcare providers evaluate risk when these effects were not observed when vardenafil hydrochloride tablets 20 mg were taken 24 hours before the nitroglycerin (NTG).",
+      "Patients should discuss safety when potentiation of the hypotensive effects of nitrates for patients with ischemic heart disease has not been evaluated...",
+      "Healthcare providers evaluate risk when alpha-Blockers: Caution is advised when PDE5 inhibitors are co-administered with alpha-blockers.",
+      "Extra caution is needed because pDE5 inhibitors, including vardenafil hydrochloride tablets and alpha-adrenergic blocking agents are both vasodilators with blood-pressure-lowering effects."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Vardenafil hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Vardenafil hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "erectile-dysfunction"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-11-06T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22vardenafil%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:53.991Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=vardenafil%20hydrochloride",
+      "accessedAt": "2026-07-12T12:01:53.991Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "hearing-loss",
+  "name": "Hearing Loss",
+  "overview": "Hearing Loss is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include partial or total inability to hear. This summary is educational and should be paired with professional medical evaluation.",
+  "possibleCauses": [
+    "Health professionals note that hearing loss is either a partial inability to hear, or a total inability termed deafness.",
+    "Health professionals note that hearing loss may be present at birth or acquired at any time afterwards.",
+    "In routine practice, hearing loss may occur in one or both ears.",
+    "From a clinical perspective, in children, hearing problems can affect the ability to acquire spoken language.",
+    "From a clinical perspective, in adults, it can create difficulties with social interaction and at work."
+  ],
+  "redFlags": [
+    "Patients should discuss safety when sudden severe onset.",
+    "Healthcare providers evaluate risk when associated chest pain or breathing difficulty.",
+    "Extra caution is needed because high fever with confusion.",
+    "Healthcare providers evaluate risk when symptoms after head injury."
+  ],
+  "homeCare": [
+    "Health professionals note that rest and hydration.",
+    "In routine practice, monitor symptom changes.",
+    "In routine practice, use only previously recommended."
+  ],
+  "whenToSeeDoctor": [
+    "From a clinical perspective, symptoms persist beyond several days.",
+    "In routine practice, severity increases.",
+    "From a clinical perspective, new neurological or cardiac features appear."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Hearing Loss information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "When should I worry about hearing loss?",
+      "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
+    }
+  ],
+  "relatedDiseases": [
+    "diarrhea",
+    "glaucoma",
+    "macular-degeneration"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T11:57:46.681Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hearing_loss",
+      "accessedAt": "2026-07-12T11:57:46.681Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

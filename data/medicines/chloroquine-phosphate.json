@@ -1,0 +1,88 @@
+{
+  "slug": "chloroquine-phosphate",
+  "genericName": "Chloroquine phosphate",
+  "brandNames": [
+    "Chloroquine Phosphate"
+  ],
+  "composition": "CHLOROQUINE PHOSPHATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with chloroquine phosphate tablets are indicated for the: Treatment of uncomplicated malaria due to susceptible strains of P.",
+    "This agent is commonly used in care plans involving prophylaxis of malaria in geographic areas where resistance to chloroquine is not present.",
+    "Clinicians may prescribe this medicine when managing treatment of extraintestinal amebiasis.",
+    "This agent is commonly used in care plans involving chloroquine phosphate tablets do not prevent relapses in patients with vivax or ovale malaria because it is not effective against exoerythrocytic forms of th...",
+    "Medical teams consider this option for patients needing support with limitations of Use in Malaria: Do not use chloroquine phosphate tablets for the treatment of complicated malaria (high-grade parasitemia and/or complications...",
+    "This agent is commonly used in care plans involving use chloroquine phosphate tablets for malaria prophylaxis in areas where chloroquine resistance occurs..."
+  ],
+  "howItWorks": "Chloroquine Phosphate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an each 500 mg tablet of chloroquine phosphate contains the equivalent of 300 mg chloroquine base. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report the following adverse reactions have been identified during post-approval use of chloroquine or other 4-aminoqunoline compounds while taking this medicine.",
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine.",
+    "A possible treatment-related effect includes ocular disorders: Maculopathy and macular degeneration have been reported and may be irreversible.",
+    "A possible treatment-related effect includes irreversible retinopathy with retinal pigmentation changes (bull’s eye appearance) and visual field defects (paracentral scotomas) in patients receiving long...",
+    "Monitoring is advised because visual disturbances (blurring of vision and difficulty of focusing or accommodation) may occur.",
+    "Some patients report scotomatous vision with field defects of paracentral, pericentral ring types, and typically temporal scotomas (e.g... while taking this medicine.",
+    "A possible treatment-related effect includes reversible corneal opacities have also been reported.",
+    "A possible treatment-related effect includes immune system disorders: Urticaria, anaphylactic reaction including angioedema."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when chloroquine-Resistant Malaria Chloroquine phosphate tablets are not effective against chloroquine-or hydroxychloroquine-resistant strains of Plasmodium speci...",
+    "Healthcare providers evaluate risk when chloroquine resistance is widespread in P.",
+    "Patients should discuss safety when before using chloroquine for prophylaxis, it should be ascertained whether chloroquine is appropriate for use in the region to be visited by the traveler."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when discuss risks and benefits with your obstetric care team before use.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Chloroquine phosphate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Chloroquine phosphate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-02T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22chloroquine%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:03.456Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=chloroquine%20phosphate",
+      "accessedAt": "2026-07-12T12:02:03.456Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

@@ -70,7 +70,8 @@
   ],
   "relatedMedicines": [
     "atorvastatin",
-    "aspirin"
+    "aspirin",
+    "fluoxetine-hydrochloride"
   ],
   "faqs": [
     {
@@ -90,11 +91,6 @@
     "Sudden breathlessness with chest discomfort",
     "Collapse or irregular pulse"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
   "sources": [
     {
       "name": "MedlinePlus",
@@ -107,5 +103,12 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
+  "relatedSlugs": [
+    "lipid-profile",
+    "hba1c"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

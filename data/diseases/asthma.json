@@ -1,16 +1,6 @@
 {
   "slug": "asthma",
   "name": "Asthma",
-  "category": "Respiratory",
-  "description": "Complete guide to Asthma: symptoms, causes, diagnosis, treatment, and prevention for patients in India.",
-  "seo": {
-    "title": "Asthma: Symptoms, Causes, Treatment | Doctors Hub",
-    "description": "Learn about Asthma — symptoms, causes, risk factors, diagnosis, treatment options, and prevention tips.",
-    "keywords": [
-      "Asthma",
-      "Respiratory"
-    ]
-  },
   "overview": "Asthma is a chronic airway disease with reversible bronchospasm, inflammation, and hyper-responsiveness to triggers. It affects millions in India, often worsened by air pollution and allergens. Good control allows normal activity with a personalised action plan.",
   "symptoms": [
     "Wheezing and shortness of breath",
@@ -43,12 +33,6 @@
     "Leukotriene modifiers or LABA add-ons as needed",
     "Trigger avoidance and inhaler technique education"
   ],
-  "homeCare": [
-    "Follow prescribed treatment plan",
-    "Maintain healthy diet",
-    "Adequate rest and hydration",
-    "Monitor symptoms"
-  ],
   "prevention": [
     "Avoid known triggers and passive smoke",
     "Annual influenza vaccination (recommended for asthma patients)",
@@ -61,39 +45,30 @@
     "Reduced lung growth in untreated childhood asthma",
     "Frequent school or work absenteeism"
   ],
-  "emergencyWarningSigns": [
-    "Severe chest pain",
-    "Difficulty breathing",
-    "Sudden confusion",
-    "High fever with rigors"
-  ],
-  "relatedMedicines": [
-    "salbutamol",
-    "montelukast"
-  ],
-  "faqs": [
-    {
-      "question": "What causes Asthma?",
-      "answer": "Multiple factors including genetics, lifestyle, and environment contribute."
-    },
-    {
-      "question": "Is Asthma curable?",
-      "answer": "Many conditions are manageable with proper treatment. Consult your doctor for prognosis."
-    }
-  ],
-  "popular": true,
-  "updatedAt": "2026-07-01",
   "emergencySigns": [
     "Rescue inhaler not relieving symptoms",
     "Difficulty speaking in full sentences",
     "Blue lips or fingernails",
     "Peak flow below 50% of personal best"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
+  "faq": [
+    {
+      "question": "Can I rely on this Asthma information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "What should I do if Asthma symptoms worsen suddenly?",
+      "answer": "Seek urgent medical care, especially if severe pain, breathing difficulty, confusion, or high fever develops."
+    }
+  ],
+  "relatedDiseases": [],
+  "relatedMedicines": [
+    "fluoxetine-hydrochloride",
+    "clonazepam",
+    "metronidazole"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
   "sources": [
     {
       "name": "MedlinePlus",
@@ -106,5 +81,18 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "relatedSlugs": [
+    "urine-routine",
+    "liver-function-tests"
+  ],
+  "category": "Respiratory",
+  "emergencyWarningSigns": [
+    "Rescue inhaler not relieving symptoms",
+    "Difficulty speaking in full sentences",
+    "Blue lips or fingernails",
+    "Peak flow below 50% of personal best"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

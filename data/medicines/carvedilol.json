@@ -1,0 +1,82 @@
+{
+  "slug": "carvedilol",
+  "genericName": "Carvedilol",
+  "brandNames": [
+    "Carvedilol"
+  ],
+  "composition": "CARVEDILOL — active ingredient details may vary by marketed formulation.",
+  "drugClass": "alpha-Adrenergic Blocker [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving it can be used alone or in combination with other antihypertensive agents, especially thiazide-type diuretics [see Drug Interactions ( 7.2 )]."
+  ],
+  "howItWorks": "Carvedilol belongs to the alpha-adrenergic blocker [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration take with food. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use effectiveness of carvedilol tablets in patients younger than 18 years has not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 3% (56) were aged 75 years or older. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because 6 ADVERSE REACTIONS Most common adverse events ( 6.1 ): Heart failure and left ventricular dysfunction following myocardial infarction (≥10%): Dizziness.. may occur.",
+    "Some patients report hypertension (≥5%): Dizziness while taking this medicine.",
+    "A possible treatment-related effect includes carvedilol tablets have been evaluated for safety in subjects with heart failure (mild, moderate, and severe)...",
+    "Monitoring is advised because the observed adverse event profile was consistent with the pharmacology of the drug and the health status of the subjects in the clinical trials may occur.",
+    "Some patients report adverse events reported for each of these patient populations are provided below while taking this medicine.",
+    "Some patients report excluded are adverse events considered too general to be informative.. while taking this medicine.",
+    "Monitoring is advised because rates of adverse events were generally similar across demographic subsets (men and women, elderly and non-elderly, blacks and non-blacks) may occur.",
+    "Some patients report heart Failure Carvedilol tablets have been evaluated for safety in heart failure in more than 4,500 subjects worldwide of whom more than 2.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when carvedilol tablets have been evaluated for safety in subjects with heart failure (mild, moderate, and severe)..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Available data regarding use of carvedilol in pregnant women are insufficient to determine whether there are drug-associated risks...",
+    "breastfeeding": "Extra caution is needed because 8.2 Lactation Risk Summary There are no data on the presence of carvedilol in human milk, the effects on the breastfed infant, or the effects on milk production.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because concomitant administration of clonidine with a β-blocker may cause hypotension and bradycardia.",
+      "Patients should discuss safety when when concomitant treatment with a β-blocker and clonidine is to be terminated, the β-blocker should be discontinued first.",
+      "Extra caution is needed because clonidine therapy can then be discontinued several days later by gradually decreasing the dosage.",
+      "Patients should discuss safety when in about 30% of subjects, the dose of cyclosporine had to be reduced in order to maintain cyclosporine concentrations within the therapeutic range...",
+      "Patients should discuss safety when on the average for the group, the dose of cyclosporine was reduced about 20% in these subjects.",
+      "Patients should discuss safety when due to wide interindividual variability in the dose adjustment required..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Carvedilol information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Carvedilol on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-05-11T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22carvedilol%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:05.140Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=carvedilol",
+      "accessedAt": "2026-07-12T12:01:05.140Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

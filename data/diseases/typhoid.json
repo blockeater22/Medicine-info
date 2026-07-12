@@ -67,7 +67,8 @@
   ],
   "relatedMedicines": [
     "azithromycin",
-    "ciprofloxacin"
+    "ciprofloxacin",
+    "fluoxetine-hydrochloride"
   ],
   "faqs": [
     {
@@ -87,11 +88,6 @@
     "Altered mental status",
     "Persistent fever despite appropriate antibiotics"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
   "sources": [
     {
       "name": "MedlinePlus",
@@ -104,5 +100,12 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
+  "relatedSlugs": [
+    "blood-sugar-fasting",
+    "cbc"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

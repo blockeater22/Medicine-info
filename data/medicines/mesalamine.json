@@ -1,0 +1,86 @@
+{
+  "slug": "mesalamine",
+  "genericName": "Mesalamine",
+  "brandNames": [
+    "Mesalamine"
+  ],
+  "composition": "MESALAMINE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Aminosalicylate [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Mesalamine delayed-release tablets are indicated for the treatment of moderately active ulcerative colitis in adults.",
+    "This agent is commonly used in care plans involving limitations of Use : Safety and effectiveness of mesalamine delayed-release tablets beyond 6 weeks have not been established.",
+    "Medical teams consider this option for patients needing support with mesalamine delayed-release tablets are an aminosalicylate indicated for the treatment of moderately active ulcerative colitis in adults."
+  ],
+  "howItWorks": "Mesalamine belongs to the aminosalicylate [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 1) evaluate renal function prior to initiation of mesalamine delayed-release tablets. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness of mesalamine delayed-release in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes mesalamine delayed-release 800 mg tablets have been evaluated in 896 patients with ulcerative colitis in controlled studies.",
+    "Some patients report three six-week.. while taking this medicine.",
+    "Some patients report in these studies.. while taking this medicine.",
+    "Some patients report the most common reactions reported in the mesalamine delayed-release 800 mg tablet group were headache (4.7%), nausea (2.8%), nasopharyngitis (2.5%).. while taking this medicine.",
+    "A possible treatment-related effect includes table 1 enumerates adverse reactions that occurred in the three studies.",
+    "A possible treatment-related effect includes the most common reactions in patients with moderately active ulcerative colitis (602 patients dosed with mesalamine delayed-release 800 mg and 618 patients d...",
+    "Monitoring is advised because discontinuations due to adverse reactions occurred in 3.9% of patients in the mesalamine delayed-release 800 mg tablet group and in 4.2% of patients in the m.. may occur.",
+    "A possible treatment-related effect includes the most common cause for discontinuation was gastrointestinal symptoms associated with ulcerative colitis."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because serious adverse reactions occurred in 0.8% of patients in the mesalamine delayed-release 800 mg tablet group and in 1.8% of patients in the mesalamine delaye..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary Limited published data on mesalamine use in pregnant women are insufficient to inform a drug-associated risk.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Nephrotoxic Agents including NSAIDs : Increased risk of nephrotoxicity.",
+      "Extra caution is needed because monitor for changes in renal function and mesalamine-related adverse reactions.",
+      "Healthcare providers evaluate risk when monitor complete blood cell counts and platelet counts.",
+      "Extra caution is needed because consider an alternative, selective assay for normetanephrine."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Mesalamine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Mesalamine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-05-23T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22mesalamine%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:22.874Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=mesalamine",
+      "accessedAt": "2026-07-12T12:02:22.874Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

@@ -1,56 +1,53 @@
 {
   "slug": "abdominal-pain",
   "name": "Abdominal Pain",
-  "category": "Gastrointestinal",
-  "description": "Abdominal Pain — possible causes, home remedies, and when to see a doctor.",
-  "seo": {
-    "title": "Abdominal Pain: Causes, Remedies, When to See Doctor | Doctors Hub",
-    "description": "Understand Abdominal Pain: common causes, emergency signs, home remedies, and when to consult a doctor.",
-    "keywords": [
-      "Abdominal Pain"
-    ]
-  },
+  "overview": "Abdominal Pain is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include stomach aches. This summary is educational and should be paired with professional medical evaluation.",
   "possibleCauses": [
-    "Infection",
-    "Chronic disease",
-    "Stress and lifestyle",
-    "Medication side effects",
-    "Injury or trauma"
+    "In routine practice, abdominal pain, also known as a stomach ache, is a symptom associated with both non-serious and serious medical issues.",
+    "From a clinical perspective, since the abdomen contains most of the body's vital organs, it can be an indicator of a wide variety of diseases.",
+    "Health professionals note that given that, approaching the examination of a person and planning of a differential diagnosis is extremely important."
   ],
-  "emergencySymptoms": [
-    "Sudden severe onset",
-    "Associated chest pain or breathing difficulty",
-    "Loss of consciousness",
-    "High fever with confusion"
+  "redFlags": [
+    "Patients should discuss safety when sudden severe onset.",
+    "Healthcare providers evaluate risk when associated chest pain or breathing difficulty.",
+    "Extra caution is needed because high fever with confusion.",
+    "Healthcare providers evaluate risk when symptoms after head injury."
   ],
-  "homeRemedies": [
-    "Adequate rest",
-    "Hydration",
-    "Over-the-counter remedies only if previously advised by doctor",
-    "Monitor and document symptoms"
+  "homeCare": [
+    "Health professionals note that rest and hydration.",
+    "In routine practice, monitor symptom changes.",
+    "In routine practice, use only previously recommended."
   ],
-  "whenToVisitDoctor": [
-    "Symptoms persist beyond 3-5 days",
-    "Worsening severity",
-    "New associated symptoms",
-    "High-risk individuals (elderly, pregnant, chronic illness)"
+  "whenToSeeDoctor": [
+    "From a clinical perspective, symptoms persist beyond several days.",
+    "In routine practice, severity increases.",
+    "From a clinical perspective, new neurological or cardiac features appear."
   ],
-  "relatedDiseases": [
-    "gastritis",
-    "gerd",
-    "diarrhea"
-  ],
-  "faqs": [
+  "faq": [
+    {
+      "question": "Can I rely on this Abdominal Pain information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
     {
       "question": "When should I worry about abdominal pain?",
-      "answer": "Seek immediate care for severe, sudden, or worsening symptoms."
+      "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
     }
   ],
-  "popular": false,
-  "updatedAt": "2026-07-01",
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "relatedDiseases": [
+    "peptic-ulcer-disease",
+    "appendicitis",
+    "urinary-tract-infection"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T11:57:10.641Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abdominal_pain",
+      "accessedAt": "2026-07-12T11:57:10.641Z"
+    }
+  ],
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

@@ -1,0 +1,87 @@
+{
+  "slug": "dapagliflozin-and-saxagliptin",
+  "genericName": "Dapagliflozin and saxagliptin",
+  "brandNames": [
+    "DAPAGLIFLOZIN AND SAXAGLIPTIN"
+  ],
+  "composition": "DAPAGLIFLOZIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Sodium-Glucose Cotransporter 2 Inhibitor [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Dapagliflozin and saxagliptin tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with typ...",
+    "Clinicians may prescribe this medicine when managing limitations of Use Dapagliflozin and saxagliptin tablets are not recommended for use to improve glycemic control in patients with type 1 diabetes mellitus [ ..."
+  ],
+  "howItWorks": "Dapagliflozin And Saxagliptin belongs to the sodium-glucose cotransporter 2 inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration assess renal function before initiation of therapy and periodically thereafter. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an dapagliflozin a total of 1424 (24%) of the 5936 dapagliflozin-treated patients were 65 years and older and 207 (3. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes the safety of combined use of 10 mg dapagliflozin and 5 mg saxagliptin has been evaluated in adult subjects with type 2 diabetes mellitus in a pooled safety ...",
+    "Monitoring is advised because the pooled safety analysis included a total of 1169 adults: 492 patients in the combination of saxagliptin and dapagliflozin plus metformin group.. may occur.",
+    "Monitoring is advised because the population was 80.9% White, 8.3% Black or African American, 3.7% Asian, and 6.6% Other race may occur.",
+    "Monitoring is advised because at baseline the population had diabetes for an average of 7.5 years and a mean HbA1c of 8.4% may occur.",
+    "Monitoring is advised because the mean eGFR at baseline was 94.4 mL/min/1.73 m 2 may occur.",
+    "Monitoring is advised because the common adverse reactions were based on the pooled analyses of these studies as shown in Table 2 may occur.",
+    "A possible treatment-related effect includes additionally...",
+    "Some patients report hypoglycemia In the pooled analysis.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because hypoglycemia In the pooled analysis..."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary Based on animal data showing adverse renal effects from dapagliflozin...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Table 3 : Clinically Relevant Interactions with Dapagliflozin and Saxagliptin Strong Inhibitors of CYP3A4/5 Enzymes Clinical Impact Ketoc...",
+      "Extra caution is needed because similar significant increases in plasma concentrations of saxagliptin are anticipated with other strong CYP3A4/5 inhibitors (e.g., atazanavir...",
+      "Healthcare providers evaluate risk when intervention Do not coadminister dapagliflozin and saxagliptin with strong cytochrome P450 3A4/5 inhibitors [see DOSAGE AND ADMINISTRATION (2.4) and CLINICAL...",
+      "Patients should discuss safety when insulin or Insulin Secretagogues Clinical Impact The risk of hypoglycemia may be increased when dapagliflozin and saxagliptin is used concomitantly with insu...",
+      "Healthcare providers evaluate risk when intervention Concomitant use may require lower doses of insulin or the insulin secretagogue to reduce the risk of hypoglycemia.",
+      "Extra caution is needed because lithium Clinical Impact Concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Dapagliflozin and saxagliptin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Dapagliflozin and saxagliptin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "diabetes"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-04-08T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22saxagliptin%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:49.532Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=dapagliflozin%20and%20saxagliptin",
+      "accessedAt": "2026-07-12T12:00:49.532Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

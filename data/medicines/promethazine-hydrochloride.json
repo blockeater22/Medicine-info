@@ -1,0 +1,91 @@
+{
+  "slug": "promethazine-hydrochloride",
+  "genericName": "Promethazine hydrochloride",
+  "brandNames": [
+    "Promethazine Hydrochloride"
+  ],
+  "composition": "PROMETHAZINE HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving promethazine HCl Suppositories are useful for: Perennial and seasonal allergic rhinitis.",
+    "Medical teams consider this option for patients needing support with vasomotor rhinitis.",
+    "This agent is commonly used in care plans involving allergic conjunctivitis due to inhalant allergens and foods.",
+    "This agent is commonly used in care plans involving mild, uncomplicated allergic skin manifestations of urticaria and angioedema.",
+    "Medical teams consider this option for patients needing support with amelioration of allergic reactions to blood or plasma.",
+    "Medical teams consider this option for patients needing support with dermographism."
+  ],
+  "howItWorks": "Promethazine Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an promethazine hcl suppositories are for rectal administration only. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes central Nervous System - Drowsiness is the most prominent CNS effect of this drug.",
+    "Some patients report sedation, somnolence, blurred vision, dizziness while taking this medicine.",
+    "Some patients report confusion, disorientation, and extrapyramidal symptoms such as oculogyric crisis, torticollis, and tongue protrusion while taking this medicine.",
+    "Some patients report lassitude, tinnitus, incoordination, fatigue, euphoria, nervousness, diplopia, insomnia, tremors, convulsive seizures, excitation, catatonic-like states.. while taking this medicine.",
+    "A possible treatment-related effect includes cardiovascular - Increased or decreased blood pressure, tachycardia, bradycardia, faintness.",
+    "Monitoring is advised because dermatologic - Dermatitis, photosensitivity, urticaria may occur.",
+    "Some patients report hematologic - Leukopenia, thrombocytopenia, thrombocytopenic purpura, agranulocytosis while taking this medicine.",
+    "Monitoring is advised because gastrointestinal - Dry mouth, nausea, vomiting, jaundice may occur."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when respiratory - Asthma, nasal stuffiness, respiratory depression (potentially fatal) and apnea (potentially fatal)."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because pregnancy: Teratogenic Effects: Teratogenic effects have not been demonstrated in rat-feeding studies at doses of 6.25 and 12.5 mg/kg of promethazine.",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers - It is not known whether promethazine HCl is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interactions CNS Depressants - Promethazine HCl Suppositories may increase, prolong...",
+      "Extra caution is needed because therefore, such agents should be avoided or administered in reduced dosage to patients receiving promethazine HCl.",
+      "Healthcare providers evaluate risk when when given concomitantly with Promethazine HCl Suppositories, the dose of barbiturates should be reduced by at least one-half...",
+      "Healthcare providers evaluate risk when dosage must be individualized.",
+      "Patients should discuss safety when excessive amounts of promethazine HCl relative to a narcotic may lead to restlessness and motor hyperactivity in the patient with pain.",
+      "Patients should discuss safety when these symptoms usually disappear with adequate control of the pain."
+    ]
+  },
+  "storage": "In routine practice, store refrigerated between 2°-8°C (36°-46°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Promethazine hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Promethazine hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-06-30T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22promethazine%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:28.493Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=promethazine%20hydrochloride",
+      "accessedAt": "2026-07-12T12:02:28.493Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

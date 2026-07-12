@@ -1,0 +1,89 @@
+{
+  "slug": "formoterol-fumarate",
+  "genericName": "Formoterol fumarate",
+  "brandNames": [
+    "Formoterol fumarate"
+  ],
+  "composition": "FORMOTEROL FUMARATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with formoterol fumarate inhalation solution is not indicated to treat asthma.",
+    "This agent is commonly used in care plans involving the safety and effectiveness of formoterol fumarate inhalation solution in asthma have not been established."
+  ],
+  "howItWorks": "Formoterol Fumarate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an a total daily dose greater than 40 mcg is not recommended. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use formoterol fumarate inhalation solution is not indicated for use in children. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an no overall differences in safety or effectiveness were observed between these subjects and younger subjects. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report 6 ADVERSE REACTIONS Long-acting beta 2 -adrenergic agonists, such as formoterol fumarate.. while taking this medicine.",
+    "A possible treatment-related effect includes formoterol fumarate is not indicated for the treatment of asthma [see WARNINGS AND PRECAUTIONS ( 5.1 )].",
+    "Some patients report adults with COPD The data described below reflect exposure to formoterol fumarate inhalation solution 20 mcg twice daily by oral inhalation in 586 patients.. while taking this medicine.",
+    "A possible treatment-related effect includes formoterol fumarate inhalation solution was studied in a 12-week...",
+    "A possible treatment-related effect includes patients were mostly Caucasians (88%) between 40 to 90 years old (mean, 64 years old) and had COPD, with a mean FEV 1 of 1.33 L.",
+    "Some patients report patients with significant concurrent cardiac and other medical diseases were excluded from the trials while taking this medicine.",
+    "Monitoring is advised because table 1 shows adverse reactions from the 12-week, double-blind.. may occur.",
+    "Monitoring is advised because in this trial, the frequency of patients experiencing cardiovascular adverse events was 4.1% for formoterol fumarate inhalation solution and 4.4% for placebo may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because 5 WARNINGS AND PRECAUTIONS LABA as monotherapy (without inhaled corticosteroid) for asthma increases the risk of serious asthma-related events.",
+    "Patients should discuss safety when concomitant short-acting beta 2 -agonists can be used as needed for acute relief.",
+    "Healthcare providers evaluate risk when excessive use of formoterol fumarate inhalation solution or use in conjunction with other medications containing long-acting beta 2 -agonists..."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary There are limited available data with formoterol fumarate inhalation solution use in pregnant women to inform a drug-associated ri...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Other adrenergic drugs may potentiate effect.",
+      "Healthcare providers evaluate risk when use with caution.",
+      "Healthcare providers evaluate risk when use with extreme caution.",
+      "Healthcare providers evaluate risk when drugs that are known to prolong the QTc interval have an increased risk of ventricular arrhythmias.",
+      "Extra caution is needed because beta-blockers not only block the therapeutic effects of beta-agonists, but may produce severe bronchospasm in COPD patients.",
+      "Extra caution is needed because therefore, patients with COPD should not normally be treated with beta-blockers."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Formoterol fumarate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Formoterol fumarate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "asthma",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-09-26T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22formoterol%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:23.718Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=formoterol%20fumarate",
+      "accessedAt": "2026-07-12T12:01:23.718Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

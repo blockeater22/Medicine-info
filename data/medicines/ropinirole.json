@@ -1,0 +1,88 @@
+{
+  "slug": "ropinirole",
+  "genericName": "Ropinirole",
+  "brandNames": [
+    "ropinirole"
+  ],
+  "composition": "ROPINIROLE HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with management of conditions associated with ropinirole."
+  ],
+  "howItWorks": "Ropinirole belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration • ropinirole tablets can be taken with or without food. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report parkinson's Disease During the premarketing development of ropinirole.. while taking this medicine.",
+    "A possible treatment-related effect includes because these 2 populations may have differential risks for various adverse reactions...",
+    "Monitoring is advised because approximately 24% of patients treated with ropinirole who participated in the double-blind.. may occur.",
+    "A possible treatment-related effect includes the most common adverse reactions in patients treated with ropinirole (incidence at least 2% greater than placebo) of sufficient severity to cause discontinu...",
+    "A possible treatment-related effect includes table 3 lists treatment-emergent adverse reactions that occurred in at least 2% of patients with early Parkinson’s disease (without L-dopa) treated with ropi...",
+    "Monitoring is advised because in these trials, either ropinirole or placebo was used as early therapy (i.e., without L-dopa) may occur.",
+    "A possible treatment-related effect includes thus, patients may be included in more than one category.",
+    "A possible treatment-related effect includes advanced Parkinson’s Disease (with L-dopa): In the double-blind, placebo-controlled trials in patients with advanced-stage Parkinson’s disease..."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when although many of these patients reported somnolence while on ropinirole, some perceived that they had no warning signs, such as excessive drowsiness...",
+    "Healthcare providers evaluate risk when some have reported these events more than 1 year after initiation of treatment.",
+    "Patients should discuss safety when in controlled clinical trials..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary There are no adequate data on the developmental risk associated with the use of ropinirole in pregnant women.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS • Inhibitors or inducers of CYP1A2: May alter the clearance of ropinirole.",
+      "Patients should discuss safety when there is thus the potential for inducers or inhibitors of this enzyme to alter the clearance of ropinirole.",
+      "Patients should discuss safety when therefore, if therapy with a drug known to be a potent inducer or inhibitor of CYP1A2 is stopped or started during treatment with ropinirole...",
+      "Patients should discuss safety when coadministration of ciprofloxacin, an inhibitor of CYP1A2, increases the AUC and C max of ropinirole [ see Clinical Pharmacology ( 12.3 ) ].",
+      "Extra caution is needed because cigarette smoking is expected to increase the clearance of ropinirole since CYP1A2 is known to be induced by smoking hormone replacement therapy [ see Clinic...",
+      "Patients should discuss safety when starting or stopping may require adjustment of dosage of ropinirole [see Clinical Pharmacology ( 12.3 )]."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Ropinirole information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Ropinirole on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-06T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22ropinirole%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:20.963Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ropinirole",
+      "accessedAt": "2026-07-12T12:02:20.963Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

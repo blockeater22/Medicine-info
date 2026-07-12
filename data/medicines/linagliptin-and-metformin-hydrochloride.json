@@ -1,0 +1,90 @@
+{
+  "slug": "linagliptin-and-metformin-hydrochloride",
+  "genericName": "Linagliptin and metformin hydrochloride",
+  "brandNames": [
+    "Jentadueto XR"
+  ],
+  "composition": "LINAGLIPTIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Dipeptidyl Peptidase 4 Inhibitor [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE JENTADUETO XR is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.",
+    "This agent is commonly used in care plans involving jENTADUETO XR has not been studied in patients with a history of pancreatitis.",
+    "Medical teams consider this option for patients needing support with it is unknown whether patients with a history of pancreatitis are at an increased risk for the development of pancreatitis while using JENTADUETO XR [see War..."
+  ],
+  "howItWorks": "Linagliptin And Metformin Hydrochloride belongs to the dipeptidyl peptidase 4 inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 1 ) the maximum recommended dosage is 5 mg linagliptin/2,000 mg metformin hcl once daily ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness of jentadueto xr have not been established in pediatric patients. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 1) and clinical pharmacology (12. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes linagliptin/Metformin The safety of concomitantly administered linagliptin (daily dosage 5 mg) and metformin (mean daily dosage of approximately 1...",
+    "Some patients report three placebo-controlled trials with linagliptin + metformin were conducted: 2 studies were 24 weeks in duration, 1 trial was 12 weeks in duration while taking this medicine.",
+    "A possible treatment-related effect includes in the 3 placebo-controlled clinical studies...",
+    "Some patients report in a 24-week factorial design trial.. while taking this medicine.",
+    "A possible treatment-related effect includes linagliptin Adverse reactions reported in ≥2% of patients treated with linagliptin 5 mg and more commonly than in patients treated with placebo included: nas...",
+    "A possible treatment-related effect includes rates for other adverse reactions for linagliptin 5 mg vs placebo when linagliptin was used in combination with specific antidiabetic agents were: urinary tr...",
+    "Some patients report hyperlipidemia (2.7% vs 0.8%) and weight increased (2.3% vs 0.8%) when linagliptin was used as add-on to pioglitazone while taking this medicine.",
+    "Monitoring is advised because and constipation (2.1% vs 1%) when linagliptin was used as add-on to basal insulin therapy may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS Lactic acidosis: See boxed warning ( 5.1 ) Pancreatitis: There have been reports of acute pancreatitis, including fatal pancreatitis.",
+    "Healthcare providers evaluate risk when if pancreatitis is suspected, promptly discontinue JENTADUETO XR.",
+    "Extra caution is needed because if hypersensitivity reactions occur discontinue JENTADUETO XR, treat promptly, and monitor until signs and symptoms resolve."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary The limited data with JENTADUETO XR and linagliptin use in pregnant women are not sufficient to inform a JENTADUETO XR-associated ...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Table 2 describes clinically relevant interactions with JENTADUETO XR.",
+      "Extra caution is needed because table 2 Clinically Relevant Interactions with JENTADUETO XR Carbonic Anhydrase Inhibitors Clinical Impact Topiramate or other carbonic anhydrase inhibitors (...",
+      "Patients should discuss safety when concomitant use of these drugs with JENTADUETO XR may increase the risk of lactic acidosis.",
+      "Healthcare providers evaluate risk when intervention Consider more frequent monitoring of these patients.",
+      "Patients should discuss safety when intervention Consider the benefits and risks of concomitant use.",
+      "Extra caution is needed because alcohol Clinical Impact Alcohol is known to potentiate the effect of metformin on lactate metabolism."
+    ]
+  },
+  "storage": "From a clinical perspective, store at 20°C to 25°C (68°F to 77°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Linagliptin and metformin hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Linagliptin and metformin hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "diabetes"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-05-24T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22linagliptin%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:49.053Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=linagliptin%20and%20metformin%20hydrochloride",
+      "accessedAt": "2026-07-12T12:00:49.053Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

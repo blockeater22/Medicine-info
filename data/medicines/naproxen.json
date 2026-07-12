@@ -68,17 +68,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22naproxen%22&limit=1",
-      "accessedAt": "2026-07-12T06:31:38.500Z"
+      "accessedAt": "2026-07-12T12:00:37.077Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=naproxen",
-      "accessedAt": "2026-07-12T06:31:38.500Z"
+      "accessedAt": "2026-07-12T12:00:37.077Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

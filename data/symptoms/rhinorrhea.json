@@ -1,0 +1,51 @@
+{
+  "slug": "rhinorrhea",
+  "name": "Rhinorrhea",
+  "overview": "Rhinorrhea is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include filling of the nasal cavity with fluid mucus. This summary is educational and should be paired with professional medical evaluation.",
+  "possibleCauses": [
+    "In routine practice, rhinorrhea, also spelled rhinorrhoea or rhinorrhœa, or informally, runny nose, is the free discharge of a thin mucus fluid from the nose.",
+    "From a clinical perspective, it is an extremely common condition.",
+    "From a clinical perspective, it is a common symptom of allergies or certain viral infections, such as the common cold or COVID-19.",
+    "From a clinical perspective, rhinorrhea varies in color and consistency depending upon the underlying cause.",
+    "From a clinical perspective, it can be a side effect of crying, exposure to cold temperatures, cocaine abuse, or drug withdrawal, such as from methadone or other opioids."
+  ],
+  "redFlags": [
+    "Patients should discuss safety when sudden severe onset.",
+    "Healthcare providers evaluate risk when associated chest pain or breathing difficulty.",
+    "Extra caution is needed because high fever with confusion.",
+    "Healthcare providers evaluate risk when symptoms after head injury."
+  ],
+  "homeCare": [
+    "Health professionals note that rest and hydration.",
+    "In routine practice, monitor symptom changes.",
+    "In routine practice, use only previously recommended."
+  ],
+  "whenToSeeDoctor": [
+    "From a clinical perspective, symptoms persist beyond several days.",
+    "In routine practice, severity increases.",
+    "From a clinical perspective, new neurological or cardiac features appear."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Rhinorrhea information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "When should I worry about rhinorrhea?",
+      "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
+    }
+  ],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T11:57:50.640Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rhinorrhea",
+      "accessedAt": "2026-07-12T11:57:50.640Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

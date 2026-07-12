@@ -1,0 +1,90 @@
+{
+  "slug": "abacavir-sulfate-dolutegravir-sodium-lamivudine",
+  "genericName": "Abacavir sulfate, dolutegravir sodium, lamivudine",
+  "brandNames": [
+    "Triumeq",
+    "Triumeq PD"
+  ],
+  "composition": "ABACAVIR SULFATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Hepatitis B Virus Nucleoside Analog Reverse Transcriptase Inhibitor [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE TRIUMEQ and TRIUMEQ PD are indicated for the treatment of HIV-1 infection in adults and in pediatric patients aged at least 3 months ...",
+    "Clinicians may prescribe this medicine when managing limitations of Use: TRIUMEQ and TRIUMEQ PD alone are not recommended in patients with resistance‑associated integrase substitutions or clinically suspected i...",
+    "Medical teams consider this option for patients needing support with full prescribing information for TIVICAY (dolutegravir).",
+    "Medical teams consider this option for patients needing support with the dolutegravir prescribing information."
+  ],
+  "howItWorks": "Abacavir Sulfate, Dolutegravir Sodium, Lamivudine belongs to the hepatitis b virus nucleoside analog reverse transcriptase inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an • prior to or when initiating triumeq or triumeq pd, test patients for hbv infection. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes clinical Trials in Adults Serious and Fatal Abacavir-Associated Hypersensitivity Reactions: In clinical trials...",
+    "Some patients report these reactions have been characterized by 2 or more of the following signs or symptoms: (1) fever while taking this medicine.",
+    "Some patients report (3) gastrointestinal symptoms (including nausea, vomiting, diarrhea, or abdominal pain) while taking this medicine.",
+    "Monitoring is advised because (4) constitutional symptoms (including generalized malaise, fatigue, or achiness) may occur.",
+    "Monitoring is advised because (5) respiratory symptoms (including dyspnea, cough, or pharyngitis) may occur.",
+    "Some patients report almost all abacavir hypersensitivity reactions include fever and/or rash as part of the syndrome while taking this medicine.",
+    "Monitoring is advised because other signs and symptoms have included lethargy, headache, myalgia, edema, arthralgia, and paresthesia may occur.",
+    "Monitoring is advised because anaphylaxis, liver failure, renal failure, hypotension, adult respiratory distress syndrome, respiratory failure, myolysis.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when clinical Trials in Adults Serious and Fatal Abacavir-Associated Hypersensitivity Reactions: In clinical trials..."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in individuals exposed to TRIUMEQ during pr...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Coadministration of TRIUMEQ or TRIUMEQ PD with other drugs can alter the concentration of other drugs and other drugs may alter the conce...",
+      "Patients should discuss safety when the potential drug-drug interactions must be considered prior to and during therapy.",
+      "Healthcare providers evaluate risk when in vivo, dolutegravir inhibits tubular secretion of creatinine by inhibiting OCT2 and potentially MATE1.",
+      "Patients should discuss safety when dolutegravir may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 (dofetilide, dalfampridine...",
+      "Healthcare providers evaluate risk when in vitro, dolutegravir inhibited the basolateral renal transporters, organic anion transporter (OAT) 1 (IC 50 = 2.12 microM) and OAT3 (IC 50 = 1.97 microM).",
+      "Patients should discuss safety when however, in vivo, dolutegravir did not alter the plasma concentrations of tenofovir or para-amino hippurate, substrates of OAT1 and OAT3."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Abacavir sulfate, dolutegravir sodium, lamivudine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Abacavir sulfate, dolutegravir sodium, lamivudine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "uti",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-07-08T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22dolutegravir%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:02.672Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=abacavir%20sulfate%2C%20dolutegravir%20sodium%2C%20lamivudine",
+      "accessedAt": "2026-07-12T12:02:02.672Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

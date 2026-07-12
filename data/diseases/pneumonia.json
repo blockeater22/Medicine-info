@@ -1,16 +1,6 @@
 {
   "slug": "pneumonia",
   "name": "Pneumonia",
-  "category": "Respiratory",
-  "description": "Complete guide to Pneumonia: symptoms, causes, diagnosis, treatment, and prevention for patients in India.",
-  "seo": {
-    "title": "Pneumonia: Symptoms, Causes, Treatment | Doctors Hub",
-    "description": "Learn about Pneumonia — symptoms, causes, risk factors, diagnosis, treatment options, and prevention tips.",
-    "keywords": [
-      "Pneumonia",
-      "Respiratory"
-    ]
-  },
   "overview": "Pneumonia is infection of the lung parenchyma, common in India across all ages. Bacterial and viral causes differ by season; prompt antibiotics for bacterial pneumonia and supportive care reduce mortality.",
   "symptoms": [
     "Cough with sputum (may be rusty or blood-tinged)",
@@ -42,12 +32,6 @@
     "Oxygen and IV fluids if hypoxic",
     "Vaccination for prevention"
   ],
-  "homeCare": [
-    "Follow prescribed treatment plan",
-    "Maintain healthy diet",
-    "Adequate rest and hydration",
-    "Monitor symptoms"
-  ],
   "prevention": [
     "Pneumococcal and influenza vaccines in eligible groups",
     "Hand hygiene",
@@ -60,39 +44,30 @@
     "Lung abscess",
     "Death in high-risk groups if untreated"
   ],
-  "emergencyWarningSigns": [
-    "Severe chest pain",
-    "Difficulty breathing",
-    "Sudden confusion",
-    "High fever with rigors"
-  ],
-  "relatedMedicines": [
-    "amoxicillin",
-    "azithromycin"
-  ],
-  "faqs": [
-    {
-      "question": "What causes Pneumonia?",
-      "answer": "Multiple factors including genetics, lifestyle, and environment contribute."
-    },
-    {
-      "question": "Is Pneumonia curable?",
-      "answer": "Many conditions are manageable with proper treatment. Consult your doctor for prognosis."
-    }
-  ],
-  "popular": true,
-  "updatedAt": "2026-07-01",
   "emergencySigns": [
     "SpO2 below 92% on room air",
     "Confusion or hypotension",
     "Rapid breathing with chest retractions",
     "Cyanosis or inability to speak in full sentences"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
+  "faq": [
+    {
+      "question": "Can I rely on this Pneumonia information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "What should I do if Pneumonia symptoms worsen suddenly?",
+      "answer": "Seek urgent medical care, especially if severe pain, breathing difficulty, confusion, or high fever develops."
+    }
+  ],
+  "relatedDiseases": [],
+  "relatedMedicines": [
+    "fluoxetine-hydrochloride",
+    "clonazepam",
+    "metronidazole"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
   "sources": [
     {
       "name": "MedlinePlus",
@@ -105,5 +80,18 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "relatedSlugs": [
+    "urine-routine",
+    "liver-function-tests"
+  ],
+  "category": "Respiratory",
+  "emergencyWarningSigns": [
+    "SpO2 below 92% on room air",
+    "Confusion or hypotension",
+    "Rapid breathing with chest retractions",
+    "Cyanosis or inability to speak in full sentences"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

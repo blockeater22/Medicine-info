@@ -1,0 +1,62 @@
+{
+  "slug": "calcium-channel-blockers",
+  "name": "Calcium Channel Blockers",
+  "description": "Calcium Channel Blockers — drug class guide for patients in India.",
+  "overview": "Calcium Channel Blockers are a group of medicines used for related therapeutic purposes in India. Always use as prescribed.",
+  "commonUses": [
+    "Conditions commonly treated with calcium channel blockers",
+    "Selected based on diagnosis and patient profile"
+  ],
+  "examples": [
+    "amlodipine besylate",
+    "amlodipine valsartan and hydrochlorothiazide",
+    "amlodipine",
+    "diltiazem hydrochloride",
+    "nifedipine",
+    "verapamil hydrochloride"
+  ],
+  "medicineSlugs": [
+    "amlodipine-besylate",
+    "amlodipine-valsartan-and-hydrochlorothiazide",
+    "amlodipine",
+    "diltiazem-hydrochloride",
+    "nifedipine",
+    "verapamil-hydrochloride"
+  ],
+  "relatedDiseaseSlugs": [],
+  "safetyNotes": [
+    "Do not self-medicate or switch brands without medical advice",
+    "Inform your doctor about all current medicines"
+  ],
+  "seo": {
+    "title": "Calcium Channel Blockers: Medicines, Uses & Safety | Doctors Hub",
+    "description": "Guide to Calcium Channel Blockers — common Indian medicines, uses, and safety.",
+    "keywords": [
+      "Calcium Channel Blockers",
+      "drug class",
+      "medicines India"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are Calcium Channel Blockers?",
+      "answer": "Calcium Channel Blockers are medicines grouped by similar therapeutic use. Your doctor selects the specific drug and dose."
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  },
+  "sources": [
+    {
+      "name": "WHO Model Formulary",
+      "url": "https://list.essentialmeds.org/",
+      "accessedAt": "2026-07-12"
+    },
+    {
+      "name": "Indian Pharmacopoeia Commission",
+      "url": "https://ipc.gov.in/",
+      "accessedAt": "2026-07-12"
+    }
+  ],
+  "updatedAt": "2026-07-12"
+}

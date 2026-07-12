@@ -43,7 +43,7 @@ async function fetchArticle(topic: string, category: string): Promise<ArticleRec
     content,
     category,
     tags: [category.toLowerCase(), ...topic.split("-").slice(0, 3)],
-    author: "Doctors Hub Medical Team",
+    author: "Doctors Hub Editorial",
     readTimeMinutes: Math.max(3, Math.ceil(content.split(/\s+/).length / 200)),
     faq: buildFaqs(title, "general"),
     medicalDisclaimer: MEDICAL_DISCLAIMER,

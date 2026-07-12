@@ -23,26 +23,12 @@ export interface BreadcrumbItem {
   href: string;
 }
 
-export interface AuthorshipInfo {
-  authorId: string;
-  reviewerId: string;
+export interface ContentReviewInfo {
   lastReviewed: string;
 }
 
-export interface TeamMember {
-  id: string;
-  slug: string;
-  name: string;
-  credentials: string;
-  specialty: string;
-  registration: string;
-  bio: string;
-  education: string[];
-  affiliations: string[];
-  languages: string[];
-  seo: SEOData;
-  updatedAt: string;
-}
+/** @deprecated Legacy name — use ContentReviewInfo */
+export type AuthorshipInfo = ContentReviewInfo;
 
 export interface BaseContent {
   slug: string;
@@ -53,7 +39,9 @@ export interface BaseContent {
   relatedSlugs?: string[];
   updatedAt: string;
   sources?: SourceItem[];
-  authoredBy?: AuthorshipInfo;
+  contentReview?: ContentReviewInfo;
+  /** @deprecated Use contentReview */
+  authoredBy?: ContentReviewInfo;
   popular?: boolean;
   trending?: boolean;
 }
@@ -149,6 +137,15 @@ export interface CalculatorMeta extends BaseContent {
   inputs: CalculatorInput[];
   formula?: string;
   interpretation?: string[];
+}
+
+export interface DrugClass extends BaseContent {
+  overview: string;
+  commonUses: string[];
+  examples: string[];
+  medicineSlugs: string[];
+  relatedDiseaseSlugs: string[];
+  safetyNotes: string[];
 }
 
 export interface CalculatorInput {

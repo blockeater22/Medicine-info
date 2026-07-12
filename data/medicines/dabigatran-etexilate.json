@@ -1,0 +1,81 @@
+{
+  "slug": "dabigatran-etexilate",
+  "genericName": "Dabigatran etexilate",
+  "brandNames": [
+    "Dabigatran Etexilate"
+  ],
+  "composition": "DABIGATRAN ETEXILATE MESYLATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving management of conditions associated with dabigatran etexilate."
+  ],
+  "howItWorks": "Dabigatran Etexilate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 ) o for patients with crcl 15 to 30 ml/min: 75 mg orally, twice daily ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 1) and clinical studies (14. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use of the total number of patients in the re-ly study, 82% were 65 and over, while 40% were 75 and over. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report adult Trials Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation The RE-LY (Randomized Evaluation of Long-term Anticoagulan.. while taking this medicine.",
+    "A possible treatment-related effect includes the numbers of patients and their exposures are described in Table 2.",
+    "A possible treatment-related effect includes limited information is presented on the 110 mg dosing arm because this dose is not approved.",
+    "Some patients report the most frequent adverse reactions leading to discontinuation of dabigatran etexilate capsules were bleeding and gastrointestinal events (i.e., dyspepsia.. while taking this medicine.",
+    "Monitoring is advised because bleeding [see Warnings and Precautions (5.2)] Table 3 shows the number of adjudicated major bleeding events during the treatment period in the RE-LY study.. may occur.",
+    "Some patients report major bleeding is defined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥2 g/dL.. while taking this medicine.",
+    "Monitoring is advised because intracranial hemorrhage included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds may occur.",
+    "Some patients report table 3: Adjudicated Major Bleeding Events in Treated Patients a Event Dabigatran Etexilate Capsules 150 mg N = 6,059 n (%/year b ) Warfarin N = 5.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because major bleeding is defined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥2 g/dL..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary The limited available data on dabigatran etexilate use in pregnant women are insufficient to determine drug-associated risks for a...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when p-gp inhibition and impaired renal function are the major independent factors that result in increased exposure to dabigatran [see Clinical Pharmacology (12.3)].",
+      "Healthcare providers evaluate risk when concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with eithe...",
+      "Healthcare providers evaluate risk when in patients with moderate renal impairment (CrCl 30 to 50 mL/min)...",
+      "Healthcare providers evaluate risk when the use of the P-gp inhibitors verapamil, amiodarone, quinidine, clarithromycin, and ticagrelor does not require a dosage adjustment of dabigatran etexilate.",
+      "Patients should discuss safety when these results should not be extrapolated to other P-gp inhibitors [see Warnings and Precautions (5.5), Use in Specific Populations (8.6)..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Dabigatran etexilate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Dabigatran etexilate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-11-20T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22dabigatran%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:11.831Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=dabigatran%20etexilate",
+      "accessedAt": "2026-07-12T12:01:11.831Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

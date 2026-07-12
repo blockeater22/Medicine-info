@@ -1,0 +1,91 @@
+{
+  "slug": "fenofibrate",
+  "genericName": "Fenofibrate",
+  "brandNames": [
+    "Fenofibrate"
+  ],
+  "composition": "FENOFIBRATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Peroxisome Proliferator Receptor alpha Agonist [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Fenofibrate tablet USP is a peroxisome proliferator-activated receptor (PPAR) alpha agonist indicated as an adjunct to diet: To reduc...",
+    "This agent is commonly used in care plans involving for treatment of adult patients with severe hypertriglyceridemia ( 1.2 ).",
+    "Medical teams consider this option for patients needing support with improving glycemic control in diabetic patients showing fasting chylomicronemia will usually obviate the need for pharmacologic intervention.",
+    "This agent is commonly used in care plans involving markedly elevated levels of serum triglycerides (e.g.",
+    "Medical teams consider this option for patients needing support with the effect of fenofibrate therapy on reducing this risk has not been adequately studied."
+  ],
+  "howItWorks": "Fenofibrate belongs to the peroxisome proliferator receptor alpha agonist [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration primary hypercholesterolemia or mixed dyslipidemia: initial dose of 160 mg once daily ( 2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness have not been established in pediatric patients. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an fenofibric acid exposure is not influenced by age. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes adverse events reported by 2% or more of patients treated with fenofibrate (and greater than placebo) during the double-blind, placebo-controlled trials...",
+    "Some patients report adverse events led to discontinuation of treatment in 5.0% of patients treated with fenofibrate and in 3.0% treated with placebo while taking this medicine.",
+    "Monitoring is advised because increases in liver function tests were the most frequent events, causing discontinuation of fenofibrate treatment in 1.6% of patients in double- blind trials may occur.",
+    "A possible treatment-related effect includes reported by 2% or More of Patients Treated with Fenofibrate and Greater than Placebo During the Double-Blind...",
+    "A possible treatment-related effect includes bODY SYSTEM Fenofibrate Dosage equivalent to 160 mg fenofibrate.",
+    "Some patients report increases in Liver Enzymes In a pooled analysis of 10 placebo-controlled trials.. while taking this medicine.",
+    "Monitoring is advised because in an 8-week study.. may occur.",
+    "A possible treatment-related effect includes photosensitivity reactions have occurred days to months after initiation."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Hepatotoxicity : Serious drug-induced liver injury, including liver transplantation and death, has been reported with fenofibrate.",
+    "Extra caution is needed because monitor patient's liver function, including serum ALT, AST, and total bilirubin, atbaseline and periodically for the duration of therapy.",
+    "Healthcare providers evaluate risk when discontinue if signs or symptoms of liver injury develop or if elevated enzyme levels persist ( 5.2 )."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary Limited available data with fenofibrate use in pregnant women are insufficient to determine a drug associated risk of major birth ...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when 7 DRUG INTERACTIONS Coumarin anticoagulants: ( 7.1 ).",
+      "Extra caution is needed because immunosuppressants: ( 7.2 ).",
+      "Patients should discuss safety when bile acid resins: ( 7.3 ).",
+      "Patients should discuss safety when caution should be exercised when coumarin anticoagulants are given in conjunction with fenofibrate.",
+      "Patients should discuss safety when the dosage of the anticoagulants should be reduced to maintain the PT/INR at the desired level to prevent bleeding complications."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Fenofibrate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Fenofibrate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-04-29T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22fenofibrate%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:55.443Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=fenofibrate",
+      "accessedAt": "2026-07-12T12:00:55.443Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

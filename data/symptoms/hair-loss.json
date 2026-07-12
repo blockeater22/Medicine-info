@@ -1,0 +1,55 @@
+{
+  "slug": "hair-loss",
+  "name": "Hair Loss",
+  "overview": "Hair Loss is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include loss of hair from the head or body. This summary is educational and should be paired with professional medical evaluation.",
+  "possibleCauses": [
+    "Health professionals note that hair loss, also known as alopecia or baldness, refers to a loss of hair from part of the head or body.",
+    "From a clinical perspective, typically at least the head is involved.",
+    "From a clinical perspective, the severity of hair loss can vary from a small area to the entire body.",
+    "Health professionals note that inflammation or scarring is not usually present.",
+    "From a clinical perspective, hair loss in some people causes psychological distress."
+  ],
+  "redFlags": [
+    "Patients should discuss safety when sudden severe onset.",
+    "Healthcare providers evaluate risk when associated chest pain or breathing difficulty.",
+    "Extra caution is needed because high fever with confusion.",
+    "Healthcare providers evaluate risk when symptoms after head injury."
+  ],
+  "homeCare": [
+    "Health professionals note that rest and hydration.",
+    "In routine practice, monitor symptom changes.",
+    "In routine practice, use only previously recommended."
+  ],
+  "whenToSeeDoctor": [
+    "From a clinical perspective, symptoms persist beyond several days.",
+    "In routine practice, severity increases.",
+    "From a clinical perspective, new neurological or cardiac features appear."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Hair Loss information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "When should I worry about hair loss?",
+      "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
+    }
+  ],
+  "relatedDiseases": [
+    "dermatophytosis",
+    "diarrhea",
+    "glaucoma"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T11:57:41.158Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hair_loss",
+      "accessedAt": "2026-07-12T11:57:41.158Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

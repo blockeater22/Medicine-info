@@ -1,0 +1,89 @@
+{
+  "slug": "perindopril-erbumine",
+  "genericName": "Perindopril erbumine",
+  "brandNames": [
+    "Perindopril Erbumine"
+  ],
+  "composition": "PERINDOPRIL ERBUMINE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing perindopril erbumine tablets may be used alone or given with other classes of antihypertensives, especially thiazide diuretics.",
+    "This agent is commonly used in care plans involving perindopril erbumine tablets can be used with conventional treatment for management of coronary artery disease, such as antiplatelet..."
+  ],
+  "howItWorks": "Perindopril Erbumine belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration hypertension the recommended initial dose is 4 mg once a day. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an safety and effectiveness of perindopril erbumine in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an no adverse effects were clearly increased in older patients with the exception of dizziness and possibly rash. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because 6 ADVERSE REACTIONS Because clinical trials are conducted under widely varying conditions.. may occur.",
+    "Some patients report the data presented here are based on results from the 1,417 perindopril erbumine-treated patients who participated in the U.S while taking this medicine.",
+    "A possible treatment-related effect includes over 220 of these patients were treated with perindopril erbumine for at least one year.",
+    "Some patients report in placebo-controlled U.S while taking this medicine.",
+    "A possible treatment-related effect includes the most common causes were cough, headache, asthenia and dizziness.",
+    "Some patients report among 1,012 patients in placebo-controlled U.S while taking this medicine.",
+    "Monitoring is advised because the only adverse events whose incidence on perindopril erbumine was at least 2% greater than on placebo were cough (12% vs may occur.",
+    "Monitoring is advised because dizziness was not reported more frequently in the perindopril group (8.2%) than in the placebo group (8.5%), but its likelihood increased with dose.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because black patients receiving ACE inhibitors have a higher incidence of angioedema compared to nonblacks.",
+    "Extra caution is needed because head and Neck Angioedema: Angioedema of the face, extremities, lips, tongue, glottis, or larynx has been reported in patients treated with ACE inhibitors...",
+    "Healthcare providers evaluate risk when angioedema associated with involvement of the tongue, glottis or larynx may be fatal."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Pregnancy Category D [see Boxed Warning and Warnings and Precautions (5.4) ].",
+    "breastfeeding": "Healthcare providers evaluate risk when 8.3 Nursing Mothers Milk of lactating rats contained radioactivity following administration of 14 C-perindopril.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when the possibility of hypotensive effects can be minimized by either decreasing the dose of or discontinuing the diuretic or increasing the salt intake prior to...",
+      "Extra caution is needed because if diuretic therapy cannot be altered, provide close medical supervision with the first dose of perindopril erbumine...",
+      "Extra caution is needed because the rate and extent of perindopril absorption and elimination are not affected by concomitant diuretics.",
+      "Patients should discuss safety when the bioavailability of perindoprilat was reduced by diuretics, however, and this was associated with a decrease in plasma ACE inhibition.",
+      "Healthcare providers evaluate risk when use of potassium-sparing diuretics (spironolactone, amiloride, triamterene and others)...",
+      "Extra caution is needed because therefore, if concomitant use of such agents is indicated, monitor the patient’s serum potassium frequently."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Perindopril erbumine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Perindopril erbumine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "coronary-artery-disease",
+    "heart-disease",
+    "allergies"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2024-03-13T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22perindopril%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:59.648Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=perindopril%20erbumine",
+      "accessedAt": "2026-07-12T12:00:59.648Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

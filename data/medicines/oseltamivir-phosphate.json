@@ -63,8 +63,9 @@
   ],
   "relatedMedicines": [],
   "relatedDiseases": [
-    "common-cold",
-    "uti"
+    "heart-disease",
+    "allergies",
+    "common-cold"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2024-05-15T00:00:00.000Z",
@@ -72,17 +73,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22oseltamivir%22&limit=1",
-      "accessedAt": "2026-07-12T06:31:49.535Z"
+      "accessedAt": "2026-07-12T12:02:00.557Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=oseltamivir%20phosphate",
-      "accessedAt": "2026-07-12T06:31:49.535Z"
+      "accessedAt": "2026-07-12T12:02:00.557Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

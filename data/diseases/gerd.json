@@ -1,16 +1,6 @@
 {
   "slug": "gerd",
-  "name": "GERD (Acid Reflux)",
-  "category": "Gastrointestinal",
-  "description": "Complete guide to GERD (Acid Reflux): symptoms, causes, diagnosis, treatment, and prevention for patients in India.",
-  "seo": {
-    "title": "GERD (Acid Reflux): Symptoms, Causes, Treatment | Doctors Hub",
-    "description": "Learn about GERD (Acid Reflux) — symptoms, causes, risk factors, diagnosis, treatment options, and prevention tips.",
-    "keywords": [
-      "GERD (Acid Reflux)",
-      "Gastrointestinal"
-    ]
-  },
+  "name": "Gerd",
   "overview": "Gastro-oesophageal reflux disease (GERD) occurs when stomach acid flows back into the oesophagus, causing heartburn and regurgitation. Lifestyle changes and acid-suppressing medicines effectively control most cases.",
   "symptoms": [
     "Heartburn after meals or when lying down",
@@ -42,12 +32,6 @@
     "PPIs (omeprazole, pantoprazole) or H2 blockers",
     "Antacids for occasional symptoms"
   ],
-  "homeCare": [
-    "Follow prescribed treatment plan",
-    "Maintain healthy diet",
-    "Adequate rest and hydration",
-    "Monitor symptoms"
-  ],
   "prevention": [
     "Eat smaller meals",
     "Avoid lying down within 3 hours of eating",
@@ -60,39 +44,30 @@
     "Stricture",
     "Aspiration pneumonia"
   ],
-  "emergencyWarningSigns": [
-    "Severe chest pain",
-    "Difficulty breathing",
-    "Sudden confusion",
-    "High fever with rigors"
-  ],
-  "relatedMedicines": [
-    "omeprazole",
-    "pantoprazole"
-  ],
-  "faqs": [
-    {
-      "question": "What causes GERD (Acid Reflux)?",
-      "answer": "Multiple factors including genetics, lifestyle, and environment contribute."
-    },
-    {
-      "question": "Is GERD (Acid Reflux) curable?",
-      "answer": "Many conditions are manageable with proper treatment. Consult your doctor for prognosis."
-    }
-  ],
-  "popular": true,
-  "updatedAt": "2026-07-01",
   "emergencySigns": [
     "Difficulty swallowing or painful swallowing",
     "Vomiting blood or black stools",
     "Unintentional weight loss",
     "Chest pain with exertion — exclude cardiac cause"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
+  "faq": [
+    {
+      "question": "Can I rely on this Gerd information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "What should I do if Gerd symptoms worsen suddenly?",
+      "answer": "Seek urgent medical care, especially if severe pain, breathing difficulty, confusion, or high fever develops."
+    }
+  ],
+  "relatedDiseases": [],
+  "relatedMedicines": [
+    "fluoxetine-hydrochloride",
+    "clonazepam",
+    "metronidazole"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
   "sources": [
     {
       "name": "MedlinePlus",
@@ -105,5 +80,18 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "relatedSlugs": [
+    "urine-routine",
+    "liver-function-tests"
+  ],
+  "category": "Gastrointestinal",
+  "emergencyWarningSigns": [
+    "Difficulty swallowing or painful swallowing",
+    "Vomiting blood or black stools",
+    "Unintentional weight loss",
+    "Chest pain with exertion — exclude cardiac cause"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

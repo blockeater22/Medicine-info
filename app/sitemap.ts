@@ -1,13 +1,24 @@
 import type { MetadataRoute } from "next";
-import { getCanonicalUrl, getSitemapEntries } from "@/lib/sitemap-urls";
+import {
+  getSitemapChunkCount,
+  getSitemapChunkEntries,
+  getSitemapEntries,
+  toMetadataSitemapEntry,
+  usesSitemapIndex,
+} from "@/lib/sitemap-urls";
 
 export const dynamic = "force-static";
 
-export default function sitemap(): MetadataRoute.Sitemap {
-  return getSitemapEntries().map((entry) => ({
-    url: getCanonicalUrl(entry.path),
-    lastModified: entry.lastModified ? new Date(entry.lastModified) : undefined,
-    changeFrequency: entry.changeFrequency,
-    priority: entry.priority,
-  }));
+export async function generateSitemaps() {
+  const count = getSitemapChunkCount();
+  return Array.from({ length: count }, (_, id) => ({ id }));
+}
+
+export default async function sitemap(props: { id: Promise<number> }): Promise<MetadataRoute.Sitemap> {
+  if (usesSitemapIndex()) {
+    const id = await props.id;
+    return getSitemapChunkEntries(id).map(toMetadataSitemapEntry);
+  }
+
+  return getSitemapEntries().map(toMetadataSitemapEntry);
 }

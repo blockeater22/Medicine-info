@@ -52,7 +52,9 @@
   ],
   "relatedMedicines": [],
   "relatedDiseases": [
-    "uti"
+    "allergies",
+    "common-cold",
+    "fever"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2024-10-16T00:00:00.000Z",
@@ -60,17 +62,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22sodium%20bicarbonate%22&limit=1",
-      "accessedAt": "2026-07-12T06:31:52.114Z"
+      "accessedAt": "2026-07-12T12:02:09.490Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=sodium%20cation%2C%20sodium%20bicarbonate%2C%20anhydrous%20dextrose%2C%20magnesium%20sulfate%2C%20potassium%20chloride%2C%20calcium%20chloride%2C%20sodium%20phosphate",
-      "accessedAt": "2026-07-12T06:31:52.114Z"
+      "accessedAt": "2026-07-12T12:02:09.490Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

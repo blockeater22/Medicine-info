@@ -1,0 +1,89 @@
+{
+  "slug": "isosorbide-mononitrate",
+  "genericName": "Isosorbide mononitrate",
+  "brandNames": [
+    "Isosorbide Mononitrate"
+  ],
+  "composition": "ISOSORBIDE MONONITRATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Nitrate Vasodilator [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with isosorbide Mononitrate Tablets USP are indicated for the prevention and treatment of angina pectoris due to coronary artery disease.",
+    "This agent is commonly used in care plans involving the onset of action of oral isosorbide mononitrate is not sufficiently rapid for this product to be useful in aborting an acute anginal episode."
+  ],
+  "howItWorks": "Isosorbide Mononitrate belongs to the nitrate vasodilator [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage adjustments are not necessary for elderly patients or patients with altered hepatic or renal function. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness of isosorbide mononitrate in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because headache is the most frequent side effect and was the cause of 2% of all dropouts from controlled-clinical trials may occur.",
+    "Some patients report headache decreased in incidence after the first few days of therapy while taking this medicine.",
+    "Some patients report the following table shows the frequency of adverse reactions observed in 1% or more of subjects in 6 placebo-controlled trials.. while taking this medicine.",
+    "Some patients report the same table shows the frequency of withdrawal for these adverse reactions while taking this medicine.",
+    "Some patients report in many cases the adverse reactions were of uncertain relation to drug treatment while taking this medicine.",
+    "Some patients report other adverse reactions, each reported by fewer than 1% of exposed patients, and in many cases of uncertain relation to drug treatment.. while taking this medicine.",
+    "Monitoring is advised because dermatologic: sweating may occur.",
+    "Monitoring is advised because gastrointestinal: anorexia, dry mouth, dyspepsia, thirst, vomiting, decreased weight may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because amplification of the vasodilatory effects of isosorbide mononitrate by sildenafil can result in severe hypotension.",
+    "Extra caution is needed because the time course and dose dependence of this interaction have not been studied.",
+    "Patients should discuss safety when appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose..."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because pregnancy Teratogenic Effects Reproduction studies performed in rats and rabbits at doses of up to 540 and 810 mg/kg/day, respectively...",
+    "breastfeeding": "Patients should discuss safety when nursing Mothers It is not known whether isosorbide mononitrate is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interactions Concomitant use of isosorbide mononitrate with phosphodiesterase inhibitors in any form is contraindicated (see CONTRAINDICATIONS ).",
+      "Patients should discuss safety when concomitant use of isosorbide mononitrate with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see CONTRAINDICATIONS ).",
+      "Extra caution is needed because the vasodilating effects of isosorbide mononitrate may be additive with those of other vasodilators.",
+      "Patients should discuss safety when alcohol, in particular, has been found to exhibit additive effects of this variety.",
+      "Patients should discuss safety when marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination.",
+      "Extra caution is needed because dose adjustments of either class of agents may be necessary."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Isosorbide mononitrate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Isosorbide mononitrate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-03-27T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22isosorbide%20mononitrate%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:07.087Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=isosorbide%20mononitrate",
+      "accessedAt": "2026-07-12T12:01:07.087Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

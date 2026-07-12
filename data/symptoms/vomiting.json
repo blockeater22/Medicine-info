@@ -1,0 +1,52 @@
+{
+  "slug": "vomiting",
+  "name": "Vomiting",
+  "overview": "Vomiting is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include expulsion of stomach contents via the mouth or nose. This summary is educational and should be paired with professional medical evaluation.",
+  "possibleCauses": [
+    "Health professionals note that vomiting is the forceful expulsion of the contents of one's stomach through the mouth and sometimes the nose.",
+    "In routine practice, the vomited contents are known as vomit or vomitus."
+  ],
+  "redFlags": [
+    "Patients should discuss safety when sudden severe onset.",
+    "Healthcare providers evaluate risk when associated chest pain or breathing difficulty.",
+    "Extra caution is needed because high fever with confusion.",
+    "Healthcare providers evaluate risk when symptoms after head injury."
+  ],
+  "homeCare": [
+    "Health professionals note that rest and hydration.",
+    "In routine practice, monitor symptom changes.",
+    "In routine practice, use only previously recommended."
+  ],
+  "whenToSeeDoctor": [
+    "From a clinical perspective, symptoms persist beyond several days.",
+    "In routine practice, severity increases.",
+    "From a clinical perspective, new neurological or cardiac features appear."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Vomiting information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "When should I worry about vomiting?",
+      "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
+    }
+  ],
+  "relatedDiseases": [
+    "appendicitis",
+    "dengue-fever",
+    "gastritis"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T11:57:07.303Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vomiting",
+      "accessedAt": "2026-07-12T11:57:07.303Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

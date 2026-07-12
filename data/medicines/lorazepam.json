@@ -1,0 +1,89 @@
+{
+  "slug": "lorazepam",
+  "genericName": "Lorazepam",
+  "brandNames": [
+    "Lorazepam"
+  ],
+  "composition": "LORAZEPAM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Benzodiazepine [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving lorazepam tablets are indicated for the management of anxiety disorders or for the short-term relief of the symptoms of anxiety or anxiety associated with de...",
+    "Clinicians may prescribe this medicine when managing anxiety or tension associated with the stress of everyday life usually does not require treatment with an anxiolytic.",
+    "This agent is commonly used in care plans involving the effectiveness of lorazepam tablets in long-term use, that is, more than 4 months, has not been assessed by systematic clinical studies.",
+    "Clinicians may prescribe this medicine when managing the physician should periodically reassess the usefulness of the drug for the individual patient."
+  ],
+  "howItWorks": "Lorazepam belongs to the benzodiazepine [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration lorazepam tablets are administered orally. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an age does not appear to have a significant effect on lorazepam kinetics (see ). Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes most adverse reactions to benzodiazepines, including CNS effects and respiratory depression, are dose dependent...",
+    "Some patients report in a sample of about 3500 patients treated for anxiety, the most frequent adverse reaction to lorazepam was sedation (15.9%), followed by dizziness (6.9%).. while taking this medicine.",
+    "Monitoring is advised because the incidence of sedation and unsteadiness increased with age may occur.",
+    "Some patients report headache, coma while taking this medicine.",
+    "Monitoring is advised because respiratory depression, apnea, worsening of sleep apnea, worsening of obstructive pulmonary disease may occur.",
+    "Some patients report gastrointestinal symptoms including nausea, change in appetite, constipation, jaundice, increase in bilirubin, increase in liver transaminases.. while taking this medicine.",
+    "A possible treatment-related effect includes hypersensitivity reactions, anaphylactoid reactions.",
+    "Some patients report dermatological symptoms, allergic skin reactions, alopecia while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when most adverse reactions to benzodiazepines, including CNS effects and respiratory depression, are dose dependent..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pregnancy Pregnancy Exposure Registry There is a pregnancy registry that monitors pregnancy outcomes in women exposed to psychiatric medications...",
+    "breastfeeding": "Extra caution is needed because nursing Mothers Risk Summary Lorazepam is present in breast milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interactions The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor si...",
+      "Healthcare providers evaluate risk when benzodiazepines interact at GABA A sites and opioids interact primarily at mu receptors.",
+      "Patients should discuss safety when when benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.",
+      "Patients should discuss safety when limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.",
+      "Patients should discuss safety when the benzodiazepines, including lorazepam, produce increased CNS-depressant effects when administered with other CNS depressants such as alcohol...",
+      "Healthcare providers evaluate risk when concomitant use of clozapine and lorazepam may produce marked sedation, excessive salivation, hypotension, ataxia, delirium, and respiratory arrest."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Lorazepam information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Lorazepam on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "headache",
+    "thyroid",
+    "allergies"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-07-24T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22lorazepam%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:38.350Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=lorazepam",
+      "accessedAt": "2026-07-12T12:01:38.350Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

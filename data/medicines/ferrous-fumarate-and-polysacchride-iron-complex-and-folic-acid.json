@@ -60,7 +60,9 @@
   ],
   "relatedMedicines": [],
   "relatedDiseases": [
-    "anemia"
+    "allergies",
+    "common-cold",
+    "fever"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2022-11-08T00:00:00.000Z",
@@ -68,17 +70,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22folic%20acid%22&limit=1",
-      "accessedAt": "2026-07-12T06:31:51.045Z"
+      "accessedAt": "2026-07-12T12:02:05.712Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ferrous%20fumarate%20and%20polysacchride%20iron%20complex%20and%20folic%20acid",
-      "accessedAt": "2026-07-12T06:31:51.045Z"
+      "accessedAt": "2026-07-12T12:02:05.712Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

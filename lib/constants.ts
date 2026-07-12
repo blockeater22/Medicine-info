@@ -38,9 +38,10 @@ export const FOOTER_LINKS = {
     { label: "Articles", href: "/articles" },
   ],
   company: [
-    { label: "About Us", href: "/about" },
-    { label: "Medical Team", href: "/medical-team" },
+    { label: "About", href: "/about" },
     { label: "Editorial Policy", href: "/editorial-policy" },
+    { label: "Content Review Process", href: "/content-review-process" },
+    { label: "Medical Disclaimer", href: "/medical-disclaimer" },
     { label: "Corrections", href: "/corrections" },
     { label: "Contact", href: "/contact" },
     { label: "Search", href: "/search" },

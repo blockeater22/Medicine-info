@@ -1,0 +1,58 @@
+{
+  "slug": "uric-acid",
+  "name": "Uric Acid",
+  "overview": "Uric Acid is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include uric acid is a heterocyclic compound of carbon, nitrogen, oxygen, and hydrogen with the formula c5h4n4o3; it forms ions and salts known as urates and acid urates, such as ammonium acid urate; uric acid is a product of the metabolic breakdown of purine nucleotides, and it is a normal component of urine. This summary is educational and should be paired with professional medical evaluation.",
+  "purpose": [
+    "From a clinical perspective, uric acid is a heterocyclic compound of carbon, nitrogen, oxygen, and hydrogen with the formula C5H4N4O3.",
+    "Health professionals note that it forms ions and salts known as urates and acid urates, such as ammonium acid urate.",
+    "In routine practice, uric acid is a product of the metabolic breakdown of purine nucleotides, and it is a normal component of urine.",
+    "In routine practice, high blood concentrations of uric acid can lead to gout and are associated with other medical conditions..."
+  ],
+  "preparation": [
+    "From a clinical perspective, confirm fasting requirements with your lab.",
+    "In routine practice, bring prior reports and medication list."
+  ],
+  "procedure": [
+    "From a clinical perspective, sample collection at a certified laboratory.",
+    "Health professionals note that results reviewed by qualified personnel."
+  ],
+  "normalRange": "Reference intervals vary by laboratory method, age, sex, and clinical context. Interpret results with your doctor.",
+  "highMeaning": [
+    "From a clinical perspective, may indicate active disease, inflammation, or organ stress depending on the analyte."
+  ],
+  "lowMeaning": [
+    "In routine practice, may suggest deficiency, suppression, or reduced production depending on the analyte."
+  ],
+  "interpretation": [
+    "In routine practice, compare with previous results for trends.",
+    "In routine practice, correlate with symptoms and examination.",
+    "In routine practice, single abnormal values may require repeat testing."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Uric Acid information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Do I need fasting before Uric Acid?",
+      "answer": "Preparation depends on the exact test order. Follow the instructions provided by your laboratory or physician."
+    }
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T12:02:57.485Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uric_acid",
+      "accessedAt": "2026-07-12T12:02:57.485Z"
+    },
+    {
+      "name": "LOINC",
+      "url": "https://loinc.org/",
+      "accessedAt": "2026-07-12T12:02:57.485Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

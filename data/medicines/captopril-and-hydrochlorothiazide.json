@@ -1,0 +1,93 @@
+{
+  "slug": "captopril-and-hydrochlorothiazide",
+  "genericName": "Captopril and hydrochlorothiazide",
+  "brandNames": [
+    "CAPTOPRIL AND HYDROCHLOROTHIAZIDE"
+  ],
+  "composition": "CAPTOPRIL — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Thiazide Diuretic [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with iNDICATIONS & USAGE Captopril and hydrochlorothiazide tablets are indicated for the treatment of hypertension.",
+    "This agent is commonly used in care plans involving the blood pressure lowering effects of captopril and thiazides are approximately additive.",
+    "This agent is commonly used in care plans involving this fixed combination drug may be used as initial therapy or substituted for previously titrated doses of the individual components.",
+    "Medical teams consider this option for patients needing support with when captopril and hydrochlorothiazide are given together it may not be necessary to administer captopril in divided doses to attain blood pressure control a...",
+    "Clinicians may prescribe this medicine when managing also, with such a combination, a daily dose of 15 mg of hydrochlorothiazide may be adequate.",
+    "Medical teams consider this option for patients needing support with treatment may, therefore, be initiated with captopril and hydrochlorothiazide tablets 25 mg/15 mg once daily."
+  ],
+  "howItWorks": "Captopril And Hydrochlorothiazide belongs to the thiazide diuretic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage & administration dosage must be individualized according to patient's response. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an older adults may need slower titration and closer monitoring. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because captopril : Reported incidences are based on clinical trials involving approximately 7000 patients may occur.",
+    "Some patients report renal : About one of 100 patients developed proteinuria (see WARNINGS ) while taking this medicine.",
+    "Monitoring is advised because each of the following has been reported in approximately 1 to 2 of 1000 patients and are of uncertain relationship to drug use: renal insufficiency.. may occur.",
+    "Monitoring is advised because hematologic : Neutropenia/agranulocytosis has occurred (see WARNINGS ) may occur.",
+    "Some patients report cases of anemia, thrombocytopenia, and pancytopenia have been reported while taking this medicine.",
+    "Monitoring is advised because dermatologic : Rash, often with pruritus, and sometimes with fever, arthralgia, and eosinophilia.. may occur.",
+    "Monitoring is advised because it is usually maculopapular, and rarely urticarial may occur.",
+    "Some patients report the rash is usually mild and disappears within a few days of dosage reduction, short-term treatment with an antihistaminic agent, and/or discontinuing therapy while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because captopril : Anaphylactoid and Possible Related Reactions : Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids a...",
+    "Patients should discuss safety when head and Neck Angioedema : Angioedema involving the extremities, face, lips, mucous membranes, tongue...",
+    "Extra caution is needed because if angioedema involves the tongue, glottis or larynx, airway obstruction may occur and be fatal."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pregnancy Female patients of childbearing age should be told about the consequences of second- and third-trimester exposure to ACE inhibitors...",
+    "breastfeeding": "Patients should discuss safety when nursing Mothers Both captopril and hydrochlorothiazide are excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because drug Interactions: Captopril : Hypotension—Patients On Diuretic Therapy : Patients on diuretics and especially those in whom diuretic therapy was recently in...",
+      "Healthcare providers evaluate risk when the possibility of hypotensive effects with captopril can be minimized by either discontinuing the diuretic or increasing the salt intake approximately one w...",
+      "Patients should discuss safety when alternatively, provide medical supervision for at least one hour after the initial dose.",
+      "Healthcare providers evaluate risk when if hypotension occurs, the patient should be placed in a supine position and, if necessary, receive an intravenous infusion of normal saline.",
+      "Healthcare providers evaluate risk when this transient hypotensive response is not a contraindication to further doses which can be given without difficulty once the blood pressure has increased af...",
+      "Extra caution is needed because agents Having Vasodilator Activity : Data on the effect of concomitant use of other vasodilators in patients receiving captopril for heart failure are not av..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Captopril and hydrochlorothiazide information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Captopril and hydrochlorothiazide on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-02-21T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22captopril%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:00.025Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=captopril%20and%20hydrochlorothiazide",
+      "accessedAt": "2026-07-12T12:01:00.025Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "theophylline-anhydrous",
+  "genericName": "Theophylline anhydrous",
+  "brandNames": [
+    "Theophylline (Anhydrous)"
+  ],
+  "composition": "THEOPHYLLINE ANHYDROUS — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Methylxanthine [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving theophylline is indicated for the treatment of the symptoms and reversible airflow obstruction associated with chronic asthma and other chronic lung diseases..."
+  ],
+  "howItWorks": "Theophylline Anhydrous belongs to the methylxanthine [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an it is recommended that theophylline (anhydrous) extended-release tablets be taken with meals. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use theophylline is safe and effective for the approved indications in pediatric patients. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an theophylline doses greater than 400 mg/d should be prescribed with caution in elderly patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes adverse reactions associated with theophylline are generally mild when peak serum theophylline concentrations are <20 mcg/mL and mainly consist of transient ...",
+    "A possible treatment-related effect includes when peak serum theophylline concentrations exceed 20 mcg/mL, however, theophylline produces a wide range of adverse reactions including persistent vomiting...",
+    "A possible treatment-related effect includes the transient caffeine-like adverse reactions occur in about 50% of patients when theophylline therapy is initiated at doses higher than recommended initial ...",
+    "Monitoring is advised because during the initiation of theophylline therapy, caffeine-like adverse effects may transiently alter patient behavior, especially in school age children.. may occur.",
+    "Some patients report initiation of theophylline therapy at a low dose with subsequent slow titration to a predetermined age-related maximum dose will significantly reduce the fre.. while taking this medicine.",
+    "Some patients report in a small percentage of patients (<3% of children and <10% of adults) the caffeine-like adverse effects persist during maintenance therapy.. while taking this medicine.",
+    "Monitoring is advised because dosage reduction may alleviate the caffeine-like adverse effects in these patients, however.. may occur.",
+    "Monitoring is advised because in patients with hypoxia secondary to COPD, multifocal atrial tachycardia and flutter have been reported at serum theophylline concentrations ≥15 mcg/mL may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when if the total daily dose is not appropriately reduced in the presence of these risk factors, severe and potentially fatal theophylline toxicity can occur.",
+    "Patients should discuss safety when careful consideration must be given to the benefits and risks of theophylline use and the need for more intensive monitoring of serum theophylline concentrat...",
+    "Patients should discuss safety when ≥102° for 24 hours or more."
+  ],
+  "warnings": {
+    "pregnancy": "Pregnancy",
+    "breastfeeding": "Extra caution is needed because nursing Mothers Theophylline is excreted into breast milk and may cause irritability or other signs of mild toxicity in nursing human infants.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when drug Interactions Theophylline interacts with a wide variety of drugs.",
+      "Extra caution is needed because the interaction may be pharmacodynamic, i.e....",
+      "Healthcare providers evaluate risk when more frequently, however, the interaction is pharmacokinetic, i.e....",
+      "Extra caution is needed because theophylline only rarely alters the pharmacokinetics of other drugs.",
+      "Healthcare providers evaluate risk when the drugs listed in Table II have the potential to produce clinically significant pharmacodynamic or pharmacokinetic interactions with theophylline.",
+      "Extra caution is needed because the information in the \"Effect\" column of Table II assumes that the interacting drug is being added to a steady-state theophylline regimen."
+    ]
+  },
+  "storage": "In routine practice, store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].",
+  "faqs": [
+    {
+      "question": "Can I rely on this Theophylline anhydrous information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Theophylline anhydrous on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-12-04T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22theophylline%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:25.670Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=theophylline%20anhydrous",
+      "accessedAt": "2026-07-12T12:01:25.670Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

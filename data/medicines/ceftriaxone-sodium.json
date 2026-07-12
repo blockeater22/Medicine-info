@@ -1,0 +1,88 @@
+{
+  "slug": "ceftriaxone-sodium",
+  "genericName": "Ceftriaxone sodium",
+  "brandNames": [
+    "Ceftriaxone Sodium"
+  ],
+  "composition": "CEFTRIAXONE SODIUM — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with before instituting treatment with ceftriaxone...",
+    "Medical teams consider this option for patients needing support with therapy may be instituted prior to obtaining results of susceptibility testing.",
+    "This agent is commonly used in care plans involving to reduce the development of drug-resistant bacteria and maintain the effectiveness of ceftriaxone for injection, USP and other antibacterial drugs...",
+    "Medical teams consider this option for patients needing support with when culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.",
+    "Medical teams consider this option for patients needing support with in the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.",
+    "This agent is commonly used in care plans involving ceftriaxone for injection..."
+  ],
+  "howItWorks": "Ceftriaxone Sodium belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration ceftriaxone may be administered intravenously or intramuscularly. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an in vitro studies have shown that ceftriaxone, like some other cephalosporins, can displace bilirubin from serum albumin. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an geriatric use of the total number of subjects in clinical studies of ceftriaxone, 32% were 60 and over. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because ceftriaxone is generally well tolerated may occur.",
+    "Some patients report in clinical trials, the following adverse reactions, which were considered to be related to ceftriaxone therapy or of uncertain etiology.. while taking this medicine.",
+    "A possible treatment-related effect includes phlebitis was reported in <1% after IV administration.",
+    "Monitoring is advised because the incidence of warmth, tightness or induration was 17% (3/17) after IM administration of 350 mg/mL and 5% (1/20) after IM administration of 250 mg/mL may occur.",
+    "Some patients report general Disorders and Administration Site Conditions Injection site pain (0.6%) Hypersensitivity Rash (1.7%) while taking this medicine.",
+    "Some patients report less frequently reported (<1%) were pruritus, fever or chills while taking this medicine.",
+    "A possible treatment-related effect includes infections and Infestations Genital fungal infection (0.1%) Hematologic Eosinophilia (6%), thrombocytosis (5.1%) and leukopenia (2.1%).",
+    "Monitoring is advised because less frequently reported (<1%) were anemia, hemolytic anemia, neutropenia, lymphopenia, thrombocytopenia and prolongation of the prothrombin time may occur."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when hypersensitivity Reactions Before therapy with ceftriaxone for injection is instituted...",
+    "Patients should discuss safety when this product should be given cautiously to penicillin and other beta-lactam agent-sensitive patients.",
+    "Healthcare providers evaluate risk when antibacterial drugs should be administered with caution to any patient who has demonstrated some form of allergy, particularly to drugs."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pregnancy Teratogenic Effects Reproductive studies have been performed in mice and rats at doses up to 20 times the usual human dose and have no evidence of ...",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers Low concentrations of ceftriaxone are excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, prior to Reconstitution Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].",
+  "faqs": [
+    {
+      "question": "Can I rely on this Ceftriaxone sodium information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Ceftriaxone sodium on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-01-19T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22ceftriaxone%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:42.994Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=ceftriaxone%20sodium",
+      "accessedAt": "2026-07-12T12:00:42.994Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

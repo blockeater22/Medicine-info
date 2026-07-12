@@ -1,0 +1,85 @@
+{
+  "slug": "memantine",
+  "genericName": "Memantine",
+  "brandNames": [
+    "Memantine hydrochloride"
+  ],
+  "composition": "MEMANTINE HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Memantine hydrochloride tablets are indicated for the treatment of moderate to severe dementia of the Alzheimer’s type.",
+    "Clinicians may prescribe this medicine when managing memantine hydrochloride tablets are an N-methyl-D-aspartate (NMDA) receptor antagonist indicated for the treatment of moderate to severe dementia of the Alzh..."
+  ],
+  "howItWorks": "Memantine belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration the recommended starting dose of memantine hydrochloride tablets is 5 mg once daily. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness in pediatric patients have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use the majority of people with alzheimer’s disease are 65 years and older. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes because clinical trials are conducted under widely varying conditions...",
+    "Monitoring is advised because adverse Events Leading to Discontinuation In placebo-controlled trials in which dementia patients received doses of memantine hydrochloride up to 20 mg/day.. may occur.",
+    "A possible treatment-related effect includes no individual adverse reaction was associated with the discontinuation of treatment in 1% or more of memantine hydrochloride-treated patients and at a rate g...",
+    "A possible treatment-related effect includes most Common Adverse Reactions In double-blind placebo-controlled trials involving dementia patients...",
+    "Some patients report table 1 lists all adverse reactions that occurred in at least 2% of patients treated with memantine hydrochloride and at an incidence greater than placebo while taking this medicine.",
+    "Some patients report seizures Memantine hydrochloride has not been systematically evaluated in patients with a seizure disorder while taking this medicine.",
+    "Monitoring is advised because in clinical trials of memantine hydrochloride.. may occur.",
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS Conditions that raise urine pH may decrease the urinary elimination of memantine, resulting in increased plasma levels of memantine."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary There are no adequate data on the developmental risk associated with the use of memantine hydrochloride in pregnant women.",
+    "breastfeeding": "Healthcare providers evaluate risk when 8.2 Lactation Risk Summary There are no data on the presence of memantine in human milk, the effects on the breastfed infant...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS 7.1 Drugs that Make the Urine Alkaline The clearance of memantine was reduced by about 80% under alkaline urine conditions at pH 8.",
+      "Healthcare providers evaluate risk when therefore, alterations of urine pH towards the alkaline condition may lead to an accumulation of the drug with a possible increase in adverse effects.",
+      "Extra caution is needed because urine pH is altered by diet, drugs (e.g.",
+      "Patients should discuss safety when hence, memantine should be used with caution under these conditions."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Memantine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Memantine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-08-17T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22memantine%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:19.791Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=memantine",
+      "accessedAt": "2026-07-12T12:02:19.791Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "remdesivir",
+  "genericName": "Remdesivir",
+  "brandNames": [
+    "Veklury"
+  ],
+  "composition": "REMDESIVIR — active ingredient details may vary by marketed formulation.",
+  "drugClass": "SARS-CoV-2 Nucleotide Analog RNA Polymerase Inhibitor [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE VEKLURY is indicated for the treatment of coronavirus disease 2019 (COVID-19) in adults and pediatric patients (birth to less than 18..."
+  ],
+  "howItWorks": "Remdesivir belongs to the sars-cov-2 nucleotide analog rna polymerase inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an assess prothrombin time before starting veklury and monitor as clinically appropriate. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an use in this age group is supported by the following: trials in adults [see clinical studies (14. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an no dosage adjustment is required in patients over the age of 65 years. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes clinical Trials Experience in Adults with COVID-19 NIAID ACTT-1 was a randomized, double-blind...",
+    "A possible treatment-related effect includes subjects treated with VEKLURY received 200 mg on Day 1 and 100 mg once daily on subsequent days [see Clinical Studies (14.1) ].",
+    "Monitoring is advised because the collection of adverse event data in this trial was limited to severe (Grade 3) or potentially life-threatening (Grade 4) adverse events.. may occur.",
+    "A possible treatment-related effect includes rates of adverse reactions (≥ Grade 3), serious adverse reactions, and adverse reactions leading to treatment discontinuation are presented in Table 4.",
+    "Monitoring is advised because were reported in 33 (17%) subjects in the 5-day group and 40 (20%) subjects in the 10-day group [see Clinical Studies (14.2) ] may occur.",
+    "Some patients report the most common adverse reactions occurring in at least 5% of subjects in either the VEKLURY 5-day or 10-day group, respectively, were nausea (5% vs 3%).. while taking this medicine.",
+    "Monitoring is advised because rates of any adverse reactions, serious adverse reactions, and adverse reactions leading to treatment discontinuation are presented in Table 5 may occur.",
+    "Monitoring is advised because were reported in 36 (19%) subjects in the 5-day group and 25 (13%) subjects in the 10-day group may occur."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when clinical Trials Experience in Adults with COVID-19 NIAID ACTT-1 was a randomized, double-blind...",
+    "Patients should discuss safety when the collection of adverse event data in this trial was limited to severe (Grade 3) or potentially life-threatening (Grade 4) adverse events...",
+    "Healthcare providers evaluate risk when rates of adverse reactions (≥ Grade 3), serious adverse reactions, and adverse reactions leading to treatment discontinuation are presented in Table 4.",
+    "Patients should discuss safety when rates of any adverse reactions, serious adverse reactions, and adverse reactions leading to treatment discontinuation are presented in Table 5.",
+    "Healthcare providers evaluate risk when rates of any adverse reactions, serious adverse reactions, and adverse reactions leading to treatment discontinuation are presented in Table 6."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Risk Summary Available data from a clinical trial (IMPAACT 2032), published reports, the COVID-PR pregnancy exposure registry...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS 7.1 Effects of Other Drugs on VEKLURY Due to potential antagonism based on data from cell culture experiments..."
+    ]
+  },
+  "storage": "Health professionals note that and Handling These products contain no preservative.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Remdesivir information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Remdesivir on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "allergies",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-02-12T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22remdesivir%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:25.802Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=remdesivir",
+      "accessedAt": "2026-07-12T12:02:25.802Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

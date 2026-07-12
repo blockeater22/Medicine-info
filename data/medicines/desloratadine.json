@@ -1,0 +1,81 @@
+{
+  "slug": "desloratadine",
+  "genericName": "Desloratadine",
+  "brandNames": [
+    "Desloratadine"
+  ],
+  "composition": "DESLORATADINE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Histamine-1 Receptor Antagonist [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with management of conditions associated with desloratadine."
+  ],
+  "howItWorks": "Desloratadine belongs to the histamine-1 receptor antagonist [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration desloratadine tablets may be taken without regard to meals. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an [ see clinical pharmacology (12. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because adults and Adolescents Allergic Rhinitis: In multiple-dose placebo-controlled trials.. may occur.",
+    "Some patients report in patients receiving 5 mg daily, the rate of adverse events was similar between Desloratadine and placebo-treated patients while taking this medicine.",
+    "A possible treatment-related effect includes the percent of patients who withdrew prematurely due to adverse events was 2.4% in the Desloratadine group and 2.6% in the placebo group.",
+    "Monitoring is advised because there were no serious adverse events in these trials in patients receiving desloratadine may occur.",
+    "A possible treatment-related effect includes all adverse events that were reported by greater than or equal to 2% of patients who received the recommended daily dose of Desloratadine Tablets (5 mg once ...",
+    "Some patients report there were no differences in adverse events for subgroups of patients as defined by gender, age, or race while taking this medicine.",
+    "Monitoring is advised because chronic Idiopathic Urticaria: In multiple-dose, placebo-controlled trials of chronic idiopathic urticaria.. may occur.",
+    "A possible treatment-related effect includes adverse events that were reported by greater than or equal to 2% of patients who received Desloratadine Tablets and that were more common with Desloratadine ..."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when there were no serious adverse events in these trials in patients receiving desloratadine."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary The limited available data with Desloratadine in pregnant women are not sufficient to inform a drug-associated risk for major birt...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "Health professionals note that • Desloratadine Tablets: Store at 25°C (77°F).",
+  "faqs": [
+    {
+      "question": "Can I rely on this Desloratadine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Desloratadine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-07-10T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22desloratadine%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:27.728Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=desloratadine",
+      "accessedAt": "2026-07-12T12:02:27.728Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

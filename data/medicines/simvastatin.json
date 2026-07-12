@@ -1,0 +1,93 @@
+{
+  "slug": "simvastatin",
+  "genericName": "Simvastatin",
+  "brandNames": [
+    "SIMVASTATIN"
+  ],
+  "composition": "SIMVASTATIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "HMG-CoA Reductase Inhibitor [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing as an adjunct to diet to reduce low-density lipoprotein cholesterol (LDL-C): In adults with primary hyperlipidemia.",
+    "Clinicians may prescribe this medicine when managing in adults and pediatric patients aged 10 years and older with heterozygous familial hypercholesterolemia (HeFH).",
+    "This agent is commonly used in care plans involving as an adjunct to other LDL-C-lowering therapies to reduce LDL-C in adults with homozygous familial hypercholesterolemia (HoFH).",
+    "Clinicians may prescribe this medicine when managing as an adjunct to diet for the treatment of adults with: Primary dysbetalipoproteinemia.",
+    "This agent is commonly used in care plans involving hypertriglyceridemia.",
+    "Medical teams consider this option for patients needing support with hypertriglyceridemia."
+  ],
+  "howItWorks": "Simvastatin belongs to the hmg-coa reductase inhibitor [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an maximum recommended dosage is simvastatin tablets usp 40 mg once daily. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric dosing should be weight-based and clinician-directed. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an in study hps, 615 (6%) patients were ≥75 years old [see clinical studies ( 14 )]. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because in clinical studies, 2,423 adult patients were exposed to simvastatin with a median duration of follow-up of approximately 18 months may occur.",
+    "Monitoring is advised because the most commonly reported adverse reactions (incidence ≥5%) in these simvastatin clinical studies were: upper respiratory infections (9%), headache (7%).. may occur.",
+    "Monitoring is advised because overall, 1.4% of patients discontinued simvastatin due to adverse reactions may occur.",
+    "Monitoring is advised because the most common adverse reactions that led to discontinuation were: gastrointestinal disorders (0.5%), myalgia (0.1%), and arthralgia (0.1%) may occur.",
+    "A possible treatment-related effect includes in a Cardiovascular Outcomes Study (the Scandinavian Simvastatin Survival Study [Study 4S]), adult patients (age range 35-71 years, 19% women...",
+    "A possible treatment-related effect includes reported in ≥2% of patients and at a rate greater than placebo are shown in Table 1.",
+    "Some patients report in a clinical outcomes study in which 12,064 adult patients with a history of myocardial infarction were treated with simvastatin (mean follow-up 6.7 years).. while taking this medicine.",
+    "Monitoring is advised because the incidence of rhabdomyolysis (defined as myopathy with a CK >40xULN) in patients on simvastatin 20 mg and 80 mg daily was approximately 0% and 0.4%.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because 5 WARNINGS AND PRECAUTIONS Myopathy and Rhabdomyolysis: Risk factors include age 65 years or greater, uncontrolled hypothyroidism, renal impairment...",
+    "Extra caution is needed because chinese patients may be at higher risk for myopathy.",
+    "Patients should discuss safety when discontinue simvastatin if markedly elevated CK levels occur or myopathy is diagnosed or suspected."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary Discontinue simvastatin when pregnancy is recognized.",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when simvastatin exposure can be significantly increased with concomitant administration of inhibitors of CYP3A4 and OATP1B1.",
+      "Healthcare providers evaluate risk when table 2 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when used concomitantly with simvastatin and instructions for preventi...",
+      "Healthcare providers evaluate risk when table 2: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Simvastatin Strong CYP3A4 inhibitors Clinical Impact: Simvastatin is a ...",
+      "Healthcare providers evaluate risk when concomitant use of strong CYP3A4 inhibitors with simvastatin increases simvastatin exposure and increases the risk of myopathy and rhabdomyolysis...",
+      "Extra caution is needed because intervention: Concomitant use of strong CYP3A4 inhibitors with Simvastatin is contraindicated [see CONTRAINDICATIONS ( 4 )].",
+      "Patients should discuss safety when if treatment with a CYP3A4 inhibitor is unavoidable, suspend simvastatin during the course of strong CYP3A4 inhibitor treatment."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Simvastatin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Simvastatin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-02-26T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22simvastatin%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:54.287Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=simvastatin",
+      "accessedAt": "2026-07-12T12:00:54.287Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

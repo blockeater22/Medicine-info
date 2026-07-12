@@ -1,0 +1,93 @@
+{
+  "slug": "torsemide",
+  "genericName": "Torsemide",
+  "brandNames": [
+    "Torsemide"
+  ],
+  "composition": "TORSEMIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Loop Diuretic [EPC]",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Torsemide is a loop diuretic indicated for: the treatment of edema associated with heart failure, renal disease or hepatic disease.",
+    "This agent is commonly used in care plans involving lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.",
+    "This agent is commonly used in care plans involving these benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which this d...",
+    "This agent is commonly used in care plans involving there are no controlled trials demonstrating risk reduction with torsemide.",
+    "Medical teams consider this option for patients needing support with control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management...",
+    "Medical teams consider this option for patients needing support with many patients will require more than one drug to achieve blood pressure goals."
+  ],
+  "howItWorks": "Torsemide belongs to the loop diuretic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration edema associated with: heart failure: initial dose is 10 or 20 mg once daily. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes in pre-approval studies, torsemide has been evaluated for safety in approximately 4,000 subjects.",
+    "Monitoring is advised because over 800 of these subjects received torsemide for at least 6 months, and over 380 were treated for more than 1 year may occur.",
+    "A possible treatment-related effect includes among these subjects were 564 who received torsemide during United States-based trials in which 274 other subjects received placebo.",
+    "Some patients report discontinuation of therapy due to adverse reactions occurred in 3.5% of United States patients treated with torsemide and in 4.4% of patients treated with pl.. while taking this medicine.",
+    "Monitoring is advised because in United States placebo-controlled trials excessive urination occurred in 6.7% of patients compared with 2.2% of patients receiving placebo may occur.",
+    "Monitoring is advised because the daily doses of torsemide used in these trials ranged from 1.25 mg to 20 mg, with most patients receiving 5 mg to 10 mg may occur.",
+    "Monitoring is advised because the duration of treatment ranged from 1 to 52 days, with a median of 41 days may occur.",
+    "A possible treatment-related effect includes in the placebo-controlled hypertension studies excessive urination was dose related."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when worsening of renal function can also occur with concomitant use of nephrotoxic drugs (e.g., aminoglycosides, cisplatin, and NSAIDs).",
+    "Patients should discuss safety when monitor volume status and renal function periodically.",
+    "Healthcare providers evaluate risk when treatment with torsemide can cause an increase in blood glucose levels and hyperglycemia."
+  ],
+  "warnings": {
+    "pregnancy": "Extra caution is needed because 8.1 Pregnancy Risk Summary There are no available data on use of torsemide in pregnant women and the risk of major birth defects or miscarriage.",
+    "breastfeeding": "Healthcare providers evaluate risk when 8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Non-steroidal anti-inflammatory drugs (NSAIDs): Reduced diuretic, natriuretic, and antihypertensive effects.",
+      "Extra caution is needed because risk of renal impairment.",
+      "Patients should discuss safety when concomitant use of nonsteroidal anti-inflammatory drugs (NSAIDs) and torsemide has been associated with the development of acute renal failure.",
+      "Extra caution is needed because the antihypertensive and diuretic effects of torsemide can be reduced by NSAIDs.",
+      "Healthcare providers evaluate risk when partial inhibition of the natriuretic effect of torsemide by concomitant administration of indomethacin has been demonstrated for torsemide under conditions ...",
+      "Patients should discuss safety when concomitant use of CYP2C9 inhibitors (e.g., amiodarone, fluconazole, miconazole..."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Torsemide information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Torsemide on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "allergies",
+    "cardiovascular-disease"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2023-06-30T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22torsemide%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:01.899Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=torsemide",
+      "accessedAt": "2026-07-12T12:01:01.899Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

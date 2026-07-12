@@ -1,16 +1,6 @@
 {
   "slug": "gastritis",
   "name": "Gastritis",
-  "category": "Gastrointestinal",
-  "description": "Complete guide to Gastritis: symptoms, causes, diagnosis, treatment, and prevention for patients in India.",
-  "seo": {
-    "title": "Gastritis: Symptoms, Causes, Treatment | Doctors Hub",
-    "description": "Learn about Gastritis — symptoms, causes, risk factors, diagnosis, treatment options, and prevention tips.",
-    "keywords": [
-      "Gastritis",
-      "Gastrointestinal"
-    ]
-  },
   "overview": "Gastritis is inflammation of the stomach lining, causing upper abdominal pain, nausea, and bloating. H. pylori infection, NSAIDs, and alcohol are common causes in India.",
   "symptoms": [
     "Upper abdominal pain or burning",
@@ -41,12 +31,6 @@
     "H. pylori eradication triple therapy when confirmed",
     "Treat underlying cause"
   ],
-  "homeCare": [
-    "Follow prescribed treatment plan",
-    "Maintain healthy diet",
-    "Adequate rest and hydration",
-    "Monitor symptoms"
-  ],
   "prevention": [
     "Limit NSAID use; take with food or gastroprotection if prescribed",
     "Moderate alcohol",
@@ -58,39 +42,30 @@
     "Atrophic gastritis and B12 deficiency",
     "MALT lymphoma (rare, H. pylori associated)"
   ],
-  "emergencyWarningSigns": [
-    "Severe chest pain",
-    "Difficulty breathing",
-    "Sudden confusion",
-    "High fever with rigors"
-  ],
-  "relatedMedicines": [
-    "pantoprazole",
-    "omeprazole"
-  ],
-  "faqs": [
-    {
-      "question": "What causes Gastritis?",
-      "answer": "Multiple factors including genetics, lifestyle, and environment contribute."
-    },
-    {
-      "question": "Is Gastritis curable?",
-      "answer": "Many conditions are manageable with proper treatment. Consult your doctor for prognosis."
-    }
-  ],
-  "popular": false,
-  "updatedAt": "2026-07-01",
   "emergencySigns": [
     "Vomiting blood or coffee-ground material",
     "Black tarry stools",
     "Severe abdominal pain with rigidity",
     "Dizziness or fainting from blood loss"
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-ananya-mehta",
-    "lastReviewed": "2026-07-12"
-  },
+  "faq": [
+    {
+      "question": "Can I rely on this Gastritis information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "What should I do if Gastritis symptoms worsen suddenly?",
+      "answer": "Seek urgent medical care, especially if severe pain, breathing difficulty, confusion, or high fever develops."
+    }
+  ],
+  "relatedDiseases": [],
+  "relatedMedicines": [
+    "fluoxetine-hydrochloride",
+    "clonazepam",
+    "metronidazole"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T00:00:00.000Z",
   "sources": [
     {
       "name": "MedlinePlus",
@@ -103,5 +78,18 @@
       "accessedAt": "2026-07-12"
     }
   ],
-  "lastUpdated": "2026-07-12T00:00:00.000Z"
+  "relatedSlugs": [
+    "urine-routine",
+    "liver-function-tests"
+  ],
+  "category": "Gastrointestinal",
+  "emergencyWarningSigns": [
+    "Vomiting blood or coffee-ground material",
+    "Black tarry stools",
+    "Severe abdominal pain with rigidity",
+    "Dizziness or fainting from blood loss"
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
 }

@@ -1,0 +1,89 @@
+{
+  "slug": "aripiprazole",
+  "genericName": "Aripiprazole",
+  "brandNames": [
+    "Aripiprazole"
+  ],
+  "composition": "ARIPIPRAZOLE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Atypical Antipsychotic [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing 1 INDICATIONS AND USAGE Aripiprazole is indicated for the treatment of: • Schizophrenia • Irritability Associated with Autistic Disorder • Treatment of Toure...",
+    "This agent is commonly used in care plans involving the oral formulations are indicated for: • Schizophrenia (14.1) • Irritability Associated with Autistic Disorder (14.4) • Treatment of Tourette’s disorder (1..."
+  ],
+  "howItWorks": "Aripiprazole belongs to the atypical antipsychotic [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration initial dose recommended dose maximum dose schizophrenia – adults (2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 1), adverse reactions (6. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 1), and clinical pharmacology (12. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because 6 ADVERSE REACTIONS Because clinical trials are conducted under widely varying conditions.. may occur.",
+    "Monitoring is advised because the most common adverse reactions in the pediatric clinical trials (≥10%) were somnolence, headache, vomiting, extrapyramidal disorder, fatigue.. may occur.",
+    "Monitoring is advised because aripiprazole has been evaluated for safety in 13,543 adult patients who participated in multiple-dose, clinical trials in schizophrenia, other indications.. may occur.",
+    "Some patients report a total of 3,390 patients were treated with oral aripiprazole for at least 180 days and 1.. while taking this medicine.",
+    "A possible treatment-related effect includes aripiprazole has been evaluated for safety in 1,686 pediatric patients (6 to 18 years) who participated in multiple-dose, clinical trials in schizophrenia...",
+    "Some patients report a total of 959 pediatric patients were treated with oral aripiprazole for at least 180 days and 556 pediatric patients treated with oral aripiprazole had at .. while taking this medicine.",
+    "A possible treatment-related effect includes the conditions and duration of treatment with aripiprazole tablets included (in overlapping categories) double-blind...",
+    "Some patients report commonly Observed Adverse Reactions The only commonly observed adverse reaction associated with the use of aripiprazole in patients with schizophrenia (incid.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because closely supervise high-risk patients (5.14) 5.1 Increased Mortality in Elderly Patients with Dementia-Related Psychosis Increased Mortality Elderly patients ...",
+    "Extra caution is needed because aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].",
+    "Healthcare providers evaluate risk when safety Experience in Elderly Patients with Psychosis Associated with Alzheimer’s Disease In three, 10 week..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when with concomitant use of aripiprazole with a strong CYP3A4 inhibitor or CYP2D6 inhibitor, reduce the aripiprazole dosage [see Dosage and Administration (2.7)].",
+      "Extra caution is needed because strong CYP3A4 Inducers (e.g., carbamazepine...",
+      "Healthcare providers evaluate risk when with concomitant use of aripiprazole with a strong CYP3A4 inducer, consider increasing the aripiprazole dosage [see Dosage and Administration (2.7)].",
+      "Patients should discuss safety when antihypertensive Drugs Due to its alpha adrenergic antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive agents.",
+      "Extra caution is needed because monitor blood pressure and adjust dose accordingly [see Warnings and Precautions (5.8)].",
+      "Healthcare providers evaluate risk when benzodiazepines (e.g...."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Aripiprazole information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Aripiprazole on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "attention-deficit-hyperactivity-disorder",
+    "common-cold"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-03-05T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22aripiprazole%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:40.750Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=aripiprazole",
+      "accessedAt": "2026-07-12T12:01:40.750Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

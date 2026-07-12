@@ -1,0 +1,88 @@
+{
+  "slug": "topiramate",
+  "genericName": "Topiramate",
+  "brandNames": [
+    "Topiramate"
+  ],
+  "composition": "TOPIRAMATE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Topiramate is indicated for: Epilepsy: initial monotherapy for the treatment of partial-onset or primary generalized tonic-clonic sei..."
+  ],
+  "howItWorks": "Topiramate belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an during the titration period, the initial dose of topiramate is 25 mg/day nightly for the first week. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 1) and clinical studies (14. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use in clinical trials, 3% of patients were over age 60. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report monotherapy Epilepsy Adults 16 Years of Age and Older The most common adverse reactions in the controlled clinical trial (Study 1) that occurred in adults in.. while taking this medicine.",
+    "Some patients report approximately 21% of the 159 adult patients in the 400 mg/day group who received topiramate as monotherapy in Study 1 discontinued therapy due to adverse rea.. while taking this medicine.",
+    "Some patients report the most common (≥ 2% more frequent than low-dose 50 mg/day topiramate) adverse reactions causing discontinuation were difficulty with memory, fatigue.. while taking this medicine.",
+    "A possible treatment-related effect includes pediatric Patients 6 to 15 Years of Age The most common adverse reactions in the controlled clinical trial (Study 1) that occurred in pediatric patients in t...",
+    "A possible treatment-related effect includes approximately 14% of the 77 pediatric patients in the 400 mg/day group who received topiramate as monotherapy in the controlled clinical trial discontinued t...",
+    "A possible treatment-related effect includes the most common (≥2% more frequent than low-dose 50 mg/day topiramate) adverse reactions resulting in discontinuation were difficulty with concentration/atte...",
+    "Some patients report table 5 presents the incidence of adverse reactions occurring in at least 3% of adult and pediatric patients treated with 400 mg/day topiramate and occurring.. while taking this medicine.",
+    "Monitoring is advised because patients in these trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo may occur."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when 5 WARNINGS AND PRECAUTIONS Acute myopia and secondary angle closure glaucoma: can lead to permanent visual loss.",
+    "Extra caution is needed because discontinue topiramate as soon as possible (5.1) Visual field defects: consider discontinuation of topiramate (5.2) Oligohidrosis and hyperthermia: monitor d...",
+    "Extra caution is needed because consider dose reduction or discontinuation of topiramate if clinically appropriate (5.4) Suicidal behavior and ideation: antiepileptic drugs increase the ris..."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to topiramate during pregn...",
+    "breastfeeding": "Healthcare providers evaluate risk when ask your clinician about safety during breastfeeding.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because a dosage adjustment may be needed [see Dosage and Administration (2.1), Clinical Pharmacology (12.3) ].",
+      "Extra caution is needed because concomitant administration of valproic acid and topiramate has been associated with hypothermia and hyperammonemia with and without encephalopathy.",
+      "Patients should discuss safety when therefore...",
+      "Patients should discuss safety when patients taking estrogen-containing or progestin-only contraceptives should be asked to report any change in their bleeding patterns.",
+      "Healthcare providers evaluate risk when contraceptive efficacy can be decreased even in the absence of breakthrough bleeding [see Clinical Pharmacology (12.3)].",
+      "Healthcare providers evaluate risk when the clinical significance of this change is unknown."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Topiramate information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Topiramate on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "epilepsy"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-06-08T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22topiramate%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:44.709Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=topiramate",
+      "accessedAt": "2026-07-12T12:01:44.709Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

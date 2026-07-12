@@ -66,8 +66,9 @@
   ],
   "relatedMedicines": [],
   "relatedDiseases": [
-    "common-cold",
-    "hypertension"
+    "benign-prostatic-hyperplasia",
+    "allergies",
+    "common-cold"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-01-01T00:00:00.000Z",
@@ -75,17 +76,15 @@
     {
       "name": "OpenFDA Drug Labels",
       "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22tamsulosin%22&limit=1",
-      "accessedAt": "2026-07-12T06:31:55.356Z"
+      "accessedAt": "2026-07-12T12:01:51.219Z"
     },
     {
       "name": "RxNorm",
       "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=tamsulosin%20hydrochloride",
-      "accessedAt": "2026-07-12T06:31:55.356Z"
+      "accessedAt": "2026-07-12T12:01:51.219Z"
     }
   ],
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }

@@ -1,105 +1,334 @@
-# Generic names (INN/USAN) — OpenFDA searchable
+# Curated top Indian prescription generics (FDA-searchable)
 acetaminophen
 ibuprofen
 aspirin
+naproxen
+diclofenac
+mefenamic acid
 amoxicillin
+amoxicillin clavulanate
 azithromycin
 ciprofloxacin
-metformin
-glimepiride
-atorvastatin
-amlodipine
-losartan
-omeprazole
-pantoprazole
-cetirizine
-montelukast
-albuterol
-levothyroxine
-metronidazole
-paracetamol
-diclofenac
-naproxen
-prednisone
-dexamethasone
-furosemide
-hydrochlorothiazide
-spironolactone
-warfarin
-clopidogrel
-insulin glargine
-sitagliptin
-empagliflozin
-salbutamol
-budesonide
-fluticasone
-sertraline
-escitalopram
-fluoxetine
-amitriptyline
-gabapentin
-pregabalin
-tramadol
-morphine
-codeine
+levofloxacin
 doxycycline
 cephalexin
 clarithromycin
-fluconazole
-acyclovir
-oseltamivir
-vitamin d
-cyanocobalamin
-ferrous sulfate
-folic acid
-calcium carbonate
-potassium chloride
-sodium bicarbonate
-ranitidine
-domperidone
-ondansetron
-metoclopramide
-loratadine
-levocetirizine
-hydrocortisone
-betamethasone
-tamsulosin
-finasteride
-sildenafil
-tadalafil
-ethinylestradiol
-levonorgestrel
-misoprostol
-mefenamic acid
-nimesulide
-phenobarbitone
-phenytoin
-carbamazepine
-valproic acid
-risperidone
-olanzapine
-haloperidol
-alprazolam
-diazepam
-clonazepam
-zolpidem
-melatonin
-allopurinol
-colchicine
-methotrexate
-adalimumab
+metronidazole
+tinidazole
+cefixime
+ceftriaxone
+cefuroxime
+linezolid
+vancomycin
+meropenem
+piperacillin tazobactam
+metformin
+glimepiride
+glipizide
+gliclazide
+sitagliptin
+vildagliptin
+linagliptin
+saxagliptin
+empagliflozin
+dapagliflozin
+pioglitazone
+insulin glargine
+insulin aspart
+insulin lispro
+insulin detemir
+insulin regular
+atorvastatin
+rosuvastatin
+simvastatin
+pravastatin
+lovastatin
+fenofibrate
+amlodipine
+losartan
+telmisartan
+valsartan
+candesartan
+olmesartan
 enalapril
 ramipril
+lisinopril
+perindopril
+captopril
+hydrochlorothiazide
+chlorthalidone
+indapamide
+furosemide
+torsemide
+spironolactone
+eplerenone
+amiloride
 propranolol
 atenolol
+metoprolol
 bisoprolol
+carvedilol
+nebivolol
 diltiazem
 verapamil
+nifedipine
+isosorbide mononitrate
 isosorbide dinitrate
 nitroglycerin
 digoxin
 amiodarone
+dronedarone
+warfarin
 heparin
 enoxaparin
-rivaroxaban
 apixaban
+rivaroxaban
+dabigatran
+clopidogrel
+ticagrelor
+prasugrel
+aspirin dipyridamole
+omeprazole
+pantoprazole
+rabeprazole
+esomeprazole
+lansoprazole
+ranitidine
+famotidine
+sucralfate
+domperidone
+metoclopramide
+ondansetron
+loperamide
+racecadotril
+bisacodyl
+lactulose
+polyethylene glycol
+salbutamol
+albuterol
+formoterol
+salmeterol
+budesonide
+fluticasone
+montelukast
+theophylline
+ipratropium
+tiotropium
+cetirizine
+levocetirizine
+loratadine
+fexofenadine
+chlorpheniramine
+prednisone
+prednisolone
+dexamethasone
+hydrocortisone
+methylprednisolone
+betamethasone
+triamcinolone
+levothyroxine
+carbimazole
+propylthiouracil
+methimazole
+sertraline
+escitalopram
+fluoxetine
+paroxetine
+venlafaxine
+duloxetine
+amitriptyline
+mirtazapine
+bupropion
+trazodone
+alprazolam
+diazepam
+clonazepam
+lorazepam
+zolpidem
+melatonin
+risperidone
+olanzapine
+quetiapine
+aripiprazole
+haloperidol
+clozapine
+phenytoin
+carbamazepine
+valproic acid
+levetiracetam
+lamotrigine
+gabapentin
+pregabalin
+topiramate
+phenobarbital
+tramadol
+morphine
+codeine
+fentanyl
+tapentadol
+allopurinol
+colchicine
+febuxostat
+probenecid
+methotrexate
+hydroxychloroquine
+sulfasalazine
+adalimumab
+infliximab
+tamsulosin
+finasteride
+dutasteride
+silodosin
+sildenafil
+tadalafil
+vardenafil
+ethinyl estradiol
+levonorgestrel
+norethindrone
+drospirenone
+medroxyprogesterone
+clomiphene
+letrozole
+progesterone
+fluconazole
+itraconazole
+clotrimazole
+terbinafine
+nystatin
+acyclovir
+valacyclovir
+oseltamivir
+zidovudine
+lamivudine
+tenofovir
+efavirenz
+dolutegravir
+ritonavir
+chloroquine
+artemether lumefantrine
+primaquine
+ferrous sulfate
+ferrous fumarate
+folic acid
+cyanocobalamin
+calcium carbonate
+cholecalciferol
+ascorbic acid
+pyridoxine
+thiamine
+zinc sulfate
+potassium chloride
+magnesium sulfate
+sodium bicarbonate
+tropicamide
+timolol
+latanoprost
+brimonidine
+ciprofloxacin eye drops
+moxifloxacin
+tobramycin
+permethrin
+ivermectin
+albendazole
+mebendazole
+praziquantel
+isotretinoin
+adapalene
+benzoyl peroxide
+clindamycin topical
+mupirocin
+fusidic acid
+silver sulfadiazine
+baclofen
+tizanidine
+cyclobenzaprine
+donepezil
+memantine
+levodopa carbidopa
+pramipexole
+ropinirole
+sumatriptan
+rizatriptan
+prochlorperazine
+metoclopramide migraine
+mesalamine
+infliximab crohn
+ursodeoxycholic acid
+spironolactone acne
+minocycline
+doxycycline acne
+nirmatrelvir ritonavir
+remdesivir
+molnupiravir
+beclomethasone
+mometasone
+ciclesonide
+desloratadine
+hydroxyzine
+promethazine
+nifedipine retard
+amlodipine valsartan
+amlodipine telmisartan
+metformin sitagliptin
+metformin vildagliptin
+glimepiride metformin
+atorvastatin amlodipine
+rosuvastatin fenofibrate
+amoxicillin clavulanate potassium
+azithromycin dihydrate
+paracetamol tramadol
+aceclofenac paracetamol
+pantoprazole domperidone
+rabeprazole itopride
+levocetirizine montelukast
+ambroxol salbutamol
+cough syrup dextromethorphan
+guaifenesin
+bromhexine
+povidone iodine
+chlorhexidine
+hydrogen peroxide
+nitrofurantoin
+trimethoprim sulfamethoxazole
+fosfomycin
+colistin
+polymyxin b
+gentamicin
+paclitaxel
+carboplatin
+cisplatin
+doxorubicin
+cyclophosphamide
+tamoxifen
+anastrozole
+letrozole breast
+filgrastim
+epoetin alfa
+iron sucrose
+octreotide
+somatostatin
+insulin degludec
+semaglutide
+liraglutide
+orlistat
+bacitracin
+neomycin polymyxin
+dexamethasone eye
+prednisolone acetate eye
+atropine
+pilocarpine
+warfarin sodium
+heparin sodium
+enoxaparin sodium
+potassium citrate
+allopurinol febuxostat
+methylphenidate
+atomoxetine
+modafinil
+nitroglycerin patch
+isosorbide mononitrate extended release
+carvedilol phosphate
+metoprolol succinate
+amlodipine besylate
+losartan potassium
+telmisartan hydrochlorothiazide

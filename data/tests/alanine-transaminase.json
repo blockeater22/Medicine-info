@@ -1,0 +1,58 @@
+{
+  "slug": "alanine-transaminase",
+  "name": "Alanine Transaminase",
+  "overview": "Alanine Transaminase is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include alanine aminotransferase, formerly alanine transaminase (alt), and even earlier referred to as serum glutamate-pyruvate transaminase (gpt) or serum glutamic-pyruvic transaminase (sgpt), is a transaminase enzyme that was first characterized in the mid-1950s by arthur karmen and colleagues; alt is found in plasma and in various body tissues but is most common in the liver; it catalyzes the two parts of the alanine cycle. This summary is educational and should be paired with professional medical evaluation.",
+  "purpose": [
+    "Health professionals note that alanine aminotransferase, formerly alanine transaminase (ALT)...",
+    "From a clinical perspective, aLT is found in plasma and in various body tissues but is most common in the liver.",
+    "From a clinical perspective, it catalyzes the two parts of the alanine cycle.",
+    "From a clinical perspective, serum ALT level, serum AST level, and their ratio are routinely measured clinically as biomarkers for liver health."
+  ],
+  "preparation": [
+    "From a clinical perspective, confirm fasting requirements with your lab.",
+    "In routine practice, bring prior reports and medication list."
+  ],
+  "procedure": [
+    "From a clinical perspective, sample collection at a certified laboratory.",
+    "Health professionals note that results reviewed by qualified personnel."
+  ],
+  "normalRange": "Reference intervals vary by laboratory method, age, sex, and clinical context. Interpret results with your doctor.",
+  "highMeaning": [
+    "From a clinical perspective, may indicate active disease, inflammation, or organ stress depending on the analyte."
+  ],
+  "lowMeaning": [
+    "In routine practice, may suggest deficiency, suppression, or reduced production depending on the analyte."
+  ],
+  "interpretation": [
+    "In routine practice, compare with previous results for trends.",
+    "In routine practice, correlate with symptoms and examination.",
+    "In routine practice, single abnormal values may require repeat testing."
+  ],
+  "faq": [
+    {
+      "question": "Can I rely on this Alanine Transaminase information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Do I need fasting before Alanine Transaminase?",
+      "answer": "Preparation depends on the exact test order. Follow the instructions provided by your laboratory or physician."
+    }
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T12:03:29.941Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alanine_transaminase",
+      "accessedAt": "2026-07-12T12:03:29.941Z"
+    },
+    {
+      "name": "LOINC",
+      "url": "https://loinc.org/",
+      "accessedAt": "2026-07-12T12:03:29.941Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

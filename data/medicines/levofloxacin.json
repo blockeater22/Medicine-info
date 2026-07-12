@@ -1,0 +1,93 @@
+{
+  "slug": "levofloxacin",
+  "genericName": "Levofloxacin",
+  "brandNames": [
+    "Levofloxacin"
+  ],
+  "composition": "LEVOFLOXACIN — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Fluoroquinolone Antibacterial [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving adjunctive therapy should be used as clinically indicated.",
+    "This agent is commonly used in care plans involving the effectiveness of levofloxacin tablets is based on plasma concentrations achieved in humans...",
+    "Clinicians may prescribe this medicine when managing levofloxacin tablets have not been tested in humans for the post-exposure prevention of inhalation anthrax.",
+    "This agent is commonly used in care plans involving the safety of levofloxacin tablets in adults for durations of therapy beyond 28 days or in pediatric patients for durations of therapy beyond 14 days has not...",
+    "This agent is commonly used in care plans involving efficacy studies of levofloxacin tablets could not be conducted in humans with plague for ethical and feasibility reasons.",
+    "Medical teams consider this option for patients needing support with when culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy."
+  ],
+  "howItWorks": "Levofloxacin belongs to the fluoroquinolone antibacterial [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage & administration • administer levofloxacin tablets to pediatric patients weighing 30 kg and greater only (2. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an [see warnings and precautions ( 5. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an this risk is further increased in patients receiving concomitant corticosteroid therapy. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report 6 ADVERSE REACTIONS The most common reactions (≥3%) were nausea, headache, diarrhea, insomnia, constipation and dizziness ( 6.2 ) while taking this medicine.",
+    "Monitoring is advised because the data described below reflect exposure to levofloxacin in 7537 patients in 29 pooled Phase 3 clinical trials may occur.",
+    "Some patients report the population studied had a mean age of 50 years (approximately 74% of the population was < 65 years of age), 50% were male, 71% were Caucasian, 19% were Black while taking this medicine.",
+    "Monitoring is advised because patients were treated with levofloxacin for a wide variety of infectious diseases [see Indications and Usage (1)] may occur.",
+    "A possible treatment-related effect includes patients received levofloxacin doses of 750 mg once daily, 250 mg once daily, or 500 mg once or twice daily.",
+    "Some patients report treatment duration was usually 3 to 14 days, and the mean number of days on therapy was 10 days while taking this medicine.",
+    "Monitoring is advised because the overall incidence, type and distribution of adverse reactions was similar in patients receiving levofloxacin doses of 750 mg once daily.. may occur.",
+    "Some patients report discontinuation of levofloxacin due to adverse drug reactions occurred in 4.3% of patients overall.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Anaphylactic reactions and allergic skin reactions, serious, occasionally fatal, may occur after first dose ( 4 ...",
+    "Patients should discuss safety when discontinue immediately if signs and symptoms of hepatitis occur ( 5.8 ) Clostridium difficile -associated colitis: evaluate if diarrhea occurs ( 5.10 ) Prol...",
+    "Extra caution is needed because commonly seen adverse reactions include tendinitis, tendon rupture, arthralgia, myalgia, peripheral neuropathy..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Pregnancy Category C.",
+    "breastfeeding": "Healthcare providers evaluate risk when 8.3 Nursing Mothers Based on data on other fluoroquinolones and very limited data on levofloxacin...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Interacting Drug Interaction Multivalent cation-containing products including antacids...",
+      "Extra caution is needed because tablets with antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron...",
+      "Healthcare providers evaluate risk when these agents should be taken at least two hours before or two hours after oral levofloxacin administration.",
+      "Patients should discuss safety when similarly, no apparent effect of warfarin on levofloxacin absorption and disposition was observed.",
+      "Patients should discuss safety when however, there have been reports during the postmarketing experience in patients that levofloxacin enhances the effects of warfarin.",
+      "Patients should discuss safety when elevations of the prothrombin time in the setting of concurrent warfarin and levofloxacin use have been associated with episodes of bleeding."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Levofloxacin information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Levofloxacin on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-03-04T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22levofloxacin%22&limit=1",
+      "accessedAt": "2026-07-12T12:00:40.229Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=levofloxacin",
+      "accessedAt": "2026-07-12T12:00:40.229Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

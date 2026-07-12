@@ -1,0 +1,79 @@
+{
+  "slug": "silver-sulfadiazine",
+  "genericName": "Silver sulfadiazine",
+  "brandNames": [
+    "Silver Sulfadiazine"
+  ],
+  "composition": "SILVER SULFADIAZINE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Sulfonamide Antibacterial [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving silver sulfadiazine cream..."
+  ],
+  "howItWorks": "Silver Sulfadiazine belongs to the sulfonamide antibacterial [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an the burn areas should be covered with silver sulfadiazine cream, usp 1% at all times. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an safety and effectiveness in children have not been established. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Some patients report several cases of transient leukopenia have been reported in patients receiving silver sulfadiazine therapy while taking this medicine.",
+    "Monitoring is advised because maximal white blood cell depression occurs within two to four days of initiation of therapy may occur.",
+    "A possible treatment-related effect includes rebound to normal leukocyte levels follows onset within two to three days.",
+    "Some patients report recovery is not influenced by continuation of silver sulfadiazine therapy while taking this medicine.",
+    "Monitoring is advised because an increased incidence has been seen in patients treated concurrently with cimetidine may occur.",
+    "Monitoring is advised because other infrequently occurring events include skin necrosis, erythema multiforme, skin discoloration, burning sensation, rashes, and interstitial nephritis may occur.",
+    "A possible treatment-related effect includes reduction in bacterial growth after application of topical antibacterial agents has been reported to permit spontaneous healing of deep partial-thickness bur...",
+    "Some patients report however, reduction in bacterial colonization has caused delayed separation, in some cases necessitating escharotomy in order to prevent contracture while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Patients should discuss safety when absorption of silver sulfadiazine varies depending upon the percent of body surface area and the extent of the tissue damage.",
+    "Patients should discuss safety when although few have been reported, it is possible that any adverse reaction associated with sulfonamides may occur.",
+    "Patients should discuss safety when some of the reactions which have been associated with sulfonamides are as follows: blood dyscrasias including agranulocytosis, aplastic anemia..."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pREGNANCY: TERATOGENIC EFFECTS: Pregnancy Category B.",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Healthcare providers evaluate risk when review all prescription,."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Silver sulfadiazine information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Silver sulfadiazine on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-02-10T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22silver%20sulfadiazine%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:17.372Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=silver%20sulfadiazine",
+      "accessedAt": "2026-07-12T12:02:17.372Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

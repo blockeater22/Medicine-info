@@ -1,17 +1,19 @@
-import type { AuthorshipInfo } from "@/types";
+import type { ContentReviewInfo } from "@/types";
 
-export const DEFAULT_AUTHORSHIP: AuthorshipInfo = {
-  authorId: "dr-priya-sharma",
-  reviewerId: "dr-rajesh-kumar",
+export const DEFAULT_CONTENT_REVIEW: ContentReviewInfo = {
   lastReviewed: "2026-07-12",
 };
 
-export const DEFAULT_ARTICLE_AUTHORSHIP: AuthorshipInfo = {
-  authorId: "dr-priya-sharma",
-  reviewerId: "dr-ananya-mehta",
-  lastReviewed: "2026-07-12",
-};
+export function resolveContentReview(
+  contentReview?: ContentReviewInfo,
+  updatedAt?: string
+): ContentReviewInfo {
+  if (contentReview?.lastReviewed) return contentReview;
+  if (updatedAt) return { lastReviewed: updatedAt.slice(0, 10) };
+  return DEFAULT_CONTENT_REVIEW;
+}
 
-export function resolveAuthorship(authoredBy?: AuthorshipInfo): AuthorshipInfo {
-  return authoredBy ?? DEFAULT_AUTHORSHIP;
+/** @deprecated Use resolveContentReview */
+export function resolveAuthorship(contentReview?: ContentReviewInfo, updatedAt?: string): ContentReviewInfo {
+  return resolveContentReview(contentReview, updatedAt);
 }

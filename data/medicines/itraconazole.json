@@ -1,0 +1,92 @@
+{
+  "slug": "itraconazole",
+  "genericName": "Itraconazole",
+  "brandNames": [
+    "ITRACONAZOLE"
+  ],
+  "composition": "ITRACONAZOLE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Azole Antifungal [EPC]",
+  "uses": [
+    "Clinicians may prescribe this medicine when managing itraconazole capsules are indicated for the treatment of the following fungal infections in immunocompromised and non-immunocompromised patients: 1.",
+    "Medical teams consider this option for patients needing support with blastomycosis, pulmonary and extrapulmonary 2.",
+    "Clinicians may prescribe this medicine when managing histoplasmosis, including chronic cavitary pulmonary disease and disseminated, non- meningeal histoplasmosis, and 3.",
+    "Clinicians may prescribe this medicine when managing aspergillosis, pulmonary and extrapulmonary, in patients who are intolerant of or who are refractory to amphotericin B therapy.",
+    "Medical teams consider this option for patients needing support with specimens for fungal cultures and other relevant laboratory studies (wet mount, histopathology...",
+    "Medical teams consider this option for patients needing support with therapy may be instituted before the results of the cultures and other laboratory studies are known."
+  ],
+  "howItWorks": "Itraconazole belongs to the azole antifungal [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an dosage and administration itraconazole capsules should be taken with a full meal to ensure maximal absorption. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an pediatric use: the efficacy and safety of itraconazole have not been established in pediatric patients. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an transient or permanent hearing loss has been reported in elderly patients receiving treatment with itraconazole. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "A possible treatment-related effect includes because clinical trials are conducted under widely varying conditions...",
+    "Some patients report itraconazole has been associated with rare cases of serious hepatotoxicity, including liver failure and death while taking this medicine.",
+    "Monitoring is advised because some of these cases had neither pre-existing liver disease nor a serious underlying medical condition may occur.",
+    "Monitoring is advised because if clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed may occur.",
+    "Some patients report treatment was discontinued in 10.5% of patients due to adverse events while taking this medicine.",
+    "A possible treatment-related effect includes the median duration before discontinuation of therapy was 81 days (range: 2 to 776 days).",
+    "Monitoring is advised because the table lists adverse events reported by at least 1% of patients may occur.",
+    "A possible treatment-related effect includes adverse events infrequently reported in all studies included constipation, gastritis, depression, insomnia, tinnitus, menstrual disorder..."
+  ],
+  "seriousSideEffects": [
+    "Extra caution is needed because itraconazole has been associated with rare cases of serious hepatotoxicity, including liver failure and death.",
+    "Patients should discuss safety when some of these cases had neither pre-existing liver disease nor a serious underlying medical condition."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when pregnancy: Teratogenic Effects: Itraconazole was found to cause a dose-related increase in maternal toxicity, embryotoxicity...",
+    "breastfeeding": "Healthcare providers evaluate risk when nursing Mothers: Itraconazole is excreted in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when drug Interactions: Effect of Itraconazole on Other Drugs Itraconazole and its major metabolite, hydroxy-itraconazole, are potent CYP3A4 inhibitors.",
+      "Healthcare providers evaluate risk when itraconazole is an inhibitor of the drug transporters P-glycoprotein and breast cancer resistance protein (BCRP).",
+      "Healthcare providers evaluate risk when consequently...",
+      "Healthcare providers evaluate risk when increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some case...",
+      "Extra caution is needed because reduced concentrations of concomitant drugs may reduce their efficacy.",
+      "Healthcare providers evaluate risk when table 1 lists examples of drugs that may have their concentrations affected by itraconazole, but it is not a comprehensive list."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Itraconazole information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Itraconazole on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "heart-disease",
+    "chronic-obstructive-pulmonary-disease",
+    "allergies"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-03-10T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22itraconazole%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:57.962Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=itraconazole",
+      "accessedAt": "2026-07-12T12:01:57.962Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

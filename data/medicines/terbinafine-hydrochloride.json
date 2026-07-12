@@ -1,0 +1,90 @@
+{
+  "slug": "terbinafine-hydrochloride",
+  "genericName": "Terbinafine hydrochloride",
+  "brandNames": [
+    "Terbinafine"
+  ],
+  "composition": "TERBINAFINE HYDROCHLORIDE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "General therapeutic agent",
+  "uses": [
+    "Medical teams consider this option for patients needing support with 1 INDICATIONS AND USAGE Terbinafine tablets are indicated for the treatment of onychomycosis of the toenail or fingernail due to dermatophytes (tinea unguium).",
+    "This agent is commonly used in care plans involving prior to initiating treatment, appropriate nail specimens for laboratory testing [potassium hydroxide (KOH) preparation, fungal culture...",
+    "Medical teams consider this option for patients needing support with terbinafine tablets are an allylamine antifungal indicated for the treatment of onychomycosis of the toenail or fingernail due to dermatophytes (tinea unguium)."
+  ],
+  "howItWorks": "Terbinafine Hydrochloride belongs to the general therapeutic agent category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration • prior to administering, evaluate patients for evidence of chronic or active liver disease. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an individualized schedule based on indication. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an other reported clinical experience has not identified differences in responses between the elderly and younger patients. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because 6 ADVERSE REACTIONS Common (greater than 2% of patients treated with terbinafine tablets) reported adverse events include headache, diarrhea, rash.. may occur.",
+    "Some patients report the most frequently reported adverse events observed in the 3 U.S./Canadian placebo-controlled trials are listed in the Table 1 while taking this medicine.",
+    "Monitoring is advised because the adverse events reported encompass gastrointestinal symptoms (including diarrhea, dyspepsia, and abdominal pain), liver test abnormalities, rashes.. may occur.",
+    "Monitoring is advised because changes in the ocular lens and retina have been reported following the use of terbinafine tablets in controlled trials may occur.",
+    "A possible treatment-related effect includes the clinical significance of these changes is unknown.",
+    "Some patients report in general, the adverse events were mild, transient, and did not lead to discontinuation from study participation while taking this medicine.",
+    "Some patients report most frequently reported adverse events observed in the 3 U.S./Canadian placebo-controlled trials Adverse Event Discontinuation Terbinafine Tablets (%) n=465.. while taking this medicine.",
+    "Monitoring is advised because because these events are reported voluntarily from a population of uncertain size.. may occur."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS • Liver failure, sometimes leading to liver transplant or death, has occurred with the use of oral terbinafine.",
+    "Healthcare providers evaluate risk when obtain pretreatment serum transaminases.",
+    "Patients should discuss safety when prior to initiating treatment and periodically during therapy, assess liver function tests."
+  ],
+  "warnings": {
+    "pregnancy": "Healthcare providers evaluate risk when 8.1 Pregnancy Risk Summary Available data from postmarketing cases on the use of terbinafine tablets in pregnant women are insufficient to evaluate a drug-as...",
+    "breastfeeding": "Healthcare providers evaluate risk when 8.2 Lactation Risk Summary After oral administration, terbinafine is present in human milk.",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Patients should discuss safety when 7 DRUG INTERACTIONS Terbinafine is an inhibitor of CYP450 2D6 isozyme and has an effect on metabolism of desipramine.",
+      "Patients should discuss safety when drug interactions have also been noted with cimetidine, fluconazole, cyclosporine, rifampin, and caffeine.",
+      "Healthcare providers evaluate risk when drugs predominantly metabolized by the CYP450 2D6 isozyme include the following drug classes: tricyclic antidepressants...",
+      "Healthcare providers evaluate risk when coadministration of terbinafine tablets should be done with careful monitoring and may require a reduction in dose of the 2D6-metabolized drug.",
+      "Healthcare providers evaluate risk when in a study to assess the effects of terbinafine on desipramine in healthy volunteers characterized as normal metabolizers...",
+      "Healthcare providers evaluate risk when in this study, these effects were shown to persist at the last observation at 4 weeks after discontinuation of terbinafine tablets."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Terbinafine hydrochloride information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Terbinafine hydrochloride on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-09-30T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22terbinafine%22&limit=1",
+      "accessedAt": "2026-07-12T12:01:58.698Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=terbinafine%20hydrochloride",
+      "accessedAt": "2026-07-12T12:01:58.698Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

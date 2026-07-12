@@ -1,0 +1,83 @@
+{
+  "slug": "adapalene-and-benzoyl-peroxide-gel-0125",
+  "genericName": "Adapalene and benzoyl peroxide gel, 0.1%/2.5%",
+  "brandNames": [
+    "Adapalene and Benzoyl Peroxide Gel, 0.1%/2.5%"
+  ],
+  "composition": "ADAPALENE — active ingredient details may vary by marketed formulation.",
+  "drugClass": "Retinoid [EPC]",
+  "uses": [
+    "This agent is commonly used in care plans involving 1 INDICATIONS AND USAGE Adapalene and benzoyl peroxide gel 0.1% / 2.5% is indicated for the topical treatment of acne vulgaris in patients 9 years of age and...",
+    "This agent is commonly used in care plans involving adapalene and benzoyl peroxide gel 0.1% / 2.5% is a combination of adapalene, a retinoid, and benzoyl peroxide..."
+  ],
+  "howItWorks": "Adapalene And Benzoyl Peroxide Gel, 0.1%/2.5% belongs to the retinoid [epc] category. It influences relevant biological pathways linked to its approved therapeutic role. The exact mechanism can vary by formulation and individual patient factors, so prescribers tailor use after assessing diagnosis, comorbidities, and response over time.",
+  "dosage": {
+    "adult": "For adults, clinicians typically recommend an 2 dosage and administration for topical use only; adapalene and benzoyl peroxide gel 0. Always confirm exact dose with your prescriber.",
+    "child": "For children, clinicians typically recommend an 4 pediatric use safety and effectiveness of adapalene and benzoyl peroxide gel 0. Always confirm exact dose with your prescriber.",
+    "elderly": "For older adults, clinicians typically recommend an 5 geriatric use clinical studies of adapalene and benzoyl peroxide gel 0. Always confirm exact dose with your prescriber."
+  },
+  "sideEffects": [
+    "Monitoring is advised because during clinical trials, 1401 subjects were exposed to adapalene and benzoyl peroxide gel 0.1% / 2.5% may occur.",
+    "Some patients report a total of 1036 subjects with acne vulgaris, 12 years and older, were treated once daily for 12 weeks to 12 months while taking this medicine.",
+    "A possible treatment-related effect includes related adverse events reported within 12 weeks of treatment and in at least 1% of subjects treated with adapalene and benzoyl peroxide gel 0.1% / 2.5% and t...",
+    "Some patients report during a pediatric clinical trial, 285 children with acne vulgaris.. while taking this medicine.",
+    "Monitoring is advised because overall.. may occur.",
+    "Some patients report because these reactions are reported voluntarily from a population of uncertain size.. while taking this medicine."
+  ],
+  "seriousSideEffects": [
+    "Healthcare providers evaluate risk when 5 WARNINGS AND PRECAUTIONS Ultraviolet Light and Environmental Exposure: Avoid exposure to sunlight and sunlamps.",
+    "Healthcare providers evaluate risk when patients with high levels of sun exposure and those with inherent sensitivity to sun should exercise particular caution.",
+    "Healthcare providers evaluate risk when use of sunscreen products and protective apparel, (e.g., hat) are recommended when exposure cannot be avoided."
+  ],
+  "warnings": {
+    "pregnancy": "Patients should discuss safety when 8.1 Pregnancy Pregnancy Category C.",
+    "breastfeeding": "Patients should discuss safety when 8.3 Nursing Mothers It is not known whether adapalene or benzoyl peroxide is excreted in human milk following use of adapalene and benzoyl peroxide gel 0.1% ...",
+    "kidney": "Kidney function can influence clearance; nephrology input may be required for advanced renal impairment.",
+    "liver": "Hepatic impairment may require dose changes and periodic liver function monitoring.",
+    "alcohol": "Alcohol may amplify sedation or liver stress; avoid unless your clinician approves.",
+    "driving": "Avoid driving if dizziness, drowsiness, or blurred vision occurs after dosing."
+  },
+  "interactions": {
+    "food": [
+      "Take exactly as directed with respect to meals unless your prescriber advises otherwise."
+    ],
+    "drugs": [
+      "Extra caution is needed because 7 DRUG INTERACTIONS Concomitant topical acne therapy should be used with caution because a possible cumulative irritancy effect may occur...",
+      "Healthcare providers evaluate risk when no formal drug-drug interaction studies were conducted with adapalene and benzoyl peroxide gel 0.1% / 2.5%."
+    ]
+  },
+  "storage": "From a clinical perspective, store at room temperature in a dry place away from children.",
+  "faqs": [
+    {
+      "question": "Can I rely on this Adapalene and benzoyl peroxide gel, 0.1%/2.5% information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
+    },
+    {
+      "question": "Can I adjust the dose of Adapalene and benzoyl peroxide gel, 0.1%/2.5% on my own?",
+      "answer": "Dose changes should only be made with clinician guidance. Self-adjustment can increase side effects or reduce effectiveness."
+    }
+  ],
+  "relatedMedicines": [],
+  "relatedDiseases": [
+    "allergies",
+    "common-cold",
+    "fever"
+  ],
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2025-01-08T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "OpenFDA Drug Labels",
+      "url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22adapalene%22&limit=1",
+      "accessedAt": "2026-07-12T12:02:15.070Z"
+    },
+    {
+      "name": "RxNorm",
+      "url": "https://rxnav.nlm.nih.gov/REST/rxcui?name=adapalene%20and%20benzoyl%20peroxide%20gel%2C%200.1%25%2F2.5%25",
+      "accessedAt": "2026-07-12T12:02:15.070Z"
+    }
+  ],
+  "contentReview": {
+    "lastReviewed": "2026-07-12"
+  }
+}

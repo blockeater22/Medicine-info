@@ -1,67 +1,56 @@
 {
   "slug": "lipid-profile",
   "name": "Lipid Profile",
-  "category": "Cardiology",
-  "description": "Lipid Profile — purpose, preparation, procedure, normal range, and result interpretation.",
-  "seo": {
-    "title": "Lipid Profile: Purpose, Normal Range, Preparation | Doctors Hub",
-    "description": "Complete guide to Lipid Profile test in India. Learn preparation, procedure, normal values, and what results mean.",
-    "keywords": [
-      "Lipid Profile",
-      "lab test India"
-    ]
-  },
-  "overview": "Lipid Profile is a commonly ordered diagnostic test used to evaluate specific aspects of your health.",
+  "overview": "Lipid Profile is a health topic that clinicians and patients frequently discuss during care planning in India and worldwide. Key considerations include a lipid profile or lipid panel is a panel of blood tests used to find abnormalities in blood lipid concentrations; the results of this test can identify certain genetic diseases and can determine approximate risks for cardiovascular disease, certain forms of pancreatitis, and other diseases. This summary is educational and should be paired with professional medical evaluation.",
   "purpose": [
-    "Screening for disease",
-    "Monitoring existing conditions",
-    "Evaluating treatment response",
-    "Pre-operative assessment"
+    "From a clinical perspective, a lipid profile or lipid panel is a panel of blood tests used to find abnormalities in blood lipid concentrations.",
+    "Health professionals note that the results of this test can identify certain genetic diseases and can determine approximate risks for cardiovascular disease, certain forms of pancreatitis..."
   ],
   "preparation": [
-    "Follow fasting instructions if required (typically 8-12 hours)",
-    "Inform lab about current medications",
-    "Stay hydrated unless told otherwise",
-    "Bring previous reports if available"
+    "From a clinical perspective, confirm fasting requirements with your lab.",
+    "In routine practice, bring prior reports and medication list."
   ],
   "procedure": [
-    "Blood/urine sample collection at certified lab",
-    "Non-invasive for imaging tests",
-    "Results typically available within 24-48 hours"
+    "From a clinical perspective, sample collection at a certified laboratory.",
+    "Health professionals note that results reviewed by qualified personnel."
   ],
-  "normalRange": "Reference ranges vary by lab, age, and gender. Always interpret with your doctor.",
-  "highMeans": [
-    "Possible infection or inflammation",
-    "Organ dysfunction",
-    "Nutritional deficiency or excess",
-    "Requires clinical correlation"
+  "normalRange": "Reference intervals vary by laboratory method, age, sex, and clinical context. Interpret results with your doctor.",
+  "highMeaning": [
+    "From a clinical perspective, may indicate active disease, inflammation, or organ stress depending on the analyte."
   ],
-  "lowMeans": [
-    "Possible deficiency state",
-    "Bone marrow issues (for blood tests)",
-    "Malabsorption",
-    "Requires clinical correlation"
+  "lowMeaning": [
+    "In routine practice, may suggest deficiency, suppression, or reduced production depending on the analyte."
   ],
   "interpretation": [
-    "Compare with previous results for trends",
-    "Single abnormal value may not indicate disease",
-    "Doctor will correlate with symptoms and examination"
+    "In routine practice, compare with previous results for trends.",
+    "In routine practice, correlate with symptoms and examination.",
+    "In routine practice, single abnormal values may require repeat testing."
   ],
-  "faqs": [
+  "faq": [
     {
-      "question": "Do I need to fast for Lipid Profile?",
-      "answer": "Check specific test requirements. Fasting tests typically need 8-12 hours."
+      "question": "Can I rely on this Lipid Profile information instead of a doctor visit?",
+      "answer": "No. This content supports learning and preparation for conversations with qualified healthcare professionals. It is not a substitute for diagnosis or treatment."
     },
     {
-      "question": "How long for Lipid Profile results?",
-      "answer": "Most results available within 24-48 hours at standard labs."
+      "question": "Do I need fasting before Lipid Profile?",
+      "answer": "Preparation depends on the exact test order. Follow the instructions provided by your laboratory or physician."
     }
   ],
-  "popular": true,
-  "updatedAt": "2026-07-01",
-  "authoredBy": {
-    "authorId": "dr-priya-sharma",
-    "reviewerId": "dr-rajesh-kumar",
+  "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+  "lastUpdated": "2026-07-12T12:02:39.244Z",
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lipid_profile",
+      "accessedAt": "2026-07-12T12:02:39.244Z"
+    },
+    {
+      "name": "LOINC",
+      "url": "https://loinc.org/",
+      "accessedAt": "2026-07-12T12:02:39.244Z"
+    }
+  ],
+  "contentReview": {
     "lastReviewed": "2026-07-12"
   }
 }
