@@ -36,7 +36,11 @@ export function DeferredAnalytics() {
     const sync = () => setConsented(hasCookieConsent());
     sync();
     window.addEventListener("cookie-consent-accepted", sync);
-    return () => window.removeEventListener("cookie-consent-accepted", sync);
+    window.addEventListener("cookie-consent-rejected", sync);
+    return () => {
+      window.removeEventListener("cookie-consent-accepted", sync);
+      window.removeEventListener("cookie-consent-rejected", sync);
+    };
   }, []);
 
   if (!consented) return null;

@@ -21,6 +21,12 @@ export function CookieConsent() {
     window.dispatchEvent(new Event("cookie-consent-accepted"));
   };
 
+  const reject = () => {
+    localStorage.setItem(STORAGE_KEY, "rejected");
+    setVisible(false);
+    window.dispatchEvent(new Event("cookie-consent-rejected"));
+  };
+
   if (!visible) return null;
 
   return (
@@ -38,11 +44,14 @@ export function CookieConsent() {
           </Link>
           .
         </p>
-        <div className="flex gap-2 shrink-0">
+        <div className="flex flex-wrap gap-2 shrink-0">
           <Button size="sm" onClick={accept}>
             Accept
           </Button>
-          <Button size="sm" variant="outline" asChild>
+          <Button size="sm" variant="outline" onClick={reject}>
+            Reject non-essential
+          </Button>
+          <Button size="sm" variant="ghost" asChild>
             <Link href="/privacy-policy">Learn more</Link>
           </Button>
         </div>
