@@ -41,6 +41,9 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true },
   verification: {
     google: "iigqyi__6otBwMaDmBhu7xE5WtXDLnNz745RiLIl0fs",
+    other: {
+      "msvalidate.01": "66AB679E7764513BF1DB55BC0D214D92",
+    },
   },
   manifest: "/manifest.json",
   themeColor: [
