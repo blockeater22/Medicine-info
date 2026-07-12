@@ -9,8 +9,8 @@ import { BackToTop } from "@/components/layout/back-to-top";
 import { SkipLink } from "@/components/layout/skip-link";
 import { StickyMobileAd } from "@/components/ads/ad-placeholder";
 import { CookieConsent } from "@/components/monetization/cookie-consent";
-import { GoogleAnalytics } from "@/components/monetization/analytics";
 import { AdSenseScript } from "@/components/monetization/adsense-script";
+import { GoogleAnalytics } from "@next/third-parties/google";
 import { organizationSchema, websiteSchema, JsonLd } from "@/lib/seo";
 import { SITE } from "@/lib/constants";
 
@@ -76,10 +76,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <BackToTop />
           <StickyMobileAd />
           <CookieConsent />
-          <GoogleAnalytics />
           <AdSenseScript />
         </ThemeProvider>
       </body>
+      {process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID ? (
+        <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID} />
+      ) : null}
     </html>
   );
 }
