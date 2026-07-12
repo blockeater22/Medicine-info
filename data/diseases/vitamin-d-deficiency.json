@@ -47,9 +47,9 @@
   ],
   "relatedDiseases": [],
   "relatedMedicines": [
-    "fluoxetine-hydrochloride",
     "levomefolate-magnesium-leucovorin-folic-acid-ferrous-cysteine-glycinate-magnesiu",
-    "clonazepam"
+    "ferrous-fumarate-and-polysacchride-iron-complex-and-folic-acid",
+    "ascorbic-acid-sodium-fluoride-vitamin-a-and-vitamin-d"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-07-12T00:00:00.000Z",
@@ -66,8 +66,8 @@
     }
   ],
   "relatedSlugs": [
-    "urine-routine",
-    "vitamin-b12"
+    "vitamin-d",
+    "kidney-function-test"
   ],
   "emergencyWarningSigns": [
     "Extra caution is needed because difficulty breathing.",

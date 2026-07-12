@@ -68,9 +68,9 @@
   ],
   "relatedDiseases": [],
   "relatedMedicines": [
-    "fluoxetine-hydrochloride",
-    "clonazepam",
-    "losartan-potassium"
+    "torsemide",
+    "sitagliptin-and-metformin-hydrochloride",
+    "pioglitazone-hydrochloride"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-07-12T00:00:00.000Z",
@@ -87,8 +87,8 @@
     }
   ],
   "relatedSlugs": [
-    "urine-routine",
-    "liver-function-tests"
+    "glucose-tolerance-test",
+    "kidney-function-test"
   ],
   "category": "Endocrine",
   "emergencyWarningSigns": [

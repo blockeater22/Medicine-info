@@ -54,6 +54,7 @@ export interface PipelineDisease {
   emergencySigns?: string[];
   faq?: PipelineFAQ[];
   relatedDiseases?: string[];
+  relatedSlugs?: string[];
   relatedMedicines?: string[];
   medicalDisclaimer?: string;
   lastUpdated: string;

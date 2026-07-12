@@ -62,9 +62,9 @@
   ],
   "relatedMedicines": [],
   "relatedDiseases": [
-    "heart-disease",
-    "allergies",
-    "common-cold"
+    "pulmonary-embolism",
+    "iron-deficiency-anemia",
+    "hypothyroidism"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2023-03-01T00:00:00.000Z",

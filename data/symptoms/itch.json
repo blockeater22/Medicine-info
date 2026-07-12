@@ -33,7 +33,11 @@
       "answer": "Consult a doctor if symptoms persist, worsen, recur frequently, or are accompanied by red-flag features described above."
     }
   ],
-  "relatedDiseases": [],
+  "relatedDiseases": [
+    "allergies",
+    "allergy",
+    "chickenpox"
+  ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-07-12T11:57:39.523Z",
   "sources": [

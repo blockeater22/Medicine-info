@@ -129,7 +129,7 @@ export function adaptDisease(raw: PipelineDisease): Disease {
     complications: raw.complications ?? [],
     emergencyWarningSigns: raw.emergencySigns ?? [],
     relatedMedicines: raw.relatedMedicines ?? [],
-    relatedSlugs: raw.relatedDiseases,
+    relatedSlugs: raw.relatedSlugs ?? raw.relatedDiseases ?? [],
     faqs: normalizeFaqs(raw.faq),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),

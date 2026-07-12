@@ -47,9 +47,9 @@
   ],
   "relatedDiseases": [],
   "relatedMedicines": [
-    "fluoxetine-hydrochloride",
-    "clonazepam",
-    "metronidazole"
+    "tiotropium-bromide-and-olodaterol",
+    "thiamine-hydrochloride-injection-solution",
+    "telmisartan"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-07-12T00:00:00.000Z",
@@ -66,8 +66,8 @@
     }
   ],
   "relatedSlugs": [
-    "urine-routine",
-    "liver-function-tests"
+    "thyroid-function-tests",
+    "thyroid-profile"
   ],
   "emergencyWarningSigns": [
     "Extra caution is needed because difficulty breathing.",

@@ -69,9 +69,9 @@
     "High fever with rigors"
   ],
   "relatedMedicines": [
+    "sulfasalazine",
     "paracetamol",
-    "dolo-650",
-    "fluoxetine-hydrochloride"
+    "montelukast-sodium"
   ],
   "faqs": [
     {
@@ -105,8 +105,8 @@
   ],
   "lastUpdated": "2026-07-12T00:00:00.000Z",
   "relatedSlugs": [
-    "cbc",
-    "blood-sugar-fasting"
+    "complete-blood-count",
+    "blood-culture"
   ],
   "contentReview": {
     "lastReviewed": "2026-07-12"

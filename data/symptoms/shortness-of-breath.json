@@ -35,9 +35,9 @@
     }
   ],
   "relatedDiseases": [
-    "allergy",
-    "asthma",
-    "breast-cancer"
+    "pulmonary-embolism",
+    "heart-disease",
+    "allergy"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-07-12T11:57:19.780Z",

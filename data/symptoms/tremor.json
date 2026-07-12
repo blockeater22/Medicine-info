@@ -35,7 +35,9 @@
     }
   ],
   "relatedDiseases": [
-    "thyroid"
+    "thyroid",
+    "parkinsons-disease",
+    "diabetes"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-07-12T11:58:01.896Z",

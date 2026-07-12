@@ -61,9 +61,9 @@
   ],
   "relatedMedicines": [],
   "relatedDiseases": [
-    "heart-disease",
-    "allergies",
-    "common-cold"
+    "covid-19",
+    "iron-deficiency-anemia",
+    "peptic-ulcer-disease"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-02-12T00:00:00.000Z",

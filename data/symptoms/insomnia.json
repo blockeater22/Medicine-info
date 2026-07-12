@@ -36,7 +36,9 @@
     }
   ],
   "relatedDiseases": [
-    "insomnia"
+    "insomnia",
+    "diabetes",
+    "hypertension"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-07-12T11:58:04.342Z",

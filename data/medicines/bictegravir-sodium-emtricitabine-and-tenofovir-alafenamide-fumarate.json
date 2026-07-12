@@ -62,7 +62,11 @@
     }
   ],
   "relatedMedicines": [],
-  "relatedDiseases": [],
+  "relatedDiseases": [
+    "hepatitis",
+    "iron-deficiency-anemia",
+    "hepatitis-b"
+  ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2024-04-30T00:00:00.000Z",
   "sources": [

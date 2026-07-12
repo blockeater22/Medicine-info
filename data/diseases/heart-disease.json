@@ -69,9 +69,9 @@
     "High fever with rigors"
   ],
   "relatedMedicines": [
-    "atorvastatin",
-    "aspirin",
-    "fluoxetine-hydrochloride"
+    "torsemide",
+    "propranolol-hydrochloride",
+    "losartan"
   ],
   "faqs": [
     {
@@ -106,7 +106,7 @@
   "lastUpdated": "2026-07-12T00:00:00.000Z",
   "relatedSlugs": [
     "lipid-profile",
-    "hba1c"
+    "ecg"
   ],
   "contentReview": {
     "lastReviewed": "2026-07-12"

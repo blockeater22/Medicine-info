@@ -36,8 +36,9 @@
     }
   ],
   "relatedDiseases": [
-    "gastritis",
-    "gerd"
+    "gerd",
+    "heart-disease",
+    "diabetes"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-07-12T11:57:28.097Z",

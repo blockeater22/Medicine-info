@@ -62,9 +62,9 @@
   ],
   "relatedDiseases": [],
   "relatedMedicines": [
-    "fluoxetine-hydrochloride",
-    "clonazepam",
-    "metronidazole"
+    "olmesartan-medoxomil-hydrochlorothiazide",
+    "venlafaxine",
+    "amlodipine-valsartan-and-hydrochlorothiazide"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-07-12T00:00:00.000Z",
@@ -81,8 +81,8 @@
     }
   ],
   "relatedSlugs": [
-    "urine-routine",
-    "liver-function-tests"
+    "complete-blood-count",
+    "chest-xray"
   ],
   "category": "Respiratory",
   "emergencyWarningSigns": [

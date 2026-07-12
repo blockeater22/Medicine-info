@@ -67,8 +67,8 @@
   ],
   "relatedMedicines": [
     "azithromycin",
-    "ciprofloxacin",
-    "fluoxetine-hydrochloride"
+    "olmesartan-medoxomil-hydrochlorothiazide",
+    "telmisartan"
   ],
   "faqs": [
     {
@@ -102,8 +102,8 @@
   ],
   "lastUpdated": "2026-07-12T00:00:00.000Z",
   "relatedSlugs": [
-    "blood-sugar-fasting",
-    "cbc"
+    "blood-culture",
+    "widal-test"
   ],
   "contentReview": {
     "lastReviewed": "2026-07-12"

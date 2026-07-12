@@ -64,9 +64,9 @@
     "High fever with rigors"
   ],
   "relatedMedicines": [
+    "methimazole",
     "levothyroxine",
-    "levothyroxine-sodium",
-    "fluoxetine-hydrochloride"
+    "pioglitazone-hydrochloride"
   ],
   "faqs": [
     {
@@ -99,8 +99,8 @@
   ],
   "lastUpdated": "2026-07-12T00:00:00.000Z",
   "relatedSlugs": [
-    "kidney-function-test",
-    "liver-function-test"
+    "thyroid-profile",
+    "thyroid-function-tests"
   ],
   "contentReview": {
     "lastReviewed": "2026-07-12"

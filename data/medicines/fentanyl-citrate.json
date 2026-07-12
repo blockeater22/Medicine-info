@@ -61,7 +61,11 @@
     }
   ],
   "relatedMedicines": [],
-  "relatedDiseases": [],
+  "relatedDiseases": [
+    "hypothyroidism",
+    "pulmonary-embolism",
+    "iron-deficiency-anemia"
+  ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2025-09-24T00:00:00.000Z",
   "sources": [

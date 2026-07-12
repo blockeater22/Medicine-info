@@ -60,7 +60,11 @@
     }
   ],
   "relatedMedicines": [],
-  "relatedDiseases": [],
+  "relatedDiseases": [
+    "pulmonary-embolism",
+    "iron-deficiency-anemia",
+    "stroke"
+  ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2025-11-20T00:00:00.000Z",
   "sources": [

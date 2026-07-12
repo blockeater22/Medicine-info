@@ -66,8 +66,8 @@
   "relatedMedicines": [],
   "relatedDiseases": [
     "coronary-artery-disease",
-    "heart-disease",
-    "allergies"
+    "iron-deficiency-anemia",
+    "peptic-ulcer-disease"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2024-03-13T00:00:00.000Z",

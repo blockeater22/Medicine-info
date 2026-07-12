@@ -65,9 +65,9 @@
   ],
   "relatedDiseases": [],
   "relatedMedicines": [
-    "fluoxetine-hydrochloride",
-    "spironolactone",
-    "verapamil-hydrochloride"
+    "ramipril",
+    "losartan",
+    "amlodipine"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-07-12T00:00:00.000Z",
@@ -84,8 +84,8 @@
     }
   ],
   "relatedSlugs": [
-    "urine-routine",
-    "liver-function-tests"
+    "kidney-function-test",
+    "ecg"
   ],
   "category": "Cardiovascular",
   "emergencyWarningSigns": [

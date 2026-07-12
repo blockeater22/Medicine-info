@@ -63,7 +63,11 @@
     }
   ],
   "relatedMedicines": [],
-  "relatedDiseases": [],
+  "relatedDiseases": [
+    "dengue-fever",
+    "acne",
+    "urinary-tract-infection"
+  ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2024-02-14T00:00:00.000Z",
   "sources": [

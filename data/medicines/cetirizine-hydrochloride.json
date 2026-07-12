@@ -50,9 +50,9 @@
   ],
   "relatedMedicines": [],
   "relatedDiseases": [
-    "allergies",
     "fever",
-    "typhoid"
+    "dengue-fever",
+    "allergies"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2025-04-07T00:00:00.000Z",

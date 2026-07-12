@@ -10,8 +10,7 @@ import { SkipLink } from "@/components/layout/skip-link";
 import { StickyMobileAd } from "@/components/ads/ad-placeholder";
 import { CookieConsent } from "@/components/monetization/cookie-consent";
 import { AdSenseScript } from "@/components/monetization/adsense-script";
-import { MicrosoftClarity } from "@/components/monetization/clarity";
-import { GoogleAnalytics } from "@next/third-parties/google";
+import { DeferredAnalytics } from "@/components/monetization/deferred-analytics";
 import { organizationSchema, websiteSchema, JsonLd } from "@/lib/seo";
 import { SITE } from "@/lib/constants";
 
@@ -46,10 +45,6 @@ export const metadata: Metadata = {
     },
   },
   manifest: "/manifest.json",
-  themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#0b5ba8" },
-    { media: "(prefers-color-scheme: dark)", color: "#1e3a5f" },
-  ],
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "any" },
@@ -81,12 +76,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <StickyMobileAd />
           <CookieConsent />
           <AdSenseScript />
+          <DeferredAnalytics />
         </ThemeProvider>
       </body>
-      {process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID ? (
-        <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID} />
-      ) : null}
-      <MicrosoftClarity />
     </html>
   );
 }

@@ -49,7 +49,11 @@
     }
   ],
   "relatedMedicines": [],
-  "relatedDiseases": [],
+  "relatedDiseases": [
+    "glaucoma",
+    "pulmonary-embolism",
+    "urinary-tract-infection"
+  ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2025-12-30T00:00:00.000Z",
   "sources": [

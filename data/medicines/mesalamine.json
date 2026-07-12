@@ -62,9 +62,9 @@
   ],
   "relatedMedicines": [],
   "relatedDiseases": [
-    "allergies",
-    "common-cold",
-    "fever"
+    "pulmonary-embolism",
+    "hyperthyroidism",
+    "hypothyroidism"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2024-05-23T00:00:00.000Z",

@@ -46,9 +46,9 @@
   ],
   "relatedDiseases": [],
   "relatedMedicines": [
-    "fluoxetine-hydrochloride",
-    "clonazepam",
-    "metronidazole"
+    "prochlorperazine-maleate",
+    "pravastatin-sodium",
+    "pioglitazone-hydrochloride"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-07-12T00:00:00.000Z",
@@ -66,7 +66,7 @@
   ],
   "relatedSlugs": [
     "liver-function-test",
-    "urine-routine"
+    "liver-function-tests"
   ],
   "emergencyWarningSigns": [
     "Extra caution is needed because difficulty breathing.",

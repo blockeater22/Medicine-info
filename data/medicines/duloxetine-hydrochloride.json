@@ -63,7 +63,11 @@
     }
   ],
   "relatedMedicines": [],
-  "relatedDiseases": [],
+  "relatedDiseases": [
+    "pulmonary-embolism",
+    "urinary-tract-infection",
+    "acne"
+  ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2025-03-21T00:00:00.000Z",
   "sources": [

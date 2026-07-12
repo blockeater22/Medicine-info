@@ -36,9 +36,9 @@
     }
   ],
   "relatedDiseases": [
-    "peptic-ulcer-disease",
-    "urinary-tract-infection",
-    "bronchitis"
+    "pneumonia",
+    "bronchitis",
+    "heart-disease"
   ],
   "medicalDisclaimer": "This information is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
   "lastUpdated": "2026-07-12T11:57:02.697Z",

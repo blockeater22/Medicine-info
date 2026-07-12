@@ -63,9 +63,9 @@
     "High fever with rigors"
   ],
   "relatedMedicines": [
-    "cetirizine",
-    "paracetamol",
-    "fluoxetine-hydrochloride"
+    "drospirenone-and-ethinyl-estradiol",
+    "indapamide",
+    "levofloxacin"
   ],
   "faqs": [
     {
@@ -100,7 +100,7 @@
   "lastUpdated": "2026-07-12T00:00:00.000Z",
   "relatedSlugs": [
     "covid-rtpcr",
-    "diagnosis-of-hivaids"
+    "crp"
   ],
   "contentReview": {
     "lastReviewed": "2026-07-12"
