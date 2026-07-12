@@ -2,6 +2,7 @@ import { buildMetadata } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
 import { SITE } from "@/lib/constants";
 import Link from "next/link";
+import { TrustLinksGrid } from "@/components/shared/trust-links";
 
 export const metadata = buildMetadata({
   title: "Editorial Policy",
@@ -88,6 +89,11 @@ export default function EditorialPolicyPage() {
             <strong>112</strong> or go to the nearest hospital. See our{" "}
             <Link href="/medical-disclaimer" className="text-primary hover:underline">Medical Disclaimer</Link>.
           </p>
+        </section>
+
+        <section className="mt-10">
+          <h2 className="text-xl font-semibold mb-4">Related policies</h2>
+          <TrustLinksGrid excludeHref="/editorial-policy" />
         </section>
       </div>
     </div>

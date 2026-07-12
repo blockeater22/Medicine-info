@@ -11,6 +11,7 @@ import { ArticleCard } from "@/components/shared/article-card";
 import { CategoryCard } from "@/components/shared/category-card";
 import { EmergencyBanner } from "@/components/shared/emergency-banner";
 import { FAQAccordion } from "@/components/shared/faq-accordion";
+import { TrustLinksGrid } from "@/components/shared/trust-links";
 import { TopBannerAd } from "@/components/ads/ad-placeholder";
 import {
   getPopularCalculators,
@@ -166,6 +167,15 @@ export default function HomePage() {
         {/* FAQ */}
         <section className="section-padding">
           <FAQAccordion faqs={HOME_FAQS} title="Frequently Asked Questions" />
+        </section>
+
+        {/* Trust hub — content inbound for policy pages */}
+        <section className="section-padding border-t">
+          <h2 className="text-2xl md:text-3xl font-bold mb-4 text-center">Trust &amp; Transparency</h2>
+          <p className="text-center text-muted-foreground mb-6 max-w-2xl mx-auto">
+            How we research, review, and publish medical information — and how to contact us about corrections.
+          </p>
+          <TrustLinksGrid />
         </section>
 
         {/* <NewsletterSection /> */}

@@ -177,6 +177,7 @@ export function adaptLabTest(raw: PipelineLabTest): LabTest {
     highMeans: raw.highMeaning ?? [],
     lowMeans: raw.lowMeaning ?? [],
     interpretation: raw.interpretation ?? [],
+    relatedDiseases: raw.relatedDiseases ?? [],
     faqs: normalizeFaqs(raw.faq),
     updatedAt: raw.lastUpdated,
     sources: mapSources(raw.sources),

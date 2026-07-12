@@ -6,6 +6,7 @@ const MIN_MED_DISEASE_LINKS = 3;
 const MIN_DISEASE_MED_LINKS = 3;
 const MIN_DISEASE_TEST_LINKS = 2;
 const MIN_SYMPTOM_DISEASE_LINKS = 3;
+const MIN_TEST_DISEASE_LINKS = 3;
 
 const STOPWORDS = new Set([
   "with", "from", "that", "this", "have", "been", "were", "when", "your", "may",
@@ -145,10 +146,12 @@ export function linkRelatedRecords() {
   linkDiseasesToMedicines(diseases, meds, validMedSlugs);
   backfillDiseaseMedicinesFromMeds(diseases, meds, validMedSlugs, validDiseaseSlugs);
   linkDiseasesToLabTests(diseases, tests, validTestSlugs);
+  linkLabTestsToDiseases(tests, diseases, validDiseaseSlugs);
   linkSymptomsToDiseases(symptoms, diseases, validDiseaseSlugs);
 
   for (const med of meds) writeRecord(DATA_DIRS.medicines, med);
   for (const disease of diseases) writeRecord(DATA_DIRS.diseases, disease);
+  for (const test of tests) writeRecord(DATA_DIRS.tests, test);
   for (const symptom of symptoms) writeRecord(DATA_DIRS.symptoms, symptom);
 
   console.log("[linker] related record linking complete");
@@ -445,6 +448,34 @@ function linkDiseasesToLabTests(diseases: JsonRecord[], tests: JsonRecord[], val
     );
 
     disease.relatedSlugs = related;
+  }
+}
+
+function linkLabTestsToDiseases(tests: JsonRecord[], diseases: JsonRecord[], validDiseaseSlugs: Set<string>) {
+  const reverse = new Map<string, string[]>();
+  for (const disease of diseases) {
+    for (const ts of (disease.relatedSlugs as string[] | undefined) ?? []) {
+      if (!reverse.has(ts)) reverse.set(ts, []);
+      reverse.get(ts)!.push(disease.slug);
+    }
+  }
+
+  for (const test of tests) {
+    const blob = testBlob(test);
+    const hints = reverse.get(test.slug) ?? [];
+
+    const scored = diseases.map((d) => ({
+      slug: d.slug,
+      score: scoreOverlap(blob, diseaseBlob(d), d.slug) + (hints.includes(d.slug) ? 10 : 0),
+    }));
+
+    test.relatedDiseases = ensureMinimumSlugs(
+      scored,
+      hints,
+      validDiseaseSlugs,
+      MIN_TEST_DISEASE_LINKS,
+      MIN_TEST_DISEASE_LINKS
+    );
   }
 }
 

@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { getAllLabTests, getLabTest } from "@/lib/data";
+import { getAllLabTests, getDiseasesForLabTest, getLabTest, getRelatedDiseases } from "@/lib/data";
 import { buildMetadata, medicalTestSchema, medicalWebPageSchema, faqSchema, JsonLd } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
 import { EditorialAttribution } from "@/components/shared/editorial-attribution";
@@ -7,6 +7,9 @@ import { ContentSection, ContentList } from "@/components/shared/content-section
 import { FAQAccordion } from "@/components/shared/faq-accordion";
 import { MedicalDisclaimer } from "@/components/shared/medical-disclaimer";
 import { ShareButtons } from "@/components/shared/share-buttons";
+import { RelatedCardGrid } from "@/components/shared/related-card";
+import { ContextualText } from "@/components/shared/contextual-text";
+import { EntityHubLinks } from "@/components/shared/entity-hub-links";
 import { TrackRecentlyViewed } from "@/components/shared/track-recently-viewed";
 import { TopBannerAd, InlineAd } from "@/components/ads/ad-placeholder";
 
@@ -25,6 +28,9 @@ export default async function LabTestPage({ params }: { params: Promise<{ slug: 
   const { slug } = await params;
   const test = getLabTest(slug);
   if (!test) notFound();
+
+  const relatedDis = getRelatedDiseases(test.relatedDiseases ?? getDiseasesForLabTest(slug).map((d) => d.slug));
+  const pageHref = `/lab-test/${slug}`;
 
   return (
     <div className="container-custom py-8 max-w-4xl">
@@ -46,16 +52,19 @@ export default async function LabTestPage({ params }: { params: Promise<{ slug: 
       <header className="mb-8">
         <span className="text-sm font-medium text-primary">{test.category}</span>
         <h1 className="text-3xl md:text-4xl font-bold mt-1 mb-4">{test.name}</h1>
-        <p className="text-lg leading-relaxed">{test.description}</p>
+        <p className="text-lg leading-relaxed">
+          <ContextualText text={test.description} excludeHref={pageHref} maxLinks={1} />
+        </p>
         <EditorialAttribution contentReview={test.contentReview} updatedAt={test.updatedAt} className="mt-4" />
+        <EntityHubLinks type="lab-test" name={test.name} category={test.category} />
         <div className="mt-4"><ShareButtons url={`/lab-test/${slug}`} title={test.name} /></div>
       </header>
 
       <TopBannerAd />
 
       <article className="space-y-8">
-        <ContentSection title="Overview"><p>{test.overview}</p></ContentSection>
-        <ContentSection title="Purpose"><ContentList items={test.purpose} /></ContentSection>
+        <ContentSection title="Overview"><p><ContextualText text={test.overview} excludeHref={pageHref} maxLinks={1} /></p></ContentSection>
+        <ContentSection title="Purpose"><ContentList items={test.purpose} contextual excludeHref={pageHref} maxLinks={1} /></ContentSection>
         <ContentSection title="Preparation"><ContentList items={test.preparation} /></ContentSection>
         <ContentSection title="Procedure"><ContentList items={test.procedure} /></ContentSection>
         <InlineAd />
@@ -66,6 +75,12 @@ export default async function LabTestPage({ params }: { params: Promise<{ slug: 
         {test.faqs && <FAQAccordion faqs={test.faqs} />}
         <MedicalDisclaimer />
       </article>
+
+      {relatedDis.length > 0 && (
+        <div className="mt-12">
+          <RelatedCardGrid title="Related Diseases" items={relatedDis} basePath="/disease" />
+        </div>
+      )}
     </div>
   );
 }

@@ -111,6 +111,7 @@ export interface LabTest extends BaseContent {
   lowMeans: string[];
   interpretation: string[];
   category: string;
+  relatedDiseases?: string[];
 }
 
 export interface FirstAid extends BaseContent {

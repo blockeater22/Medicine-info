@@ -53,5 +53,10 @@
   ],
   "contentReview": {
     "lastReviewed": "2026-07-12"
-  }
+  },
+  "relatedDiseases": [
+    "fatty-liver-disease",
+    "cirrhosis",
+    "hepatitis"
+  ]
 }

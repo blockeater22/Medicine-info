@@ -2,6 +2,7 @@ import { buildMetadata } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
 import { MEDICAL_DISCLAIMER, SITE } from "@/lib/constants";
 import Link from "next/link";
+import { TrustLinksGrid } from "@/components/shared/trust-links";
 
 export const metadata = buildMetadata(
   {
@@ -76,6 +77,11 @@ export default function MedicalDisclaimerPage() {
           <Link href="/content-review-process" className="text-primary hover:underline">Content Review Process</Link>,{" "}
           <Link href="/terms" className="text-primary hover:underline">Terms of Service</Link>.
         </p>
+
+        <section className="mt-10">
+          <h2 className="text-xl font-semibold mb-4">Related policies</h2>
+          <TrustLinksGrid excludeHref="/medical-disclaimer" />
+        </section>
       </div>
     </div>
   );

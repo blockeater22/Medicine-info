@@ -3,6 +3,7 @@ import {
   getAllDrugClasses,
   getAllLabTests,
   getAllMedicines,
+  getAllSymptoms,
 } from "@/lib/data";
 
 function slugifyCategory(name: string): string {
@@ -112,6 +113,11 @@ export function getHealthAzEntries(letter: string) {
   for (const t of getAllLabTests()) {
     if (t.name.toLowerCase().startsWith(l)) {
       items.push({ name: t.name, href: `/lab-test/${t.slug}`, type: "Lab Test" });
+    }
+  }
+  for (const s of getAllSymptoms()) {
+    if (s.name.toLowerCase().startsWith(l)) {
+      items.push({ name: s.name, href: `/symptom/${s.slug}`, type: "Symptom" });
     }
   }
 

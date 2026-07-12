@@ -1,5 +1,6 @@
 import { buildMetadata } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
+import { TrustLinksGrid } from "@/components/shared/trust-links";
 import { SITE } from "@/lib/constants";
 
 export const metadata = buildMetadata({
@@ -26,6 +27,11 @@ export default function CorrectionsPage() {
         <h2 className="text-xl font-semibold text-foreground">Limitations</h2>
         <p>We cannot provide personal medical advice via corrections requests. For individual health concerns, consult a qualified healthcare provider.</p>
       </div>
+
+      <section className="mt-10">
+        <h2 className="text-xl font-semibold mb-4">Related policies</h2>
+        <TrustLinksGrid excludeHref="/corrections" />
+      </section>
     </div>
   );
 }

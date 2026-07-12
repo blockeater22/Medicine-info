@@ -52,5 +52,10 @@
   ],
   "contentReview": {
     "lastReviewed": "2026-07-12"
-  }
+  },
+  "relatedDiseases": [
+    "diabetes",
+    "hypertension",
+    "fever"
+  ]
 }

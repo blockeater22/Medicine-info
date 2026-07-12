@@ -7,6 +7,8 @@ import { ContentSection, ContentList } from "@/components/shared/content-section
 import { FAQAccordion } from "@/components/shared/faq-accordion";
 import { MedicalDisclaimer } from "@/components/shared/medical-disclaimer";
 import { RelatedCardGrid } from "@/components/shared/related-card";
+import { ContextualText } from "@/components/shared/contextual-text";
+import { EntityHubLinks } from "@/components/shared/entity-hub-links";
 import { ShareButtons } from "@/components/shared/share-buttons";
 import { TrackRecentlyViewed } from "@/components/shared/track-recently-viewed";
 import { EmergencyBanner } from "@/components/shared/emergency-banner";
@@ -29,6 +31,7 @@ export default async function SymptomPage({ params }: { params: Promise<{ slug: 
   if (!symptom) notFound();
 
   const relatedDis = getRelatedDiseases(symptom.relatedDiseases);
+  const pageHref = `/symptom/${slug}`;
 
   return (
     <div className="container-custom py-8 max-w-4xl">
@@ -49,8 +52,11 @@ export default async function SymptomPage({ params }: { params: Promise<{ slug: 
       <header className="mb-8">
         <span className="text-sm font-medium text-primary">{symptom.category}</span>
         <h1 className="text-3xl md:text-4xl font-bold mt-1 mb-4">{symptom.name}</h1>
-        <p className="text-lg leading-relaxed">{symptom.description}</p>
+        <p className="text-lg leading-relaxed">
+          <ContextualText text={symptom.description} excludeHref={pageHref} maxLinks={2} />
+        </p>
         <EditorialAttribution contentReview={symptom.contentReview} updatedAt={symptom.updatedAt} className="mt-4" />
+        <EntityHubLinks type="symptom" name={symptom.name} category={symptom.category} />
         <div className="mt-4"><ShareButtons url={`/symptom/${slug}`} title={symptom.name} /></div>
       </header>
 
@@ -58,7 +64,9 @@ export default async function SymptomPage({ params }: { params: Promise<{ slug: 
 
       <article className="space-y-8">
         <ContentSection title="Description"><p>{symptom.description}</p></ContentSection>
-        <ContentSection title="Possible Causes"><ContentList items={symptom.possibleCauses} /></ContentSection>
+        <ContentSection title="Possible Causes">
+          <ContentList items={symptom.possibleCauses} contextual excludeHref={pageHref} maxLinks={2} />
+        </ContentSection>
         <EmergencyBanner />
         <ContentSection title="Emergency Symptoms"><ContentList items={symptom.emergencySymptoms} /></ContentSection>
         <InlineAd />

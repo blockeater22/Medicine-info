@@ -88,6 +88,7 @@ export interface PipelineLabTest {
   lowMeaning?: string[];
   interpretation?: string[];
   faq?: PipelineFAQ[];
+  relatedDiseases?: string[];
   medicalDisclaimer?: string;
   lastUpdated: string;
   sources?: PipelineSource[];

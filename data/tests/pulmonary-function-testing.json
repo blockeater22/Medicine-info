@@ -54,5 +54,10 @@
   ],
   "contentReview": {
     "lastReviewed": "2026-07-12"
-  }
+  },
+  "relatedDiseases": [
+    "chronic-obstructive-pulmonary-disease",
+    "pulmonary-embolism",
+    "endometriosis"
+  ]
 }

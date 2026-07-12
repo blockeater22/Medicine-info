@@ -3,6 +3,7 @@ import { Breadcrumb } from "@/components/shared/breadcrumb";
 import { SITE } from "@/lib/constants";
 import { Mail, MapPin } from "lucide-react";
 import { ContactForm } from "@/components/shared/contact-form";
+import { TrustLinksGrid } from "@/components/shared/trust-links";
 
 export const metadata = buildMetadata({
   title: "Contact Us",
@@ -33,6 +34,11 @@ export default function ContactPage() {
 
         <ContactForm />
       </div>
+
+      <section className="mt-10">
+        <h2 className="text-xl font-semibold mb-4">Related policies</h2>
+        <TrustLinksGrid excludeHref="/contact" />
+      </section>
     </div>
   );
 }

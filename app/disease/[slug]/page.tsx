@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { getAllDiseases, getDisease, getRelatedDiseases, getRelatedMedicines } from "@/lib/data";
+import { getAllDiseases, getDisease, getRelatedLabTests, getRelatedMedicines } from "@/lib/data";
 import { buildMetadata, medicalConditionSchema, medicalWebPageSchema, faqSchema, JsonLd } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
 import { EditorialAttribution } from "@/components/shared/editorial-attribution";
@@ -8,6 +8,8 @@ import { FAQAccordion } from "@/components/shared/faq-accordion";
 import { MedicalDisclaimer } from "@/components/shared/medical-disclaimer";
 import { ContentMeta } from "@/components/shared/content-meta";
 import { RelatedCardGrid } from "@/components/shared/related-card";
+import { ContextualText } from "@/components/shared/contextual-text";
+import { EntityHubLinks } from "@/components/shared/entity-hub-links";
 import { ShareButtons } from "@/components/shared/share-buttons";
 import { TrackRecentlyViewed } from "@/components/shared/track-recently-viewed";
 import { EmergencyBanner } from "@/components/shared/emergency-banner";
@@ -37,7 +39,8 @@ export default async function DiseasePage({ params }: { params: Promise<{ slug: 
   if (!disease) notFound();
 
   const relatedMeds = getRelatedMedicines(disease.relatedMedicines);
-  const relatedDis = getRelatedDiseases(disease.relatedSlugs || []);
+  const relatedTests = getRelatedLabTests(disease.relatedSlugs ?? []);
+  const pageHref = `/disease/${slug}`;
 
   return (
     <div className="container-custom py-8">
@@ -61,14 +64,21 @@ export default async function DiseasePage({ params }: { params: Promise<{ slug: 
           <header>
             <span className="text-sm font-medium text-primary">{disease.category}</span>
             <h1 className="text-3xl md:text-4xl font-bold mt-1 mb-4">{disease.name}</h1>
-            <p className="text-lg leading-relaxed">{disease.description}</p>
+            <p className="text-lg leading-relaxed">
+              <ContextualText text={disease.description} excludeHref={pageHref} maxLinks={2} />
+            </p>
             <EditorialAttribution contentReview={disease.contentReview} updatedAt={disease.updatedAt} className="mt-4" />
+            <EntityHubLinks type="disease" name={disease.name} category={disease.category} />
             <div className="mt-4"><ShareButtons url={`/disease/${slug}`} title={disease.name} /></div>
           </header>
 
           <TopBannerAd />
 
-          <ContentSection title="Overview" id="overview"><p>{disease.overview}</p></ContentSection>
+          <ContentSection title="Overview" id="overview">
+            <p>
+              <ContextualText text={disease.overview} excludeHref={pageHref} maxLinks={2} />
+            </p>
+          </ContentSection>
           <ContentSection title="Symptoms" id="symptoms"><ContentList items={disease.symptoms} /></ContentSection>
           <ContentSection title="Causes" id="causes"><ContentList items={disease.causes} /></ContentSection>
           <ContentSection title="Risk Factors" id="risk-factors"><ContentList items={disease.riskFactors} /></ContentSection>
@@ -76,7 +86,9 @@ export default async function DiseasePage({ params }: { params: Promise<{ slug: 
 
           <InlineAd />
 
-          <ContentSection title="Treatment" id="treatment"><ContentList items={disease.treatment} /></ContentSection>
+          <ContentSection title="Treatment" id="treatment">
+            <ContentList items={disease.treatment} contextual excludeHref={pageHref} maxLinks={1} />
+          </ContentSection>
           <ContentSection title="Home Care" id="home-care"><ContentList items={disease.homeCare} /></ContentSection>
           <ContentSection title="Prevention" id="prevention"><ContentList items={disease.prevention} /></ContentSection>
           <ContentSection title="Complications" id="complications"><ContentList items={disease.complications} /></ContentSection>
@@ -98,8 +110,8 @@ export default async function DiseasePage({ params }: { params: Promise<{ slug: 
       </div>
 
       <div className="mt-12 space-y-8">
-        {relatedDis.length > 0 && <RelatedCardGrid title="Related Diseases" items={relatedDis} basePath="/disease" />}
         {relatedMeds.length > 0 && <RelatedCardGrid title="Related Medicines" items={relatedMeds} basePath="/medicine" />}
+        {relatedTests.length > 0 && <RelatedCardGrid title="Related Lab Tests" items={relatedTests} basePath="/lab-test" />}
       </div>
     </div>
   );

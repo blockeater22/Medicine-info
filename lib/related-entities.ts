@@ -8,6 +8,7 @@ import {
   getAllMedicines,
   getAllSymptoms,
   getDisease,
+  getDiseasesForLabTest,
   getLabTest,
   getMedicine,
 } from "@/lib/data";
@@ -61,6 +62,18 @@ export function getRelatedEntities(input: {
     for (const ds of symptom.relatedDiseases ?? []) {
       const d = getDisease(ds);
       if (d) out.push({ slug: d.slug, name: d.name, href: `/disease/${d.slug}`, type: "disease", description: d.description });
+    }
+  }
+
+  if (input.type === "lab-test") {
+    for (const d of getDiseasesForLabTest(input.slug)) {
+      out.push({
+        slug: d.slug,
+        name: d.name,
+        href: `/disease/${d.slug}`,
+        type: "disease",
+        description: d.description,
+      });
     }
   }
 

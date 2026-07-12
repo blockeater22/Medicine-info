@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { getAllMedicines, getMedicine, getRelatedDiseases, getRelatedMedicines } from "@/lib/data";
+import { getAllMedicines, getDrugClassForMedicine, getMedicine, getRelatedDiseases, getRelatedMedicines } from "@/lib/data";
 import { buildMetadata, medicineSchema, medicalWebPageSchema, faqSchema, JsonLd } from "@/lib/seo";
 import { Breadcrumb } from "@/components/shared/breadcrumb";
 import { EditorialAttribution } from "@/components/shared/editorial-attribution";
@@ -9,6 +9,8 @@ import { FAQAccordion } from "@/components/shared/faq-accordion";
 import { MedicalDisclaimer } from "@/components/shared/medical-disclaimer";
 import { ContentMeta } from "@/components/shared/content-meta";
 import { RelatedCardGrid } from "@/components/shared/related-card";
+import { EntityHubLinks } from "@/components/shared/entity-hub-links";
+import { ContextualText } from "@/components/shared/contextual-text";
 import { ShareButtons } from "@/components/shared/share-buttons";
 import { TrackRecentlyViewed } from "@/components/shared/track-recently-viewed";
 import { TopBannerAd, InlineAd, SidebarAd } from "@/components/ads/ad-placeholder";
@@ -38,7 +40,8 @@ export default async function MedicinePage({ params }: { params: Promise<{ slug:
 
   const relatedMeds = getRelatedMedicines(medicine.alternatives);
   const relatedDis = getRelatedDiseases(medicine.relatedDiseases);
-  const breadcrumbItems = [{ label: "Medicines", href: "/medicines" }, { label: medicine.name, href: `/medicine/${slug}` }];
+  const drugClass = getDrugClassForMedicine(slug);
+  const pageHref = `/medicine/${slug}`;
 
   return (
     <div className="container-custom py-8">
@@ -55,7 +58,7 @@ export default async function MedicinePage({ params }: { params: Promise<{ slug:
           ...(medicine.faqs?.length ? [faqSchema(medicine.faqs)] : []),
         ]}
       />
-      <Breadcrumb items={breadcrumbItems} />
+      <Breadcrumb items={[{ label: "Medicines", href: "/medicines" }, { label: medicine.name, href: pageHref }]} />
 
       <div className="grid lg:grid-cols-3 gap-8">
         <article className="lg:col-span-2 space-y-8">
@@ -63,8 +66,16 @@ export default async function MedicinePage({ params }: { params: Promise<{ slug:
             <span className="text-sm font-medium text-primary">{medicine.category}</span>
             <h1 className="text-3xl md:text-4xl font-bold mt-1 mb-2">{medicine.name}</h1>
             <p className="text-muted-foreground">Generic: {medicine.genericName} | Brands: {medicine.brandNames.join(", ")}</p>
-            <p className="mt-4 text-lg leading-relaxed">{medicine.description}</p>
+            <p className="mt-4 text-lg leading-relaxed">
+              <ContextualText text={medicine.description} excludeHref={pageHref} maxLinks={2} />
+            </p>
             <EditorialAttribution contentReview={medicine.contentReview} updatedAt={medicine.updatedAt} className="mt-4" />
+            <EntityHubLinks
+              type="medicine"
+              name={medicine.name}
+              category={medicine.category}
+              drugClassHref={drugClass ? `/drug-class/${drugClass.slug}` : undefined}
+            />
             <QuickReferenceBox medicine={medicine} className="mt-4" />
             <div className="mt-4">
               <ShareButtons url={`/medicine/${slug}`} title={medicine.name} />
@@ -78,11 +89,13 @@ export default async function MedicinePage({ params }: { params: Promise<{ slug:
           </ContentSection>
 
           <ContentSection title="Uses" id="uses">
-            <ContentList items={medicine.uses} />
+            <ContentList items={medicine.uses} contextual excludeHref={pageHref} maxLinks={1} />
           </ContentSection>
 
           <ContentSection title="How It Works" id="how-it-works">
-            <p>{medicine.howItWorks}</p>
+            <p>
+              <ContextualText text={medicine.howItWorks} excludeHref={pageHref} maxLinks={2} />
+            </p>
           </ContentSection>
 
           <ContentSection title="Dosage" id="dosage">

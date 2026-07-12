@@ -148,6 +148,18 @@ export function getRelatedDiseases(slugs: string[]): Disease[] {
   return slugs.map((s) => getDisease(s)).filter(Boolean) as Disease[];
 }
 
+export function getRelatedLabTests(slugs: string[]): LabTest[] {
+  return slugs.map((s) => getLabTest(s)).filter(Boolean) as LabTest[];
+}
+
+export function getDiseasesForLabTest(testSlug: string): Disease[] {
+  return getAllDiseases().filter((d) => (d.relatedSlugs ?? []).includes(testSlug));
+}
+
+export function getDrugClassForMedicine(medicineSlug: string): DrugClass | null {
+  return getAllDrugClasses().find((dc) => dc.medicineSlugs.includes(medicineSlug)) ?? null;
+}
+
 export function getAllSlugs(type: string): string[] {
   const map: Record<string, () => { slug: string }[]> = {
     medicines: getAllMedicines,

@@ -61,5 +61,10 @@
   "updatedAt": "2026-07-01",
   "contentReview": {
     "lastReviewed": "2026-07-12"
-  }
+  },
+  "relatedDiseases": [
+    "covid-19",
+    "common-cold",
+    "arthritis"
+  ]
 }

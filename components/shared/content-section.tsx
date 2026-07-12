@@ -1,3 +1,5 @@
+import { ContextualText } from "@/components/shared/contextual-text";
+
 interface ContentSectionProps {
   title: string;
   children: React.ReactNode;
@@ -13,12 +15,28 @@ export function ContentSection({ title, children, id }: ContentSectionProps) {
   );
 }
 
-export function ContentList({ items }: { items: string[] }) {
+export function ContentList({
+  items,
+  contextual,
+  excludeHref,
+  maxLinks = 4,
+}: {
+  items: string[];
+  contextual?: boolean;
+  excludeHref?: string;
+  maxLinks?: number;
+}) {
   if (!items.length) return null;
   return (
     <ul className="list-disc pl-5 space-y-1.5">
       {items.map((item, i) => (
-        <li key={i}>{item}</li>
+        <li key={i}>
+          {contextual ? (
+            <ContextualText text={item} excludeHref={excludeHref} maxLinks={maxLinks} />
+          ) : (
+            item
+          )}
+        </li>
       ))}
     </ul>
   );
