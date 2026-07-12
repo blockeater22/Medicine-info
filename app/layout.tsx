@@ -10,6 +10,7 @@ import { SkipLink } from "@/components/layout/skip-link";
 import { StickyMobileAd } from "@/components/ads/ad-placeholder";
 import { CookieConsent } from "@/components/monetization/cookie-consent";
 import { AdSenseScript } from "@/components/monetization/adsense-script";
+import { MicrosoftClarity } from "@/components/monetization/clarity";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import { organizationSchema, websiteSchema, JsonLd } from "@/lib/seo";
 import { SITE } from "@/lib/constants";
@@ -82,6 +83,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       {process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID ? (
         <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID} />
       ) : null}
+      <MicrosoftClarity />
     </html>
   );
 }
