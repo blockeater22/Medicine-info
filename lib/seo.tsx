@@ -102,6 +102,11 @@ export function faqSchema(faqs: FAQItem[]) {
   };
 }
 
+/**
+ * Educational medicine markup — NOT schema.org/Drug.
+ * Drug subtypes Product; Google then requires offers/review/aggregateRating for Product snippets.
+ * This site does not sell medicines, so Product/Drug markup triggers false GSC critical errors.
+ */
 export function medicineSchema(medicine: {
   name: string;
   slug: string;
@@ -113,14 +118,29 @@ export function medicineSchema(medicine: {
 }) {
   return {
     "@context": "https://schema.org",
-    "@type": "Drug",
+    "@type": "MedicalEntity",
     name: medicine.name,
+    alternateName: medicine.genericName,
     url: `${SITE.domain}/medicine/${medicine.slug}`,
     description: medicine.description,
-    nonProprietaryName: medicine.genericName,
-    activeIngredient: medicine.composition,
-    indication: medicine.uses.join(", "),
-    adverseOutcome: medicine.sideEffects.join(", "),
+    medicineSystem: "Western Conventional",
+    additionalProperty: [
+      {
+        "@type": "PropertyValue",
+        name: "activeIngredient",
+        value: medicine.composition,
+      },
+      {
+        "@type": "PropertyValue",
+        name: "indication",
+        value: medicine.uses.join(", "),
+      },
+      {
+        "@type": "PropertyValue",
+        name: "adverseOutcome",
+        value: medicine.sideEffects.join(", "),
+      },
+    ],
   };
 }
 
